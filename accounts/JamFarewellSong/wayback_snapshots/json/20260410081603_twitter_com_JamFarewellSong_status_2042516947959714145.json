@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2042516947959714145",
+    "created_at": "2026-04-10T08:16:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T09:16:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042516947959714145"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1690886728608083968",
+          "start": 3,
+          "username": "tankche8964"
+        },
+        {
+          "end": 26,
+          "id": "2008420775204896768",
+          "start": 17,
+          "username": "saki7999"
+        },
+        {
+          "end": 39,
+          "id": "1929416262989557760",
+          "start": 27,
+          "username": "maoxian1527"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042516947959714145",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042366011484356853",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tankche8964: @saki7999 @maoxian1527 条子压抑了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2042516947959714145",
+        "created_at": "2026-04-10T08:16:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T09:16:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042516947959714145"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1690886728608083968",
+              "start": 3,
+              "username": "tankche8964"
+            },
+            {
+              "end": 26,
+              "id": "2008420775204896768",
+              "start": 17,
+              "username": "saki7999"
+            },
+            {
+              "end": 39,
+              "id": "1929416262989557760",
+              "start": 27,
+              "username": "maoxian1527"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042516947959714145",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042366011484356853",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tankche8964: @saki7999 @maoxian1527 条子压抑了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1690886728608083968",
+        "conversation_id": "2042188400829350168",
+        "created_at": "2026-04-09T22:16:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T23:16:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042366011484356853"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2008420775204896768",
+              "start": 0,
+              "username": "saki7999"
+            },
+            {
+              "end": 22,
+              "id": "1929416262989557760",
+              "start": 10,
+              "username": "maoxian1527"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042366011484356853",
+        "in_reply_to_user_id": "2008420775204896768",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 251,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042209765909213433",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@saki7999 @maoxian1527 条子压抑了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "电波系中央空调；MtX&泛性恋&ASD&（隐藏属性）&CPTSD，性别/身材焦虑；od、自伤の新手；文娱杂食党，Gore爱好者；期待大家扩列互fo😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 727,
+          "like_count": 1884,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 376
+        },
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-14T00:43:14.000Z",
+        "description": "幽暗的、深邃的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+NGZgHLdad28xZ…",
+                "end": 23,
+                "expanded_url": "http://t.me/+NGZgHLdad28xZWJl",
+                "start": 0,
+                "url": "https://t.co/jbnm0MwyIN"
+              }
+            ]
+          }
+        },
+        "id": "1690886728608083968",
+        "location": "广州市公安局",
+        "name": "坦克姬🎗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040947920967753728/65O8YdJu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184,
+          "following_count": 752,
+          "like_count": 2098,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 83
+        },
+        "url": "https://t.co/jbnm0MwyIN",
+        "username": "tankche8964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "此人成分复杂一男的",
+        "id": "2008420775204896768",
+        "name": "荼蘼花",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040377325158801408/BOYfFeq2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 33,
+          "like_count": 879,
+          "listed_count": 0,
+          "media_count": 120,
+          "tweet_count": 1183
+        },
+        "username": "saki7999",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-02T05:54:41.000Z",
+        "description": "🤍🍥2010.11.17🍥🤍 | kitty live system | 碎碎念 | 🏳️‍⚧️友好 | 简体 | 嘴毒 极讨厌私信 | 看成分互fo | 负能 | 防走丢小号@maoxiansql | 绘画@mao_xian1527 | 对象@meph4786 | 诡秘@zqtlovekris99",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 88,
+                "username": "maoxiansql"
+              },
+              {
+                "end": 117,
+                "start": 104,
+                "username": "mao_xian1527"
+              },
+              {
+                "end": 131,
+                "start": 122,
+                "username": "meph4786"
+              },
+              {
+                "end": 150,
+                "start": 136,
+                "username": "zqtlovekris99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "maoxianact.top",
+                "end": 23,
+                "expanded_url": "http://maoxianact.top/",
+                "start": 0,
+                "url": "https://t.co/BsriOOm0E4"
+              }
+            ]
+          }
+        },
+        "id": "1929416262989557760",
+        "location": "中華民國🇹🇼",
+        "name": "猫弦nekogen🍥",
+        "pinned_tweet_id": "2041434241335230626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041391782861434882/pkljq0Fd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1590,
+          "following_count": 267,
+          "like_count": 3753,
+          "listed_count": 1,
+          "media_count": 254,
+          "tweet_count": 1907
+        },
+        "url": "https://t.co/BsriOOm0E4",
+        "username": "maoxian1527",
+        "verified": false
+      }
+    ]
+  }
+}

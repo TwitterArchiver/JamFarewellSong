@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054241062064115712",
+        "3_2054241062051590144"
+      ]
+    },
+    "author_id": "1907414826101669888",
+    "conversation_id": "2054241149066563987",
+    "created_at": "2026-05-12T16:43:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T17:43:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054241149066563987"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1399766153053061121",
+          "start": 0,
+          "username": "premium"
+        },
+        {
+          "end": 17,
+          "id": "17874544",
+          "start": 9,
+          "username": "Support"
+        },
+        {
+          "end": 75,
+          "id": "1621552410048237569",
+          "start": 64,
+          "username": "amecandy_x"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8LUsalDbTz",
+          "end": 294,
+          "expanded_url": "https://x.com/JamFarewellSong/status/2054241149066563987/photo/1",
+          "media_key": "3_2054241062064115712",
+          "start": 271,
+          "url": "https://t.co/8LUsalDbTz"
+        },
+        {
+          "display_url": "pic.x.com/8LUsalDbTz",
+          "end": 294,
+          "expanded_url": "https://x.com/JamFarewellSong/status/2054241149066563987/photo/1",
+          "media_key": "3_2054241062051590144",
+          "start": 271,
+          "url": "https://t.co/8LUsalDbTz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054241149066563987",
+    "in_reply_to_user_id": "1399766153053061121",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "@Premium @Support My partner, with consent. Her Premium account @amecandy_x was restored, then suspended again 2 days after she removed the flagged post. The appeal form is stuck with a false pending status. This has caused real distress. Please route to Account Access. https://t.co/8LUsalDbTz"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [amecandy_x].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "amecandy_x",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "amecandy_x"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "alt_text": "Screenshot showing @amecandy_x with a blue check and an active X Premium subscription.",
+        "height": 1211,
+        "media_key": "3_2054241062064115712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIIhXLNaUAAzIoR.jpg",
+        "width": 1655
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2054241062051590144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIIhXLKbMAAHOnT.jpg",
+        "width": 1716
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054241062064115712",
+            "3_2054241062051590144"
+          ]
+        },
+        "author_id": "1907414826101669888",
+        "conversation_id": "2054241149066563987",
+        "created_at": "2026-05-12T16:43:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T17:43:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054241149066563987"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1399766153053061121",
+              "start": 0,
+              "username": "premium"
+            },
+            {
+              "end": 17,
+              "id": "17874544",
+              "start": 9,
+              "username": "Support"
+            },
+            {
+              "end": 75,
+              "id": "1621552410048237569",
+              "start": 64,
+              "username": "amecandy_x"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8LUsalDbTz",
+              "end": 294,
+              "expanded_url": "https://x.com/JamFarewellSong/status/2054241149066563987/photo/1",
+              "media_key": "3_2054241062064115712",
+              "start": 271,
+              "url": "https://t.co/8LUsalDbTz"
+            },
+            {
+              "display_url": "pic.x.com/8LUsalDbTz",
+              "end": 294,
+              "expanded_url": "https://x.com/JamFarewellSong/status/2054241149066563987/photo/1",
+              "media_key": "3_2054241062051590144",
+              "start": 271,
+              "url": "https://t.co/8LUsalDbTz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054241149066563987",
+        "in_reply_to_user_id": "1399766153053061121",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@Premium @Support My partner, with consent. Her Premium account @amecandy_x was restored, then suspended again 2 days after she removed the flagged post. The appeal form is stuck with a false pending status. This has caused real distress. Please route to Account Access. https://t.co/8LUsalDbTz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od、自伤の新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 262,
+          "following_count": 966,
+          "like_count": 3539,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 874
+        },
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-01T16:34:27.000Z",
+        "description": "Subscribe for the best X experience: ad-free, post edits, content monetization, Grok AI with higher limits, video downloads, long posts, X Pro, and more.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/i/premium_sign…",
+                "end": 23,
+                "expanded_url": "https://x.com/i/premium_sign_up",
+                "start": 0,
+                "url": "https://t.co/zJi0ZdXW63"
+              }
+            ]
+          }
+        },
+        "id": "1399766153053061121",
+        "name": "Premium",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1683366300054069248/67v23AEj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1248474,
+          "following_count": 3,
+          "like_count": 671,
+          "listed_count": 1826,
+          "media_count": 65,
+          "tweet_count": 1299
+        },
+        "url": "https://t.co/zJi0ZdXW63",
+        "username": "premium",
+        "verified": true
+      },
+      {
+        "created_at": "2008-12-04T18:51:57.000Z",
+        "description": "Official @X support account. Find answers to common questions and get help on our Help Center: https://t.co/EO1OOUj5T5",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 9,
+                "username": "X"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "help.x.com",
+                "end": 118,
+                "expanded_url": "http://help.x.com",
+                "start": 95,
+                "url": "https://t.co/EO1OOUj5T5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "help.x.com",
+                "end": 23,
+                "expanded_url": "https://help.x.com",
+                "start": 0,
+                "url": "https://t.co/wzqJpIOEcM"
+              }
+            ]
+          }
+        },
+        "id": "17874544",
+        "name": "Support",
+        "pinned_tweet_id": "1912572496655892718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1683508200069296129/KM80Wkfx_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 6382768,
+          "following_count": 3,
+          "like_count": 481,
+          "listed_count": 14624,
+          "media_count": 273,
+          "tweet_count": 84605
+        },
+        "url": "https://t.co/wzqJpIOEcM",
+        "username": "Support",
+        "verified": true
+      }
+    ]
+  }
+}

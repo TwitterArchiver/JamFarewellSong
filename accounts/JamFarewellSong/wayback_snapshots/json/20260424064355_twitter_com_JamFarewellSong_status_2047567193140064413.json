@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047231579861454848"
+      ],
+      "media_source_tweet_id": [
+        "2047231766617038864"
+      ]
+    },
+    "author_id": "1907414826101669888",
+    "conversation_id": "2047567193140064413",
+    "created_at": "2026-04-24T06:43:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T07:43:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047567193140064413"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1479696561302999042",
+          "start": 3,
+          "username": "quite8964"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/erdhOEQaE8",
+          "end": 94,
+          "expanded_url": "https://x.com/quite8964/status/2047231766617038864/photo/1",
+          "media_key": "3_2047231579861454848",
+          "start": 71,
+          "url": "https://t.co/erdhOEQaE8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047567193140064413",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047231766617038864",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @quite8964: 朋友开的游戏公司在招程序员，在深圳，友跨氛围好，提供独立单间住宿，欢迎小药娘，邮箱：xyn@prpr.date https://t.co/erdhOEQaE8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2752,
+        "media_key": "3_2047231579861454848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGk6RnKakAAlAhB.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047231579861454848"
+          ],
+          "media_source_tweet_id": [
+            "2047231766617038864"
+          ]
+        },
+        "author_id": "1907414826101669888",
+        "conversation_id": "2047567193140064413",
+        "created_at": "2026-04-24T06:43:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T07:43:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047567193140064413"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1479696561302999042",
+              "start": 3,
+              "username": "quite8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/erdhOEQaE8",
+              "end": 94,
+              "expanded_url": "https://x.com/quite8964/status/2047231766617038864/photo/1",
+              "media_key": "3_2047231579861454848",
+              "start": 71,
+              "url": "https://t.co/erdhOEQaE8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047567193140064413",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047231766617038864",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @quite8964: 朋友开的游戏公司在招程序员，在深圳，友跨氛围好，提供独立单间住宿，欢迎小药娘，邮箱：xyn@prpr.date https://t.co/erdhOEQaE8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047231579861454848"
+          ]
+        },
+        "author_id": "1479696561302999042",
+        "conversation_id": "2047231766617038864",
+        "created_at": "2026-04-23T08:31:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T09:31:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047231766617038864"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/erdhOEQaE8",
+              "end": 79,
+              "expanded_url": "https://x.com/quite8964/status/2047231766617038864/photo/1",
+              "media_key": "3_2047231579861454848",
+              "start": 56,
+              "url": "https://t.co/erdhOEQaE8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047231766617038864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 116,
+          "impression_count": 64659,
+          "like_count": 304,
+          "quote_count": 5,
+          "reply_count": 59,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "朋友开的游戏公司在招程序员，在深圳，友跨氛围好，提供独立单间住宿，欢迎小药娘，邮箱：xyn@prpr.date https://t.co/erdhOEQaE8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "电波系中央空调；MtX&泛性恋&ASD&（隐藏属性）&CPTSD，性别/身材焦虑；od、自伤の新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；期待大家扩列互fo😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 212,
+          "following_count": 883,
+          "like_count": 3050,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 684
+        },
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-08T06:09:08.000Z",
+        "description": "永远17岁的小傻瓜 想要得到更多的喜欢和爱 可爱橘喵 互fo喵 小宠物猫 @Shion_Glad @A5Tr41 @dominnicchina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 37,
+                "username": "Shion_Glad"
+              },
+              {
+                "end": 56,
+                "start": 49,
+                "username": "A5Tr41"
+              },
+              {
+                "end": 71,
+                "start": 57,
+                "username": "dominnicchina"
+              }
+            ]
+          }
+        },
+        "id": "1479696561302999042",
+        "location": "你的心里",
+        "name": "枫糖小橘🍊",
+        "pinned_tweet_id": "2039014410736529909",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938519215071481856/RGyMr1ce_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10633,
+          "following_count": 3063,
+          "like_count": 33567,
+          "listed_count": 26,
+          "media_count": 643,
+          "tweet_count": 14725
+        },
+        "username": "quite8964",
+        "verified": false
+      }
+    ]
+  }
+}

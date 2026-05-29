@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2041940530762842149",
+    "created_at": "2026-04-08T19:06:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T20:06:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041955834402632053"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1150753335881826305",
+          "start": 0,
+          "username": "acacia038"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041955834402632053",
+    "in_reply_to_user_id": "1150753335881826305",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041940530762842149",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@acacia038 我也😭😭😭…在这个春天，看到太多同类逝去了，感到难以言明的心痛啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2041940530762842149",
+        "created_at": "2026-04-08T19:06:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T20:06:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041955834402632053"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1150753335881826305",
+              "start": 0,
+              "username": "acacia038"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041955834402632053",
+        "in_reply_to_user_id": "1150753335881826305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041940530762842149",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@acacia038 我也😭😭😭…在这个春天，看到太多同类逝去了，感到难以言明的心痛啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1150753335881826305",
+        "conversation_id": "2041940530762842149",
+        "created_at": "2026-04-08T18:05:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T19:05:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041940530762842149"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041940530762842149",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不知道为什么，看见渴望hrt/srs的同类，因为外部原因无法进行或者不得不停下来，就好心痛，物理上的痛，很想帮对方继续进行下去…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "电波系中央空调；MtX&泛性恋&ASD&（隐藏属性）&CPTSD，性别/身材焦虑；od、自伤の新手；文娱杂食党，Gore爱好者；期待大家扩列互fo😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 684,
+          "like_count": 1569,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 283
+        },
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-15T13:05:50.000Z",
+        "description": "",
+        "id": "1150753335881826305",
+        "name": "suzu",
+        "pinned_tweet_id": "2016084177138155670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830450281479303169/Zpy4n_d1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 250,
+          "like_count": 1955,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 831
+        },
+        "username": "acacia038",
+        "verified": false
+      }
+    ]
+  }
+}

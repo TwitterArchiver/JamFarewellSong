@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2046574133560197120"
+      ],
+      "media_source_tweet_id": [
+        "2046574139553759367"
+      ]
+    },
+    "author_id": "1907414826101669888",
+    "conversation_id": "2048365038034145732",
+    "created_at": "2026-04-26T11:34:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T12:34:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048365038034145732"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1989924590534189056",
+          "start": 3,
+          "username": "tourou_kamakiri"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gxH3VsVMQ7",
+          "end": 44,
+          "expanded_url": "https://x.com/tourou_kamakiri/status/2046574139553759367/photo/1",
+          "media_key": "3_2046574133560197120",
+          "start": 21,
+          "url": "https://t.co/gxH3VsVMQ7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048365038034145732",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 686
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046574139553759367",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tourou_kamakiri: https://t.co/gxH3VsVMQ7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2046574133560197120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGbkVM1bwAA6x3Q.jpg",
+        "width": 1316
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046574133560197120"
+          ],
+          "media_source_tweet_id": [
+            "2046574139553759367"
+          ]
+        },
+        "author_id": "1907414826101669888",
+        "conversation_id": "2048365038034145732",
+        "created_at": "2026-04-26T11:34:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T12:34:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048365038034145732"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1989924590534189056",
+              "start": 3,
+              "username": "tourou_kamakiri"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gxH3VsVMQ7",
+              "end": 44,
+              "expanded_url": "https://x.com/tourou_kamakiri/status/2046574139553759367/photo/1",
+              "media_key": "3_2046574133560197120",
+              "start": 21,
+              "url": "https://t.co/gxH3VsVMQ7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048365038034145732",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 686
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046574139553759367",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tourou_kamakiri: https://t.co/gxH3VsVMQ7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046574133560197120"
+          ]
+        },
+        "author_id": "1989924590534189056",
+        "conversation_id": "2046574139553759367",
+        "created_at": "2026-04-21T12:57:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T13:57:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046574139553759367"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gxH3VsVMQ7",
+              "end": 23,
+              "expanded_url": "https://x.com/tourou_kamakiri/status/2046574139553759367/photo/1",
+              "media_key": "3_2046574133560197120",
+              "start": 0,
+              "url": "https://t.co/gxH3VsVMQ7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046574139553759367",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 931,
+          "impression_count": 57150,
+          "like_count": 7159,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 686
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/gxH3VsVMQ7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "电波系中央空调；MtX&泛性恋&ASD&（隐藏属性）&CPTSD，性别/身材焦虑；od、自伤の新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；期待大家扩列互fo😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 895,
+          "like_count": 3065,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 697
+        },
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-16T05:13:30.000Z",
+        "description": "一次創作OC",
+        "id": "1989924590534189056",
+        "location": "無断転載、無断使用、AI学習禁止",
+        "name": "蟷螂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017583060838191104/7Cjpic7i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2717,
+          "following_count": 27,
+          "like_count": 7408,
+          "listed_count": 3,
+          "media_count": 40,
+          "tweet_count": 97
+        },
+        "username": "tourou_kamakiri",
+        "verified": false
+      }
+    ]
+  }
+}

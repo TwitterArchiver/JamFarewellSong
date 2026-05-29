@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2039735339821224045",
+    "created_at": "2026-04-02T16:02:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T17:02:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039735339821224045"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2001598933169315840",
+          "start": 3,
+          "username": "XldscX"
+        },
+        {
+          "end": 25,
+          "id": "1985722042126303232",
+          "start": 12,
+          "username": "pstf11458964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039735339821224045",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039565355690115279",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @XldscX: @pstf11458964 起因经过结果：\n\n起因：用户英酱希望温柔 junz 的视频使用中性 or 模糊性别的人称代词。\n\n经过：一个名为晨曦的救助者过来表述：“我作为救助者救你们不错了，你有什么资格要求我们使用人称代词”\n\n投票后，温柔 junz…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2039735339821224045",
+        "created_at": "2026-04-02T16:02:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T17:02:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039735339821224045"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2001598933169315840",
+              "start": 3,
+              "username": "XldscX"
+            },
+            {
+              "end": 25,
+              "id": "1985722042126303232",
+              "start": 12,
+              "username": "pstf11458964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039735339821224045",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039565355690115279",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @XldscX: @pstf11458964 起因经过结果：\n\n起因：用户英酱希望温柔 junz 的视频使用中性 or 模糊性别的人称代词。\n\n经过：一个名为晨曦的救助者过来表述：“我作为救助者救你们不错了，你有什么资格要求我们使用人称代词”\n\n投票后，温柔 junz…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2001598933169315840",
+        "conversation_id": "2039517850734588321",
+        "created_at": "2026-04-02T04:47:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T05:47:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039565355690115279"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1985722042126303232",
+              "start": 0,
+              "username": "pstf11458964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039565355690115279",
+        "in_reply_to_user_id": "2001598933169315840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "起因经过结果：\n\n起因：用户英酱希望温柔 junz 的视频使用中性 or 模糊性别的人称代词。\n\n经过：一个名为晨曦的救助者过来表述：“我作为救助者救你们不错了，你有什么资格要求我们使用人称代词”\n\n投票后，温柔 junz 将视频换源使用中性人称代词。而晨曦高高在上的救世主态度将英酱的“建议”曲解为“跨性别无理取闹的要求”，并发现晨曦与中共国安间谍小二关系紧密。\n\n结果：温柔最后遵循投票结果，此事理应收场。而前来参团的王宇航，亚明，晨曦等人宁死不屈，将英酱的建议扭曲为要求并将跨性别救助跟性别代词完全对立，忽略了二者其实可以并存的可能性。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 2848,
+          "like_count": 47,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039563995976503636",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pstf11458964 起因经过结果：\n\n起因：用户英酱希望温柔 junz 的视频使用中性 or 模糊性别的人称代词。\n\n经过：一个名为晨曦的救助者过来表述：“我作为救助者救你们不错了，你有什么资格要求我们使用人称代词”\n\n投票后，温柔 junz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "电波系中央空调；MtX&泛性恋&ASD&（隐藏属性）&CPTSD，性别/身材焦虑；od、自伤の新手；文娱杂食党，Gore爱好者；期待大家扩列互fo😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 355,
+          "like_count": 331,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 96
+        },
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-18T10:23:02.000Z",
+        "description": "17y.o./生理男心理男💜/东乡族/hrt24.4.20/181cm 59kg/学校跳楼存活记录No.1/🇹🇼❂💙/喜欢Apex,CS,mai/R99 suki\n\n我是翎\n可以蹭蓝标互关7000fo🔞小号@AzureV1xen \n\n好厚米🇲🇴@letana358121\n♥️@juhao0721",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 114,
+                "start": 103,
+                "username": "AzureV1xen"
+              },
+              {
+                "end": 135,
+                "start": 122,
+                "username": "letana358121"
+              },
+              {
+                "end": 148,
+                "start": 138,
+                "username": "juhao0721"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/llenium1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/llenium1",
+                "start": 0,
+                "url": "https://t.co/mE8Cawnpdp"
+              }
+            ]
+          }
+        },
+        "id": "2001598933169315840",
+        "location": "🇹🇼中華民國戰時陪都重慶市",
+        "name": "Re: Yu1kaX",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039264349282603008/_wWEfmzr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1150,
+          "following_count": 567,
+          "like_count": 15410,
+          "listed_count": 2,
+          "media_count": 301,
+          "tweet_count": 5583
+        },
+        "url": "https://t.co/mE8Cawnpdp",
+        "username": "XldscX",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-04T14:53:38.000Z",
+        "description": "一个潜伏在新加坡的纯正的大西洋主义者，馬蹄鐵大一統理論支持者/You block=I win/I had no malicious intent; all malice is subjective.:)/Asian lib/Bi",
+        "id": "1985722042126303232",
+        "name": "Ⅳ/Jones🇪🇺🇨🇦🇺🇦🇹🇼",
+        "pinned_tweet_id": "2012446597326717089",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035670602305122304/zXiLibal_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 232,
+          "following_count": 700,
+          "like_count": 63992,
+          "listed_count": 5,
+          "media_count": 193,
+          "tweet_count": 7623
+        },
+        "username": "pstf11458964",
+        "verified": false
+      }
+    ]
+  }
+}

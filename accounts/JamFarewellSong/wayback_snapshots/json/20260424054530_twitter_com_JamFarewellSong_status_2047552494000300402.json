@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2047339494945284558",
+    "created_at": "2026-04-24T05:45:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T06:45:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047552494000300402"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1735473548813099008",
+          "start": 0,
+          "username": "Hgqwq3333222"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047552494000300402",
+    "in_reply_to_user_id": "1735473548813099008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047339494945284558",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hgqwq3333222 我也😭列管前囤了二十几盒ym，结果o了两三次就过量去洗胃了。后面看到就想吐，放到现在过期一年半了。。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2047339478679732224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGmcaJlWwAA5stA.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2047339494945284558",
+        "created_at": "2026-04-24T05:45:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T06:45:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047552494000300402"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1735473548813099008",
+              "start": 0,
+              "username": "Hgqwq3333222"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047552494000300402",
+        "in_reply_to_user_id": "1735473548813099008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047339494945284558",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hgqwq3333222 我也😭列管前囤了二十几盒ym，结果o了两三次就过量去洗胃了。后面看到就想吐，放到现在过期一年半了。。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047339478679732224"
+          ]
+        },
+        "author_id": "1735473548813099008",
+        "conversation_id": "2047339494945284558",
+        "created_at": "2026-04-23T15:39:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T16:39:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047339494945284558"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YvNK0VemJM",
+              "end": 105,
+              "expanded_url": "https://x.com/Hgqwq3333222/status/2047339494945284558/photo/1",
+              "media_key": "3_2047339478679732224",
+              "start": 82,
+              "url": "https://t.co/YvNK0VemJM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047339494945284558",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 557,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "逆天了我家里还有一堆过期的右美 以前想尝试od结果吃多了框框吐再也没吃过 看见就恶心 然后也一直没扔。我还买了普瑞巴林也一直没试不知道扔哪去了 我执行力就这么差🤓 https://t.co/YvNK0VemJM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "电波系中央空调；MtX&泛性恋&ASD&（隐藏属性）&CPTSD，性别/身材焦虑；od、自伤の新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；期待大家扩列互fo😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 871,
+          "like_count": 2994,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 667
+        },
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-15T01:35:13.000Z",
+        "description": "这个世界对我好一点……",
+        "id": "1735473548813099008",
+        "name": "云吞",
+        "pinned_tweet_id": "2042296876360163476",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000591343983157257/YxhjLO8M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14099,
+          "following_count": 149,
+          "like_count": 14681,
+          "listed_count": 24,
+          "media_count": 74,
+          "tweet_count": 1320
+        },
+        "username": "Hgqwq3333222",
+        "verified": false
+      }
+    ]
+  }
+}

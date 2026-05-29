@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2046662357796237312"
+      ]
+    },
+    "author_id": "1907414826101669888",
+    "conversation_id": "2046659648187691164",
+    "created_at": "2026-04-21T18:48:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T19:48:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046662403937759656"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Yy4BrX0z2h",
+          "end": 134,
+          "expanded_url": "https://x.com/JamFarewellSong/status/2046662403937759656/photo/1",
+          "media_key": "3_2046662357796237312",
+          "start": 111,
+          "url": "https://t.co/Yy4BrX0z2h"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046662403937759656",
+    "in_reply_to_user_id": "1907414826101669888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046659648187691164",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "喵喵喵，请点进来的各位放心，这是假讣告捏🤯若造成误解，我对此表示抱歉\n灵感来源是15号晚上o完去洗澡，突然想到本人命运的一种可能性。洗完问了AI打个草稿就扔到一边，今晚失眠干脆捡起来完成了喵～总之最后选了个看着顺眼的死法 https://t.co/Yy4BrX0z2h"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3137,
+        "media_key": "3_2046662357796237312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGc0khubsAACpmT.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046662357796237312"
+          ]
+        },
+        "author_id": "1907414826101669888",
+        "conversation_id": "2046659648187691164",
+        "created_at": "2026-04-21T18:48:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T19:48:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046662403937759656"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Yy4BrX0z2h",
+              "end": 134,
+              "expanded_url": "https://x.com/JamFarewellSong/status/2046662403937759656/photo/1",
+              "media_key": "3_2046662357796237312",
+              "start": 111,
+              "url": "https://t.co/Yy4BrX0z2h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046662403937759656",
+        "in_reply_to_user_id": "1907414826101669888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046659648187691164",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "喵喵喵，请点进来的各位放心，这是假讣告捏🤯若造成误解，我对此表示抱歉\n灵感来源是15号晚上o完去洗澡，突然想到本人命运的一种可能性。洗完问了AI打个草稿就扔到一边，今晚失眠干脆捡起来完成了喵～总之最后选了个看着顺眼的死法 https://t.co/Yy4BrX0z2h"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2046659648187691164",
+        "created_at": "2026-04-21T18:37:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T19:37:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046659648187691164"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/JamFarewellSon…",
+              "end": 186,
+              "expanded_url": "https://twitter.com/JamFarewellSong/status/2044153878107828664",
+              "start": 163,
+              "url": "https://t.co/cWZV05xgtZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046659648187691164",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044153878107828664",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "果酱离歌の第1次死亡\n                  ↓\n讣告👻，果酱1号于4月15日凌晨04：49因急性颅内出血逝世。死亡原因为od 1500mg pr80后进入浴室洗澡时不慎摔倒，头部先后撞击到墙面与地面，造成蛛网膜下腔出血。出血不断压迫脑组织，颅内压力飙升，短时间形成脑疝，36分钟后死亡😵果酱2号全程围观并记录😈 https://t.co/cWZV05xgtZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "电波系中央空调；MtX&泛性恋&ASD&（隐藏属性）&CPTSD，性别/身材焦虑；od、自伤の新手；文娱杂食党，Gore爱好者；期待大家扩列互fo😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 855,
+          "like_count": 2876,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 616
+        },
+        "username": "JamFarewellSong",
+        "verified": false
+      }
+    ]
+  }
+}

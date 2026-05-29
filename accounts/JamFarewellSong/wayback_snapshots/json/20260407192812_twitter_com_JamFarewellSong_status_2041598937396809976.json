@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2041598937396809976",
+    "created_at": "2026-04-07T19:28:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T20:28:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041598937396809976"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1862164116611514368",
+          "start": 3,
+          "username": "Love20090223"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041598937396809976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040456917005525140",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Love20090223: 说真的，不是在卖惨，我真的想在一切没有变得更坏前死去，当人类还是太难了，好不想成为人类啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2041598937396809976",
+        "created_at": "2026-04-07T19:28:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T20:28:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041598937396809976"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1862164116611514368",
+              "start": 3,
+              "username": "Love20090223"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041598937396809976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040456917005525140",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Love20090223: 说真的，不是在卖惨，我真的想在一切没有变得更坏前死去，当人类还是太难了，好不想成为人类啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1862164116611514368",
+        "conversation_id": "2040456917005525140",
+        "created_at": "2026-04-04T15:50:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T16:50:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040456917005525140"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040456917005525140",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 247,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "说真的，不是在卖惨，我真的想在一切没有变得更坏前死去，当人类还是太难了，好不想成为人类啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "电波系中央空调；MtX&泛性恋&ASD&（隐藏属性）&CPTSD，性别/身材焦虑；od、自伤の新手；文娱杂食党，Gore爱好者；期待大家扩列互fo😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 599,
+          "like_count": 1238,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 221
+        },
+        "username": "JamFarewellSong",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-28T15:58:26.000Z",
+        "description": "你可以认为我是跨姛/性別焦慮/特摄厨/超级姐控",
+        "id": "1862164116611514368",
+        "location": "日出先照之地",
+        "name": "吃吃蘑菇🏳️‍⚧️",
+        "pinned_tweet_id": "1932249760230264985",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005672278072414210/q9dKqpH8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 90,
+          "like_count": 283,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 241
+        },
+        "username": "Love20090223",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-28T15:58:26.000Z",
+        "description": "你可以认为我是跨姛/性別焦慮/特摄厨/超级姐控",
+        "id": "1862164116611514368",
+        "location": "日出先照之地",
+        "name": "吃吃蘑菇🏳️‍⚧️",
+        "pinned_tweet_id": "1932249760230264985",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005672278072414210/q9dKqpH8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 90,
+          "like_count": 283,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 241
+        },
+        "username": "Love20090223",
+        "verified": false
+      }
+    ]
+  }
+}

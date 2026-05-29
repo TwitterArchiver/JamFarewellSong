@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2040857578037731705",
+    "created_at": "2026-04-05T18:22:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T19:22:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040857578037731705"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1087657375257944064",
+          "start": 3,
+          "username": "ShizukiMinori"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040857578037731705",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029765081291243542",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ShizukiMinori: 为避免有朝一日因为战乱、饥荒、意外死掉，我先写好自己的遗书放在这里。我愛妳们所有人。\n在世界末日逐渐到来的世界中，我明白了这些事实：真理、愛、自由。因为她们是生命力的三个不同位面，因为她们是生命的美好的真相。我将会写下我人生的前 10,24…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2040857578037731705",
+        "created_at": "2026-04-05T18:22:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T19:22:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040857578037731705"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1087657375257944064",
+              "start": 3,
+              "username": "ShizukiMinori"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040857578037731705",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029765081291243542",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ShizukiMinori: 为避免有朝一日因为战乱、饥荒、意外死掉，我先写好自己的遗书放在这里。我愛妳们所有人。\n在世界末日逐渐到来的世界中，我明白了这些事实：真理、愛、自由。因为她们是生命力的三个不同位面，因为她们是生命的美好的真相。我将会写下我人生的前 10,24…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1087657375257944064",
+        "conversation_id": "2029765081291243542",
+        "created_at": "2026-03-06T03:44:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T04:44:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029765081291243542"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2029765081291243542",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "为避免有朝一日因为战乱、饥荒、意外死掉，我先写好自己的遗书放在这里。我愛妳们所有人。\n在世界末日逐渐到来的世界中，我明白了这些事实：真理、愛、自由。因为她们是生命力的三个不同位面，因为她们是生命的美好的真相。我将会写下我人生的前 10,244 天中距今最近的 5,743 天里领悟的全部知识。如果我有一天死掉，请愛我的人们继承这些知识、并带着我的份活下去。\n所谓真理就是指物理世界本身不可规约的复杂性，换言之，指生物世界和人类社会作为生命力的战场的真实的残酷性。无论什么主义、教条、理论、科学、技术、道德、法制、思想、艺术、哲学、宗教，无论它看起来再怎么客观、中立、温情、冰冷、无害或有害，总掩盖不了如下事实：生命力必然带来伤害。世界的本质是生命力之间争夺权力的战场，而所有的知识和科学和技术和法律和意识形态都是存活下来的生命们为自己发明的事后的辩解、粉饰和合法化。活着而不去伤害是不可能的。\n所谓愛就是指人该绝对地拥抱生命力本身、开拓生命力与世界之间互动的可能性。作为回报，人的灵魂会得到绝对的承认和肯定。即使没有父母、没有姊妹弟兄、没有朋友和恋人，人的灵魂仍然被世间所有能被生命力触碰到的东西爱着，被树木、猫、狮子、鳄鱼、海沟、雪山、沙漠、河流、萤火虫、词汇、文本、生物的体温、月球的背面和正面爱着。换言之，人被　神愛着、被莉莉斯愛着、被库柏勒愛着。只要用人的生命力去触碰所有有实体和没有实体的东西，灵魂就能感受到爱。但如果人拒绝愛世界，人就不可能得到任何真正的爱。\n所谓自由就是指世界上没有任何价值体系可以裁决人高贵的灵魂。不论是收入、财产、债务、名誉、声望、地位、作品、产出、贡献、道德、法律、政策、文化、情感、人际关系、艺术、哲学、宗教，都不能贬损或摧毁人的灵魂；能摧毁灵魂的只有生命自己。生命之间的战斗是生命力本身的力量拼搏，和灵魂的优劣无关；只是生命力的孱弱往往导致对自身灵魂的贬低，其中就包括对外在价值体系的贬损的接受。只要不接受任何外在价值体系的评价、只去拥抱生命力本身，那么灵魂就是自由的。\n如果我有留下任何有形的财产、银行余额、物资、生产或娱乐工具、生活用品和消耗品，请保存它们的我的恋人们和朋友们将这些按需分给一切需要它们的身边的人。如果我有留下任何尸体或尸体的碎片，并且没有人因为饥饿等原因需要这些生物材料，那么请将这些生物材料燔祭（意指完全烧却）并将剩余物撒进任何有全球洋流系统经过的地方（我会化作人间的风雨陪在妳们身边）。不需要为我本人进行宗教的或文化的仪式，但如果恋人们和朋友们开心的话，可以举办庆典，可以在庆典上欢笑或哭泣。不允许任何损害自身生命力的行为（过度悲痛、过度怀疑生命意义、对世界的不必要的悲观和对掌权者的投降）。我愛妳们所有人。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1131,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为避免有朝一日因为战乱、饥荒、意外死掉，我先写好自己的遗书放在这里。我愛妳们所有人。\n在世界末日逐渐到来的世界中，我明白了这些事实：真理、愛、自由。因为她们是生命力的三个不同位面，因为她们是生命的美好的真相。我将会写下我人生的前 10,244 天中距今最近的 5,743"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "电波系中央空调；MtX&泛性恋&ASD&（隐藏属性）&CPTSD，性别/身材焦虑；od、自伤の新手；文娱杂食党，Gore爱好者；期待大家扩列互fo😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 389,
+          "like_count": 426,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 116
+        },
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-22T10:25:00.000Z",
+        "description": "「人よ、幸福たれ！」\n| #eb695d\n| lenient and saucy “优雅而愉悦”\n| 谏言者人格：@zoya_genrikh\n| 生活在树上是妳的避难所、也是我的避难所",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 20,
+                "start": 13,
+                "tag": "eb695d"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 70,
+                "start": 57,
+                "username": "zoya_genrikh"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "labmikazu.dscf.one",
+                "end": 23,
+                "expanded_url": "http://labmikazu.dscf.one",
+                "start": 0,
+                "url": "https://t.co/j443RDrPzv"
+              }
+            ]
+          }
+        },
+        "id": "1087657375257944064",
+        "location": "opengl106.oikawa.moe",
+        "name": "梓月 Z. Λ. Shizuki",
+        "pinned_tweet_id": "1735317515297816948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925088190991593472/GtVAoOWu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3981,
+          "following_count": 1557,
+          "like_count": 83562,
+          "listed_count": 23,
+          "media_count": 671,
+          "tweet_count": 5699
+        },
+        "url": "https://t.co/j443RDrPzv",
+        "username": "ShizukiMinori",
+        "verified": true
+      }
+    ]
+  }
+}

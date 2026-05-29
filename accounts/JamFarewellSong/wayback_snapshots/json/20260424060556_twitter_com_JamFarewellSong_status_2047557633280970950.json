@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2047557633280970950",
+    "created_at": "2026-04-24T06:05:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T07:05:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047557633280970950"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1696818325832261632",
+          "start": 3,
+          "username": "Yuuko_kitsune"
+        },
+        {
+          "end": 35,
+          "id": "1339446920511569920",
+          "start": 25,
+          "username": "shudesu00"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047557633280970950",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046168956290162962",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Yuuko_kitsune: 讣告：小树 @shudesu00 ，在2026年4月18日失联，现已确认自杀，这是他的遗言：（图片）\n树，谢谢你，你真的陪我走了好远好远\n我接受不了……我放不下……他在我生命中的存在是那么的自然，我的记忆已经残破不堪了，但是剩下一切回忆里都…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2046168953454809089",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGVz0nUbUAEKkKz.jpg",
+        "width": 742
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2047557633280970950",
+        "created_at": "2026-04-24T06:05:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T07:05:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047557633280970950"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1696818325832261632",
+              "start": 3,
+              "username": "Yuuko_kitsune"
+            },
+            {
+              "end": 35,
+              "id": "1339446920511569920",
+              "start": 25,
+              "username": "shudesu00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047557633280970950",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046168956290162962",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Yuuko_kitsune: 讣告：小树 @shudesu00 ，在2026年4月18日失联，现已确认自杀，这是他的遗言：（图片）\n树，谢谢你，你真的陪我走了好远好远\n我接受不了……我放不下……他在我生命中的存在是那么的自然，我的记忆已经残破不堪了，但是剩下一切回忆里都…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046168953454809089"
+          ]
+        },
+        "author_id": "1696818325832261632",
+        "conversation_id": "2046168956290162962",
+        "created_at": "2026-04-20T10:07:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T11:07:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046168956290162962"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1339446920511569920",
+              "start": 6,
+              "username": "shudesu00"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lAu924BETq",
+              "end": 169,
+              "expanded_url": "https://x.com/Yuuko_kitsune/status/2046168956290162962/photo/1",
+              "media_key": "3_2046168953454809089",
+              "start": 146,
+              "url": "https://t.co/lAu924BETq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046168956290162962",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 4985,
+          "like_count": 22,
+          "quote_count": 6,
+          "reply_count": 4,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "讣告：小树 @shudesu00 ，在2026年4月18日失联，现已确认自杀，这是他的遗言：（图片）\n树，谢谢你，你真的陪我走了好远好远\n我接受不了……我放不下……他在我生命中的存在是那么的自然，我的记忆已经残破不堪了，但是剩下一切回忆里都有他的痕迹\n晚安，小树。我们终将在虚无的彼岸重聚。 https://t.co/lAu924BETq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "电波系中央空调；MtX&泛性恋&ASD&（隐藏属性）&CPTSD，性别/身材焦虑；od、自伤の新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；期待大家扩列互fo😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 873,
+          "like_count": 3007,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 674
+        },
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-30T09:33:23.000Z",
+        "description": "潜伏于这人世间的狐狸/复学中/MtX🏳️‍⚧️HRT:2024.10.25/狐狸是神明大人派遣到人间的使者，所以狐狸是天使哦，难受的时候、痛苦的时候，来找狐狸吧。不设门槛",
+        "id": "1696818325832261632",
+        "name": "有狐ハチ",
+        "pinned_tweet_id": "1804614998674846113",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989377535579471872/0BhaEpqF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 698,
+          "like_count": 702,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 204
+        },
+        "username": "Yuuko_kitsune",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-17T05:46:58.000Z",
+        "description": "ftx__They/He/it_习惯性点赞_双相 不卖烟了买烟的别找我了",
+        "id": "1339446920511569920",
+        "name": "小树",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044553228495564800/GccKMUIJ_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 4684,
+          "following_count": 2320,
+          "like_count": 116115,
+          "listed_count": 10,
+          "media_count": 1928,
+          "tweet_count": 19482
+        },
+        "username": "shudesu00",
+        "verified": false
+      }
+    ]
+  }
+}

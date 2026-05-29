@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2010393070282686477",
+    "created_at": "2026-01-11T16:47:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-11T17:47:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010393070282686477"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "722248615716978688",
+          "start": 3,
+          "username": "kung_vicky"
+        },
+        {
+          "end": 31,
+          "id": "1945894406244208640",
+          "start": 16,
+          "username": "daimengniu8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010393070282686477",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005982019130691849",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kung_vicky: @daimengniu8964 “哟，还是年上呢”"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2010393070282686477",
+        "created_at": "2026-01-11T16:47:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T17:47:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010393070282686477"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "722248615716978688",
+              "start": 3,
+              "username": "kung_vicky"
+            },
+            {
+              "end": 31,
+              "id": "1945894406244208640",
+              "start": 16,
+              "username": "daimengniu8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010393070282686477",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005982019130691849",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kung_vicky: @daimengniu8964 “哟，还是年上呢”"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "722248615716978688",
+        "conversation_id": "2005970363898028412",
+        "created_at": "2025-12-30T12:39:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T13:39:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005982019130691849"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1945894406244208640",
+              "start": 0,
+              "username": "daimengniu8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005982019130691849",
+        "in_reply_to_user_id": "1945894406244208640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 458,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005970363898028412",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@daimengniu8964 “哟，还是年上呢”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "",
+        "id": "1907414826101669888",
+        "name": "Jam Farewell Song",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907415117874253824/L2WK8HRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 137,
+          "like_count": 28,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 32
+        },
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2016-04-19T02:21:03.000Z",
+        "description": "Lucky！You got me.",
+        "id": "722248615716978688",
+        "location": "Victoria, Australia",
+        "name": "清郎",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998005078113095680/QHJ0qXyl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 315,
+          "like_count": 162,
+          "listed_count": 3,
+          "media_count": 167,
+          "tweet_count": 3325
+        },
+        "username": "kung_vicky",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-17T17:12:45.000Z",
+        "description": "感觉自己好呆萌呀……门槛费涨钱是因为牛牛最近炒股赔钱了 好想哭 皮下女孩 接广请自行分辨❕牛牛在赚饲料钱 牛牛上网就是为了逗你们开心滴",
+        "id": "1945894406244208640",
+        "location": "🚪52💚",
+        "name": "呆萌小牛牛",
+        "pinned_tweet_id": "2008478920052748459",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003809315216613376/T96k8TkP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8892,
+          "following_count": 46,
+          "like_count": 3716,
+          "listed_count": 6,
+          "media_count": 103,
+          "tweet_count": 2972
+        },
+        "username": "daimengniu8964",
+        "verified": false
+      }
+    ]
+  }
+}

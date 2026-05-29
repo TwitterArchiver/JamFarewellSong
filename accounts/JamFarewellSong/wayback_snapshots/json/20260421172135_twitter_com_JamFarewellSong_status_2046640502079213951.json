@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2046640502079213951",
+    "created_at": "2026-04-21T17:21:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T18:21:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046640502079213951"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1163460719465025536",
+          "start": 3,
+          "username": "SS3B_0016"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046640502079213951",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 23
+    },
+    "referenced_tweets": [
+      {
+        "id": "1745757685574947138",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SS3B_0016: 她要回老家，我会义无反顾地前往红河"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2046640502079213951",
+        "created_at": "2026-04-21T17:21:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T18:21:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046640502079213951"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1163460719465025536",
+              "start": 3,
+              "username": "SS3B_0016"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046640502079213951",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 23
+        },
+        "referenced_tweets": [
+          {
+            "id": "1745757685574947138",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SS3B_0016: 她要回老家，我会义无反顾地前往红河"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1163460719465025536",
+        "conversation_id": "1745757685574947138",
+        "created_at": "2024-01-12T10:40:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-01-12T11:40:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1745757685574947138"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1745757685574947138",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 67,
+          "impression_count": 278661,
+          "like_count": 646,
+          "quote_count": 36,
+          "reply_count": 444,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "她要回老家，我会义无反顾地前往红河"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "电波系中央空调；MtX&泛性恋&ASD&（隐藏属性）&CPTSD，性别/身材焦虑；od、自伤の新手；文娱杂食党，Gore爱好者；期待大家扩列互fo😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 203,
+          "following_count": 844,
+          "like_count": 2805,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 596
+        },
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-19T14:40:38.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/SS3B_0016",
+                "end": 23,
+                "expanded_url": "https://t.me/SS3B_0016",
+                "start": 0,
+                "url": "https://t.co/LsBy1P83gG"
+              }
+            ]
+          }
+        },
+        "id": "1163460719465025536",
+        "location": "盐田港",
+        "name": "地铁八号线",
+        "pinned_tweet_id": "1687009418410688512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1702202591646547969/Egfoodhs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14379,
+          "following_count": 750,
+          "like_count": 10276,
+          "listed_count": 54,
+          "media_count": 1066,
+          "tweet_count": 6830
+        },
+        "url": "https://t.co/LsBy1P83gG",
+        "username": "SS3B_0016",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042888270942797824"
+      ],
+      "media_source_tweet_id": [
+        "2042888275304866111"
+      ]
+    },
+    "author_id": "1907414826101669888",
+    "conversation_id": "2044128665492173305",
+    "created_at": "2026-04-14T19:00:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T20:00:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044128665492173305"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1867596733884379136",
+          "start": 3,
+          "username": "VmikufansV"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zVSPVid8FS",
+          "end": 132,
+          "expanded_url": "https://x.com/VmikufansV/status/2042888275304866111/photo/1",
+          "media_key": "3_2042888270942797824",
+          "start": 109,
+          "url": "https://t.co/zVSPVid8FS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044128665492173305",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042888275304866111",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @VmikufansV: 你继续烂在床上继续脑雾继续吸烟继续自残继续让所有人失望，最后一个人死在出租屋里尸体凉了都没人收，因为你早就把所有能爱你的人耗光了、推开了、毁掉了。你注定孤独终老、烂成一滩没人管的垃圾。 https://t.co/zVSPVid8FS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2047,
+        "media_key": "3_2042888270942797824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFnMDwlbgAAJ515.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042888270942797824"
+          ],
+          "media_source_tweet_id": [
+            "2042888275304866111"
+          ]
+        },
+        "author_id": "1907414826101669888",
+        "conversation_id": "2044128665492173305",
+        "created_at": "2026-04-14T19:00:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T20:00:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044128665492173305"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1867596733884379136",
+              "start": 3,
+              "username": "VmikufansV"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zVSPVid8FS",
+              "end": 132,
+              "expanded_url": "https://x.com/VmikufansV/status/2042888275304866111/photo/1",
+              "media_key": "3_2042888270942797824",
+              "start": 109,
+              "url": "https://t.co/zVSPVid8FS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044128665492173305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042888275304866111",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @VmikufansV: 你继续烂在床上继续脑雾继续吸烟继续自残继续让所有人失望，最后一个人死在出租屋里尸体凉了都没人收，因为你早就把所有能爱你的人耗光了、推开了、毁掉了。你注定孤独终老、烂成一滩没人管的垃圾。 https://t.co/zVSPVid8FS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042888270942797824"
+          ]
+        },
+        "author_id": "1867596733884379136",
+        "conversation_id": "2042888275304866111",
+        "created_at": "2026-04-11T08:51:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T09:51:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042888275304866111"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zVSPVid8FS",
+              "end": 116,
+              "expanded_url": "https://x.com/VmikufansV/status/2042888275304866111/photo/1",
+              "media_key": "3_2042888270942797824",
+              "start": 93,
+              "url": "https://t.co/zVSPVid8FS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042888275304866111",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 371,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "你继续烂在床上继续脑雾继续吸烟继续自残继续让所有人失望，最后一个人死在出租屋里尸体凉了都没人收，因为你早就把所有能爱你的人耗光了、推开了、毁掉了。你注定孤独终老、烂成一滩没人管的垃圾。 https://t.co/zVSPVid8FS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "电波系中央空调；MtX&泛性恋&ASD&（隐藏属性）&CPTSD，性别/身材焦虑；od、自伤の新手；文娱杂食党，Gore爱好者；期待大家扩列互fo😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 806,
+          "like_count": 2427,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 481
+        },
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-13T15:46:06.000Z",
+        "description": "荆棘之路通往何处丨\n爱来自@N/A|\n🍥09/02/2023",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/vmikufansv",
+                "end": 23,
+                "expanded_url": "https://t.me/vmikufansv",
+                "start": 0,
+                "url": "https://t.co/Y4FXp5SvZP"
+              }
+            ]
+          }
+        },
+        "id": "1867596733884379136",
+        "location": "若叶2丁目2-12",
+        "name": "共价键ovo",
+        "pinned_tweet_id": "1867600061368254576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867597015129178112/AjHYA7j9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1234,
+          "following_count": 235,
+          "like_count": 494,
+          "listed_count": 5,
+          "media_count": 859,
+          "tweet_count": 4327
+        },
+        "url": "https://t.co/Y4FXp5SvZP",
+        "username": "VmikufansV",
+        "verified": false
+      }
+    ]
+  }
+}

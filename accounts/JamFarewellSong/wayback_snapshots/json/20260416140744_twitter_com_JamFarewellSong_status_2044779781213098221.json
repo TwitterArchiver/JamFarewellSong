@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2016232336271278083"
+      ],
+      "media_source_tweet_id": [
+        "2016232346962305171"
+      ]
+    },
+    "author_id": "1907414826101669888",
+    "conversation_id": "2044779781213098221",
+    "created_at": "2026-04-16T14:07:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T15:07:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044779781213098221"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1662723831533027329",
+          "start": 3,
+          "username": "loong001116"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hTv5eYViqZ",
+          "end": 53,
+          "expanded_url": "https://x.com/loong001116/status/2016232346962305171/photo/1",
+          "media_key": "3_2016232336271278083",
+          "start": 30,
+          "url": "https://t.co/hTv5eYViqZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044779781213098221",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 45
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016232346962305171",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @loong001116: 酷儿的6B4T，欢迎转发 https://t.co/hTv5eYViqZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1460,
+        "media_key": "3_2016232336271278083",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_sYoJwbAAMXtFv.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016232336271278083"
+          ],
+          "media_source_tweet_id": [
+            "2016232346962305171"
+          ]
+        },
+        "author_id": "1907414826101669888",
+        "conversation_id": "2044779781213098221",
+        "created_at": "2026-04-16T14:07:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T15:07:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044779781213098221"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1662723831533027329",
+              "start": 3,
+              "username": "loong001116"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hTv5eYViqZ",
+              "end": 53,
+              "expanded_url": "https://x.com/loong001116/status/2016232346962305171/photo/1",
+              "media_key": "3_2016232336271278083",
+              "start": 30,
+              "url": "https://t.co/hTv5eYViqZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044779781213098221",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 45
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016232346962305171",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @loong001116: 酷儿的6B4T，欢迎转发 https://t.co/hTv5eYViqZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016232336271278083"
+          ]
+        },
+        "author_id": "1662723831533027329",
+        "conversation_id": "2016232346962305171",
+        "created_at": "2026-01-27T19:30:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T20:30:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016232346962305171"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hTv5eYViqZ",
+              "end": 36,
+              "expanded_url": "https://x.com/loong001116/status/2016232346962305171/photo/1",
+              "media_key": "3_2016232336271278083",
+              "start": 13,
+              "url": "https://t.co/hTv5eYViqZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016232346962305171",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 46366,
+          "like_count": 278,
+          "quote_count": 12,
+          "reply_count": 19,
+          "retweet_count": 45
+        },
+        "reply_settings": "everyone",
+        "text": "酷儿的6B4T，欢迎转发 https://t.co/hTv5eYViqZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "电波系中央空调；MtX&泛性恋&ASD&（隐藏属性）&CPTSD，性别/身材焦虑；od、自伤の新手；文娱杂食党，Gore爱好者；期待大家扩列互fo😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 195,
+          "following_count": 821,
+          "like_count": 2577,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 533
+        },
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-28T07:33:54.000Z",
+        "description": "Queer\n人称代词：他(中性)/ta\n所有观点皆来自本人，思考能力不需要绑定AI\nLGBTQ+互关",
+        "id": "1662723831533027329",
+        "location": "Satan's Dick",
+        "name": "劳荣枝(乙女激女顺直男转推即死)",
+        "pinned_tweet_id": "2016232346962305171",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017461086367223808/CwfFSNvD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1597,
+          "following_count": 1709,
+          "like_count": 5496,
+          "listed_count": 4,
+          "media_count": 174,
+          "tweet_count": 4576
+        },
+        "username": "loong001116",
+        "verified": false
+      }
+    ]
+  }
+}

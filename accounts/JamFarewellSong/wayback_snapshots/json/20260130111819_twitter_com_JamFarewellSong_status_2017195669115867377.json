@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2008448454427546111",
+    "created_at": "2026-01-30T11:18:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T12:18:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017195669115867377"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "438160850",
+          "start": 0,
+          "username": "nov_hit"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017195669115867377",
+    "in_reply_to_user_id": "438160850",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008448454427546111",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nov_hit このモデルの販売価格はいくらですか？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2007579968054931459",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9xbWCYasAMtIWN.jpg",
+        "width": 858
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2007579968105283585",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9xbWCkbAAEx66B.jpg",
+        "width": 858
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2007579968067563520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9xbWCbbcAAKCmq.jpg",
+        "width": 857
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2007579968411447297",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9xbWDtasAEnIFM.jpg",
+        "width": 858
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2008448454427546111",
+        "created_at": "2026-01-30T11:18:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T12:18:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017195669115867377"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "438160850",
+              "start": 0,
+              "username": "nov_hit"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017195669115867377",
+        "in_reply_to_user_id": "438160850",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008448454427546111",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nov_hit このモデルの販売価格はいくらですか？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007579968054931459",
+            "3_2007579968105283585",
+            "3_2007579968067563520",
+            "3_2007579968411447297"
+          ]
+        },
+        "author_id": "438160850",
+        "conversation_id": "2008448454427546111",
+        "created_at": "2026-01-06T08:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T09:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008448454427546111"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wq9NTK50P5",
+              "end": 148,
+              "expanded_url": "https://x.com/nov_hit/status/2008448454427546111/photo/1",
+              "media_key": "3_2007579968054931459",
+              "start": 125,
+              "url": "https://t.co/wq9NTK50P5"
+            },
+            {
+              "display_url": "pic.x.com/wq9NTK50P5",
+              "end": 148,
+              "expanded_url": "https://x.com/nov_hit/status/2008448454427546111/photo/1",
+              "media_key": "3_2007579968105283585",
+              "start": 125,
+              "url": "https://t.co/wq9NTK50P5"
+            },
+            {
+              "display_url": "pic.x.com/wq9NTK50P5",
+              "end": 148,
+              "expanded_url": "https://x.com/nov_hit/status/2008448454427546111/photo/1",
+              "media_key": "3_2007579968067563520",
+              "start": 125,
+              "url": "https://t.co/wq9NTK50P5"
+            },
+            {
+              "display_url": "pic.x.com/wq9NTK50P5",
+              "end": 148,
+              "expanded_url": "https://x.com/nov_hit/status/2008448454427546111/photo/1",
+              "media_key": "3_2007579968411447297",
+              "start": 125,
+              "url": "https://t.co/wq9NTK50P5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008448454427546111",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 199,
+                "start": 192,
+                "tag": "ウルトラマン"
+              },
+              {
+                "end": 208,
+                "start": 200,
+                "tag": "wf2026w"
+              },
+              {
+                "end": 215,
+                "start": 209,
+                "tag": "ワンフェス"
+              }
+            ]
+          },
+          "text": "フルスクラッチ 初マン（Aタイプ） 完成\n頭頂高 約30cm\n\n冬のワンフェスでの販売許諾も出ました、ありがとうございます！\n\n参考にしたのが図鑑やムック本によく載っているマスコミ向け撮影会時の初マンなのでまだ覗き穴が開いてないところも再現しました\nタイマーのLED点灯させると内側に造形したモールドもちゃんと見えます\n\nワンフェスあるあるで他と被ってるけどサイズが違ったのが救い\n\n#ウルトラマン #wf2026w #ワンフェス"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 14711,
+          "like_count": 316,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 47
+        },
+        "reply_settings": "everyone",
+        "text": "フルスクラッチ 初マン（Aタイプ） 完成\n頭頂高 約30cm\n\n冬のワンフェスでの販売許諾も出ました、ありがとうございます！\n\n参考にしたのが図鑑やムック本によく載っているマスコミ向け撮影会時の初マンなのでまだ覗き穴が開いてないところも再現しました https://t.co/wq9NTK50P5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "",
+        "id": "1907414826101669888",
+        "name": "Jam Farewell Song",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907415117874253824/L2WK8HRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 161,
+          "like_count": 36,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 37
+        },
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2011-12-16T07:49:53.000Z",
+        "description": "フリーの造形師、お気軽にフォローください。イベント参加時ディーラー名はBöku-Sekaです。お仕事依頼はリンクツリーへどうぞ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/bokuseka",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/bokuseka",
+                "start": 0,
+                "url": "https://t.co/w7aZEpOrse"
+              }
+            ]
+          }
+        },
+        "id": "438160850",
+        "location": "Tokyo JAPAN",
+        "name": "ハヤタ【WF2026W_4-25-4】",
+        "pinned_tweet_id": "2011350406555963813",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002413090898591744/06mgo0J9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1147,
+          "following_count": 1007,
+          "like_count": 9526,
+          "listed_count": 11,
+          "media_count": 4179,
+          "tweet_count": 21900
+        },
+        "url": "https://t.co/w7aZEpOrse",
+        "username": "nov_hit",
+        "verified": true
+      }
+    ]
+  }
+}

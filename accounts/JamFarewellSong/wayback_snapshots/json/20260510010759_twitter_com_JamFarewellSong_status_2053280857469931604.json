@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052340492600483841"
+      ],
+      "media_source_tweet_id": [
+        "2052340501580595605"
+      ]
+    },
+    "author_id": "1907414826101669888",
+    "conversation_id": "2053280857469931604",
+    "created_at": "2026-05-10T01:07:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T02:07:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053280857469931604"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1662417702353526787",
+          "start": 3,
+          "username": "nzqlo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5PgXqRTOBY",
+          "end": 43,
+          "expanded_url": "https://x.com/nzqlo/status/2052340501580595605/photo/1",
+          "media_key": "3_2052340492600483841",
+          "start": 20,
+          "url": "https://t.co/5PgXqRTOBY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053280857469931604",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 778
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052340501580595605",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nzqlo: お薬飲んで寝よう https://t.co/5PgXqRTOBY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2052340492600483841",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHtgzeOaIAEkfUb.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052340492600483841"
+          ],
+          "media_source_tweet_id": [
+            "2052340501580595605"
+          ]
+        },
+        "author_id": "1907414826101669888",
+        "conversation_id": "2053280857469931604",
+        "created_at": "2026-05-10T01:07:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T02:07:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053280857469931604"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1662417702353526787",
+              "start": 3,
+              "username": "nzqlo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5PgXqRTOBY",
+              "end": 43,
+              "expanded_url": "https://x.com/nzqlo/status/2052340501580595605/photo/1",
+              "media_key": "3_2052340492600483841",
+              "start": 20,
+              "url": "https://t.co/5PgXqRTOBY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053280857469931604",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 778
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052340501580595605",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nzqlo: お薬飲んで寝よう https://t.co/5PgXqRTOBY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052340492600483841"
+          ]
+        },
+        "author_id": "1662417702353526787",
+        "conversation_id": "2052340501580595605",
+        "created_at": "2026-05-07T10:51:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T11:51:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052340501580595605"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5PgXqRTOBY",
+              "end": 32,
+              "expanded_url": "https://x.com/nzqlo/status/2052340501580595605/photo/1",
+              "media_key": "3_2052340492600483841",
+              "start": 9,
+              "url": "https://t.co/5PgXqRTOBY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052340501580595605",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 400,
+          "impression_count": 87010,
+          "like_count": 8027,
+          "quote_count": 35,
+          "reply_count": 25,
+          "retweet_count": 778
+        },
+        "reply_settings": "everyone",
+        "text": "お薬飲んで寝よう https://t.co/5PgXqRTOBY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od、自伤の新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 257,
+          "following_count": 955,
+          "like_count": 3391,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 811
+        },
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-27T11:17:37.000Z",
+        "description": "❤︎ @2nwxq🗝@mmnyankill_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 3,
+                "username": "2nwxq"
+              },
+              {
+                "end": 22,
+                "start": 10,
+                "username": "mmnyankill_"
+              }
+            ]
+          }
+        },
+        "id": "1662417702353526787",
+        "name": "m",
+        "pinned_tweet_id": "2051557605290676381",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037772529990000640/hOvldnPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3671,
+          "following_count": 32,
+          "like_count": 2955,
+          "listed_count": 8,
+          "media_count": 55,
+          "tweet_count": 493
+        },
+        "username": "nzqlo",
+        "verified": false
+      }
+    ]
+  }
+}

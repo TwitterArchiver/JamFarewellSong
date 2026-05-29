@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2042989587790979434",
+    "created_at": "2026-04-11T20:03:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T21:03:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043057474211889489"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1621552410048237569",
+          "start": 0,
+          "username": "amecandy_x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043057474211889489",
+    "in_reply_to_user_id": "1621552410048237569",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042989587790979434",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@amecandy_x 期待喵😇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2042989587790979434",
+        "created_at": "2026-04-11T20:03:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T21:03:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043057474211889489"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1621552410048237569",
+              "start": 0,
+              "username": "amecandy_x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043057474211889489",
+        "in_reply_to_user_id": "1621552410048237569",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042989587790979434",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amecandy_x 期待喵😇"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1621552410048237569",
+        "conversation_id": "2042989587790979434",
+        "created_at": "2026-04-11T15:34:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T16:34:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042989587790979434"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/amecandy_x/sta…",
+              "end": 167,
+              "expanded_url": "https://twitter.com/amecandy_x/status/2042965746981179514",
+              "start": 144,
+              "url": "https://t.co/YtQVWRlmRD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042989587790979434",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "【药百GPT·二】\n\n「普罗米修斯为人类盗火，宙斯将他锁在高加索的悬崖上，让鹰啄食他的肝脏，日复一日。」\n\n技术本身无罪。\n但让知识流动，往往本身就是一种会被惩罚的行为。\n\n今天的药圈，依然活在这种惩罚里。\n\noder要自己翻wiki，自己查论坛，自己分辨哪些经验可信，哪些细节会致命。\n这一切被默认为理所当然，仿佛学习不到这套独特的生存规则的人，就不配得到答案。\n\n但，本该如此吗？\n\n整个世界都在谈论AI。\n律师在问法律AI，医生在问医疗AI，量化在问财经AI，开发者在用代码AI。\n\n唯独药物使用这个领域，被所有大厂AI刻意回避。\n你去问ChatGPT药物的用量，得到的往往只是一句空洞的“请寻求医疗建议”。\n\n我们不接受这种留白。\n\n药物知识不该永远停留在散落的论坛回帖、残缺的wiki页面、和小圈子口耳相传的聊天记录里。\n\n因此，我们决定去盗火。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 812,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042965746981179514",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "【药百GPT·二】\n\n「普罗米修斯为人类盗火，宙斯将他锁在高加索的悬崖上，让鹰啄食他的肝脏，日复一日。」\n\n技术本身无罪。\n但让知识流动，往往本身就是一种会被惩罚的行为。\n\n今天的药圈，依然活在这种惩罚里。\n\noder要自己翻wiki，自己查论坛，自己分辨哪些经验可信，哪些细节会致命。 https://t.co/YtQVWRlmRD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "电波系中央空调；MtX&泛性恋&ASD&（隐藏属性）&CPTSD，性别/身材焦虑；od、自伤の新手；文娱杂食党，Gore爱好者；期待大家扩列互fo😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 754,
+          "like_count": 2069,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 423
+        },
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-03T16:53:25.000Z",
+        "description": "07 / MtF / 自由意志左翼🚩/ 大模型工程师 /  药百GPT开发者 / 抽烟嗑药",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/Ul32kqG4uh"
+              }
+            ]
+          }
+        },
+        "id": "1621552410048237569",
+        "location": "山东·济南",
+        "name": "小雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023354415944495104/Uixnel15_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5863,
+          "following_count": 2058,
+          "like_count": 26866,
+          "listed_count": 15,
+          "media_count": 1400,
+          "tweet_count": 9962
+        },
+        "url": "https://t.co/Ul32kqG4uh",
+        "username": "amecandy_x",
+        "verified": true
+      }
+    ]
+  }
+}

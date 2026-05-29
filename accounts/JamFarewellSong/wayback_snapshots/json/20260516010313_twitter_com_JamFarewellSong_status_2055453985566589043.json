@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2055324724209815676",
+    "created_at": "2026-05-16T01:03:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T02:03:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055453985566589043"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2018986573090717696",
+          "start": 0,
+          "username": "xhFK114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055453985566589043",
+    "in_reply_to_user_id": "2018986573090717696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055324724209815676",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xhFK114514 生日快乐喵🎂"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2153,
+        "media_key": "3_2055324712776142850",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIX678sakAIy1hI.jpg",
+        "width": 1168
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2055324724209815676",
+        "created_at": "2026-05-16T01:03:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T02:03:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055453985566589043"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2018986573090717696",
+              "start": 0,
+              "username": "xhFK114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055453985566589043",
+        "in_reply_to_user_id": "2018986573090717696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055324724209815676",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xhFK114514 生日快乐喵🎂"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055324712776142850"
+          ]
+        },
+        "author_id": "2018986573090717696",
+        "conversation_id": "2055324724209815676",
+        "created_at": "2026-05-15T16:29:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T17:29:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055324724209815676"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/j6FK4usDfD",
+              "end": 36,
+              "expanded_url": "https://x.com/xhFK114514/status/2055324724209815676/photo/1",
+              "media_key": "3_2055324712776142850",
+              "start": 13,
+              "url": "https://t.co/j6FK4usDfD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055324724209815676",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1914,
+          "like_count": 101,
+          "quote_count": 1,
+          "reply_count": 60,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "祝我自己18岁生日快乐！ https://t.co/j6FK4usDfD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od、自伤の新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 263,
+          "following_count": 974,
+          "like_count": 3571,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 896
+        },
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-04T09:56:48.000Z",
+        "description": "FuKarl7/2026年3月21日起活跃在此号/友跨🏳️‍⚧️(没翻车!)/高三/无糖(?)/含糖(?)/不od/不割手/(选择性)互关/喵\n❤️❤️❤️❤️❤️：@ruoruoruoMing\n意义重大的日子：2026年3月15日/2026年5月2日",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 83,
+                "username": "ruoruoruoMing"
+              }
+            ]
+          }
+        },
+        "id": "2018986573090717696",
+        "location": "天津",
+        "name": "阿这",
+        "pinned_tweet_id": "2053410325878522002",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037862051725594624/P9TAAf07_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 419,
+          "following_count": 769,
+          "like_count": 5566,
+          "listed_count": 3,
+          "media_count": 70,
+          "tweet_count": 868
+        },
+        "username": "xhFK114514",
+        "verified": false
+      }
+    ]
+  }
+}

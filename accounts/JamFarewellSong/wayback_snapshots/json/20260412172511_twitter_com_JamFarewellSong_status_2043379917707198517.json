@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2043379917707198517",
+    "created_at": "2026-04-12T17:25:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T18:25:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043379917707198517"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "469933928",
+          "start": 3,
+          "username": "N552AA7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043379917707198517",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043232872027607058",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @N552AA7: 必须很遗憾的告诉您一件事🤚\n中推od圈知名od人chicken（董晗）先生，现已极大概率被塞里斯警方控制，我们怀疑其账号同样处于警方的控制当中。\n请勿继续相信并回应其在各种平台发布的文本。\n大难当前，共克时艰。\n愿我们在没有黑暗的地方相见。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2043379917707198517",
+        "created_at": "2026-04-12T17:25:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T18:25:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043379917707198517"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "469933928",
+              "start": 3,
+              "username": "N552AA7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043379917707198517",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043232872027607058",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @N552AA7: 必须很遗憾的告诉您一件事🤚\n中推od圈知名od人chicken（董晗）先生，现已极大概率被塞里斯警方控制，我们怀疑其账号同样处于警方的控制当中。\n请勿继续相信并回应其在各种平台发布的文本。\n大难当前，共克时艰。\n愿我们在没有黑暗的地方相见。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "469933928",
+        "conversation_id": "2043232872027607058",
+        "created_at": "2026-04-12T07:40:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T08:40:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043232872027607058"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043232872027607058",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 520,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "必须很遗憾的告诉您一件事🤚\n中推od圈知名od人chicken（董晗）先生，现已极大概率被塞里斯警方控制，我们怀疑其账号同样处于警方的控制当中。\n请勿继续相信并回应其在各种平台发布的文本。\n大难当前，共克时艰。\n愿我们在没有黑暗的地方相见。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "电波系中央空调；MtX&泛性恋&ASD&（隐藏属性）&CPTSD，性别/身材焦虑；od、自伤の新手；文娱杂食党，Gore爱好者；期待大家扩列互fo😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 767,
+          "like_count": 2145,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 439
+        },
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2012-01-21T04:35:27.000Z",
+        "description": "08/MTX（f?/ENTP-T/ADHD/BPD/ASD（？/OSDD-1a/家长不稳定党/hrt：2024-8-25/ 小证：2025-11-14/坐标上海/oder/长在春风中，活在药效里。/上海市贴贴微信群前群主现群管/ 🚪25（同类免费，过门私信）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "n552aa.github.io",
+                "end": 23,
+                "expanded_url": "http://n552aa.github.io",
+                "start": 0,
+                "url": "https://t.co/NrRSmyWC6K"
+              }
+            ]
+          }
+        },
+        "id": "469933928",
+        "location": "参宿四",
+        "name": "N552AA🍥🍜🍣🍕💊🍫（七代目）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041797825961586692/wc9PBx2u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 86,
+          "like_count": 99,
+          "listed_count": 1,
+          "media_count": 3,
+          "tweet_count": 45
+        },
+        "url": "https://t.co/NrRSmyWC6K",
+        "username": "N552AA7",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2041891609785319424"
+      ],
+      "media_source_tweet_id": [
+        "2041891628663840801"
+      ]
+    },
+    "author_id": "1907414826101669888",
+    "conversation_id": "2042267600886108648",
+    "created_at": "2026-04-09T15:45:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T16:45:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042267600886108648"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1931114312296538112",
+          "start": 3,
+          "username": "Ayumi_0222_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Cy5bOAImPL",
+          "end": 87,
+          "expanded_url": "https://x.com/Ayumi_0222_/status/2041891628663840801/photo/1",
+          "media_key": "3_2041891609785319424",
+          "start": 64,
+          "url": "https://t.co/Cy5bOAImPL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042267600886108648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041891628663840801",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ayumi_0222_: 主页刷到一条搬运墙内广州禁毒视频里梗图的，快马加鞭找到一条叶洪文p的上古梗图就刷不到了，难过 https://t.co/Cy5bOAImPL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 756,
+        "media_key": "3_2041891609785319424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFZBmccawAAJhpx.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041891609785319424"
+          ],
+          "media_source_tweet_id": [
+            "2041891628663840801"
+          ]
+        },
+        "author_id": "1907414826101669888",
+        "conversation_id": "2042267600886108648",
+        "created_at": "2026-04-09T15:45:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T16:45:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042267600886108648"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1931114312296538112",
+              "start": 3,
+              "username": "Ayumi_0222_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Cy5bOAImPL",
+              "end": 87,
+              "expanded_url": "https://x.com/Ayumi_0222_/status/2041891628663840801/photo/1",
+              "media_key": "3_2041891609785319424",
+              "start": 64,
+              "url": "https://t.co/Cy5bOAImPL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042267600886108648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041891628663840801",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ayumi_0222_: 主页刷到一条搬运墙内广州禁毒视频里梗图的，快马加鞭找到一条叶洪文p的上古梗图就刷不到了，难过 https://t.co/Cy5bOAImPL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041891609785319424"
+          ]
+        },
+        "author_id": "1931114312296538112",
+        "conversation_id": "2041891628663840801",
+        "created_at": "2026-04-08T14:51:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T15:51:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041891628663840801"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Cy5bOAImPL",
+              "end": 70,
+              "expanded_url": "https://x.com/Ayumi_0222_/status/2041891628663840801/photo/1",
+              "media_key": "3_2041891609785319424",
+              "start": 47,
+              "url": "https://t.co/Cy5bOAImPL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041891628663840801",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1598,
+          "like_count": 20,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "主页刷到一条搬运墙内广州禁毒视频里梗图的，快马加鞭找到一条叶洪文p的上古梗图就刷不到了，难过 https://t.co/Cy5bOAImPL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "电波系中央空调；MtX&泛性恋&ASD&（隐藏属性）&CPTSD，性别/身材焦虑；od、自伤の新手；文娱杂食党，Gore爱好者；期待大家扩列互fo😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 701,
+          "like_count": 1706,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 316
+        },
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-06T22:22:42.000Z",
+        "description": "AYUMI OF THE GODS\n@OneMultiplied",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 18,
+                "username": "OneMultiplied"
+              }
+            ]
+          }
+        },
+        "id": "1931114312296538112",
+        "location": "参宿四",
+        "name": "众神的阿优咪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984666097728307205/dDatg5XI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 365,
+          "like_count": 2787,
+          "listed_count": 0,
+          "media_count": 113,
+          "tweet_count": 1182
+        },
+        "username": "Ayumi_0222_",
+        "verified": false
+      }
+    ]
+  }
+}

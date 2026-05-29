@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2043023716607758635",
+    "created_at": "2026-04-11T17:49:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T18:49:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043023716607758635"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1608781688775245825",
+          "start": 3,
+          "username": "YekaseSuiso2022"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043023716607758635",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042966686777905499",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @YekaseSuiso2022: 躺在病榻上写下这段文字，回想起中推关于自我剔除的历史，似乎注射法的成功案例叫的上名字的也只有炽了，想着写一篇长文来悼念这位陪伴我半年多了老友...\n\n可口歪眼斜流着口水的我以标准的30度夹角枯坐，敲来敲去楞是挤不出几句可被人类阅读的语句…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1542,
+        "media_key": "3_2042957952475369479",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFoLbwhakAc_W7Y.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2043023716607758635",
+        "created_at": "2026-04-11T17:49:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T18:49:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043023716607758635"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1608781688775245825",
+              "start": 3,
+              "username": "YekaseSuiso2022"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043023716607758635",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042966686777905499",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @YekaseSuiso2022: 躺在病榻上写下这段文字，回想起中推关于自我剔除的历史，似乎注射法的成功案例叫的上名字的也只有炽了，想着写一篇长文来悼念这位陪伴我半年多了老友...\n\n可口歪眼斜流着口水的我以标准的30度夹角枯坐，敲来敲去楞是挤不出几句可被人类阅读的语句…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042957952475369479"
+          ]
+        },
+        "author_id": "1608781688775245825",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2042966686777905499",
+        "created_at": "2026-04-11T14:03:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T15:03:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042966686777905499"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kHXje66uXR",
+              "end": 158,
+              "expanded_url": "https://x.com/YekaseSuiso2022/status/2042966686777905499/photo/1",
+              "media_key": "3_2042957952475369479",
+              "start": 135,
+              "url": "https://t.co/kHXje66uXR"
+            },
+            {
+              "display_url": "x.com/Cheese_Ghostfo…",
+              "end": 182,
+              "expanded_url": "https://twitter.com/Cheese_Ghostfox/status/2042821528589664618",
+              "start": 159,
+              "url": "https://t.co/bHuO0ZJp09"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042966686777905499",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "躺在病榻上写下这段文字，回想起中推关于自我剔除的历史，似乎注射法的成功案例叫的上名字的也只有炽了，想着写一篇长文来悼念这位陪伴我半年多了老友...\n\n可口歪眼斜流着口水的我以标准的30度夹角枯坐，敲来敲去楞是挤不出几句可被人类阅读的语句，就这样惆怅的，因为悲伤，瘫软。\n\n其实在炽老师离世前曾经聊起注射的方法，没想到是我先执行，也算是给她打样了——结果无疑是失败的，因为丙泊酚被提前打完而被迫放弃氯化钾的计划，便狼狈的滚下床，惊慌失措地打开药盒，费力的扣了些地高辛碾粉后硬灌进注射器，又抽入一些不知道闲置多久的生理盐水...这下优雅彻底没有了，原定的注射泵方案因无法麻醉被抛弃了，便手忙脚乱的注射，被报了警，失败...\n\n之后便是在医院用颤抖的手艰难地试图拿起手机...唉，万恶之源的手机...去和各类人士诉苦。直到炽主动问起，才开始分析总结：下次需要，嗯，就这些...(数据删除)\n\n也是感谢炽老师了，谢谢你陪伴我度过了很多不眠的夜，交给了我很多，可惜我们的约定再也无法完成了，没法在“此岸”见面很是遗憾...但也谢谢你的可靠性验证，若是撑不住了，肯定也会在“彼岸”相见吧...\n\n会入梦吗...该死的，答应我最后一个愿望吧...\n我们先规划一下，之后再想办法陪你"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1779,
+          "like_count": 32,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042821528589664618",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "躺在病榻上写下这段文字，回想起中推关于自我剔除的历史，似乎注射法的成功案例叫的上名字的也只有炽了，想着写一篇长文来悼念这位陪伴我半年多了老友...\n\n可口歪眼斜流着口水的我以标准的30度夹角枯坐，敲来敲去楞是挤不出几句可被人类阅读的语句，就这样惆怅的，因为悲伤，瘫软。 https://t.co/kHXje66uXR https://t.co/bHuO0ZJp09"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "电波系中央空调；MtX&泛性恋&ASD&（隐藏属性）&CPTSD，性别/身材焦虑；od、自伤の新手；文娱杂食党，Gore爱好者；期待大家扩列互fo😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 746,
+          "like_count": 1990,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 398
+        },
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-30T11:07:57.000Z",
+        "description": "🏳️‍🌈💊//​I can eat sodium nitrite, it does not hurt me.//Wife @LolingVerse @nozomixlr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 61,
+                "username": "LolingVerse"
+              },
+              {
+                "end": 84,
+                "start": 74,
+                "username": "nozomixlr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tulpa.cn",
+                "end": 23,
+                "expanded_url": "https://tulpa.cn/",
+                "start": 0,
+                "url": "https://t.co/Y2RsCWDFE0"
+              }
+            ]
+          }
+        },
+        "id": "1608781688775245825",
+        "location": "Home ICU",
+        "name": "Yekase Suiso🍨🍥",
+        "pinned_tweet_id": "2042971228210893257",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035449774409961472/2LF4vjk__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1688,
+          "following_count": 535,
+          "like_count": 2928,
+          "listed_count": 6,
+          "media_count": 11,
+          "tweet_count": 75
+        },
+        "url": "https://t.co/Y2RsCWDFE0",
+        "username": "YekaseSuiso2022",
+        "verified": true
+      }
+    ]
+  }
+}

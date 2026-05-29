@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2056398582958465439",
+    "created_at": "2026-05-18T15:36:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T16:36:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056398582958465439"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1913084413942145024",
+          "start": 3,
+          "username": "Sui_aini"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056398582958465439",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056274817633141204",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Sui_aini: 我要是pass了（现在已经够了），我会狠狠挂跨性别相关的了小挂件，我很早很早之前就发过一条推文，我要带着“雷达”，我希望在大街上偶遇我的伙伴，ta们可以看到，就算彼此不说话，相互看着雷达，我们永远站在一起。\n我戴着“雷达”，是因为，我不想让还在为性别…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2056274810679050240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIlbC7MbwAAS_Ji.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2056398582958465439",
+        "created_at": "2026-05-18T15:36:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T16:36:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056398582958465439"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1913084413942145024",
+              "start": 3,
+              "username": "Sui_aini"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056398582958465439",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056274817633141204",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Sui_aini: 我要是pass了（现在已经够了），我会狠狠挂跨性别相关的了小挂件，我很早很早之前就发过一条推文，我要带着“雷达”，我希望在大街上偶遇我的伙伴，ta们可以看到，就算彼此不说话，相互看着雷达，我们永远站在一起。\n我戴着“雷达”，是因为，我不想让还在为性别…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056274810679050240"
+          ]
+        },
+        "author_id": "1913084413942145024",
+        "conversation_id": "2056274817633141204",
+        "created_at": "2026-05-18T07:24:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T08:24:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056274817633141204"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PK1p8ThuYb",
+              "end": 170,
+              "expanded_url": "https://x.com/Sui_aini/status/2056274817633141204/photo/1",
+              "media_key": "3_2056274810679050240",
+              "start": 147,
+              "url": "https://t.co/PK1p8ThuYb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056274817633141204",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 2321,
+          "like_count": 94,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "我要是pass了（现在已经够了），我会狠狠挂跨性别相关的了小挂件，我很早很早之前就发过一条推文，我要带着“雷达”，我希望在大街上偶遇我的伙伴，ta们可以看到，就算彼此不说话，相互看着雷达，我们永远站在一起。\n我戴着“雷达”，是因为，我不想让还在为性别、取向感到困惑的酷儿知道，我和ta们同在。 https://t.co/PK1p8ThuYb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od、自伤の新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 983,
+          "like_count": 3621,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 911
+        },
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "小号：@honoka_520 /enby（They/Them/It）/淡推了吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 3,
+                "username": "honoka_520"
+              }
+            ]
+          }
+        },
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_🌾",
+        "pinned_tweet_id": "2054662478139969979",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055720145851752448/XpqXByMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1857,
+          "following_count": 749,
+          "like_count": 5153,
+          "listed_count": 5,
+          "media_count": 571,
+          "tweet_count": 4511
+        },
+        "username": "Sui_aini",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2041615011274223975",
+    "created_at": "2026-04-07T20:32:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T21:32:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041615011274223975"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1071094209749417984",
+          "start": 3,
+          "username": "BeiyanNa3AlF6"
+        },
+        {
+          "end": 35,
+          "id": "1850566454237937664",
+          "start": 19,
+          "username": "anemoneheart912"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041615011274223975",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038899715643957416",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BeiyanNa3AlF6: @anemoneheart912 我们可以包容不理解跨性别的人做救助，我们甚至可以平和地讨论要不要团结反跨基本盘以作为必要的妥协。但是我们绝对不能容忍有人主动激化矛盾，在有人温和地提出建议的时候选择撒泼打滚，撕裂社群，造成大规模群体性应激创…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2041615011274223975",
+        "created_at": "2026-04-07T20:32:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T21:32:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041615011274223975"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1071094209749417984",
+              "start": 3,
+              "username": "BeiyanNa3AlF6"
+            },
+            {
+              "end": 35,
+              "id": "1850566454237937664",
+              "start": 19,
+              "username": "anemoneheart912"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041615011274223975",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038899715643957416",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BeiyanNa3AlF6: @anemoneheart912 我们可以包容不理解跨性别的人做救助，我们甚至可以平和地讨论要不要团结反跨基本盘以作为必要的妥协。但是我们绝对不能容忍有人主动激化矛盾，在有人温和地提出建议的时候选择撒泼打滚，撕裂社群，造成大规模群体性应激创…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1071094209749417984",
+        "conversation_id": "2038874307351449973",
+        "created_at": "2026-03-31T08:42:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T09:42:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038899715643957416"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1850566454237937664",
+              "start": 0,
+              "username": "anemoneheart912"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/status/20384…",
+              "end": 147,
+              "expanded_url": "https://x.com/i/status/2038401353450651942",
+              "start": 124,
+              "url": "https://t.co/VjhqsaayF8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038899715643957416",
+        "in_reply_to_user_id": "1850566454237937664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2248,
+          "like_count": 47,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038401353450651942",
+            "type": "quoted"
+          },
+          {
+            "id": "2038874307351449973",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@anemoneheart912 我们可以包容不理解跨性别的人做救助，我们甚至可以平和地讨论要不要团结反跨基本盘以作为必要的妥协。但是我们绝对不能容忍有人主动激化矛盾，在有人温和地提出建议的时候选择撒泼打滚，撕裂社群，造成大规模群体性应激创伤。\n\nhttps://t.co/VjhqsaayF8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "电波系中央空调；MtX&泛性恋&ASD&（隐藏属性）&CPTSD，性别/身材焦虑；od、自伤の新手；文娱杂食党，Gore爱好者；期待大家扩列互fo😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 619,
+          "like_count": 1280,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 236
+        },
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-07T17:28:54.000Z",
+        "description": "MtX-MtF振荡器，member of @MtFwiki 。我吃糖手术但我是好友跨顺男，木饭桶/INTP/Ingress/HAM/@NixOS_org maintainer/中文 Vocaloid/索尼大法好。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 21,
+                "username": "MtFwiki"
+              },
+              {
+                "end": 76,
+                "start": 66,
+                "username": "NixOS_org"
+              }
+            ]
+          }
+        },
+        "id": "1071094209749417984",
+        "location": "Rhineland-Palatinate, Germany",
+        "name": "北雁 Na₃AlF₆🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1620498439485403137/zPt4c0Rp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2146,
+          "following_count": 1416,
+          "like_count": 119010,
+          "listed_count": 13,
+          "media_count": 299,
+          "tweet_count": 6778
+        },
+        "username": "BeiyanNa3AlF6",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-27T15:54:13.000Z",
+        "description": "曾用名__stdcall，MtF，已SRS，算法竞赛爱好者，ICPC区域赛冠军，音游玩家，喜欢玩游戏，喜欢色色，喜欢Lolita，喜欢可爱的东西。最近在玩：maimai，Albion，PathOfExile。小猫 @maplefsnow",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 107,
+                "username": "maplefsnow"
+              }
+            ]
+          }
+        },
+        "id": "1850566454237937664",
+        "location": "厄尔庇斯",
+        "name": "雨萌（放浪神加护）🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1850893435420434815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850566747377807360/4nvCn04K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7184,
+          "following_count": 443,
+          "like_count": 62297,
+          "listed_count": 25,
+          "media_count": 239,
+          "tweet_count": 1795
+        },
+        "username": "anemoneheart912",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2053278222813671667",
+    "created_at": "2026-05-10T00:57:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T01:57:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053278222813671667"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1662058783215087617",
+          "start": 3,
+          "username": "HacchiTheMaid"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053278222813671667",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053235461183910150",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HacchiTheMaid: 笑点解析之假死消费大家同情心搞社会实验同时支持反跨terf \n特权蛆在锐评跨圈的时候能不能先锐评一下自己，也是给你双标完了\n以及哲b能不能收收味,,,"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2053278222813671667",
+        "created_at": "2026-05-10T00:57:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T01:57:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053278222813671667"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1662058783215087617",
+              "start": 3,
+              "username": "HacchiTheMaid"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053278222813671667",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053235461183910150",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HacchiTheMaid: 笑点解析之假死消费大家同情心搞社会实验同时支持反跨terf \n特权蛆在锐评跨圈的时候能不能先锐评一下自己，也是给你双标完了\n以及哲b能不能收收味,,,"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662058783215087617",
+        "conversation_id": "2053235461183910150",
+        "created_at": "2026-05-09T22:07:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T23:07:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053235461183910150"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/loveforeversfy…",
+              "end": 99,
+              "expanded_url": "https://twitter.com/loveforeversfy/status/2053150369153503523",
+              "start": 76,
+              "url": "https://t.co/HYCUj4sqUS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053235461183910150",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 337,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053150369153503523",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "笑点解析之假死消费大家同情心搞社会实验同时支持反跨terf \n特权蛆在锐评跨圈的时候能不能先锐评一下自己，也是给你双标完了\n以及哲b能不能收收味,,, https://t.co/HYCUj4sqUS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od、自伤の新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 257,
+          "following_count": 952,
+          "like_count": 3375,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 804
+        },
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-26T11:31:22.000Z",
+        "description": "终其永怀，又窘阴雨。狗狗@Sorsacerba",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 12,
+                "username": "Sorsacerba"
+              }
+            ]
+          }
+        },
+        "id": "1662058783215087617",
+        "location": "距离2.4km",
+        "name": "Hacchi",
+        "pinned_tweet_id": "1927301590777479428",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937052623523168256/NWtxx8z__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10803,
+          "following_count": 2019,
+          "like_count": 52985,
+          "listed_count": 39,
+          "media_count": 1371,
+          "tweet_count": 37081
+        },
+        "username": "HacchiTheMaid",
+        "verified": false
+      }
+    ]
+  }
+}

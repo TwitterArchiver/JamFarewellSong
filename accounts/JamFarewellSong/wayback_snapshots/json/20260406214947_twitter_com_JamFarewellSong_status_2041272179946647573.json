@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2041272179946647573",
+    "created_at": "2026-04-06T21:49:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T22:49:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041272179946647573"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1618557658163970049",
+          "start": 3,
+          "username": "qqqqqf5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041272179946647573",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978568962653724693",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @qqqqqf5: 第一代跨女蝶变 活跃于2000-2005\n第二代跨女ts 活跃于2005-2010\n第三代跨女药娘 出生于1995-2000s 活跃于2010-2015 贴吧\n救助者代表\n第四代跨女MtF 出生于2000-2005 活跃于2016-2019 知乎\n第五…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2041272179946647573",
+        "created_at": "2026-04-06T21:49:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T22:49:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041272179946647573"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1618557658163970049",
+              "start": 3,
+              "username": "qqqqqf5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041272179946647573",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978568962653724693",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @qqqqqf5: 第一代跨女蝶变 活跃于2000-2005\n第二代跨女ts 活跃于2005-2010\n第三代跨女药娘 出生于1995-2000s 活跃于2010-2015 贴吧\n救助者代表\n第四代跨女MtF 出生于2000-2005 活跃于2016-2019 知乎\n第五…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1618557658163970049",
+        "conversation_id": "1978568962653724693",
+        "created_at": "2025-10-15T21:09:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T22:09:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978568962653724693"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1978568962653724693",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 94,
+          "impression_count": 84003,
+          "like_count": 348,
+          "quote_count": 15,
+          "reply_count": 81,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "第一代跨女蝶变 活跃于2000-2005\n第二代跨女ts 活跃于2005-2010\n第三代跨女药娘 出生于1995-2000s 活跃于2010-2015 贴吧\n救助者代表\n第四代跨女MtF 出生于2000-2005 活跃于2016-2019 知乎\n第五代跨女xyn 出生于2005-2010 活跃于2020-现在 推特\n\n前几代mtf现在都怎么样了🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "电波系中央空调；MtX&泛性恋&ASD&（隐藏属性）&CPTSD，性别/身材焦虑；od、自伤の新手；文娱杂食党，Gore爱好者；期待大家扩列互fo😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 558,
+          "like_count": 1087,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 206
+        },
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-26T10:33:19.000Z",
+        "description": "你好！我是清洛😺\n之前是清凤，但是他和小号的关系实在是太大了...影响到我的形象了，故此改名换头像\n不键政不od不割手不恶俗\n欢迎私信聊天投稿andmore!",
+        "id": "1618557658163970049",
+        "name": "清洛😺",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036862218428702720/1R66Gm-Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9760,
+          "following_count": 1926,
+          "like_count": 13989,
+          "listed_count": 20,
+          "media_count": 2489,
+          "tweet_count": 5271
+        },
+        "username": "qqqqqf5",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054895017320398848"
+      ],
+      "media_source_tweet_id": [
+        "2054895024165552207"
+      ]
+    },
+    "author_id": "1907414826101669888",
+    "conversation_id": "2055100784560443638",
+    "created_at": "2026-05-15T01:39:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T02:39:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055100784560443638"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1806211119897522176",
+          "start": 3,
+          "username": "lxstinfantasy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Kv6PbpwiTN",
+          "end": 46,
+          "expanded_url": "https://x.com/lxstinfantasy/status/2054895024165552207/photo/1",
+          "media_key": "3_2054895017320398848",
+          "start": 23,
+          "url": "https://t.co/Kv6PbpwiTN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055100784560443638",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 328
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054895024165552207",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lxstinfantasy: - * https://t.co/Kv6PbpwiTN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1385,
+        "media_key": "3_2054895017320398848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIR0IYYaQAAvgwP.jpg",
+        "width": 2360
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054895017320398848"
+          ],
+          "media_source_tweet_id": [
+            "2054895024165552207"
+          ]
+        },
+        "author_id": "1907414826101669888",
+        "conversation_id": "2055100784560443638",
+        "created_at": "2026-05-15T01:39:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T02:39:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055100784560443638"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1806211119897522176",
+              "start": 3,
+              "username": "lxstinfantasy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Kv6PbpwiTN",
+              "end": 46,
+              "expanded_url": "https://x.com/lxstinfantasy/status/2054895024165552207/photo/1",
+              "media_key": "3_2054895017320398848",
+              "start": 23,
+              "url": "https://t.co/Kv6PbpwiTN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055100784560443638",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 328
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054895024165552207",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lxstinfantasy: - * https://t.co/Kv6PbpwiTN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054895017320398848"
+          ]
+        },
+        "author_id": "1806211119897522176",
+        "conversation_id": "2054895024165552207",
+        "created_at": "2026-05-14T12:02:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T13:02:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054895024165552207"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Kv6PbpwiTN",
+              "end": 27,
+              "expanded_url": "https://x.com/lxstinfantasy/status/2054895024165552207/photo/1",
+              "media_key": "3_2054895017320398848",
+              "start": 4,
+              "url": "https://t.co/Kv6PbpwiTN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054895024165552207",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 305,
+          "impression_count": 21687,
+          "like_count": 3483,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 328
+        },
+        "reply_settings": "everyone",
+        "text": "- * https://t.co/Kv6PbpwiTN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od、自伤の新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 262,
+          "following_count": 969,
+          "like_count": 3542,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 882
+        },
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-27T06:21:14.000Z",
+        "description": "⟢ꫂ illustration ••• | ✉️ lxstinfantasy@naver.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/lxstinfantasy",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/lxstinfantasy",
+                "start": 0,
+                "url": "https://t.co/HIJQIqcj5Q"
+              }
+            ]
+          }
+        },
+        "id": "1806211119897522176",
+        "location": "( = 사미) * ᛪ༙",
+        "name": "SAMI ˖˚⊹",
+        "pinned_tweet_id": "2000199910852055254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041085772489797632/b0z-kGRz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7874,
+          "following_count": 282,
+          "like_count": 890,
+          "listed_count": 40,
+          "media_count": 148,
+          "tweet_count": 370
+        },
+        "url": "https://t.co/HIJQIqcj5Q",
+        "username": "lxstinfantasy",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2024463329369231360"
+      ],
+      "media_source_tweet_id": [
+        "2024463333135700136"
+      ]
+    },
+    "author_id": "1907414826101669888",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2041166181307187351",
+    "created_at": "2026-04-06T14:48:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T15:48:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041166181307187351"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 20,
+          "start": 16,
+          "tag": "新头像"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1597468568290873344",
+          "start": 3,
+          "username": "jingzhny11"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RXa71YGG9W",
+          "end": 44,
+          "expanded_url": "https://x.com/jingzhny11/status/2024463333135700136/photo/1",
+          "media_key": "3_2024463329369231360",
+          "start": 21,
+          "url": "https://t.co/RXa71YGG9W"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041166181307187351",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024463333135700136",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jingzhny11: #新头像 https://t.co/RXa71YGG9W"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2136,
+        "media_key": "3_2024463329369231360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBhWrAfbkAAxYaU.jpg",
+        "width": 2136
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024463329369231360"
+          ],
+          "media_source_tweet_id": [
+            "2024463333135700136"
+          ]
+        },
+        "author_id": "1907414826101669888",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2041166181307187351",
+        "created_at": "2026-04-06T14:48:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T15:48:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041166181307187351"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 16,
+              "tag": "新头像"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1597468568290873344",
+              "start": 3,
+              "username": "jingzhny11"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RXa71YGG9W",
+              "end": 44,
+              "expanded_url": "https://x.com/jingzhny11/status/2024463333135700136/photo/1",
+              "media_key": "3_2024463329369231360",
+              "start": 21,
+              "url": "https://t.co/RXa71YGG9W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041166181307187351",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024463333135700136",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jingzhny11: #新头像 https://t.co/RXa71YGG9W"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024463329369231360"
+          ]
+        },
+        "author_id": "1597468568290873344",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2024463333135700136",
+        "created_at": "2026-02-19T12:37:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T13:37:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024463333135700136"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "新头像"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RXa71YGG9W",
+              "end": 28,
+              "expanded_url": "https://x.com/jingzhny11/status/2024463333135700136/photo/1",
+              "media_key": "3_2024463329369231360",
+              "start": 5,
+              "url": "https://t.co/RXa71YGG9W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024463333135700136",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 12081,
+          "like_count": 52,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "#新头像 https://t.co/RXa71YGG9W"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "电波系中央空调；MtX&泛性恋&ASD&（隐藏属性）&CPTSD，性别/身材焦虑；od、自伤の新手；文娱杂食党，Gore爱好者；期待大家扩列互fo😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 506,
+          "like_count": 831,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 171
+        },
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-29T05:53:13.000Z",
+        "description": "99年 \n🍥​2023/05/07 srs2025/07/31 一米九超大只\n左下的，混乱善良的，激跨的，支持精神活性物质的，ODer但水平很差的，想当黄推的，下海预备的\n感性条拉满的理想主义者ENFP\n希望一个没人再感到痛苦的世界/如果可以我希望爱、原谅与理解而不是恶、仇恨与歧视",
+        "id": "1597468568290873344",
+        "location": "谁人的繁星之梦",
+        "name": "愿望天使DesireAngel",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024462875855900673/BMWGdQhI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5081,
+          "following_count": 2014,
+          "like_count": 121458,
+          "listed_count": 21,
+          "media_count": 247,
+          "tweet_count": 17470
+        },
+        "username": "jingzhny11",
+        "verified": false
+      }
+    ]
+  }
+}

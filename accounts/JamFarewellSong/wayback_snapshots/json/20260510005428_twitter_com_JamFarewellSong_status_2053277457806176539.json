@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2053277457806176539",
+    "created_at": "2026-05-10T00:54:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T01:54:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053277457806176539"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2041159531657416704",
+          "start": 3,
+          "username": "amber_digit2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053277457806176539",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 49
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052785207082696916",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @amber_digit2: 大家好我是amber，我的号又没了…真的很对不起各位我也不知道为什么会这样，我不想麻烦大家转发了，再这样下去可能就不用推特了吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2053277457806176539",
+        "created_at": "2026-05-10T00:54:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T01:54:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053277457806176539"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2041159531657416704",
+              "start": 3,
+              "username": "amber_digit2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053277457806176539",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 49
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052785207082696916",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @amber_digit2: 大家好我是amber，我的号又没了…真的很对不起各位我也不知道为什么会这样，我不想麻烦大家转发了，再这样下去可能就不用推特了吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2052785207082696916",
+        "created_at": "2026-05-08T16:18:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T17:18:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052785207082696916"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052785207082696916",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 55161,
+          "like_count": 452,
+          "quote_count": 12,
+          "reply_count": 113,
+          "retweet_count": 49
+        },
+        "reply_settings": "everyone",
+        "text": "大家好我是amber，我的号又没了…真的很对不起各位我也不知道为什么会这样，我不想麻烦大家转发了，再这样下去可能就不用推特了吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od、自伤の新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 257,
+          "following_count": 952,
+          "like_count": 3371,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 803
+        },
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "备用 @medusozoa_amber\n也可以直接私信那由 @noaayoyaoaya\n公开频道: https://t.co/9vOZUHGUOo\n\nhttps://t.co/IMqazehuZE",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 3,
+                "username": "medusozoa_amber"
+              },
+              {
+                "end": 43,
+                "start": 30,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+JJru1O0uCsgyO…",
+                "end": 73,
+                "expanded_url": "http://t.me/+JJru1O0uCsgyOGY1",
+                "start": 50,
+                "url": "https://t.co/9vOZUHGUOo"
+              },
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 98,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 75,
+                "url": "https://t.co/IMqazehuZE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/amberjellyfish",
+                "end": 23,
+                "expanded_url": "http://t.me/amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/Mu7nsgG4NQ"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "Toronto, Ontario",
+        "name": "🪼",
+        "pinned_tweet_id": "2052785207082696916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052868858894053377/Mavmt3xe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1208,
+          "following_count": 82,
+          "like_count": 19,
+          "listed_count": 2,
+          "media_count": 2,
+          "tweet_count": 303
+        },
+        "url": "https://t.co/Mu7nsgG4NQ",
+        "username": "amber_digit2",
+        "verified": true
+      }
+    ]
+  }
+}

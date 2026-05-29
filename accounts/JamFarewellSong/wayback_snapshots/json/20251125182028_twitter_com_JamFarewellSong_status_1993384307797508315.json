@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1993007223514316804",
+        "3_1993007253465841664"
+      ],
+      "media_source_tweet_id": [
+        "1993007291390738607",
+        "1993007291390738607"
+      ]
+    },
+    "author_id": "1907414826101669888",
+    "conversation_id": "1993384307797508315",
+    "created_at": "2025-11-25T18:20:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T19:20:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993384307797508315"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1865419581206208512",
+          "start": 3,
+          "username": "DDzhanshou5150"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MgMlGmpGYd",
+          "end": 57,
+          "expanded_url": "https://x.com/DDzhanshou5150/status/1993007291390738607/photo/1",
+          "media_key": "3_1993007223514316804",
+          "start": 34,
+          "url": "https://t.co/MgMlGmpGYd"
+        },
+        {
+          "display_url": "pic.x.com/MgMlGmpGYd",
+          "end": 57,
+          "expanded_url": "https://x.com/DDzhanshou5150/status/1993007291390738607/photo/1",
+          "media_key": "3_1993007253465841664",
+          "start": 34,
+          "url": "https://t.co/MgMlGmpGYd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993384307797508315",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 69
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993007291390738607",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DDzhanshou5150: 忽然从老妖婆变成他们的妈了 https://t.co/MgMlGmpGYd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 695,
+        "media_key": "3_1993007223514316804",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6iVgqhbwAQBYjP.png",
+        "width": 640
+      },
+      {
+        "height": 709,
+        "media_key": "3_1993007253465841664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6iViaGbwAAkQQ-.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993007223514316804",
+            "3_1993007253465841664"
+          ],
+          "media_source_tweet_id": [
+            "1993007291390738607",
+            "1993007291390738607"
+          ]
+        },
+        "author_id": "1907414826101669888",
+        "conversation_id": "1993384307797508315",
+        "created_at": "2025-11-25T18:20:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T19:20:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993384307797508315"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1865419581206208512",
+              "start": 3,
+              "username": "DDzhanshou5150"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MgMlGmpGYd",
+              "end": 57,
+              "expanded_url": "https://x.com/DDzhanshou5150/status/1993007291390738607/photo/1",
+              "media_key": "3_1993007223514316804",
+              "start": 34,
+              "url": "https://t.co/MgMlGmpGYd"
+            },
+            {
+              "display_url": "pic.x.com/MgMlGmpGYd",
+              "end": 57,
+              "expanded_url": "https://x.com/DDzhanshou5150/status/1993007291390738607/photo/1",
+              "media_key": "3_1993007253465841664",
+              "start": 34,
+              "url": "https://t.co/MgMlGmpGYd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993384307797508315",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 69
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993007291390738607",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DDzhanshou5150: 忽然从老妖婆变成他们的妈了 https://t.co/MgMlGmpGYd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993007223514316804",
+            "3_1993007253465841664"
+          ]
+        },
+        "author_id": "1865419581206208512",
+        "conversation_id": "1993007291390738607",
+        "created_at": "2025-11-24T17:22:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T18:22:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993007291390738607"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MgMlGmpGYd",
+              "end": 37,
+              "expanded_url": "https://x.com/DDzhanshou5150/status/1993007291390738607/photo/1",
+              "media_key": "3_1993007223514316804",
+              "start": 14,
+              "url": "https://t.co/MgMlGmpGYd"
+            },
+            {
+              "display_url": "pic.x.com/MgMlGmpGYd",
+              "end": 37,
+              "expanded_url": "https://x.com/DDzhanshou5150/status/1993007291390738607/photo/1",
+              "media_key": "3_1993007253465841664",
+              "start": 14,
+              "url": "https://t.co/MgMlGmpGYd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993007291390738607",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 87,
+          "impression_count": 268347,
+          "like_count": 1551,
+          "quote_count": 33,
+          "reply_count": 81,
+          "retweet_count": 69
+        },
+        "reply_settings": "everyone",
+        "text": "忽然从老妖婆变成他们的妈了 https://t.co/MgMlGmpGYd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "",
+        "id": "1907414826101669888",
+        "name": "Jam Farewell Song",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907415117874253824/L2WK8HRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 101,
+          "like_count": 16,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 23
+        },
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-07T15:34:33.000Z",
+        "description": "啊夸单推人 fo咱的咱会尽量回fo 没fo回去就是到限制了 YOYO小可爱@vu_yoyo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 37,
+                "username": "vu_yoyo"
+              }
+            ]
+          }
+        },
+        "id": "1865419581206208512",
+        "name": "早露泡泡兔",
+        "pinned_tweet_id": "1894717736468803636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948968254443323393/ZIfIv4ZA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9439,
+          "following_count": 7795,
+          "like_count": 27432,
+          "listed_count": 22,
+          "media_count": 6501,
+          "tweet_count": 41526
+        },
+        "username": "DDzhanshou5150",
+        "verified": false
+      }
+    ]
+  }
+}

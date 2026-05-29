@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2046659648187691164",
+    "created_at": "2026-04-21T18:37:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T19:37:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046659648187691164"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/JamFarewellSon…",
+          "end": 186,
+          "expanded_url": "https://twitter.com/JamFarewellSong/status/2044153878107828664",
+          "start": 163,
+          "url": "https://t.co/cWZV05xgtZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046659648187691164",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044153878107828664",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "果酱离歌の第1次死亡\n                  ↓\n讣告👻，果酱1号于4月15日凌晨04：49因急性颅内出血逝世。死亡原因为od 1500mg pr80后进入浴室洗澡时不慎摔倒，头部先后撞击到墙面与地面，造成蛛网膜下腔出血。出血不断压迫脑组织，颅内压力飙升，短时间形成脑疝，36分钟后死亡😵果酱2号全程围观并记录😈 https://t.co/cWZV05xgtZ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2046659648187691164",
+        "created_at": "2026-04-21T18:37:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T19:37:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046659648187691164"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/JamFarewellSon…",
+              "end": 186,
+              "expanded_url": "https://twitter.com/JamFarewellSong/status/2044153878107828664",
+              "start": 163,
+              "url": "https://t.co/cWZV05xgtZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046659648187691164",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044153878107828664",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "果酱离歌の第1次死亡\n                  ↓\n讣告👻，果酱1号于4月15日凌晨04：49因急性颅内出血逝世。死亡原因为od 1500mg pr80后进入浴室洗澡时不慎摔倒，头部先后撞击到墙面与地面，造成蛛网膜下腔出血。出血不断压迫脑组织，颅内压力飙升，短时间形成脑疝，36分钟后死亡😵果酱2号全程围观并记录😈 https://t.co/cWZV05xgtZ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2044153878107828664",
+        "created_at": "2026-04-14T20:40:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T21:40:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044153878107828664"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044153878107828664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "准备开一个有点个人风格的系列帖子喵😇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "电波系中央空调；MtX&泛性恋&ASD&（隐藏属性）&CPTSD，性别/身材焦虑；od、自伤の新手；文娱杂食党，Gore爱好者；期待大家扩列互fo😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205,
+          "following_count": 854,
+          "like_count": 2875,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 616
+        },
+        "username": "JamFarewellSong",
+        "verified": false
+      }
+    ]
+  }
+}

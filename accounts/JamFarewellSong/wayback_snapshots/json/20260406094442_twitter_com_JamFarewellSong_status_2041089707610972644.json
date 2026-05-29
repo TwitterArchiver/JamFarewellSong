@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2041069339735187456"
+      ],
+      "media_source_tweet_id": [
+        "2041069342184685635"
+      ]
+    },
+    "author_id": "1907414826101669888",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2041089707610972644",
+    "created_at": "2026-04-06T09:44:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T10:44:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041089707610972644"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1820207828931424256",
+          "start": 3,
+          "username": "neko0202002"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5mWXU6gBwZ",
+          "end": 66,
+          "expanded_url": "https://x.com/neko0202002/status/2041069342184685635/photo/1",
+          "media_key": "3_2041069339735187456",
+          "start": 43,
+          "url": "https://t.co/5mWXU6gBwZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041089707610972644",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041069342184685635",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @neko0202002: 我之前吃药吃迷糊了，发高烧，我以为我血清素综合症呢 https://t.co/5mWXU6gBwZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 279,
+        "media_key": "3_2041069339735187456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFNVwBzbYAA7Sy-.jpg",
+        "width": 250
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041069339735187456"
+          ],
+          "media_source_tweet_id": [
+            "2041069342184685635"
+          ]
+        },
+        "author_id": "1907414826101669888",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2041089707610972644",
+        "created_at": "2026-04-06T09:44:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T10:44:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041089707610972644"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1820207828931424256",
+              "start": 3,
+              "username": "neko0202002"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5mWXU6gBwZ",
+              "end": 66,
+              "expanded_url": "https://x.com/neko0202002/status/2041069342184685635/photo/1",
+              "media_key": "3_2041069339735187456",
+              "start": 43,
+              "url": "https://t.co/5mWXU6gBwZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041089707610972644",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041069342184685635",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @neko0202002: 我之前吃药吃迷糊了，发高烧，我以为我血清素综合症呢 https://t.co/5mWXU6gBwZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041069339735187456"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2041069342184685635",
+        "created_at": "2026-04-06T08:23:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T09:23:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041069342184685635"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5mWXU6gBwZ",
+              "end": 49,
+              "expanded_url": "https://x.com/neko0202002/status/2041069342184685635/photo/1",
+              "media_key": "3_2041069339735187456",
+              "start": 26,
+              "url": "https://t.co/5mWXU6gBwZ"
+            },
+            {
+              "display_url": "x.com/winterfruit_1/…",
+              "end": 73,
+              "expanded_url": "https://twitter.com/winterfruit_1/status/2040982163655639263",
+              "start": 50,
+              "url": "https://t.co/O7M2l3xCqy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041069342184685635",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 184,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040982163655639263",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我之前吃药吃迷糊了，发高烧，我以为我血清素综合症呢 https://t.co/5mWXU6gBwZ https://t.co/O7M2l3xCqy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "电波系中央空调；MtX&泛性恋&ASD&（隐藏属性）&CPTSD，性别/身材焦虑；od、自伤の新手；文娱杂食党，Gore爱好者；期待大家扩列互fo😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 494,
+          "like_count": 683,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 158
+        },
+        "url": "",
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "药理学习中/同类查成分互fo/可以称为千早/心理学重度依赖/学习学习学习/请和我做朋友ᗜ𖥦ᗜ✝︎",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041043664290639872/MsU7KOlV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 517,
+          "following_count": 766,
+          "like_count": 1019,
+          "listed_count": 2,
+          "media_count": 849,
+          "tweet_count": 2441
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      }
+    ]
+  }
+}

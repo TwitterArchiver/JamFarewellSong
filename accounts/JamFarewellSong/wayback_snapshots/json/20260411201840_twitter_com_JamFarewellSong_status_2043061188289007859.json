@@ -1,0 +1,332 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1934801998270091264"
+      ],
+      "media_source_tweet_id": [
+        "1934825954343588056"
+      ]
+    },
+    "author_id": "1907414826101669888",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2043061188289007859",
+    "created_at": "2026-04-11T20:18:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T21:18:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043061188289007859"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 46,
+          "start": 34,
+          "tag": "nijijourney"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2766725377",
+          "start": 3,
+          "username": "748cm"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/daQXbZsgKa",
+          "end": 89,
+          "expanded_url": "https://x.com/748cm/status/1934825954343588056/video/1",
+          "media_key": "13_1934801998270091264",
+          "start": 66,
+          "url": "https://t.co/daQXbZsgKa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043061188289007859",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 25
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934825954343588056",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @748cm: Smokin More and More.\n\n#nijijourney \nniji journey動画モデル https://t.co/daQXbZsgKa"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5208,
+        "height": 720,
+        "media_key": "13_1934801998270091264",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1934801998270091264/img/qRvBKFJbkHw3ahD8.jpg",
+        "public_metrics": {
+          "view_count": 5670
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1934801998270091264/vid/avc1/320x422/9EL1JtEGSvx4wCyj.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1934801998270091264/vid/avc1/480x634/TqMUtixRvKaNyeiC.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1934801998270091264/vid/avc1/544x720/8mUPDlWiu7ZpGa1I.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1934801998270091264/pl/CH85jWOYhTTDVJGC.m3u8"
+          }
+        ],
+        "width": 544
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1934801998270091264"
+          ],
+          "media_source_tweet_id": [
+            "1934825954343588056"
+          ]
+        },
+        "author_id": "1907414826101669888",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2043061188289007859",
+        "created_at": "2026-04-11T20:18:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T21:18:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043061188289007859"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 46,
+              "start": 34,
+              "tag": "nijijourney"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2766725377",
+              "start": 3,
+              "username": "748cm"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/daQXbZsgKa",
+              "end": 89,
+              "expanded_url": "https://x.com/748cm/status/1934825954343588056/video/1",
+              "media_key": "13_1934801998270091264",
+              "start": 66,
+              "url": "https://t.co/daQXbZsgKa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043061188289007859",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 25
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934825954343588056",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @748cm: Smokin More and More.\n\n#nijijourney \nniji journey動画モデル https://t.co/daQXbZsgKa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1934801998270091264"
+          ]
+        },
+        "author_id": "2766725377",
+        "conversation_id": "1934825954343588056",
+        "created_at": "2025-06-17T04:10:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T05:10:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1934825954343588056"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 35,
+              "start": 23,
+              "tag": "nijijourney"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/daQXbZsgKa",
+              "end": 78,
+              "expanded_url": "https://x.com/748cm/status/1934825954343588056/video/1",
+              "media_key": "13_1934801998270091264",
+              "start": 55,
+              "url": "https://t.co/daQXbZsgKa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934825954343588056",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 36,
+          "impression_count": 38222,
+          "like_count": 308,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "Smokin More and More.\n\n#nijijourney \nniji journey動画モデル https://t.co/daQXbZsgKa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "电波系中央空调；MtX&泛性恋&ASD&（隐藏属性）&CPTSD，性别/身材焦虑；od、自伤の新手；文娱杂食党，Gore爱好者；期待大家扩列互fo😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 757,
+          "like_count": 2086,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 428
+        },
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2014-08-25T15:18:15.000Z",
+        "description": "hate me🧸🔪 / DM Open https://t.co/IutnivpC2k",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/Malice?fbclid=…",
+                "end": 43,
+                "expanded_url": "https://lit.link/Malice?fbclid=PAZXh0bgNhZW0CMT",
+                "start": 20,
+                "url": "https://t.co/IutnivpC2k"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "amazon.jp/hz/wishlist/ls…",
+                "end": 23,
+                "expanded_url": "https://www.amazon.jp/hz/wishlist/ls/MBOWQFP5QE0F?ref_=wl_share",
+                "start": 0,
+                "url": "https://t.co/iAcwP4m5Yp"
+              }
+            ]
+          }
+        },
+        "id": "2766725377",
+        "location": "Created by \"AI\" 100%",
+        "name": "惡意",
+        "pinned_tweet_id": "2020760964371718331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925714997813932033/Uf7ZceDy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121255,
+          "following_count": 205,
+          "like_count": 15418,
+          "listed_count": 614,
+          "media_count": 4029,
+          "tweet_count": 12783
+        },
+        "url": "https://t.co/iAcwP4m5Yp",
+        "username": "748cm",
+        "verified": true
+      }
+    ]
+  }
+}

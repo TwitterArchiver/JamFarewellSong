@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2047559907118084113",
+    "created_at": "2026-04-24T06:14:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T07:14:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047559907118084113"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1454803007682453513",
+          "start": 3,
+          "username": "saya_ich1ka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047559907118084113",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010566984212348997",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @saya_ich1ka: 看花路的推文很久了，我就觉得以她的择偶标准，对方是隐藏的mtf的概率很大，然后一旦接触到这个群体就容易被打破世俗枷锁去跨。\n至于解法嘛，我觉得1️⃣是找那种xp是跨女的顺直男，2️⃣是花路术后装不孕不育顺直女😥"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2047559907118084113",
+        "created_at": "2026-04-24T06:14:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T07:14:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047559907118084113"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1454803007682453513",
+              "start": 3,
+              "username": "saya_ich1ka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047559907118084113",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010566984212348997",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @saya_ich1ka: 看花路的推文很久了，我就觉得以她的择偶标准，对方是隐藏的mtf的概率很大，然后一旦接触到这个群体就容易被打破世俗枷锁去跨。\n至于解法嘛，我觉得1️⃣是找那种xp是跨女的顺直男，2️⃣是花路术后装不孕不育顺直女😥"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1454803007682453513",
+        "conversation_id": "2010566984212348997",
+        "created_at": "2026-01-12T04:18:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T05:18:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010566984212348997"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mukdengise/sta…",
+              "end": 129,
+              "expanded_url": "https://twitter.com/mukdengise/status/2009646914917245186",
+              "start": 106,
+              "url": "https://t.co/qY2VRPw5NY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010566984212348997",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 11431,
+          "like_count": 64,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009646914917245186",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "看花路的推文很久了，我就觉得以她的择偶标准，对方是隐藏的mtf的概率很大，然后一旦接触到这个群体就容易被打破世俗枷锁去跨。\n至于解法嘛，我觉得1️⃣是找那种xp是跨女的顺直男，2️⃣是花路术后装不孕不育顺直女😥 https://t.co/qY2VRPw5NY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "电波系中央空调；MtX&泛性恋&ASD&（隐藏属性）&CPTSD，性别/身材焦虑；od、自伤の新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；期待大家扩列互fo😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 211,
+          "following_count": 878,
+          "like_count": 3018,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 675
+        },
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-31T13:31:05.000Z",
+        "description": "顺手挽住火焰，化作漫天大雪。",
+        "id": "1454803007682453513",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "沙耶",
+        "pinned_tweet_id": "1872187369094603160",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992133069860712448/HMcvd9BI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2343,
+          "following_count": 994,
+          "like_count": 9824,
+          "listed_count": 5,
+          "media_count": 88,
+          "tweet_count": 1393
+        },
+        "username": "saya_ich1ka",
+        "verified": false
+      }
+    ]
+  }
+}

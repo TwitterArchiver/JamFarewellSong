@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2041282830161084577",
+    "created_at": "2026-04-06T22:32:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T23:32:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041282830161084577"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1589578886861320192",
+          "start": 3,
+          "username": "anltouk"
+        },
+        {
+          "end": 23,
+          "id": "1659962043460354050",
+          "start": 13,
+          "username": "SalviaSWC"
+        },
+        {
+          "end": 34,
+          "id": "1793636329299066880",
+          "start": 24,
+          "username": "cuichuna7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041282830161084577",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938506728683016678",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @anltouk: @SalviaSWC @cuichuna7 这算是主流文化内媒体人的无意识，如果主流文化对于少数群体完全不了解，那么少数群体对于主流文化来说就是有毒有害的。\n促使少数群体背离主流的动因，是主流群体害怕直面的东西。\n但是把它打扮成现在这幅模样传播开来，刚…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2041282830161084577",
+        "created_at": "2026-04-06T22:32:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T23:32:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041282830161084577"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1589578886861320192",
+              "start": 3,
+              "username": "anltouk"
+            },
+            {
+              "end": 23,
+              "id": "1659962043460354050",
+              "start": 13,
+              "username": "SalviaSWC"
+            },
+            {
+              "end": 34,
+              "id": "1793636329299066880",
+              "start": 24,
+              "username": "cuichuna7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041282830161084577",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938506728683016678",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @anltouk: @SalviaSWC @cuichuna7 这算是主流文化内媒体人的无意识，如果主流文化对于少数群体完全不了解，那么少数群体对于主流文化来说就是有毒有害的。\n促使少数群体背离主流的动因，是主流群体害怕直面的东西。\n但是把它打扮成现在这幅模样传播开来，刚…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1589578886861320192",
+        "conversation_id": "1938453548808999070",
+        "created_at": "2025-06-27T07:56:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T08:56:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938506728683016678"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1659962043460354050",
+              "start": 0,
+              "username": "SalviaSWC"
+            },
+            {
+              "end": 21,
+              "id": "1793636329299066880",
+              "start": 11,
+              "username": "cuichuna7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938506728683016678",
+        "in_reply_to_user_id": "1659962043460354050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 506,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938457232334565484",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SalviaSWC @cuichuna7 这算是主流文化内媒体人的无意识，如果主流文化对于少数群体完全不了解，那么少数群体对于主流文化来说就是有毒有害的。\n促使少数群体背离主流的动因，是主流群体害怕直面的东西。\n但是把它打扮成现在这幅模样传播开来，刚好能让一切问题不是问题。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "电波系中央空调；MtX&泛性恋&ASD&（隐藏属性）&CPTSD，性别/身材焦虑；od、自伤の新手；文娱杂食党，Gore爱好者；期待大家扩列互fo😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 565,
+          "like_count": 1113,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 211
+        },
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-07T11:22:12.000Z",
+        "description": "文字败坏记忆",
+        "id": "1589578886861320192",
+        "location": "Shanghai",
+        "name": "文拉我辛",
+        "pinned_tweet_id": "1776631479017328678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1605928882695462912/WbtG83jl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 496,
+          "like_count": 16554,
+          "listed_count": 2,
+          "media_count": 598,
+          "tweet_count": 4046
+        },
+        "username": "anltouk",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07|上海|退役OIer|计算机💻|\n\n本号暂为2026中推模拟大选🗳️OD党临时发言号📢|不卖药🚫|欢迎任何人🌈|包容各种做法☮|互fo🉑哦🥰|没回fo的话，请私信我哦📬|\n\n脑婆:@DXM8964LXM\n\n丨药物知识开源化💊|来FreeODwiki看看吧！|Say Know to Drugs 😼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 92,
+                "username": "DXM8964LXM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "https://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/20q0OtAMFL"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿（中推OD党版）",
+        "pinned_tweet_id": "2036091782501433723",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034583473692852224/nE4xPVUJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3692,
+          "following_count": 987,
+          "like_count": 21834,
+          "listed_count": 8,
+          "media_count": 406,
+          "tweet_count": 6618
+        },
+        "url": "https://t.co/20q0OtAMFL",
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-23T13:33:30.000Z",
+        "description": "🇹🇼🇺🇦/09的滴泪系小猫娘/identityV/抑郁症患者🥹/欢迎互fo，这里是time欢迎找我倾诉聊天😾最终目标是100000粉😿",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/troellstoree2",
+                "end": 23,
+                "expanded_url": "https://t.me/troellstoree2",
+                "start": 0,
+                "url": "https://t.co/YwNpXr2uZp"
+              }
+            ]
+          }
+        },
+        "id": "1793636329299066880",
+        "location": "宇宙之外",
+        "name": "grace.time☃︎",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844267194240335874/5S0ww2Z4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2854,
+          "following_count": 3747,
+          "like_count": 7148,
+          "listed_count": 11,
+          "media_count": 204,
+          "tweet_count": 3027
+        },
+        "url": "https://t.co/YwNpXr2uZp",
+        "username": "cuichuna7",
+        "verified": false
+      }
+    ]
+  }
+}

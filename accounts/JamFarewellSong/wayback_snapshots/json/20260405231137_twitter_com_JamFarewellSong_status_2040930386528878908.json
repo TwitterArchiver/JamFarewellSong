@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2040930386528878908",
+    "created_at": "2026-04-05T23:11:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T00:11:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040930386528878908"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1943561677762646016",
+          "start": 3,
+          "username": "qusuunmd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040930386528878908",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040752976802021601",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @qusuunmd: 看到年龄党，又好难过，就让我做一辈子赛博生命吧\n不忍直视的肉体，哎。。\n这也许是命运的必然，它逼着我的灵魂在这荒谬世界中硬生生开出一朵梦之花，却连一个落脚的地方都没有\n羡慕年龄党"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2040930386528878908",
+        "created_at": "2026-04-05T23:11:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T00:11:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040930386528878908"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943561677762646016",
+              "start": 3,
+              "username": "qusuunmd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040930386528878908",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040752976802021601",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @qusuunmd: 看到年龄党，又好难过，就让我做一辈子赛博生命吧\n不忍直视的肉体，哎。。\n这也许是命运的必然，它逼着我的灵魂在这荒谬世界中硬生生开出一朵梦之花，却连一个落脚的地方都没有\n羡慕年龄党"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943561677762646016",
+        "conversation_id": "2040752976802021601",
+        "created_at": "2026-04-05T11:26:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T12:26:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040752976802021601"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/0502railgun194…",
+              "end": 113,
+              "expanded_url": "https://twitter.com/0502railgun1949/status/2040748074251997545",
+              "start": 90,
+              "url": "https://t.co/YRAXCOZTd8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040752976802021601",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 217,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040748074251997545",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "看到年龄党，又好难过，就让我做一辈子赛博生命吧\n不忍直视的肉体，哎。。\n这也许是命运的必然，它逼着我的灵魂在这荒谬世界中硬生生开出一朵梦之花，却连一个落脚的地方都没有\n羡慕年龄党 https://t.co/YRAXCOZTd8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "电波系中央空调；MtX&泛性恋&ASD&（隐藏属性）&CPTSD，性别/身材焦虑；od、自伤の新手；文娱杂食党，Gore爱好者；期待大家扩列互fo😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 447,
+          "like_count": 548,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 129
+        },
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-11T06:44:29.000Z",
+        "description": "2010年的xyn/167cm 57.5kg（www我要减肥）/hrt🍥时间:2025.8.15/无证含糖🍥/高一牲/有点缺爱/想要贴贴/同类互fo喵/常住于青岛喵/过年会回泉州/穷穷穷 想要钱钱",
+        "id": "1943561677762646016",
+        "location": "Hachinohe-shi, Aomori",
+        "name": "曲速 u🍥",
+        "pinned_tweet_id": "2026888122144010402",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025830754715090944/KciDNY7c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 427,
+          "following_count": 225,
+          "like_count": 1269,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 508
+        },
+        "username": "qusuunmd",
+        "verified": false
+      }
+    ]
+  }
+}

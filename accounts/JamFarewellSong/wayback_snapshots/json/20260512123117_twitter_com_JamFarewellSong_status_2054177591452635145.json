@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054084226463809538"
+      ],
+      "media_source_tweet_id": [
+        "2054084228741259669"
+      ]
+    },
+    "author_id": "1907414826101669888",
+    "conversation_id": "2054177591452635145",
+    "created_at": "2026-05-12T12:31:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T13:31:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054177591452635145"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1621552410048237569",
+          "start": 3,
+          "username": "amecandy_x"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SLAw5cmvC0",
+          "end": 65,
+          "expanded_url": "https://x.com/amecandy_x/status/2054084228741259669/photo/1",
+          "media_key": "3_2054084226463809538",
+          "start": 42,
+          "url": "https://t.co/SLAw5cmvC0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054177591452635145",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054084228741259669",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @amecandy_x: 和妈妈坦白对象……\n对象是非二元但是麻麻还是接受了 https://t.co/SLAw5cmvC0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2054084226463809538",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIGSuJEbwAIPsLT.jpg",
+        "width": 699
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054084226463809538"
+          ],
+          "media_source_tweet_id": [
+            "2054084228741259669"
+          ]
+        },
+        "author_id": "1907414826101669888",
+        "conversation_id": "2054177591452635145",
+        "created_at": "2026-05-12T12:31:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T13:31:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054177591452635145"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1621552410048237569",
+              "start": 3,
+              "username": "amecandy_x"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SLAw5cmvC0",
+              "end": 65,
+              "expanded_url": "https://x.com/amecandy_x/status/2054084228741259669/photo/1",
+              "media_key": "3_2054084226463809538",
+              "start": 42,
+              "url": "https://t.co/SLAw5cmvC0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054177591452635145",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054084228741259669",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @amecandy_x: 和妈妈坦白对象……\n对象是非二元但是麻麻还是接受了 https://t.co/SLAw5cmvC0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054084226463809538"
+          ]
+        },
+        "author_id": "1621552410048237569",
+        "conversation_id": "2054084228741259669",
+        "created_at": "2026-05-12T06:20:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T07:20:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054084228741259669"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SLAw5cmvC0",
+              "end": 49,
+              "expanded_url": "https://x.com/amecandy_x/status/2054084228741259669/photo/1",
+              "media_key": "3_2054084226463809538",
+              "start": 26,
+              "url": "https://t.co/SLAw5cmvC0"
+            },
+            {
+              "display_url": "x.com/amecandy_x/sta…",
+              "end": 73,
+              "expanded_url": "https://twitter.com/amecandy_x/status/2053427597137281341",
+              "start": 50,
+              "url": "https://t.co/QLjCzdXyft"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054084228741259669",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2356,
+          "like_count": 38,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053427597137281341",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "和妈妈坦白对象……\n对象是非二元但是麻麻还是接受了 https://t.co/SLAw5cmvC0 https://t.co/QLjCzdXyft"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od、自伤の新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 262,
+          "following_count": 966,
+          "like_count": 3538,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 873
+        },
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-03T16:53:25.000Z",
+        "description": "07 / MtF / 自由意志左翼🚩/ 全栈工程师 / 独立LLM研究者 / 药物咨询https://t.co/z6NWnM8mXv",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/amecandyx",
+                "end": 66,
+                "expanded_url": "https://ngl.link/amecandyx",
+                "start": 43,
+                "url": "https://t.co/z6NWnM8mXv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/Ul32kqG4uh"
+              }
+            ]
+          }
+        },
+        "id": "1621552410048237569",
+        "location": "山东·济南",
+        "name": "小雨",
+        "pinned_tweet_id": "2053359050512040106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023354415944495104/Uixnel15_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6382,
+          "following_count": 2122,
+          "like_count": 27093,
+          "listed_count": 16,
+          "media_count": 1448,
+          "tweet_count": 10216
+        },
+        "url": "https://t.co/Ul32kqG4uh",
+        "username": "amecandy_x",
+        "verified": false
+      }
+    ]
+  }
+}

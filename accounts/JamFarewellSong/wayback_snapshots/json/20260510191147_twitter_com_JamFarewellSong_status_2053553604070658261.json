@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2053481554807329081",
+    "created_at": "2026-05-10T19:11:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T20:11:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053553604070658261"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2053475823538372608",
+          "start": 0,
+          "username": "YaZangxueNo_2"
+        },
+        {
+          "end": 30,
+          "id": "2044073101961412609",
+          "start": 15,
+          "username": "crow_kill_snow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053553604070658261",
+    "in_reply_to_user_id": "2053475823538372608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053481554807329081",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YaZangxueNo_2 @crow_kill_snow 听闻坠机，已光速前来追随二号机😇"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [crow_kill_snow].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "crow_kill_snow",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "crow_kill_snow"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2053481554807329081",
+        "created_at": "2026-05-10T19:11:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T20:11:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053553604070658261"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2053475823538372608",
+              "start": 0,
+              "username": "YaZangxueNo_2"
+            },
+            {
+              "end": 30,
+              "id": "2044073101961412609",
+              "start": 15,
+              "username": "crow_kill_snow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053553604070658261",
+        "in_reply_to_user_id": "2053475823538372608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053481554807329081",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YaZangxueNo_2 @crow_kill_snow 听闻坠机，已光速前来追随二号机😇"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053475823538372608",
+        "conversation_id": "2053481554807329081",
+        "created_at": "2026-05-10T14:25:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T15:25:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053481554807329081"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2044073101961412609",
+              "start": 4,
+              "username": "crow_kill_snow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053481554807329081",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 827,
+          "like_count": 23,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "初号机 @crow_kill_snow 不幸陨落，二号机互fo寻回中大家可以帮忙转帖呀，还有部分单号还没发走，谢谢大家啦！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od、自伤の新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 951,
+          "like_count": 3393,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 815
+        },
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-10T14:03:03.000Z",
+        "description": "鸦葬雪初代机陨落，互fo寻回中，看见的宝宝可以帮忙转帖呀",
+        "id": "2053475823538372608",
+        "location": "下北沢",
+        "name": "鸦葬雪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053480204023287808/5Oxki_GX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 8,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 7
+        },
+        "username": "YaZangxueNo_2",
+        "verified": false
+      }
+    ]
+  }
+}

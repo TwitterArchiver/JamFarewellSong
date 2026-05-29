@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2046557696514838528"
+      ],
+      "media_source_tweet_id": [
+        "2046557753175650633"
+      ]
+    },
+    "author_id": "1907414826101669888",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2053280290509037651",
+    "created_at": "2026-05-10T01:05:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T02:05:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053280290509037651"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1545009548473221120",
+          "start": 3,
+          "username": "L1suks"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KWwDM5tbdT",
+          "end": 35,
+          "expanded_url": "https://x.com/L1suks/status/2046557753175650633/photo/1",
+          "media_key": "3_2046557696514838528",
+          "start": 12,
+          "url": "https://t.co/KWwDM5tbdT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053280290509037651",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046557753175650633",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @L1suks: https://t.co/KWwDM5tbdT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_2046557696514838528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGbVYcEb0AAQHdG.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046557696514838528"
+          ],
+          "media_source_tweet_id": [
+            "2046557753175650633"
+          ]
+        },
+        "author_id": "1907414826101669888",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2053280290509037651",
+        "created_at": "2026-05-10T01:05:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T02:05:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053280290509037651"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1545009548473221120",
+              "start": 3,
+              "username": "L1suks"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KWwDM5tbdT",
+              "end": 35,
+              "expanded_url": "https://x.com/L1suks/status/2046557753175650633/photo/1",
+              "media_key": "3_2046557696514838528",
+              "start": 12,
+              "url": "https://t.co/KWwDM5tbdT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053280290509037651",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046557753175650633",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @L1suks: https://t.co/KWwDM5tbdT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046557696514838528"
+          ]
+        },
+        "author_id": "1545009548473221120",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2046557753175650633",
+        "created_at": "2026-04-21T11:52:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T12:52:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046557753175650633"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KWwDM5tbdT",
+              "end": 23,
+              "expanded_url": "https://x.com/L1suks/status/2046557753175650633/photo/1",
+              "media_key": "3_2046557696514838528",
+              "start": 0,
+              "url": "https://t.co/KWwDM5tbdT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046557753175650633",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 433,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/KWwDM5tbdT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od、自伤の新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 257,
+          "following_count": 955,
+          "like_count": 3387,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 808
+        },
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-07T11:39:25.000Z",
+        "description": "蛾（é）：昆蟲，與蝴蝶相似， 體肥大，觸角細長如絲， 翅面灰白， 靜止時，翅左右平放， 常在夜間活動， 有趨光性。（绿色举牌）",
+        "id": "1545009548473221120",
+        "location": "枯 海 便利店 淤青 玉蝶",
+        "name": "什么都无法解决的世界",
+        "pinned_tweet_id": "1646916435380166660",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017630852403105794/A5bfTNxK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7057,
+          "following_count": 10,
+          "like_count": 487,
+          "listed_count": 20,
+          "media_count": 238,
+          "tweet_count": 1290
+        },
+        "username": "L1suks",
+        "verified": false
+      }
+    ]
+  }
+}

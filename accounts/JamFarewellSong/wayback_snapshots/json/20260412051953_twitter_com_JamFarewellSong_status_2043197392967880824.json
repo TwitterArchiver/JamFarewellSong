@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2043197392967880824",
+    "created_at": "2026-04-12T05:19:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T06:19:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043197392967880824"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1613578662846271494",
+          "start": 3,
+          "username": "sese2761083957"
+        },
+        {
+          "end": 35,
+          "id": "2031097520840167424",
+          "start": 20,
+          "username": "Ciallo_114_514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043197392967880824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043110577224999321",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sese2761083957: @Ciallo_114_514 哎 我也是想 xing余大的时候恨不得含着j过一整天"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2043197392967880824",
+        "created_at": "2026-04-12T05:19:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T06:19:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043197392967880824"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1613578662846271494",
+              "start": 3,
+              "username": "sese2761083957"
+            },
+            {
+              "end": 35,
+              "id": "2031097520840167424",
+              "start": 20,
+              "username": "Ciallo_114_514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043197392967880824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043110577224999321",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sese2761083957: @Ciallo_114_514 哎 我也是想 xing余大的时候恨不得含着j过一整天"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1613578662846271494",
+        "conversation_id": "2043001633144213823",
+        "created_at": "2026-04-11T23:34:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T00:34:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043110577224999321"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2031097520840167424",
+              "start": 0,
+              "username": "Ciallo_114_514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043110577224999321",
+        "in_reply_to_user_id": "2031097520840167424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043001990360555702",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ciallo_114_514 哎 我也是想 xing余大的时候恨不得含着j过一整天"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "电波系中央空调；MtX&泛性恋&ASD&（隐藏属性）&CPTSD，性别/身材焦虑；od、自伤の新手；文娱杂食党，Gore爱好者；期待大家扩列互fo😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 161,
+          "following_count": 761,
+          "like_count": 2108,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 431
+        },
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-12T16:48:39.000Z",
+        "description": "男 03 平常有点小爱好 宅 不爱出门 似乎男或女都可以呢 求金主爸爸收养 可私信哦～",
+        "id": "1613578662846271494",
+        "location": "China",
+        "name": "洋洋～",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1698984838739447808/JD2twRCd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 174,
+          "like_count": 3024,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 78
+        },
+        "username": "sese2761083957",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-09T19:59:37.000Z",
+        "description": "前世@YunoQiu56649\n生日0402｜hrt2026.1.12-3.19 断糖ing｜已炸柜｜中焦重抑｜全部立场中立｜碎碎念｜我不想死了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "YunoQiu56649"
+              }
+            ]
+          }
+        },
+        "id": "2031097520840167424",
+        "location": "你家",
+        "name": "Ciallo～(∠・ω ＜ )︵🍥（互fo寻回ing）",
+        "pinned_tweet_id": "2041169063330889949",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035909538168328193/rP91M_1J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 752,
+          "following_count": 573,
+          "like_count": 1243,
+          "listed_count": 2,
+          "media_count": 19,
+          "tweet_count": 2601
+        },
+        "username": "Ciallo_114_514",
+        "verified": false
+      }
+    ]
+  }
+}

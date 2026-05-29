@@ -1,0 +1,344 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052939213272973312",
+        "3_2052939214250291201",
+        "3_2052939218272632832"
+      ],
+      "media_source_tweet_id": [
+        "2052939286698397898",
+        "2052939286698397898",
+        "2052939286698397898"
+      ]
+    },
+    "author_id": "1907414826101669888",
+    "conversation_id": "2052949635216658897",
+    "created_at": "2026-05-09T03:11:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T04:11:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052949635216658897"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1621552410048237569",
+          "start": 3,
+          "username": "amecandy_x"
+        },
+        {
+          "end": 46,
+          "id": "1907414826101669888",
+          "start": 30,
+          "username": "JamFarewellSong"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WdB06DWcyP",
+          "end": 70,
+          "expanded_url": "https://x.com/amecandy_x/status/2052939286698397898/photo/1",
+          "media_key": "3_2052939213272973312",
+          "start": 47,
+          "url": "https://t.co/WdB06DWcyP"
+        },
+        {
+          "display_url": "pic.x.com/WdB06DWcyP",
+          "end": 70,
+          "expanded_url": "https://x.com/amecandy_x/status/2052939286698397898/photo/1",
+          "media_key": "3_2052939214250291201",
+          "start": 47,
+          "url": "https://t.co/WdB06DWcyP"
+        },
+        {
+          "display_url": "pic.x.com/WdB06DWcyP",
+          "end": 70,
+          "expanded_url": "https://x.com/amecandy_x/status/2052939286698397898/photo/1",
+          "media_key": "3_2052939218272632832",
+          "start": 47,
+          "url": "https://t.co/WdB06DWcyP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052949635216658897",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052939286698397898",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @amecandy_x: 大明湖，明湖大～\nwith @JamFarewellSong https://t.co/WdB06DWcyP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2304,
+        "media_key": "3_2052939213272973312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH2BVmibAAAy0qy.jpg",
+        "width": 4096
+      },
+      {
+        "height": 2304,
+        "media_key": "3_2052939214250291201",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH2BVqLbsAEOckF.jpg",
+        "width": 4096
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2052939218272632832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH2BV5KbwAAWx8_.jpg",
+        "width": 2304
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052939213272973312",
+            "3_2052939214250291201",
+            "3_2052939218272632832"
+          ],
+          "media_source_tweet_id": [
+            "2052939286698397898",
+            "2052939286698397898",
+            "2052939286698397898"
+          ]
+        },
+        "author_id": "1907414826101669888",
+        "conversation_id": "2052949635216658897",
+        "created_at": "2026-05-09T03:11:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T04:11:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052949635216658897"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1621552410048237569",
+              "start": 3,
+              "username": "amecandy_x"
+            },
+            {
+              "end": 46,
+              "id": "1907414826101669888",
+              "start": 30,
+              "username": "JamFarewellSong"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WdB06DWcyP",
+              "end": 70,
+              "expanded_url": "https://x.com/amecandy_x/status/2052939286698397898/photo/1",
+              "media_key": "3_2052939213272973312",
+              "start": 47,
+              "url": "https://t.co/WdB06DWcyP"
+            },
+            {
+              "display_url": "pic.x.com/WdB06DWcyP",
+              "end": 70,
+              "expanded_url": "https://x.com/amecandy_x/status/2052939286698397898/photo/1",
+              "media_key": "3_2052939214250291201",
+              "start": 47,
+              "url": "https://t.co/WdB06DWcyP"
+            },
+            {
+              "display_url": "pic.x.com/WdB06DWcyP",
+              "end": 70,
+              "expanded_url": "https://x.com/amecandy_x/status/2052939286698397898/photo/1",
+              "media_key": "3_2052939218272632832",
+              "start": 47,
+              "url": "https://t.co/WdB06DWcyP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052949635216658897",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052939286698397898",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @amecandy_x: 大明湖，明湖大～\nwith @JamFarewellSong https://t.co/WdB06DWcyP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052939213272973312",
+            "3_2052939214250291201",
+            "3_2052939218272632832"
+          ]
+        },
+        "author_id": "1621552410048237569",
+        "conversation_id": "2052939286698397898",
+        "created_at": "2026-05-09T02:30:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T03:30:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052939286698397898"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 30,
+              "id": "1907414826101669888",
+              "start": 14,
+              "username": "JamFarewellSong"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WdB06DWcyP",
+              "end": 54,
+              "expanded_url": "https://x.com/amecandy_x/status/2052939286698397898/photo/1",
+              "media_key": "3_2052939213272973312",
+              "start": 31,
+              "url": "https://t.co/WdB06DWcyP"
+            },
+            {
+              "display_url": "pic.x.com/WdB06DWcyP",
+              "end": 54,
+              "expanded_url": "https://x.com/amecandy_x/status/2052939286698397898/photo/1",
+              "media_key": "3_2052939214250291201",
+              "start": 31,
+              "url": "https://t.co/WdB06DWcyP"
+            },
+            {
+              "display_url": "pic.x.com/WdB06DWcyP",
+              "end": 54,
+              "expanded_url": "https://x.com/amecandy_x/status/2052939286698397898/photo/1",
+              "media_key": "3_2052939218272632832",
+              "start": 31,
+              "url": "https://t.co/WdB06DWcyP"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "c999e6a453e9ef72"
+        },
+        "id": "2052939286698397898",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 103,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "大明湖，明湖大～\nwith @JamFarewellSong https://t.co/WdB06DWcyP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od、自伤の新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 254,
+          "following_count": 943,
+          "like_count": 3331,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 783
+        },
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-03T16:53:25.000Z",
+        "description": "07 / MtF / 自由意志左翼🚩/ 全栈工程师 / 独立LLM研究者 / 药百GPT开发者",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/Ul32kqG4uh"
+              }
+            ]
+          }
+        },
+        "id": "1621552410048237569",
+        "location": "山东·济南",
+        "name": "小雨",
+        "pinned_tweet_id": "2046119775114551305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023354415944495104/Uixnel15_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6297,
+          "following_count": 2133,
+          "like_count": 27082,
+          "listed_count": 16,
+          "media_count": 1428,
+          "tweet_count": 10172
+        },
+        "url": "https://t.co/Ul32kqG4uh",
+        "username": "amecandy_x",
+        "verified": true
+      }
+    ]
+  }
+}

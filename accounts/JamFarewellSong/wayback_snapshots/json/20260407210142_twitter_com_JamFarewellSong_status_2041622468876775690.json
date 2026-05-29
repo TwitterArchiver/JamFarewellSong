@@ -1,0 +1,326 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2041423502310531072"
+      ],
+      "media_source_tweet_id": [
+        "2041423505611427987"
+      ]
+    },
+    "author_id": "1907414826101669888",
+    "conversation_id": "2041622468876775690",
+    "created_at": "2026-04-07T21:01:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T22:01:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041622468876775690"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1920438574715154432",
+          "start": 3,
+          "username": "fayoubaike002"
+        }
+      ],
+      "urls": [
+        {
+          "description": "DPT 小妹妹口服DPT，旭日下丢了性命。 她以为那是甜蜜的晨露，却成了永别的毒吻。 我在DPT的幻觉里和女鬼拥抱一万年 基本信息 受体结合 DPT的主要作用靶点是5-HT2A受体。在啮齿类行为模型中，选择性5-HT2A拮抗剂M100907对DPT行为效应的阻断是功能性不可逾越的，有力地证明了5-HT2A受体是DPT的核心作用位点。同时，5-HT1A拮抗剂WAY-100635也能产生可逾越的拮...",
+          "display_url": "fayou.fyi/%E5%85%B6%E4%B…",
+          "end": 101,
+          "expanded_url": "https://fayou.fyi/%E5%85%B6%E4%BB%96%E7%89%A9%E8%B4%A8/1277.html",
+          "start": 78,
+          "status": 200,
+          "title": "DPT",
+          "unwound_url": "https://fayou.fyi/%E5%85%B6%E4%BB%96%E7%89%A9%E8%B4%A8/1277.html",
+          "url": "https://t.co/YXvgzIE6rF"
+        },
+        {
+          "display_url": "pic.x.com/hCR2JdTwri",
+          "end": 125,
+          "expanded_url": "https://x.com/fayoubaike002/status/2041423505611427987/photo/1",
+          "media_key": "3_2041423502310531072",
+          "start": 102,
+          "url": "https://t.co/hCR2JdTwri"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041622468876775690",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041423505611427987",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @fayoubaike002: 小妹妹口服DPT，旭日下丢了性命。\n\n她以为那是甜蜜的晨露，却成了永别的毒吻。\n\n我在DPT的幻觉里和鸡哥拥抱一万年\nhttps://t.co/YXvgzIE6rF https://t.co/hCR2JdTwri"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 746,
+        "media_key": "3_2041423502310531072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFSX3ANaYAAgkjA.jpg",
+        "width": 603
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041423502310531072"
+          ],
+          "media_source_tweet_id": [
+            "2041423505611427987"
+          ]
+        },
+        "author_id": "1907414826101669888",
+        "conversation_id": "2041622468876775690",
+        "created_at": "2026-04-07T21:01:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T22:01:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041622468876775690"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1920438574715154432",
+              "start": 3,
+              "username": "fayoubaike002"
+            }
+          ],
+          "urls": [
+            {
+              "description": "DPT 小妹妹口服DPT，旭日下丢了性命。 她以为那是甜蜜的晨露，却成了永别的毒吻。 我在DPT的幻觉里和女鬼拥抱一万年 基本信息 受体结合 DPT的主要作用靶点是5-HT2A受体。在啮齿类行为模型中，选择性5-HT2A拮抗剂M100907对DPT行为效应的阻断是功能性不可逾越的，有力地证明了5-HT2A受体是DPT的核心作用位点。同时，5-HT1A拮抗剂WAY-100635也能产生可逾越的拮...",
+              "display_url": "fayou.fyi/%E5%85%B6%E4%B…",
+              "end": 101,
+              "expanded_url": "https://fayou.fyi/%E5%85%B6%E4%BB%96%E7%89%A9%E8%B4%A8/1277.html",
+              "start": 78,
+              "status": 200,
+              "title": "DPT",
+              "unwound_url": "https://fayou.fyi/%E5%85%B6%E4%BB%96%E7%89%A9%E8%B4%A8/1277.html",
+              "url": "https://t.co/YXvgzIE6rF"
+            },
+            {
+              "display_url": "pic.x.com/hCR2JdTwri",
+              "end": 125,
+              "expanded_url": "https://x.com/fayoubaike002/status/2041423505611427987/photo/1",
+              "media_key": "3_2041423502310531072",
+              "start": 102,
+              "url": "https://t.co/hCR2JdTwri"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041622468876775690",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041423505611427987",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @fayoubaike002: 小妹妹口服DPT，旭日下丢了性命。\n\n她以为那是甜蜜的晨露，却成了永别的毒吻。\n\n我在DPT的幻觉里和鸡哥拥抱一万年\nhttps://t.co/YXvgzIE6rF https://t.co/hCR2JdTwri"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041423502310531072"
+          ]
+        },
+        "author_id": "1920438574715154432",
+        "conversation_id": "2041423505611427987",
+        "created_at": "2026-04-07T07:51:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T08:51:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041423505611427987"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "DPT 小妹妹口服DPT，旭日下丢了性命。 她以为那是甜蜜的晨露，却成了永别的毒吻。 我在DPT的幻觉里和女鬼拥抱一万年 基本信息 受体结合 DPT的主要作用靶点是5-HT2A受体。在啮齿类行为模型中，选择性5-HT2A拮抗剂M100907对DPT行为效应的阻断是功能性不可逾越的，有力地证明了5-HT2A受体是DPT的核心作用位点。同时，5-HT1A拮抗剂WAY-100635也能产生可逾越的拮...",
+              "display_url": "fayou.fyi/%E5%85%B6%E4%B…",
+              "end": 82,
+              "expanded_url": "https://fayou.fyi/%E5%85%B6%E4%BB%96%E7%89%A9%E8%B4%A8/1277.html",
+              "start": 59,
+              "status": 200,
+              "title": "DPT",
+              "unwound_url": "https://fayou.fyi/%E5%85%B6%E4%BB%96%E7%89%A9%E8%B4%A8/1277.html",
+              "url": "https://t.co/YXvgzIE6rF"
+            },
+            {
+              "display_url": "pic.x.com/hCR2JdTwri",
+              "end": 106,
+              "expanded_url": "https://x.com/fayoubaike002/status/2041423505611427987/photo/1",
+              "media_key": "3_2041423502310531072",
+              "start": 83,
+              "url": "https://t.co/hCR2JdTwri"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041423505611427987",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 609,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小妹妹口服DPT，旭日下丢了性命。\n\n她以为那是甜蜜的晨露，却成了永别的毒吻。\n\n我在DPT的幻觉里和鸡哥拥抱一万年\nhttps://t.co/YXvgzIE6rF https://t.co/hCR2JdTwri"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "电波系中央空调；MtX&泛性恋&ASD&（隐藏属性）&CPTSD，性别/身材焦虑；od、自伤の新手；文娱杂食党，Gore爱好者；期待大家扩列互fo😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 629,
+          "like_count": 1338,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 249
+        },
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-08T11:20:19.000Z",
+        "description": "TG交流群：https://t.co/Q0S9z9tNVv\nDC交流群：https://t.co/HId4n2CV2B",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/weizhanersheng…",
+                "end": 29,
+                "expanded_url": "https://t.me/weizhanersheng666",
+                "start": 6,
+                "url": "https://t.co/Q0S9z9tNVv"
+              },
+              {
+                "display_url": "discord.gg/XmNt8AXCEb",
+                "end": 59,
+                "expanded_url": "https://discord.gg/XmNt8AXCEb",
+                "start": 36,
+                "url": "https://t.co/HId4n2CV2B"
+              }
+            ]
+          }
+        },
+        "id": "1920438574715154432",
+        "name": "法友百科",
+        "pinned_tweet_id": "2036728396714311988",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036726953869549568/CsU2778i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 158,
+          "following_count": 202,
+          "like_count": 40,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 81
+        },
+        "url": "",
+        "username": "fayoubaike002",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-08T11:20:19.000Z",
+        "description": "TG交流群：https://t.co/Q0S9z9tNVv\nDC交流群：https://t.co/HId4n2CV2B",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/weizhanersheng…",
+                "end": 29,
+                "expanded_url": "https://t.me/weizhanersheng666",
+                "start": 6,
+                "url": "https://t.co/Q0S9z9tNVv"
+              },
+              {
+                "display_url": "discord.gg/XmNt8AXCEb",
+                "end": 59,
+                "expanded_url": "https://discord.gg/XmNt8AXCEb",
+                "start": 36,
+                "url": "https://t.co/HId4n2CV2B"
+              }
+            ]
+          }
+        },
+        "id": "1920438574715154432",
+        "name": "法友百科",
+        "pinned_tweet_id": "2036728396714311988",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036726953869549568/CsU2778i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 158,
+          "following_count": 202,
+          "like_count": 40,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 81
+        },
+        "username": "fayoubaike002",
+        "verified": false
+      }
+    ]
+  }
+}

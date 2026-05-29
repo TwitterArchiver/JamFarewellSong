@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2041284191745351859",
+    "created_at": "2026-04-06T22:37:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T23:37:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041284191745351859"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1793636329299066880",
+          "start": 3,
+          "username": "cuichuna7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041284191745351859",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935203872055906532",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cuichuna7: 庞加莱回归是指假如宇宙是一个封闭的系统，那么任何粒子在时间长河都会回归到不同的分别不一样的状态，即使概率可以忽略不计，当这次遇ta请勇敢一点，也许这一幕是上一次你朝思暮想的庞加莱回归"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2041284191745351859",
+        "created_at": "2026-04-06T22:37:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T23:37:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041284191745351859"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1793636329299066880",
+              "start": 3,
+              "username": "cuichuna7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041284191745351859",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935203872055906532",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cuichuna7: 庞加莱回归是指假如宇宙是一个封闭的系统，那么任何粒子在时间长河都会回归到不同的分别不一样的状态，即使概率可以忽略不计，当这次遇ta请勇敢一点，也许这一幕是上一次你朝思暮想的庞加莱回归"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1793636329299066880",
+        "conversation_id": "1935203872055906532",
+        "created_at": "2025-06-18T05:12:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T06:12:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935203872055906532"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1935203872055906532",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 5482,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "庞加莱回归是指假如宇宙是一个封闭的系统，那么任何粒子在时间长河都会回归到不同的分别不一样的状态，即使概率可以忽略不计，当这次遇ta请勇敢一点，也许这一幕是上一次你朝思暮想的庞加莱回归"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "电波系中央空调；MtX&泛性恋&ASD&（隐藏属性）&CPTSD，性别/身材焦虑；od、自伤の新手；文娱杂食党，Gore爱好者；期待大家扩列互fo😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 566,
+          "like_count": 1133,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 213
+        },
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-23T13:33:30.000Z",
+        "description": "🇹🇼🇺🇦/09的滴泪系小猫娘/identityV/抑郁症患者🥹/欢迎互fo，这里是time欢迎找我倾诉聊天😾最终目标是100000粉😿",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/troellstoree2",
+                "end": 23,
+                "expanded_url": "https://t.me/troellstoree2",
+                "start": 0,
+                "url": "https://t.co/YwNpXr2uZp"
+              }
+            ]
+          }
+        },
+        "id": "1793636329299066880",
+        "location": "宇宙之外",
+        "name": "grace.time☃︎",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844267194240335874/5S0ww2Z4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2854,
+          "following_count": 3747,
+          "like_count": 7148,
+          "listed_count": 11,
+          "media_count": 204,
+          "tweet_count": 3027
+        },
+        "url": "https://t.co/YwNpXr2uZp",
+        "username": "cuichuna7",
+        "verified": false
+      }
+    ]
+  }
+}

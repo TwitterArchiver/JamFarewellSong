@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2041877696624652292"
+      ],
+      "media_source_tweet_id": [
+        "2041877722289561922"
+      ]
+    },
+    "author_id": "1907414826101669888",
+    "conversation_id": "2041959603970437184",
+    "created_at": "2026-04-08T19:21:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T20:21:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041959603970437184"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1560533329912311808",
+          "start": 3,
+          "username": "BdZzbw6goo2"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/543J4vBfu2",
+          "end": 65,
+          "expanded_url": "https://x.com/BdZzbw6goo2/status/2041877722289561922/photo/1",
+          "media_key": "3_2041877696624652292",
+          "start": 42,
+          "url": "https://t.co/543J4vBfu2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041959603970437184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041877722289561922",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BdZzbw6goo2: 我咋还上电视了，这编辑也不看看，1/3片叫od啊 https://t.co/543J4vBfu2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1437,
+        "media_key": "3_2041877696624652292",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFY08l4a8AQMgj8.jpg",
+        "width": 760
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041877696624652292"
+          ],
+          "media_source_tweet_id": [
+            "2041877722289561922"
+          ]
+        },
+        "author_id": "1907414826101669888",
+        "conversation_id": "2041959603970437184",
+        "created_at": "2026-04-08T19:21:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T20:21:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041959603970437184"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1560533329912311808",
+              "start": 3,
+              "username": "BdZzbw6goo2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/543J4vBfu2",
+              "end": 65,
+              "expanded_url": "https://x.com/BdZzbw6goo2/status/2041877722289561922/photo/1",
+              "media_key": "3_2041877696624652292",
+              "start": 42,
+              "url": "https://t.co/543J4vBfu2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041959603970437184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041877722289561922",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BdZzbw6goo2: 我咋还上电视了，这编辑也不看看，1/3片叫od啊 https://t.co/543J4vBfu2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041877696624652292"
+          ]
+        },
+        "author_id": "1560533329912311808",
+        "conversation_id": "2041877722289561922",
+        "created_at": "2026-04-08T13:55:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T14:55:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041877722289561922"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/543J4vBfu2",
+              "end": 48,
+              "expanded_url": "https://x.com/BdZzbw6goo2/status/2041877722289561922/photo/1",
+              "media_key": "3_2041877696624652292",
+              "start": 25,
+              "url": "https://t.co/543J4vBfu2"
+            },
+            {
+              "display_url": "x.com/BdZzbw6goo2/st…",
+              "end": 72,
+              "expanded_url": "https://twitter.com/BdZzbw6goo2/status/2033910820137279621",
+              "start": 49,
+              "url": "https://t.co/U0a2nuzfEC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041877722289561922",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 13409,
+          "like_count": 119,
+          "quote_count": 2,
+          "reply_count": 25,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033910820137279621",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我咋还上电视了，这编辑也不看看，1/3片叫od啊 https://t.co/543J4vBfu2 https://t.co/U0a2nuzfEC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "电波系中央空调；MtX&泛性恋&ASD&（隐藏属性）&CPTSD，性别/身材焦虑；od、自伤の新手；文娱杂食党，Gore爱好者；期待大家扩列互fo😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 687,
+          "like_count": 1588,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 287
+        },
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-19T07:45:35.000Z",
+        "description": "MTF /HRT since 25.11.16/中重度抑郁/互fo/oder/深柜中/有阿斯伯格不是很会聊天致歉",
+        "id": "1560533329912311808",
+        "name": "Lily 🏳️‍⚧️",
+        "pinned_tweet_id": "2036571069851771293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023587572161933312/nuq0npKD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 574,
+          "following_count": 780,
+          "like_count": 53174,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 330
+        },
+        "username": "BdZzbw6goo2",
+        "verified": true
+      }
+    ]
+  }
+}

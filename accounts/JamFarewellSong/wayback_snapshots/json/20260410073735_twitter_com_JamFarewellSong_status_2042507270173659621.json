@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042214941261021184"
+      ],
+      "media_source_tweet_id": [
+        "2042214944478036334"
+      ]
+    },
+    "author_id": "1907414826101669888",
+    "conversation_id": "2042507270173659621",
+    "created_at": "2026-04-10T07:37:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T08:37:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042507270173659621"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2037004701955448832",
+          "start": 3,
+          "username": "liyu454144"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4bwnyIXAWY",
+          "end": 62,
+          "expanded_url": "https://x.com/liyu454144/status/2042214944478036334/photo/1",
+          "media_key": "3_2042214941261021184",
+          "start": 39,
+          "url": "https://t.co/4bwnyIXAWY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042507270173659621",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042214944478036334",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @liyu454144: 当你胸不大，要穿比较薄的衣服但是不想穿内衣时 https://t.co/4bwnyIXAWY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2042214941261021184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFdnq0DbwAALdTQ.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042214941261021184"
+          ],
+          "media_source_tweet_id": [
+            "2042214944478036334"
+          ]
+        },
+        "author_id": "1907414826101669888",
+        "conversation_id": "2042507270173659621",
+        "created_at": "2026-04-10T07:37:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T08:37:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042507270173659621"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2037004701955448832",
+              "start": 3,
+              "username": "liyu454144"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4bwnyIXAWY",
+              "end": 62,
+              "expanded_url": "https://x.com/liyu454144/status/2042214944478036334/photo/1",
+              "media_key": "3_2042214941261021184",
+              "start": 39,
+              "url": "https://t.co/4bwnyIXAWY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042507270173659621",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042214944478036334",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @liyu454144: 当你胸不大，要穿比较薄的衣服但是不想穿内衣时 https://t.co/4bwnyIXAWY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042214941261021184"
+          ]
+        },
+        "author_id": "2037004701955448832",
+        "conversation_id": "2042214944478036334",
+        "created_at": "2026-04-09T12:15:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T13:15:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042214944478036334"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4bwnyIXAWY",
+              "end": 46,
+              "expanded_url": "https://x.com/liyu454144/status/2042214944478036334/photo/1",
+              "media_key": "3_2042214941261021184",
+              "start": 23,
+              "url": "https://t.co/4bwnyIXAWY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042214944478036334",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 147,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "当你胸不大，要穿比较薄的衣服但是不想穿内衣时 https://t.co/4bwnyIXAWY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "电波系中央空调；MtX&泛性恋&ASD&（隐藏属性）&CPTSD，性别/身材焦虑；od、自伤の新手；文娱杂食党，Gore爱好者；期待大家扩列互fo😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 718,
+          "like_count": 1820,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 351
+        },
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-26T03:12:37.000Z",
+        "description": "",
+        "id": "2037004701955448832",
+        "name": "璃雨",
+        "pinned_tweet_id": "2037050916109693290",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037030483658477568/dexsNk3i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 104,
+          "like_count": 22,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 45
+        },
+        "username": "liyu454144",
+        "verified": false
+      }
+    ]
+  }
+}

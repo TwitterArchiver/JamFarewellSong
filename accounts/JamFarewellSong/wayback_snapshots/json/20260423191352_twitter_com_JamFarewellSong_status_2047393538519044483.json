@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2045828393837719552"
+      ],
+      "media_source_tweet_id": [
+        "2045828398417903986"
+      ]
+    },
+    "author_id": "1907414826101669888",
+    "conversation_id": "2047393538519044483",
+    "created_at": "2026-04-23T19:13:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T20:13:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047393538519044483"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 21,
+          "start": 13,
+          "tag": "さいはて駅FA"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1669018022080831489",
+          "start": 3,
+          "username": "88xx00h"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/b1FUIJpcGe",
+          "end": 51,
+          "expanded_url": "https://x.com/88xx00h/status/2045828398417903986/photo/1",
+          "media_key": "3_2045828393837719552",
+          "start": 28,
+          "url": "https://t.co/b1FUIJpcGe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047393538519044483",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 89
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045828398417903986",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @88xx00h: #さいはて駅FA\n\nらくがき https://t.co/b1FUIJpcGe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2045828393837719552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGQ-Fb4a8AA29lq.jpg",
+        "width": 940
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045828393837719552"
+          ],
+          "media_source_tweet_id": [
+            "2045828398417903986"
+          ]
+        },
+        "author_id": "1907414826101669888",
+        "conversation_id": "2047393538519044483",
+        "created_at": "2026-04-23T19:13:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T20:13:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047393538519044483"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 13,
+              "tag": "さいはて駅FA"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1669018022080831489",
+              "start": 3,
+              "username": "88xx00h"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/b1FUIJpcGe",
+              "end": 51,
+              "expanded_url": "https://x.com/88xx00h/status/2045828398417903986/photo/1",
+              "media_key": "3_2045828393837719552",
+              "start": 28,
+              "url": "https://t.co/b1FUIJpcGe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047393538519044483",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 89
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045828398417903986",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @88xx00h: #さいはて駅FA\n\nらくがき https://t.co/b1FUIJpcGe"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045828393837719552"
+          ]
+        },
+        "author_id": "1669018022080831489",
+        "conversation_id": "2045828398417903986",
+        "created_at": "2026-04-19T11:34:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T12:34:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045828398417903986"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 0,
+              "tag": "さいはて駅FA"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/b1FUIJpcGe",
+              "end": 38,
+              "expanded_url": "https://x.com/88xx00h/status/2045828398417903986/photo/1",
+              "media_key": "3_2045828393837719552",
+              "start": 15,
+              "url": "https://t.co/b1FUIJpcGe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045828398417903986",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 34,
+          "impression_count": 2646,
+          "like_count": 342,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 89
+        },
+        "reply_settings": "everyone",
+        "text": "#さいはて駅FA\n\nらくがき https://t.co/b1FUIJpcGe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "电波系中央空调；MtX&泛性恋&ASD&（隐藏属性）&CPTSD，性别/身材焦虑；od、自伤の新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；期待大家扩列互fo😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 869,
+          "like_count": 2971,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 657
+        },
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-14T16:24:49.000Z",
+        "description": "宙世(ひろせ)です👾自分のペースでのんびり遊ぶ‼️ツイキャスにて主にゲーム配信します🎮他にも雑談、歌枠もたまーに！♦️ モデルはすべて自作😈 配信でやったゲームのFAもたまに描きます🍀*゜ 配信はこちら➡️https://t.co/SCnUrY7b2R #宙世の動画",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 133,
+                "start": 127,
+                "tag": "宙世の動画"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "twitcasting.tv/88xx00h",
+                "end": 126,
+                "expanded_url": "https://twitcasting.tv/88xx00h",
+                "start": 103,
+                "url": "https://t.co/SCnUrY7b2R"
+              }
+            ]
+          }
+        },
+        "id": "1669018022080831489",
+        "name": "宙世カエデ👾♦️",
+        "pinned_tweet_id": "1678380128001462274",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028890906003386369/wL8jZ7_r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 24,
+          "like_count": 61,
+          "listed_count": 1,
+          "media_count": 126,
+          "tweet_count": 1279
+        },
+        "username": "88xx00h",
+        "verified": false
+      }
+    ]
+  }
+}

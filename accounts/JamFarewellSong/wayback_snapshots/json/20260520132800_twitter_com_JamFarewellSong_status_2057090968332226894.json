@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057090779089346560",
+        "3_2057090779101954048",
+        "3_2057090779139670016"
+      ]
+    },
+    "author_id": "1907414826101669888",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2057090968332226894",
+    "created_at": "2026-05-20T13:28:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T14:28:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057090968332226894"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/IpU8y4YhWv",
+          "end": 133,
+          "expanded_url": "https://x.com/JamFarewellSong/status/2057090968332226894/photo/1",
+          "media_key": "3_2057090779089346560",
+          "start": 110,
+          "url": "https://t.co/IpU8y4YhWv"
+        },
+        {
+          "display_url": "pic.x.com/IpU8y4YhWv",
+          "end": 133,
+          "expanded_url": "https://x.com/JamFarewellSong/status/2057090968332226894/photo/1",
+          "media_key": "3_2057090779101954048",
+          "start": 110,
+          "url": "https://t.co/IpU8y4YhWv"
+        },
+        {
+          "display_url": "pic.x.com/IpU8y4YhWv",
+          "end": 133,
+          "expanded_url": "https://x.com/JamFarewellSong/status/2057090968332226894/photo/1",
+          "media_key": "3_2057090779139670016",
+          "start": 110,
+          "url": "https://t.co/IpU8y4YhWv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057090968332226894",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好想生在21世纪中叶，这样我就可以在27岁时一边玩57年前的老游戏当潮酷lost media青年，一边用银灿灿的左手义体对着荒坂塔竖中指，幻想有天来场赤军旅行为荡一荡死水\n“一边开枪一边挖坑下葬，而且不拉任何好人垫背” https://t.co/IpU8y4YhWv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 800,
+        "media_key": "3_2057090779089346560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIxBKiZaIAA7tTv.jpg",
+        "width": 1029
+      },
+      {
+        "height": 1440,
+        "media_key": "3_2057090779101954048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIxBKicagAA9EEY.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1616,
+        "media_key": "3_2057090779139670016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIxBKilaAAAe9yn.jpg",
+        "width": 2592
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057090779089346560",
+            "3_2057090779101954048",
+            "3_2057090779139670016"
+          ]
+        },
+        "author_id": "1907414826101669888",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2057090968332226894",
+        "created_at": "2026-05-20T13:28:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T14:28:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057090968332226894"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IpU8y4YhWv",
+              "end": 133,
+              "expanded_url": "https://x.com/JamFarewellSong/status/2057090968332226894/photo/1",
+              "media_key": "3_2057090779089346560",
+              "start": 110,
+              "url": "https://t.co/IpU8y4YhWv"
+            },
+            {
+              "display_url": "pic.x.com/IpU8y4YhWv",
+              "end": 133,
+              "expanded_url": "https://x.com/JamFarewellSong/status/2057090968332226894/photo/1",
+              "media_key": "3_2057090779101954048",
+              "start": 110,
+              "url": "https://t.co/IpU8y4YhWv"
+            },
+            {
+              "display_url": "pic.x.com/IpU8y4YhWv",
+              "end": 133,
+              "expanded_url": "https://x.com/JamFarewellSong/status/2057090968332226894/photo/1",
+              "media_key": "3_2057090779139670016",
+              "start": 110,
+              "url": "https://t.co/IpU8y4YhWv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057090968332226894",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好想生在21世纪中叶，这样我就可以在27岁时一边玩57年前的老游戏当潮酷lost media青年，一边用银灿灿的左手义体对着荒坂塔竖中指，幻想有天来场赤军旅行为荡一荡死水\n“一边开枪一边挖坑下葬，而且不拉任何好人垫背” https://t.co/IpU8y4YhWv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od、自伤の新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 270,
+          "following_count": 983,
+          "like_count": 3658,
+          "listed_count": 1,
+          "media_count": 10,
+          "tweet_count": 921
+        },
+        "username": "JamFarewellSong",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2041556442302566901",
+    "created_at": "2026-04-07T16:39:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T17:39:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041556442302566901"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1740796768588341249",
+          "start": 3,
+          "username": "L22WGHAJDe74083"
+        },
+        {
+          "end": 35,
+          "id": "1611246341728120835",
+          "start": 21,
+          "username": "Aureliax17QwQ"
+        },
+        {
+          "end": 50,
+          "id": "1982450015927971840",
+          "start": 36,
+          "username": "xichuan412888"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041556442302566901",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035047455516238135",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @L22WGHAJDe74083: @Aureliax17QwQ @xichuan412888 “若得脱身法 生吃黄莲苦也甜。”"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2041556442302566901",
+        "created_at": "2026-04-07T16:39:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T17:39:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041556442302566901"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1740796768588341249",
+              "start": 3,
+              "username": "L22WGHAJDe74083"
+            },
+            {
+              "end": 35,
+              "id": "1611246341728120835",
+              "start": 21,
+              "username": "Aureliax17QwQ"
+            },
+            {
+              "end": 50,
+              "id": "1982450015927971840",
+              "start": 36,
+              "username": "xichuan412888"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041556442302566901",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035047455516238135",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @L22WGHAJDe74083: @Aureliax17QwQ @xichuan412888 “若得脱身法 生吃黄莲苦也甜。”"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1740796768588341249",
+        "conversation_id": "2034812183192965426",
+        "created_at": "2026-03-20T17:34:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T18:34:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035047455516238135"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1611246341728120835",
+              "start": 0,
+              "username": "Aureliax17QwQ"
+            },
+            {
+              "end": 29,
+              "id": "1982450015927971840",
+              "start": 15,
+              "username": "xichuan412888"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035047455516238135",
+        "in_reply_to_user_id": "1611246341728120835",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 285,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034812183192965426",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aureliax17QwQ @xichuan412888 “若得脱身法 生吃黄莲苦也甜。”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "电波系中央空调；MtX&泛性恋&ASD&（隐藏属性）&CPTSD，性别/身材焦虑；od、自伤の新手；文娱杂食党，Gore爱好者；期待大家扩列互fo😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 574,
+          "like_count": 1178,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 217
+        },
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-29T18:07:58.000Z",
+        "description": "应如墨",
+        "id": "1740796768588341249",
+        "name": "汣漓",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033598901823963136/S50U1Yfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 58,
+          "like_count": 993,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 487
+        },
+        "url": "",
+        "username": "L22WGHAJDe74083",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-06T06:20:59.000Z",
+        "description": "神经病兼免费但失败的心理委员，可以把我当树洞｜mtf｜06｜重抑｜INFP｜已炸柜｜💊｜想倾诉或聊天可以tg找我说话（或者私信哦～）|tg：https://t.co/5kLEQoTlFF |最爱的小孩@dnshu135734｜我永远爱你们❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 100,
+                "username": "dnshu135734"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/Aureliax17",
+                "end": 93,
+                "expanded_url": "http://t.me/Aureliax17",
+                "start": 70,
+                "url": "https://t.co/5kLEQoTlFF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aureliax17",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aureliax17",
+                "start": 0,
+                "url": "https://t.co/h6OCEkrSu6"
+              }
+            ]
+          }
+        },
+        "id": "1611246341728120835",
+        "location": "长安",
+        "name": "海月水母x17🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008776444445626368/iHOJfO5R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1389,
+          "following_count": 245,
+          "like_count": 5976,
+          "listed_count": 2,
+          "media_count": 123,
+          "tweet_count": 1577
+        },
+        "url": "https://t.co/h6OCEkrSu6",
+        "username": "Aureliax17QwQ",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-26T14:12:03.000Z",
+        "description": "苦学生:(｜负面情绪警告⚠️｜不谈论政治｜随时可能会消失｜是小废物(哭)｜网络上的大家都好温柔(///▽///)你们一定要幸福地活下去哦(*^o^*)",
+        "id": "1982450015927971840",
+        "name": "栖川",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020093341980041216/KrJBngjl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 274,
+          "following_count": 363,
+          "like_count": 8161,
+          "listed_count": 5,
+          "media_count": 26,
+          "tweet_count": 281
+        },
+        "username": "xichuan412888",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-29T18:07:58.000Z",
+        "description": "应如墨",
+        "id": "1740796768588341249",
+        "name": "汣漓",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033598901823963136/S50U1Yfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 58,
+          "like_count": 993,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 487
+        },
+        "username": "L22WGHAJDe74083",
+        "verified": false
+      }
+    ]
+  }
+}

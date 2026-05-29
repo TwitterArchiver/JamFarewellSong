@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2041650616402084250",
+    "created_at": "2026-04-07T22:53:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T23:53:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041650616402084250"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1484582068663521281",
+          "start": 3,
+          "username": "data_syuxchu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041650616402084250",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041488357432447031",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @data_syuxchu: 谈恋爱，听班主任说孩子还报了学科竞赛，还准备打什么 OI ，这孩子有出息啊，不过就是最近叛逆期到了，非说要留什么狼尾，好看，学校那边看他成绩也不管他，最近好像还喜欢上了新的玩具，叫什么幻龙，听起来大概是什么模型吧，没见他拿出来过"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2041650616402084250",
+        "created_at": "2026-04-07T22:53:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T23:53:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041650616402084250"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1484582068663521281",
+              "start": 3,
+              "username": "data_syuxchu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041650616402084250",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041488357432447031",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @data_syuxchu: 谈恋爱，听班主任说孩子还报了学科竞赛，还准备打什么 OI ，这孩子有出息啊，不过就是最近叛逆期到了，非说要留什么狼尾，好看，学校那边看他成绩也不管他，最近好像还喜欢上了新的玩具，叫什么幻龙，听起来大概是什么模型吧，没见他拿出来过"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1484582068663521281",
+        "conversation_id": "2041488248837693895",
+        "created_at": "2026-04-07T12:08:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T13:08:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041488357432447031"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041488357432447031",
+        "in_reply_to_user_id": "1484582068663521281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 163,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041488327925461140",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "谈恋爱，听班主任说孩子还报了学科竞赛，还准备打什么 OI ，这孩子有出息啊，不过就是最近叛逆期到了，非说要留什么狼尾，好看，学校那边看他成绩也不管他，最近好像还喜欢上了新的玩具，叫什么幻龙，听起来大概是什么模型吧，没见他拿出来过"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "电波系中央空调；MtX&泛性恋&ASD&（隐藏属性）&CPTSD，性别/身材焦虑；od、自伤の新手；文娱杂食党，Gore爱好者；期待大家扩列互fo😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 640,
+          "like_count": 1422,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 256
+        },
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-21T17:42:21.000Z",
+        "description": "号主名叫魔鬼鱼。\n大学生 **法￤@anblk984",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 17,
+                "username": "anblk984"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "querie.me/user/data_syux…",
+                "end": 23,
+                "expanded_url": "https://querie.me/user/data_syuxchu",
+                "start": 0,
+                "url": "https://t.co/IQWCDzb4eb"
+              }
+            ]
+          }
+        },
+        "id": "1484582068663521281",
+        "location": "匿名信息▶︎",
+        "name": "繝槭Φ繧ｿ*荳?譫‼️",
+        "pinned_tweet_id": "1927681460472860814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915420112183844872/WriGAZAB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1506,
+          "following_count": 411,
+          "like_count": 30748,
+          "listed_count": 9,
+          "media_count": 521,
+          "tweet_count": 4499
+        },
+        "url": "https://t.co/IQWCDzb4eb",
+        "username": "data_syuxchu",
+        "verified": false
+      }
+    ]
+  }
+}

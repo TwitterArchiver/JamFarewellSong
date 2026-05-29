@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2041759684550651977",
+    "created_at": "2026-04-08T06:06:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T07:06:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041759684550651977"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1997644719908884480",
+          "start": 3,
+          "username": "Oz_Garlandd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041759684550651977",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041465110443524135",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Oz_Garlandd: 当你觉得人生迷茫，不知道该干些什么的时候，就拿上手机，去楼下扫辆共享单车，然后随便往哪个方向一直猛骑一直猛骑，绿灯就直行红灯就右转，然后骑个半小时一个小时的，接下来你就会有目标了，因为这个时候一般就会迷路，需要想方设法回到原来的地方，反正我现在…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2041465093121355776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFS9r6DbsAANaUK.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2041759684550651977",
+        "created_at": "2026-04-08T06:06:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T07:06:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041759684550651977"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1997644719908884480",
+              "start": 3,
+              "username": "Oz_Garlandd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041759684550651977",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041465110443524135",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Oz_Garlandd: 当你觉得人生迷茫，不知道该干些什么的时候，就拿上手机，去楼下扫辆共享单车，然后随便往哪个方向一直猛骑一直猛骑，绿灯就直行红灯就右转，然后骑个半小时一个小时的，接下来你就会有目标了，因为这个时候一般就会迷路，需要想方设法回到原来的地方，反正我现在…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041465093121355776"
+          ]
+        },
+        "author_id": "1997644719908884480",
+        "conversation_id": "2041465110443524135",
+        "created_at": "2026-04-07T10:36:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T11:36:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041465110443524135"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7Aigq1jfrb",
+              "end": 150,
+              "expanded_url": "https://x.com/Oz_Garlandd/status/2041465110443524135/photo/1",
+              "media_key": "3_2041465093121355776",
+              "start": 127,
+              "url": "https://t.co/7Aigq1jfrb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041465110443524135",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 335,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "当你觉得人生迷茫，不知道该干些什么的时候，就拿上手机，去楼下扫辆共享单车，然后随便往哪个方向一直猛骑一直猛骑，绿灯就直行红灯就右转，然后骑个半小时一个小时的，接下来你就会有目标了，因为这个时候一般就会迷路，需要想方设法回到原来的地方，反正我现在就是这样 https://t.co/7Aigq1jfrb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "电波系中央空调；MtX&泛性恋&ASD&（隐藏属性）&CPTSD，性别/身材焦虑；od、自伤の新手；文娱杂食党，Gore爱好者；期待大家扩列互fo😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 649,
+          "like_count": 1451,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 259
+        },
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-07T12:31:23.000Z",
+        "description": "✟玉米片大天使😇✟～intj～\n\n剩下的还没想好😴",
+        "id": "1997644719908884480",
+        "name": "Gar1andd",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033981376060416000/VoTPyNwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 113,
+          "like_count": 9897,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 617
+        },
+        "username": "Oz_Garlandd",
+        "verified": false
+      }
+    ]
+  }
+}

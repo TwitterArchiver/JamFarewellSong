@@ -1,0 +1,329 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2051771224574005442",
+    "created_at": "2026-05-05T21:09:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T22:09:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051771224574005442"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "994208371040337921",
+          "start": 3,
+          "username": "litztsong"
+        },
+        {
+          "end": 28,
+          "id": "1699985068721082368",
+          "start": 15,
+          "username": "RX_Xron28390"
+        },
+        {
+          "end": 44,
+          "id": "1918274202580467713",
+          "start": 29,
+          "username": "CyberKanjousen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051771224574005442",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051694879592653005",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @litztsong: @RX_Xron28390 @CyberKanjousen 很多人实际上根本就不是“好端端的”\n跨性别者和重症精神病以及自闭症的共病率高得离谱\n这些被部分研究倾向认为是有基因倾向性和关联的…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2051771224574005442",
+        "created_at": "2026-05-05T21:09:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T22:09:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051771224574005442"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "994208371040337921",
+              "start": 3,
+              "username": "litztsong"
+            },
+            {
+              "end": 28,
+              "id": "1699985068721082368",
+              "start": 15,
+              "username": "RX_Xron28390"
+            },
+            {
+              "end": 44,
+              "id": "1918274202580467713",
+              "start": 29,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051771224574005442",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051694879592653005",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @litztsong: @RX_Xron28390 @CyberKanjousen 很多人实际上根本就不是“好端端的”\n跨性别者和重症精神病以及自闭症的共病率高得离谱\n这些被部分研究倾向认为是有基因倾向性和关联的…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "994208371040337921",
+        "conversation_id": "2051650935366283558",
+        "created_at": "2026-05-05T16:05:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T17:05:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051694879592653005"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1699985068721082368",
+              "start": 0,
+              "username": "RX_Xron28390"
+            },
+            {
+              "end": 29,
+              "id": "1918274202580467713",
+              "start": 14,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051694879592653005",
+        "in_reply_to_user_id": "1699985068721082368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "很多人实际上根本就不是“好端端的”\n跨性别者和重症精神病以及自闭症的共病率高得离谱\n这些被部分研究倾向认为是有基因倾向性和关联的\n有理论认为人类的大脑是存在性别分化的，而受到基因的影响，自闭症和重症精神病患者的大脑在人生早期的性别分化过程更容易出错，总体会显得更“中性”，使得这些人显著比别人更可能成为跨性别者\n这也很好解释\n自闭症和重症精神病本来就倾向于是具有“神经病”的特质的，大脑在解剖学解构上和一般人有差异也不是啥出乎意料的事情\n会影响到性别认同也只是正正好而已\n那这些人就很可怜诶\n要么就是在福利社会被养一辈子\n要么就是在支持不足的环境中跌跌撞撞走到终点\n没有其他路的"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 154,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051670342532227306",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RX_Xron28390 @CyberKanjousen 很多人实际上根本就不是“好端端的”\n跨性别者和重症精神病以及自闭症的共病率高得离谱\n这些被部分研究倾向认为是有基因倾向性和关联的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "电波系中央空调；MtX&泛性恋&ASD&（隐藏属性）&CPTSD，性别/身材焦虑；od、自伤の新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；期待大家扩列互fo😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241,
+          "following_count": 939,
+          "like_count": 3217,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 748
+        },
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2018-05-09T13:32:01.000Z",
+        "description": "MtF(post surgery)/psychopath(schizo)/paliperidone&quetiapine user/ASD/local in Shanghai/anti-imperialism/leftoid/@misncandy/个人群 https://t.co/16lZFMylhh",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 113,
+                "username": "misncandy"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+ylr-xPc8qAo4Y…",
+                "end": 151,
+                "expanded_url": "https://t.me/+ylr-xPc8qAo4YTA1",
+                "start": 128,
+                "url": "https://t.co/16lZFMylhh"
+              }
+            ]
+          }
+        },
+        "id": "994208371040337921",
+        "location": "Shanghai, china",
+        "name": "litz tsong（利兹）🏳️‍🌈🏳‍⚧",
+        "pinned_tweet_id": "2044756700625035470",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1465633050566402056/PVc-1Z7d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3223,
+          "following_count": 2073,
+          "like_count": 3598,
+          "listed_count": 18,
+          "media_count": 1646,
+          "tweet_count": 14163
+        },
+        "username": "litztsong",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-08T03:16:52.000Z",
+        "description": "全宇宙最欠揍的人类，屏蔽我的人可以从这里排到伦敦，我的恶行从爱尔兰到契丹无人不知无人不晓\n在美宾洲男高/前世为德皇战死凡尔登转世的bf轮椅人 Anti-trans，恐虐麾下出场，纳垢锅里喝汤，奸奇桌前分账，色孽闺中睡床，德皇kaiser：@sanitf1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 127,
+                "start": 119,
+                "username": "sanitf1"
+              }
+            ]
+          }
+        },
+        "id": "1699985068721082368",
+        "location": "凡爾登，378號高地陣地，1916",
+        "name": "𝑇𝑦𝑟 𝑉𝑜𝑛 𝑊𝑒𝑙𝑡",
+        "pinned_tweet_id": "2041678287550754935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040950652235550720/O1x3YZlJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 239,
+          "like_count": 7121,
+          "listed_count": 2,
+          "media_count": 732,
+          "tweet_count": 4588
+        },
+        "username": "RX_Xron28390",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | 和猫猫 @HuamanX09 贴贴喵！| CN/EN/JP | まのさば好き | 友跨 | 想当猫猫\n日语号：@NihonKanjousen\n互 fo 标准：https://t.co/amoo4JeGdP",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "HuamanX09"
+              },
+              {
+                "end": 76,
+                "start": 61,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kanjousen.com/fo-block",
+                "end": 108,
+                "expanded_url": "https://kanjousen.com/fo-block",
+                "start": 85,
+                "url": "https://t.co/amoo4JeGdP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2029797324319543389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2645,
+          "following_count": 800,
+          "like_count": 18050,
+          "listed_count": 9,
+          "media_count": 977,
+          "tweet_count": 5378
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      }
+    ]
+  }
+}

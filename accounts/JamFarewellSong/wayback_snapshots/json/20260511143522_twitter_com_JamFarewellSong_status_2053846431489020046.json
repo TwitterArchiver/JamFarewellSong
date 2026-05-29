@@ -1,0 +1,380 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048872110639161344",
+        "3_2048872113273212928",
+        "3_2048872111977234432",
+        "3_2048872113478774784"
+      ],
+      "media_source_tweet_id": [
+        "2048872116729295009",
+        "2048872116729295009",
+        "2048872116729295009",
+        "2048872116729295009"
+      ]
+    },
+    "author_id": "1907414826101669888",
+    "conversation_id": "2053846431489020046",
+    "created_at": "2026-05-11T14:35:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T15:35:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053846431489020046"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 24,
+          "start": 18,
+          "tag": "秘封倶楽部"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1477645652796776452",
+          "start": 3,
+          "username": "114514Arster"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GJSyVWhPOv",
+          "end": 72,
+          "expanded_url": "https://x.com/114514Arster/status/2048872116729295009/photo/1",
+          "media_key": "3_2048872110639161344",
+          "start": 49,
+          "url": "https://t.co/GJSyVWhPOv"
+        },
+        {
+          "display_url": "pic.x.com/GJSyVWhPOv",
+          "end": 72,
+          "expanded_url": "https://x.com/114514Arster/status/2048872116729295009/photo/1",
+          "media_key": "3_2048872113273212928",
+          "start": 49,
+          "url": "https://t.co/GJSyVWhPOv"
+        },
+        {
+          "display_url": "pic.x.com/GJSyVWhPOv",
+          "end": 72,
+          "expanded_url": "https://x.com/114514Arster/status/2048872116729295009/photo/1",
+          "media_key": "3_2048872111977234432",
+          "start": 49,
+          "url": "https://t.co/GJSyVWhPOv"
+        },
+        {
+          "display_url": "pic.x.com/GJSyVWhPOv",
+          "end": 72,
+          "expanded_url": "https://x.com/114514Arster/status/2048872116729295009/photo/1",
+          "media_key": "3_2048872113478774784",
+          "start": 49,
+          "url": "https://t.co/GJSyVWhPOv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053846431489020046",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 30
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048872116729295009",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @114514Arster: #秘封倶楽部\n她说她会永远留在那片红色天空的原野下等你回来。 https://t.co/GJSyVWhPOv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1707,
+        "media_key": "3_2048872110639161344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG8OVEjaIAA_NGn.jpg",
+        "width": 1280
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2048872113273212928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG8OVOXakAAcp87.jpg",
+        "width": 655
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2048872111977234432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG8OVJibgAAGyV8.jpg",
+        "width": 655
+      },
+      {
+        "height": 1707,
+        "media_key": "3_2048872113478774784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG8OVPIbMAAvrCv.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048872110639161344",
+            "3_2048872113273212928",
+            "3_2048872111977234432",
+            "3_2048872113478774784"
+          ],
+          "media_source_tweet_id": [
+            "2048872116729295009",
+            "2048872116729295009",
+            "2048872116729295009",
+            "2048872116729295009"
+          ]
+        },
+        "author_id": "1907414826101669888",
+        "conversation_id": "2053846431489020046",
+        "created_at": "2026-05-11T14:35:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T15:35:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053846431489020046"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 24,
+              "start": 18,
+              "tag": "秘封倶楽部"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1477645652796776452",
+              "start": 3,
+              "username": "114514Arster"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GJSyVWhPOv",
+              "end": 72,
+              "expanded_url": "https://x.com/114514Arster/status/2048872116729295009/photo/1",
+              "media_key": "3_2048872110639161344",
+              "start": 49,
+              "url": "https://t.co/GJSyVWhPOv"
+            },
+            {
+              "display_url": "pic.x.com/GJSyVWhPOv",
+              "end": 72,
+              "expanded_url": "https://x.com/114514Arster/status/2048872116729295009/photo/1",
+              "media_key": "3_2048872113273212928",
+              "start": 49,
+              "url": "https://t.co/GJSyVWhPOv"
+            },
+            {
+              "display_url": "pic.x.com/GJSyVWhPOv",
+              "end": 72,
+              "expanded_url": "https://x.com/114514Arster/status/2048872116729295009/photo/1",
+              "media_key": "3_2048872111977234432",
+              "start": 49,
+              "url": "https://t.co/GJSyVWhPOv"
+            },
+            {
+              "display_url": "pic.x.com/GJSyVWhPOv",
+              "end": 72,
+              "expanded_url": "https://x.com/114514Arster/status/2048872116729295009/photo/1",
+              "media_key": "3_2048872113478774784",
+              "start": 49,
+              "url": "https://t.co/GJSyVWhPOv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053846431489020046",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 30
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048872116729295009",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @114514Arster: #秘封倶楽部\n她说她会永远留在那片红色天空的原野下等你回来。 https://t.co/GJSyVWhPOv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048872110639161344",
+            "3_2048872113273212928",
+            "3_2048872111977234432",
+            "3_2048872113478774784"
+          ]
+        },
+        "author_id": "1477645652796776452",
+        "conversation_id": "2048872116729295009",
+        "created_at": "2026-04-27T21:09:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T22:09:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048872116729295009"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "秘封倶楽部"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GJSyVWhPOv",
+              "end": 54,
+              "expanded_url": "https://x.com/114514Arster/status/2048872116729295009/photo/1",
+              "media_key": "3_2048872110639161344",
+              "start": 31,
+              "url": "https://t.co/GJSyVWhPOv"
+            },
+            {
+              "display_url": "pic.x.com/GJSyVWhPOv",
+              "end": 54,
+              "expanded_url": "https://x.com/114514Arster/status/2048872116729295009/photo/1",
+              "media_key": "3_2048872113273212928",
+              "start": 31,
+              "url": "https://t.co/GJSyVWhPOv"
+            },
+            {
+              "display_url": "pic.x.com/GJSyVWhPOv",
+              "end": 54,
+              "expanded_url": "https://x.com/114514Arster/status/2048872116729295009/photo/1",
+              "media_key": "3_2048872111977234432",
+              "start": 31,
+              "url": "https://t.co/GJSyVWhPOv"
+            },
+            {
+              "display_url": "pic.x.com/GJSyVWhPOv",
+              "end": 54,
+              "expanded_url": "https://x.com/114514Arster/status/2048872116729295009/photo/1",
+              "media_key": "3_2048872113478774784",
+              "start": 31,
+              "url": "https://t.co/GJSyVWhPOv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048872116729295009",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 3674,
+          "like_count": 174,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 30
+        },
+        "reply_settings": "everyone",
+        "text": "#秘封倶楽部\n她说她会永远留在那片红色天空的原野下等你回来。 https://t.co/GJSyVWhPOv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od、自伤の新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 952,
+          "like_count": 3403,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 821
+        },
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-02T14:19:26.000Z",
+        "description": "🇨🇳废话很多的异食癖百合控。\nメリ蓮左右固定洁癖。\n❌NG：拆逆、一体论、AI",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/c3v5swlm0nldei…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/c3v5swlm0nldeij?t=bQbqcF&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/cd7h9pNaXc"
+              }
+            ]
+          }
+        },
+        "id": "1477645652796776452",
+        "location": "Dr.Latency庭園",
+        "name": "セキエイ。メリ蓮大好き",
+        "pinned_tweet_id": "2053745285051154871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013840986062102530/2T0l5RWX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1186,
+          "following_count": 150,
+          "like_count": 2647,
+          "listed_count": 5,
+          "media_count": 173,
+          "tweet_count": 2625
+        },
+        "url": "https://t.co/cd7h9pNaXc",
+        "username": "114514Arster",
+        "verified": false
+      }
+    ]
+  }
+}

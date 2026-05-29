@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2018475772743450768",
+    "created_at": "2026-02-03T00:05:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T01:05:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018475772743450768"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1798770460752297984",
+          "start": 3,
+          "username": "AtlasLGBT"
+        },
+        {
+          "end": 25,
+          "id": "1446976451610251267",
+          "start": 15,
+          "username": "AntiPhagg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018475772743450768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017984357030375776",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AtlasLGBT: @AntiPhagg 如果一个人的大脑萎缩到只能用‘性取向’来解释‘犯罪行为’，那这种智商确实理解不了什么叫个体素质。性骚扰是人渣的行为，而人渣是不分取向的。如果你非要搞扩大化，那异性恋性侵犯的数量可能会让你这辈子都不敢出门。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2018475772743450768",
+        "created_at": "2026-02-03T00:05:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T01:05:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018475772743450768"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1798770460752297984",
+              "start": 3,
+              "username": "AtlasLGBT"
+            },
+            {
+              "end": 25,
+              "id": "1446976451610251267",
+              "start": 15,
+              "username": "AntiPhagg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018475772743450768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017984357030375776",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AtlasLGBT: @AntiPhagg 如果一个人的大脑萎缩到只能用‘性取向’来解释‘犯罪行为’，那这种智商确实理解不了什么叫个体素质。性骚扰是人渣的行为，而人渣是不分取向的。如果你非要搞扩大化，那异性恋性侵犯的数量可能会让你这辈子都不敢出门。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1798770460752297984",
+        "conversation_id": "2017930914790101160",
+        "created_at": "2026-02-01T15:32:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T16:32:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017984357030375776"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1446976451610251267",
+              "start": 0,
+              "username": "AntiPhagg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017984357030375776",
+        "in_reply_to_user_id": "1446976451610251267",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 207,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017981735322194406",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AntiPhagg 如果一个人的大脑萎缩到只能用‘性取向’来解释‘犯罪行为’，那这种智商确实理解不了什么叫个体素质。性骚扰是人渣的行为，而人渣是不分取向的。如果你非要搞扩大化，那异性恋性侵犯的数量可能会让你这辈子都不敢出门。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "",
+        "id": "1907414826101669888",
+        "name": "Jam Farewell Song",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907415117874253824/L2WK8HRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 201,
+          "like_count": 42,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 53
+        },
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-06T17:34:52.000Z",
+        "description": "专注于 LGBT 与少数群体发声。 记录真实，记录阵痛，记录每一份生而不同的勇气。\n🏳️‍🌈 如果你也受够了沉默，请和我并肩前行。",
+        "id": "1798770460752297984",
+        "name": "Atlas",
+        "pinned_tweet_id": "2016171071372665179",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013196101730312192/4ayc920J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 30,
+          "like_count": 537,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 100
+        },
+        "username": "AtlasLGBT",
+        "verified": true
+      },
+      {
+        "created_at": "2021-10-09T23:11:04.000Z",
+        "description": "",
+        "id": "1446976451610251267",
+        "name": "FaagTimothyZhangWannan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017618397626871808/E9Ovv9d7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 109,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 15
+        },
+        "username": "AntiPhagg",
+        "verified": false
+      }
+    ]
+  }
+}

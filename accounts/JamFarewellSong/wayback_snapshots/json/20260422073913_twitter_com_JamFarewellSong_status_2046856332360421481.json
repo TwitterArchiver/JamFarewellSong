@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2046856332360421481",
+    "created_at": "2026-04-22T07:39:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T08:39:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046856332360421481"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1397850509323554817",
+          "start": 3,
+          "username": "noaayoyaoaya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046856332360421481",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046603070335750519",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @noaayoyaoaya: 本人就是初中有一天放假 突然觉得自己有没有可能是跨性别啊 查了个资料感觉可能性很大就决定去当了🙂‍↕️当天晚上就告诉了家里人（被痛骂）第二天告诉了身边的朋友（被当成伪娘）\n但当时本人纯犟 感觉越是反对越说明这群人歧视跨性别 越歧视越说明我的跨…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2046856332360421481",
+        "created_at": "2026-04-22T07:39:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T08:39:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046856332360421481"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1397850509323554817",
+              "start": 3,
+              "username": "noaayoyaoaya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046856332360421481",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046603070335750519",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @noaayoyaoaya: 本人就是初中有一天放假 突然觉得自己有没有可能是跨性别啊 查了个资料感觉可能性很大就决定去当了🙂‍↕️当天晚上就告诉了家里人（被痛骂）第二天告诉了身边的朋友（被当成伪娘）\n但当时本人纯犟 感觉越是反对越说明这群人歧视跨性别 越歧视越说明我的跨…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1397850509323554817",
+        "conversation_id": "2046603070335750519",
+        "created_at": "2026-04-21T14:52:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T15:52:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046603070335750519"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/paranqidandrqi…",
+              "end": 165,
+              "expanded_url": "https://twitter.com/paranqidandrqid/status/2046575488257466557",
+              "start": 142,
+              "url": "https://t.co/9AnQ5x0uPK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046603070335750519",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 10858,
+          "like_count": 163,
+          "quote_count": 2,
+          "reply_count": 10,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046575488257466557",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "本人就是初中有一天放假 突然觉得自己有没有可能是跨性别啊 查了个资料感觉可能性很大就决定去当了🙂‍↕️当天晚上就告诉了家里人（被痛骂）第二天告诉了身边的朋友（被当成伪娘）\n但当时本人纯犟 感觉越是反对越说明这群人歧视跨性别 越歧视越说明我的跨性别身份是真实的，就越要和这群人死磕到底 https://t.co/9AnQ5x0uPK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "电波系中央空调；MtX&泛性恋&ASD&（隐藏属性）&CPTSD，性别/身材焦虑；od、自伤の新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；期待大家扩列互fo😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 206,
+          "following_count": 862,
+          "like_count": 2935,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 644
+        },
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-27T09:42:01.000Z",
+        "description": "你好 我是那由//小号 @noaayoyaoaya1//自己的频道https://t.co/AqilBn0S8E",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "noaayoyaoaya1"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+Hp2U0Rck9wU5O…",
+                "end": 56,
+                "expanded_url": "https://t.me/+Hp2U0Rck9wU5OGY0//",
+                "start": 33,
+                "url": "https://t.co/AqilBn0S8E"
+              }
+            ]
+          }
+        },
+        "id": "1397850509323554817",
+        "name": "那由",
+        "pinned_tweet_id": "1947921475203436797",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1626023028818681860/Tg9u2Z8J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20149,
+          "following_count": 788,
+          "like_count": 10581,
+          "listed_count": 29,
+          "media_count": 109,
+          "tweet_count": 5117
+        },
+        "username": "noaayoyaoaya",
+        "verified": false
+      }
+    ]
+  }
+}

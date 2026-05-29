@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042194069829586944"
+      ],
+      "media_source_tweet_id": [
+        "2042194078725759406"
+      ]
+    },
+    "author_id": "1907414826101669888",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2042511593800634848",
+    "created_at": "2026-04-10T07:54:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T08:54:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042511593800634848"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1993628897645408256",
+          "start": 3,
+          "username": "Pr0mis3_c"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/q85VX9BFsk",
+          "end": 42,
+          "expanded_url": "https://x.com/Pr0mis3_c/status/2042194078725759406/photo/1",
+          "media_key": "3_2042194069829586944",
+          "start": 19,
+          "url": "https://t.co/q85VX9BFsk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042511593800634848",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042194078725759406",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Pr0mis3_c: 🍥🍥😋 https://t.co/q85VX9BFsk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2042194069829586944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFdUr76aEAA-II0.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042194069829586944"
+          ],
+          "media_source_tweet_id": [
+            "2042194078725759406"
+          ]
+        },
+        "author_id": "1907414826101669888",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2042511593800634848",
+        "created_at": "2026-04-10T07:54:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T08:54:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042511593800634848"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1993628897645408256",
+              "start": 3,
+              "username": "Pr0mis3_c"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/q85VX9BFsk",
+              "end": 42,
+              "expanded_url": "https://x.com/Pr0mis3_c/status/2042194078725759406/photo/1",
+              "media_key": "3_2042194069829586944",
+              "start": 19,
+              "url": "https://t.co/q85VX9BFsk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042511593800634848",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042194078725759406",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Pr0mis3_c: 🍥🍥😋 https://t.co/q85VX9BFsk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042194069829586944"
+          ]
+        },
+        "author_id": "1993628897645408256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2042194078725759406",
+        "created_at": "2026-04-09T10:53:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T11:53:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042194078725759406"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/q85VX9BFsk",
+              "end": 27,
+              "expanded_url": "https://x.com/Pr0mis3_c/status/2042194078725759406/photo/1",
+              "media_key": "3_2042194069829586944",
+              "start": 4,
+              "url": "https://t.co/q85VX9BFsk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042194078725759406",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2645,
+          "like_count": 80,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "🍥🍥😋 https://t.co/q85VX9BFsk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "电波系中央空调；MtX&泛性恋&ASD&（隐藏属性）&CPTSD，性别/身材焦虑；od、自伤の新手；文娱杂食党，Gore爱好者；期待大家扩列互fo😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 722,
+          "like_count": 1855,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 365
+        },
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-26T10:32:43.000Z",
+        "description": "🍥06 xyn/mtf 🏳️‍⚧️hrt: 2025.12.2| en/zh | 无证含糖 | 持续深柜中 | 喜欢xnn&xyn | 精神健康稳定，无不良嗜好 | 梦想srs | 同类互fo | 想要交友...\ntg: https://t.co/yl6WM4V5Sw",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Pr0m1s3",
+                "end": 134,
+                "expanded_url": "http://t.me/Pr0m1s3",
+                "start": 111,
+                "url": "https://t.co/yl6WM4V5Sw"
+              }
+            ]
+          }
+        },
+        "id": "1993628897645408256",
+        "location": "Antarctica",
+        "name": "Pr0mis3🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2039290189093519707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031661442714497024/2TU5OjbE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 395,
+          "following_count": 349,
+          "like_count": 1116,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 355
+        },
+        "username": "Pr0mis3_c",
+        "verified": true
+      }
+    ]
+  }
+}

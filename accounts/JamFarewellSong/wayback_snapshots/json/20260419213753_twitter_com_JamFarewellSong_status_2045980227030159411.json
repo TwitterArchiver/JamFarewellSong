@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2045980227030159411",
+    "created_at": "2026-04-19T21:37:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T22:37:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045980227030159411"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "51633576",
+          "start": 3,
+          "username": "park1996"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045980227030159411",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045747882372862402",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @park1996: 一句话：当你给了政府一个不把你讨厌的人当人的权力的时候，你就要知道他们也可以不把你当人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2045980227030159411",
+        "created_at": "2026-04-19T21:37:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T22:37:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045980227030159411"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "51633576",
+              "start": 3,
+              "username": "park1996"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045980227030159411",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045747882372862402",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @park1996: 一句话：当你给了政府一个不把你讨厌的人当人的权力的时候，你就要知道他们也可以不把你当人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "51633576",
+        "conversation_id": "2045747882372862402",
+        "created_at": "2026-04-19T06:14:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T07:14:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045747882372862402"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/park1996/statu…",
+              "end": 67,
+              "expanded_url": "https://twitter.com/park1996/status/2045746952185225382",
+              "start": 44,
+              "url": "https://t.co/igKOU3KS0m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045747882372862402",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2095,
+          "like_count": 31,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045746952185225382",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一句话：当你给了政府一个不把你讨厌的人当人的权力的时候，你就要知道他们也可以不把你当人 https://t.co/igKOU3KS0m"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "电波系中央空调；MtX&泛性恋&ASD&（隐藏属性）&CPTSD，性别/身材焦虑；od、自伤の新手；文娱杂食党，Gore爱好者；期待大家扩列互fo😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200,
+          "following_count": 843,
+          "like_count": 2745,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 580
+        },
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2009-06-28T03:02:42.000Z",
+        "description": "您将在本账户中看到/In this acct you will find: 🗳️/🐾/💻/🏳️‍🌈/✝️(⚓️)/📖/🎬/🎵/📷 in zh-n/en-4/ja-2/fr-1/es-1. People will do stupid things, the trick is to let them.",
+        "id": "51633576",
+        "location": "🎵Terre de nos aïeux🎵",
+        "name": "Parker",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1502811269849526276/cu261oV8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 860,
+          "following_count": 1913,
+          "like_count": 17829,
+          "listed_count": 19,
+          "media_count": 181,
+          "tweet_count": 11737
+        },
+        "username": "park1996",
+        "verified": true
+      }
+    ]
+  }
+}

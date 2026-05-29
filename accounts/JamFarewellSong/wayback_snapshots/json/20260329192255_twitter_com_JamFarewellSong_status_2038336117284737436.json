@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2038336117284737436",
+    "created_at": "2026-03-29T19:22:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T20:22:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038336117284737436"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1497481140915290115",
+          "start": 3,
+          "username": "karasu_ga_warau"
+        },
+        {
+          "end": 35,
+          "id": "825350910335291392",
+          "start": 21,
+          "username": "Hatsuyuki512k"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038336117284737436",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038311117793948114",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @karasu_ga_warau: @Hatsuyuki512k 哈？中國網路上鋪天蓋地對LGBT的仇恨言論，是因為公眾還不知道這些概念嗎？我們每個人都已經在概念構建的抗爭過程中了，不是嗎～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2038336117284737436",
+        "created_at": "2026-03-29T19:22:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T20:22:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038336117284737436"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1497481140915290115",
+              "start": 3,
+              "username": "karasu_ga_warau"
+            },
+            {
+              "end": 35,
+              "id": "825350910335291392",
+              "start": 21,
+              "username": "Hatsuyuki512k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038336117284737436",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038311117793948114",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @karasu_ga_warau: @Hatsuyuki512k 哈？中國網路上鋪天蓋地對LGBT的仇恨言論，是因為公眾還不知道這些概念嗎？我們每個人都已經在概念構建的抗爭過程中了，不是嗎～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1497481140915290115",
+        "conversation_id": "2038222125840929085",
+        "created_at": "2026-03-29T17:43:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T18:43:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038311117793948114"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "825350910335291392",
+              "start": 0,
+              "username": "Hatsuyuki512k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038311117793948114",
+        "in_reply_to_user_id": "825350910335291392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038302893111910642",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hatsuyuki512k 哈？中國網路上鋪天蓋地對LGBT的仇恨言論，是因為公眾還不知道這些概念嗎？我們每個人都已經在概念構建的抗爭過程中了，不是嗎～"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "",
+        "id": "1907414826101669888",
+        "name": "Jam Farewell Song",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907415117874253824/L2WK8HRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 207,
+          "like_count": 53,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 59
+        },
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-26T07:59:00.000Z",
+        "description": "Proud Chinese communism survivor | Proud Feminist | Proud Queer (she/they) | May all the justice live in peace, love in peace and rest in peace.",
+        "id": "1497481140915290115",
+        "name": "夏巢川 Rei Xia",
+        "pinned_tweet_id": "1814038292738035893",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798095968576958464/DJkGIkQO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28852,
+          "following_count": 1312,
+          "like_count": 9741,
+          "listed_count": 118,
+          "media_count": 558,
+          "tweet_count": 5542
+        },
+        "username": "karasu_ga_warau",
+        "verified": false
+      },
+      {
+        "created_at": "2017-01-28T14:32:46.000Z",
+        "description": "waaaaaaaaa",
+        "id": "825350910335291392",
+        "name": "name cannot be blank",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000591328736874500/15c3AZjC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 559,
+          "following_count": 3186,
+          "like_count": 45708,
+          "listed_count": 3,
+          "media_count": 742,
+          "tweet_count": 11544
+        },
+        "username": "Hatsuyuki512k",
+        "verified": false
+      }
+    ]
+  }
+}

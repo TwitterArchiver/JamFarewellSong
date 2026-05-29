@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2041219404906877331",
+    "created_at": "2026-04-06T18:20:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T19:20:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041219404906877331"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "385760660",
+          "start": 3,
+          "username": "psyofsouthwest"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "mega.nz/file/zn5iFDrY#…",
+          "end": 43,
+          "expanded_url": "https://mega.nz/file/zn5iFDrY#l8kApXZVpSgZp7y0qDnWp0Y1WPGUIGjJy8uEtEfCXaQ",
+          "images": [
+            {
+              "height": 600,
+              "url": "https://pbs.twimg.com/news_img/2006092406769475587/iA6hYLY1?format=png&name=orig",
+              "width": 600
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2006092406769475587/iA6hYLY1?format=png&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 20,
+          "status": 200,
+          "title": "69.5 MB file on MEGA",
+          "unwound_url": "https://mega.nz/file/zn5iFDrY#l8kApXZVpSgZp7y0qDnWp0Y1WPGUIGjJy8uEtEfCXaQ",
+          "url": "https://t.co/xAdQZbdg4z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041219404906877331",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "1868779309206225163",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @psyofsouthwest: https://t.co/xAdQZbdg4z《自杀干预实用技术——帮助有自杀倾向的人》"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2041219404906877331",
+        "created_at": "2026-04-06T18:20:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T19:20:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041219404906877331"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "385760660",
+              "start": 3,
+              "username": "psyofsouthwest"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "mega.nz/file/zn5iFDrY#…",
+              "end": 43,
+              "expanded_url": "https://mega.nz/file/zn5iFDrY#l8kApXZVpSgZp7y0qDnWp0Y1WPGUIGjJy8uEtEfCXaQ",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/2006092406769475587/iA6hYLY1?format=png&name=orig",
+                  "width": 600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2006092406769475587/iA6hYLY1?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 20,
+              "status": 200,
+              "title": "69.5 MB file on MEGA",
+              "unwound_url": "https://mega.nz/file/zn5iFDrY#l8kApXZVpSgZp7y0qDnWp0Y1WPGUIGjJy8uEtEfCXaQ",
+              "url": "https://t.co/xAdQZbdg4z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041219404906877331",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "1868779309206225163",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @psyofsouthwest: https://t.co/xAdQZbdg4z《自杀干预实用技术——帮助有自杀倾向的人》"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1868779309206225163",
+        "created_at": "2024-12-16T22:04:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-16T23:04:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1868779309206225163"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "mega.nz/file/zn5iFDrY#…",
+              "end": 23,
+              "expanded_url": "https://mega.nz/file/zn5iFDrY#l8kApXZVpSgZp7y0qDnWp0Y1WPGUIGjJy8uEtEfCXaQ",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/2006092406769475587/iA6hYLY1?format=png&name=orig",
+                  "width": 600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2006092406769475587/iA6hYLY1?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "69.5 MB file on MEGA",
+              "unwound_url": "https://mega.nz/file/zn5iFDrY#l8kApXZVpSgZp7y0qDnWp0Y1WPGUIGjJy8uEtEfCXaQ",
+              "url": "https://t.co/xAdQZbdg4z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868779309206225163",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 42,
+          "impression_count": 15028,
+          "like_count": 59,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/xAdQZbdg4z《自杀干预实用技术——帮助有自杀倾向的人》"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "电波系中央空调；MtX&泛性恋&ASD&（隐藏属性）&CPTSD，性别/身材焦虑；od、自伤の新手；文娱杂食党，Gore爱好者；期待大家扩列互fo😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 525,
+          "like_count": 925,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 187
+        },
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是终极的回避，\n也可以是看清自己的试炼。\nDoro轰炸机。喜欢心理。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1597,
+          "following_count": 4751,
+          "like_count": 101821,
+          "listed_count": 2,
+          "media_count": 428,
+          "tweet_count": 14262
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      }
+    ]
+  }
+}

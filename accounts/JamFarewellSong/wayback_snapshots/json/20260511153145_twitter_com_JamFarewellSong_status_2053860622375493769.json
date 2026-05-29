@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2053734469589508590",
+    "created_at": "2026-05-11T15:31:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T16:31:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053860622375493769"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1928795754346459138",
+          "start": 0,
+          "username": "existornull"
+        },
+        {
+          "end": 28,
+          "id": "1827293756661571584",
+          "start": 13,
+          "username": "aizhenxunjiang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053860622375493769",
+    "in_reply_to_user_id": "1928795754346459138",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053734469589508590",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@existornull @aizhenxunjiang 摸摸～还在就好。昨天看到太多坏消息了，反复大哭了好几场😇挺麻烦我身边人的，惭愧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2053734469589508590",
+        "created_at": "2026-05-11T15:31:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T16:31:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053860622375493769"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1928795754346459138",
+              "start": 0,
+              "username": "existornull"
+            },
+            {
+              "end": 28,
+              "id": "1827293756661571584",
+              "start": 13,
+              "username": "aizhenxunjiang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053860622375493769",
+        "in_reply_to_user_id": "1928795754346459138",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053734469589508590",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@existornull @aizhenxunjiang 摸摸～还在就好。昨天看到太多坏消息了，反复大哭了好几场😇挺麻烦我身边人的，惭愧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1928795754346459138",
+        "conversation_id": "2053734469589508590",
+        "created_at": "2026-05-11T07:10:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T08:10:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053734469589508590"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 41,
+              "id": "1827293756661571584",
+              "start": 26,
+              "username": "aizhenxunjiang"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/existornull/st…",
+              "end": 180,
+              "expanded_url": "https://twitter.com/existornull/status/2053394737525358855",
+              "start": 157,
+              "url": "https://t.co/wi0CkjhLdH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053734469589508590",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3397,
+          "like_count": 48,
+          "quote_count": 0,
+          "reply_count": 18,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053394737525358855",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "声明1.在警察的干预下，已经拉回，并且洗胃，感谢雨汐@aizhenxunjiang 的干预\n2.原因是多方面的，对象的出轨，欺骗和背叛，家人的压力，以及无法回学校上学\n3.我不od，也不再参与药物的售卖\n4.也许我确实好死，不过我活着，对不起这一天内关心过我的人\n5.原本都是我温暖别人的，没想到我本身就不够温暖 https://t.co/wi0CkjhLdH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od、自伤の新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 257,
+          "following_count": 960,
+          "like_count": 3487,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 853
+        },
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-31T12:49:03.000Z",
+        "description": "10后/mtf/intp/164 100/持证含糖/pjsk\n柰芸喜欢早上一杯咖啡一本书，下午一壶茶一个唱片，晚上一场散步一架琴的生活\n希望世界能温柔一点\n小证25.12.15 hrt8.16\n🚪30",
+        "id": "1928795754346459138",
+        "location": "中国浙江",
+        "name": "奈芸🍥",
+        "pinned_tweet_id": "2053727554574663981",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999500760246288384/rM1oLj6C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 208,
+          "like_count": 57,
+          "listed_count": 2,
+          "media_count": 33,
+          "tweet_count": 100
+        },
+        "username": "existornull",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-24T10:36:38.000Z",
+        "description": "mtf｜hrt2025.02.28｜无证含糖🍥（已炸柜）｜07｜istp｜欢迎同类🍥🏳️‍⚧️｜同类互fo｜158cm/97斤｜坐标南京｜TG@yuchi20250228｜\n老婆@chenyuxi5201314",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 89,
+                "username": "chenyuxi5201314"
+              }
+            ]
+          }
+        },
+        "id": "1827293756661571584",
+        "location": "南京",
+        "name": "雨汐🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2046170676864934354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960119314624991232/l-JCZqJM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1186,
+          "following_count": 876,
+          "like_count": 378,
+          "listed_count": 2,
+          "media_count": 81,
+          "tweet_count": 364
+        },
+        "username": "aizhenxunjiang",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050860865684135936"
+      ]
+    },
+    "author_id": "1907414826101669888",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2050860891298816414",
+    "created_at": "2026-05-03T08:51:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T09:51:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050860891298816414"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Yd4IIQrtJy",
+          "end": 39,
+          "expanded_url": "https://x.com/JamFarewellSong/status/2050860891298816414/photo/1",
+          "media_key": "3_2050860865684135936",
+          "start": 16,
+          "url": "https://t.co/Yd4IIQrtJy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050860891298816414",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "和雨宝一起o了2t麦旋风🥰🥰🥰 https://t.co/Yd4IIQrtJy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1919,
+        "media_key": "3_2050860865684135936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHYfF2baYAAfVfA.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050860865684135936"
+          ]
+        },
+        "author_id": "1907414826101669888",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2050860891298816414",
+        "created_at": "2026-05-03T08:51:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T09:51:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050860891298816414"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Yd4IIQrtJy",
+              "end": 39,
+              "expanded_url": "https://x.com/JamFarewellSong/status/2050860891298816414/photo/1",
+              "media_key": "3_2050860865684135936",
+              "start": 16,
+              "url": "https://t.co/Yd4IIQrtJy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050860891298816414",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "和雨宝一起o了2t麦旋风🥰🥰🥰 https://t.co/Yd4IIQrtJy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "电波系中央空调；MtX&泛性恋&ASD&（隐藏属性）&CPTSD，性别/身材焦虑；od、自伤の新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；期待大家扩列互fo😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 917,
+          "like_count": 3140,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 722
+        },
+        "username": "JamFarewellSong",
+        "verified": false
+      }
+    ]
+  }
+}

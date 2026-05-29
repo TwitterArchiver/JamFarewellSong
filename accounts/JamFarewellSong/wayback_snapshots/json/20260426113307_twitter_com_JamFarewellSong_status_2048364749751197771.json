@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2048364749751197771",
+    "created_at": "2026-04-26T11:33:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T12:33:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048364749751197771"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2039072056063541248",
+          "start": 3,
+          "username": "rosensmarked"
+        },
+        {
+          "end": 28,
+          "id": "1639816523190763521",
+          "start": 18,
+          "username": "ggdxfulan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048364749751197771",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047781340930806033",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rosensmarked: @ggdxfulan 老样子，我们仍旧是墙壁中的一块砖－－证据是，假设我们之中有任何一个人死了，必定会有某个人来取而代之。没有一个人的存在是无可替换的，也没有一个政治家是足以被暗杀的。只少了一块砖，墙壁并不会因此而倒塌。我们每个人都充满无力感…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2048364749751197771",
+        "created_at": "2026-04-26T11:33:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T12:33:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048364749751197771"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2039072056063541248",
+              "start": 3,
+              "username": "rosensmarked"
+            },
+            {
+              "end": 28,
+              "id": "1639816523190763521",
+              "start": 18,
+              "username": "ggdxfulan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048364749751197771",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047781340930806033",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rosensmarked: @ggdxfulan 老样子，我们仍旧是墙壁中的一块砖－－证据是，假设我们之中有任何一个人死了，必定会有某个人来取而代之。没有一个人的存在是无可替换的，也没有一个政治家是足以被暗杀的。只少了一块砖，墙壁并不会因此而倒塌。我们每个人都充满无力感…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039072056063541248",
+        "conversation_id": "2047673542158725568",
+        "created_at": "2026-04-24T20:54:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T21:54:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047781340930806033"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1639816523190763521",
+              "start": 0,
+              "username": "ggdxfulan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047781340930806033",
+        "in_reply_to_user_id": "1639816523190763521",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 97,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047673542158725568",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ggdxfulan 老样子，我们仍旧是墙壁中的一块砖－－证据是，假设我们之中有任何一个人死了，必定会有某个人来取而代之。没有一个人的存在是无可替换的，也没有一个政治家是足以被暗杀的。只少了一块砖，墙壁并不会因此而倒塌。我们每个人都充满无力感，存在不存在都无所谓，换句话说，生命是轻的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "电波系中央空调；MtX&泛性恋&ASD&（隐藏属性）&CPTSD，性别/身材焦虑；od、自伤の新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；期待大家扩列互fo😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 893,
+          "like_count": 3064,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 696
+        },
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-31T20:07:29.000Z",
+        "description": "键政能极大提高自身素养，会有美女被优秀的建政男性吸引，因为他们谈吐不凡，提高国际视野对各种投资也很有好处，你跟我说键政没用?什么低认知发言。\n绝对支持刘仲敬主义",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/callum55959",
+                "end": 23,
+                "expanded_url": "https://ngl.link/callum55959",
+                "start": 0,
+                "url": "https://t.co/k2ZGRaK20t"
+              }
+            ]
+          }
+        },
+        "id": "2039072056063541248",
+        "location": "逆向民族主义",
+        "name": "久远寺有珠 (民间键政家)",
+        "pinned_tweet_id": "2048296439210807806",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042581281222070273/eop2xwyz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 24,
+          "like_count": 15,
+          "listed_count": 0,
+          "media_count": 221,
+          "tweet_count": 1037
+        },
+        "url": "https://t.co/k2ZGRaK20t",
+        "username": "rosensmarked",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-26T02:28:25.000Z",
+        "description": "二次翻车的小芙兰\n药娘1 纯1哦",
+        "id": "1639816523190763521",
+        "location": "距离你2km",
+        "name": "乖乖哒二小姐",
+        "pinned_tweet_id": "2039230799497547970",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002781704680030208/O0cqzBz3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17484,
+          "following_count": 504,
+          "like_count": 35710,
+          "listed_count": 33,
+          "media_count": 3742,
+          "tweet_count": 11574
+        },
+        "username": "ggdxfulan",
+        "verified": true
+      }
+    ]
+  }
+}

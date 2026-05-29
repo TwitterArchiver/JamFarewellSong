@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2054000765166108744",
+    "created_at": "2026-05-12T00:48:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T01:48:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054000765166108744"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1561753484512612353",
+          "start": 3,
+          "username": "Moutai_H_Maple"
+        },
+        {
+          "end": 28,
+          "id": "1670458419986464768",
+          "start": 20,
+          "username": "nn66676"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054000765166108744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939757528008859723",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Moutai_H_Maple: @nn66676 就是这代父母其实想的是“我不能做不尽责的父母”要大于“我的孩子要幸福”。\n他们的孩子离家出走了说明他们的教育失败，他们当然会很焦虑，会甜言蜜语。\n但说实话，他们对话的到底是自己的孩子还是自己幻想的一个载体，都存疑。…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2054000765166108744",
+        "created_at": "2026-05-12T00:48:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T01:48:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054000765166108744"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1561753484512612353",
+              "start": 3,
+              "username": "Moutai_H_Maple"
+            },
+            {
+              "end": 28,
+              "id": "1670458419986464768",
+              "start": 20,
+              "username": "nn66676"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054000765166108744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939757528008859723",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Moutai_H_Maple: @nn66676 就是这代父母其实想的是“我不能做不尽责的父母”要大于“我的孩子要幸福”。\n他们的孩子离家出走了说明他们的教育失败，他们当然会很焦虑，会甜言蜜语。\n但说实话，他们对话的到底是自己的孩子还是自己幻想的一个载体，都存疑。…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561753484512612353",
+        "conversation_id": "1939698927105953998",
+        "created_at": "2025-06-30T18:46:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-30T19:46:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939757528008859723"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1670458419986464768",
+              "start": 0,
+              "username": "nn66676"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939757528008859723",
+        "in_reply_to_user_id": "1561753484512612353",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "就是这代父母其实想的是“我不能做不尽责的父母”要大于“我的孩子要幸福”。\n他们的孩子离家出走了说明他们的教育失败，他们当然会很焦虑，会甜言蜜语。\n但说实话，他们对话的到底是自己的孩子还是自己幻想的一个载体，都存疑。\n\n有的孩子自杀前父母看着很爱自己的孩子，自杀后父母直接生了二胎。并且家里谁都不能再提老大的存在和老大的死。\n\n我当然不是说这位仁兄的父母也百分百是个疯子，但起码我认为就当今这个疯癫的家庭现象，你很难下结论说其父母多么尽责。\n太多父母比这位还能变着花样说“宝贝”、“我的好儿子”。而这批人想要的其实是好儿子，不是你我。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 648,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939755932885688427",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nn66676 就是这代父母其实想的是“我不能做不尽责的父母”要大于“我的孩子要幸福”。\n他们的孩子离家出走了说明他们的教育失败，他们当然会很焦虑，会甜言蜜语。\n但说实话，他们对话的到底是自己的孩子还是自己幻想的一个载体，都存疑。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od、自伤の新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 259,
+          "following_count": 964,
+          "like_count": 3503,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 859
+        },
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-22T16:34:03.000Z",
+        "description": "男同性恋，自认携带y染负能量病毒载体，靠近会被污染。｜\n秘祈人途径，现在是放牧“古代学者”和“观众”的“牧羊人”｜古代学者的友情链接https://t.co/2bC44aQn9c",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/katon53615",
+                "end": 89,
+                "expanded_url": "https://x.com/katon53615",
+                "start": 66,
+                "url": "https://t.co/2bC44aQn9c"
+              }
+            ]
+          }
+        },
+        "id": "1561753484512612353",
+        "location": "Edmonton, Alberta",
+        "name": "茅茅taiiiiii",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988309263115317248/IS5Aq8xZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1058,
+          "following_count": 263,
+          "like_count": 1787,
+          "listed_count": 4,
+          "media_count": 431,
+          "tweet_count": 2000
+        },
+        "username": "Moutai_H_Maple",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-18T15:50:22.000Z",
+        "description": "",
+        "id": "1670458419986464768",
+        "location": "云南昆明",
+        "name": "嗯嗯🀄️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806979035916029952/VFgFUc0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2105,
+          "following_count": 696,
+          "like_count": 7344,
+          "listed_count": 5,
+          "media_count": 932,
+          "tweet_count": 5463
+        },
+        "username": "nn66676",
+        "verified": false
+      }
+    ]
+  }
+}

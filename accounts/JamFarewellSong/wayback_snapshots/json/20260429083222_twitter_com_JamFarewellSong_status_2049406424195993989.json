@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2049406424195993989",
+    "created_at": "2026-04-29T08:32:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T09:32:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049406424195993989"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1849706620680597504",
+          "start": 3,
+          "username": "Ilismyy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049406424195993989",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008449146769076623",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ilismyy: 你要怎么处理呢？伤疤，身体，还有你的人生"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2049406424195993989",
+        "created_at": "2026-04-29T08:32:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T09:32:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049406424195993989"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1849706620680597504",
+              "start": 3,
+              "username": "Ilismyy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049406424195993989",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008449146769076623",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ilismyy: 你要怎么处理呢？伤疤，身体，还有你的人生"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849706620680597504",
+        "conversation_id": "2008449146769076623",
+        "created_at": "2026-01-06T08:02:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T09:02:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008449146769076623"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2008449146769076623",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 262,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "你要怎么处理呢？伤疤，身体，还有你的人生"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "电波系中央空调；MtX&泛性恋&ASD&（隐藏属性）&CPTSD，性别/身材焦虑；od、自伤の新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；期待大家扩列互fo😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 225,
+          "following_count": 917,
+          "like_count": 3149,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 722
+        },
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-25T06:56:49.000Z",
+        "description": "燕燕✝177.5/50kg浮动\n翻车OIer转ODer 窝有朋友和家人了\n我有进食障碍 进食障碍毁了我 游戏制作中欢迎追更",
+        "id": "1849706620680597504",
+        "location": "mew",
+        "name": "死翘翘",
+        "pinned_tweet_id": "2008449146769076623",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014025058042118145/GBFR3Hp5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 11,
+          "like_count": 120,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 159
+        },
+        "username": "Ilismyy",
+        "verified": false
+      }
+    ]
+  }
+}

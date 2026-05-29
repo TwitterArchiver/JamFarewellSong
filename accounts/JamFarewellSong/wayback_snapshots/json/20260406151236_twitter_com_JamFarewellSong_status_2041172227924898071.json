@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2041172227924898071",
+    "created_at": "2026-04-06T15:12:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T16:12:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041172227924898071"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1868205822511288320",
+          "start": 3,
+          "username": "vicoOci_Olvidar"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041172227924898071",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036788651909341209",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @vicoOci_Olvidar: 自杀这种事过了18岁就没有美感了，大家只看见一个失败的成年人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2041172227924898071",
+        "created_at": "2026-04-06T15:12:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T16:12:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041172227924898071"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1868205822511288320",
+              "start": 3,
+              "username": "vicoOci_Olvidar"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041172227924898071",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036788651909341209",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @vicoOci_Olvidar: 自杀这种事过了18岁就没有美感了，大家只看见一个失败的成年人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868205822511288320",
+        "conversation_id": "2036788651909341209",
+        "created_at": "2026-03-25T12:53:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T13:53:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036788651909341209"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036788651909341209",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 13827,
+          "like_count": 262,
+          "quote_count": 5,
+          "reply_count": 31,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "自杀这种事过了18岁就没有美感了，大家只看见一个失败的成年人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "电波系中央空调；MtX&泛性恋&ASD&（隐藏属性）&CPTSD，性别/身材焦虑；od、自伤の新手；文娱杂食党，Gore爱好者；期待大家扩列互fo😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 510,
+          "like_count": 849,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 173
+        },
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-15T08:06:14.000Z",
+        "description": "想象力夺取政权 /区宝宝啦啦啦@valentina748264",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 15,
+                "username": "valentina748264"
+              }
+            ]
+          }
+        },
+        "id": "1868205822511288320",
+        "location": "啤酒厂",
+        "name": "万宝胃",
+        "pinned_tweet_id": "2026241131324084508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040974004794916864/MDffMkBI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4356,
+          "following_count": 372,
+          "like_count": 23859,
+          "listed_count": 15,
+          "media_count": 1198,
+          "tweet_count": 15789
+        },
+        "username": "vicoOci_Olvidar",
+        "verified": false
+      }
+    ]
+  }
+}

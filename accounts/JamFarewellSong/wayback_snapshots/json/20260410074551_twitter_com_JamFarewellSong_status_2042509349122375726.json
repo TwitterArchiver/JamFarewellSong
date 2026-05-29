@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2042509349122375726",
+    "created_at": "2026-04-10T07:45:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T08:45:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042509349122375726"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1597468568290873344",
+          "start": 3,
+          "username": "jingzhny11"
+        },
+        {
+          "end": 32,
+          "id": "2008943608695840768",
+          "start": 16,
+          "username": "electronic_dirt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042509349122375726",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042216072607420797",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jingzhny11: @electronic_dirt 其次，如果你觉得“毒品”的标准比起政治作秀更依据科学，全球医学界公认槟榔和烟草的生理危害与成瘾性超过多数soft drug，接近hard drug，酒精的危害与成瘾性也与不少soft drug比肩，满大街槟榔店的…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2042509349122375726",
+        "created_at": "2026-04-10T07:45:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T08:45:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042509349122375726"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1597468568290873344",
+              "start": 3,
+              "username": "jingzhny11"
+            },
+            {
+              "end": 32,
+              "id": "2008943608695840768",
+              "start": 16,
+              "username": "electronic_dirt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042509349122375726",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042216072607420797",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jingzhny11: @electronic_dirt 其次，如果你觉得“毒品”的标准比起政治作秀更依据科学，全球医学界公认槟榔和烟草的生理危害与成瘾性超过多数soft drug，接近hard drug，酒精的危害与成瘾性也与不少soft drug比肩，满大街槟榔店的…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597468568290873344",
+        "conversation_id": "2042070188708000243",
+        "created_at": "2026-04-09T12:20:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T13:20:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042216072607420797"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2008943608695840768",
+              "start": 0,
+              "username": "electronic_dirt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042216072607420797",
+        "in_reply_to_user_id": "1597468568290873344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 108,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042167833199886567",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@electronic_dirt 其次，如果你觉得“毒品”的标准比起政治作秀更依据科学，全球医学界公认槟榔和烟草的生理危害与成瘾性超过多数soft drug，接近hard drug，酒精的危害与成瘾性也与不少soft drug比肩，满大街槟榔店的CN人有什么资格嘲笑一些国家的大麻店？\n何况正是妖魔化使得人们缺乏相关知识，使用者才会盲目追求大剂量"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "电波系中央空调；MtX&泛性恋&ASD&（隐藏属性）&CPTSD，性别/身材焦虑；od、自伤の新手；文娱杂食党，Gore爱好者；期待大家扩列互fo😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 718,
+          "like_count": 1835,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 356
+        },
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-29T05:53:13.000Z",
+        "description": "99年 \n🍥​2023/05/07 srs2025/07/31 一米九超大只\n左下的，混乱善良的，激跨的，支持精神活性物质的，ODer但水平很差的，想当黄推的，下海预备的\n感性条拉满的理想主义者ENFP\n希望一个没人再感到痛苦的世界/如果可以我希望爱、原谅与理解而不是恶、仇恨与歧视",
+        "id": "1597468568290873344",
+        "location": "谁人的繁星之梦",
+        "name": "愿望天使DesireAngel",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024462875855900673/BMWGdQhI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5042,
+          "following_count": 2011,
+          "like_count": 121922,
+          "listed_count": 22,
+          "media_count": 247,
+          "tweet_count": 17550
+        },
+        "username": "jingzhny11",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-07T16:47:44.000Z",
+        "description": "💉𓂋 =无垢 可以找我互fo捏( ^ω^ ) 09休学中 顺女 泛性恋 精无 内含【 割 、o 、 烟 、 酒 】",
+        "id": "2008943608695840768",
+        "name": "无垢",
+        "pinned_tweet_id": "2026491738811150817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040675587917066240/Egsby-wo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 499,
+          "following_count": 205,
+          "like_count": 1117,
+          "listed_count": 0,
+          "media_count": 92,
+          "tweet_count": 940
+        },
+        "username": "electronic_dirt",
+        "verified": false
+      }
+    ]
+  }
+}

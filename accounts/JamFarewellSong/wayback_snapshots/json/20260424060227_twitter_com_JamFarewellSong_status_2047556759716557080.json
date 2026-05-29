@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2046934384079667225",
+    "created_at": "2026-04-24T06:02:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T07:02:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047556759716557080"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1997261936229249024",
+          "start": 0,
+          "username": "Shiro344213"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047556759716557080",
+    "in_reply_to_user_id": "1997261936229249024",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046934384079667225",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shiro344213 牛😲"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2046934371547193345",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGgr9z6boAE76Ft.jpg",
+        "width": 472
+      },
+      {
+        "height": 768,
+        "media_key": "3_2046934371568168960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGgr9z_bsAAY57W.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2046934384079667225",
+        "created_at": "2026-04-24T06:02:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T07:02:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047556759716557080"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1997261936229249024",
+              "start": 0,
+              "username": "Shiro344213"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047556759716557080",
+        "in_reply_to_user_id": "1997261936229249024",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046934384079667225",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shiro344213 牛😲"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046934371547193345",
+            "3_2046934371568168960"
+          ]
+        },
+        "author_id": "1997261936229249024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2046934384079667225",
+        "created_at": "2026-04-22T12:49:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T13:49:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046934384079667225"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Nquij0hJUV",
+              "end": 42,
+              "expanded_url": "https://x.com/Shiro344213/status/2046934384079667225/photo/1",
+              "media_key": "3_2046934371547193345",
+              "start": 19,
+              "url": "https://t.co/Nquij0hJUV"
+            },
+            {
+              "display_url": "pic.x.com/Nquij0hJUV",
+              "end": 42,
+              "expanded_url": "https://x.com/Shiro344213/status/2046934384079667225/photo/1",
+              "media_key": "3_2046934371568168960",
+              "start": 19,
+              "url": "https://t.co/Nquij0hJUV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046934384079667225",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 19416,
+          "like_count": 149,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "禁售关我鸟事 我的神医就这样助力我😋 https://t.co/Nquij0hJUV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "电波系中央空调；MtX&泛性恋&ASD&（隐藏属性）&CPTSD，性别/身材焦虑；od、自伤の新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；期待大家扩列互fo😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 872,
+          "like_count": 3005,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 673
+        },
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-06T11:09:11.000Z",
+        "description": "这里是小白的一些碎碎念 07｜分舌｜化妆师｜cosplay｜二次元｜od｜自残｜重抑重焦｜负能量｜ 🇯🇵日语学习ing同类互fo欢迎找我互动 漏回记得私信",
+        "id": "1997261936229249024",
+        "location": "福建",
+        "name": "白酱Shiro",
+        "pinned_tweet_id": "2031078396357390831",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027486229235994625/2PvY2uF2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 315,
+          "following_count": 131,
+          "like_count": 40,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 147
+        },
+        "username": "Shiro344213",
+        "verified": false
+      }
+    ]
+  }
+}

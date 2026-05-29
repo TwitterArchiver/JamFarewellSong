@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2052646362584678795",
+    "created_at": "2026-05-08T07:06:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T08:06:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052646362584678795"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1847712034361659392",
+          "start": 3,
+          "username": "huaxuejilebaike"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052646362584678795",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048683748196302995",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @huaxuejilebaike: 我搞砸了 / 我现在很危险，但我愿意让人来救我\n\n打 120，不是失败。那是你在对未来的自己说：“你还有资格活着骂现在的自己蠢。”\n\n珍爱生命，远离OD。\n珍爱生命，远离OD。\n珍爱生命，远离OD。\n珍爱生命，远离OD。\n珍爱生命，远离…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2052646362584678795",
+        "created_at": "2026-05-08T07:06:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T08:06:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052646362584678795"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1847712034361659392",
+              "start": 3,
+              "username": "huaxuejilebaike"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052646362584678795",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048683748196302995",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @huaxuejilebaike: 我搞砸了 / 我现在很危险，但我愿意让人来救我\n\n打 120，不是失败。那是你在对未来的自己说：“你还有资格活着骂现在的自己蠢。”\n\n珍爱生命，远离OD。\n珍爱生命，远离OD。\n珍爱生命，远离OD。\n珍爱生命，远离OD。\n珍爱生命，远离…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1847712034361659392",
+        "conversation_id": "2048683741095370827",
+        "created_at": "2026-04-27T08:40:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T09:40:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048683748196302995"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "普瑞巴林 / 右美沙芬 / 金刚烷胺 / 美金刚 / 5-MeO 类致幻剂 最开头的一眼对照表： “一旦是这个药，第一件事干嘛？这个药最大致命点是什么？” 普瑞巴林 / 加巴喷丁类（“Lyrica 等”）： 第一件事： 立刻打 120，把人放侧卧位，严密看呼吸有没有变浅、变慢。 最大生命危险： 单吃多半是昏睡、共济失调，但与酒精 / BZD / 阿片合用时，呼吸抑制 + 昏迷是致命点。 右美沙芬（...",
+              "display_url": "jile.bid/%E6%80%A5%E6%9…",
+              "end": 146,
+              "expanded_url": "https://jile.bid/%E6%80%A5%E6%95%91%E6%8C%87%E5%8D%97/1289.html",
+              "start": 123,
+              "status": 200,
+              "title": "易滥用(OD)药物类中毒急救指南",
+              "unwound_url": "https://jile.bid/%E6%80%A5%E6%95%91%E6%8C%87%E5%8D%97/1289.html",
+              "url": "https://t.co/V5jCZyJc12"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048683748196302995",
+        "in_reply_to_user_id": "1847712034361659392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1365,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048683745163739276",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我搞砸了 / 我现在很危险，但我愿意让人来救我\n\n打 120，不是失败。那是你在对未来的自己说：“你还有资格活着骂现在的自己蠢。”\n\n珍爱生命，远离OD。\n珍爱生命，远离OD。\n珍爱生命，远离OD。\n珍爱生命，远离OD。\n珍爱生命，远离OD。\n\nhttps://t.co/V5jCZyJc12"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "电波系中央空调；MtX&泛性恋&ASD&（隐藏属性）&CPTSD，性别/身材焦虑；od、自伤の新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；期待大家扩列互fo😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 251,
+          "following_count": 942,
+          "like_count": 3305,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 775
+        },
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-19T18:51:20.000Z",
+        "description": "官网：https://t.co/DF7NTAL0F9 TG交流群：https://t.co/mCh0A9MOrv DC交流群：https://t.co/Zb0fsL464g",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "jile.bid",
+                "end": 26,
+                "expanded_url": "http://jile.bid",
+                "start": 3,
+                "url": "https://t.co/DF7NTAL0F9"
+              },
+              {
+                "display_url": "t.me/yuanliaogeming",
+                "end": 56,
+                "expanded_url": "https://t.me/yuanliaogeming",
+                "start": 33,
+                "url": "https://t.co/mCh0A9MOrv"
+              },
+              {
+                "display_url": "discord.gg/XmNt8AXCEb",
+                "end": 86,
+                "expanded_url": "http://discord.gg/XmNt8AXCEb",
+                "start": 63,
+                "url": "https://t.co/Zb0fsL464g"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yumeng_0721",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yumeng_0721",
+                "start": 0,
+                "url": "https://t.co/8eHnljmbAD"
+              }
+            ]
+          }
+        },
+        "id": "1847712034361659392",
+        "location": "提问箱：",
+        "name": "化学极乐百科⚛️",
+        "pinned_tweet_id": "2049742442048696673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046789084790890496/tu0DxovY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1957,
+          "following_count": 926,
+          "like_count": 24436,
+          "listed_count": 2,
+          "media_count": 397,
+          "tweet_count": 2998
+        },
+        "url": "https://t.co/8eHnljmbAD",
+        "username": "huaxuejilebaike",
+        "verified": false
+      }
+    ]
+  }
+}

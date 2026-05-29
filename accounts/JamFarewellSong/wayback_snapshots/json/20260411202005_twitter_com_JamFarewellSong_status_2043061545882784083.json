@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2043061545882784083",
+    "created_at": "2026-04-11T20:20:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T21:20:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043061545882784083"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1533269224952680448",
+          "start": 3,
+          "username": "Kevin33550337"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043061545882784083",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039746161398165540",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kevin33550337: 五一的时候五六年没见的老登要回国顺便来学校看我，有点不知道该怎么面对他了……上一次见面还是高二。\n心情好复杂，因为各种原因，我对亲情的感觉特别淡，所以我对所谓“父母”的感觉就是“会莫名其妙给我钱的人所以要认真对待一下”……我好像从来没觉得自…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2043061545882784083",
+        "created_at": "2026-04-11T20:20:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T21:20:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043061545882784083"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1533269224952680448",
+              "start": 3,
+              "username": "Kevin33550337"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043061545882784083",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039746161398165540",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kevin33550337: 五一的时候五六年没见的老登要回国顺便来学校看我，有点不知道该怎么面对他了……上一次见面还是高二。\n心情好复杂，因为各种原因，我对亲情的感觉特别淡，所以我对所谓“父母”的感觉就是“会莫名其妙给我钱的人所以要认真对待一下”……我好像从来没觉得自…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1533269224952680448",
+        "conversation_id": "2039746161398165540",
+        "created_at": "2026-04-02T16:45:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T17:45:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039746161398165540"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039746161398165540",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 51,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "五一的时候五六年没见的老登要回国顺便来学校看我，有点不知道该怎么面对他了……上一次见面还是高二。\n心情好复杂，因为各种原因，我对亲情的感觉特别淡，所以我对所谓“父母”的感觉就是“会莫名其妙给我钱的人所以要认真对待一下”……我好像从来没觉得自己应该得到这些，好烦。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "电波系中央空调；MtX&泛性恋&ASD&（隐藏属性）&CPTSD，性别/身材焦虑；od、自伤の新手；文娱杂食党，Gore爱好者；期待大家扩列互fo😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 757,
+          "like_count": 2088,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 429
+        },
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-05T02:07:44.000Z",
+        "description": "——我要南墙记住我的额骨",
+        "id": "1533269224952680448",
+        "name": "游衣继火",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003177155614932992/jQjdKDD7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 3,
+          "like_count": 167,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 495
+        },
+        "username": "Kevin33550337",
+        "verified": false
+      }
+    ]
+  }
+}

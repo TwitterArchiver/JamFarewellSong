@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2043053187473740244",
+    "created_at": "2026-04-11T19:46:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T20:46:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043053187473740244"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1481172876589821952",
+          "start": 3,
+          "username": "pyke2076"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043053187473740244",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042967611034734799",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pyke2076: 海向我涌过来\n你一样涌过来\n还有你的生命\n这一条垂死挣扎的鲸\n房间空荡荡\n好孤独风一样\n你最后的路\n用沉默\n去散步\n水面飘啊飘\n断的桥摇啊摇\n很快就见面\n到那时\n一定好好拥抱。——鲸"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2043053187473740244",
+        "created_at": "2026-04-11T19:46:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T20:46:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043053187473740244"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1481172876589821952",
+              "start": 3,
+              "username": "pyke2076"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043053187473740244",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042967611034734799",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pyke2076: 海向我涌过来\n你一样涌过来\n还有你的生命\n这一条垂死挣扎的鲸\n房间空荡荡\n好孤独风一样\n你最后的路\n用沉默\n去散步\n水面飘啊飘\n断的桥摇啊摇\n很快就见面\n到那时\n一定好好拥抱。——鲸"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1481172876589821952",
+        "conversation_id": "2042967611034734799",
+        "created_at": "2026-04-11T14:06:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T15:06:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042967611034734799"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/asplendour15/s…",
+              "end": 115,
+              "expanded_url": "https://twitter.com/asplendour15/status/2042935697187770590",
+              "start": 92,
+              "url": "https://t.co/z2GF2VHsJ4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042967611034734799",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1726,
+          "like_count": 50,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042935697187770590",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "海向我涌过来\n你一样涌过来\n还有你的生命\n这一条垂死挣扎的鲸\n房间空荡荡\n好孤独风一样\n你最后的路\n用沉默\n去散步\n水面飘啊飘\n断的桥摇啊摇\n很快就见面\n到那时\n一定好好拥抱。——鲸 https://t.co/z2GF2VHsJ4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "电波系中央空调；MtX&泛性恋&ASD&（隐藏属性）&CPTSD，性别/身材焦虑；od、自伤の新手；文娱杂食党，Gore爱好者；期待大家扩列互fo😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 751,
+          "like_count": 2042,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 417
+        },
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "description": "Don't let it be the day",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bunny2076",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bunny2076",
+                "start": 0,
+                "url": "https://t.co/ea8GmOUClU"
+              }
+            ]
+          }
+        },
+        "id": "1481172876589821952",
+        "location": "地狱 ",
+        "name": "bunny",
+        "pinned_tweet_id": "1948055006441320599",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1739460199323435008/cSDInbKL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8163,
+          "following_count": 1185,
+          "like_count": 64593,
+          "listed_count": 8,
+          "media_count": 3006,
+          "tweet_count": 18263
+        },
+        "url": "https://t.co/ea8GmOUClU",
+        "username": "pyke2076",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2044333408499958031",
+    "created_at": "2026-04-16T01:57:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T02:57:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044596032395530274"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1748064252521545731",
+          "start": 0,
+          "username": "mihuanhuanhuan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044596032395530274",
+    "in_reply_to_user_id": "1748064252521545731",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044333408499958031",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mihuanhuanhuan 抱抱🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1199,
+        "media_key": "3_2044324077519998976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF7l6s5bkAADTDa.jpg",
+        "width": 531
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2044333367160979456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF7uXbgbwAAX8uX.jpg",
+        "width": 800
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2044333367127314432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF7uXbYaEAAD5rS.jpg",
+        "width": 675
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2044333408499958031",
+        "created_at": "2026-04-16T01:57:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T02:57:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044596032395530274"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1748064252521545731",
+              "start": 0,
+              "username": "mihuanhuanhuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044596032395530274",
+        "in_reply_to_user_id": "1748064252521545731",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044333408499958031",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mihuanhuanhuan 抱抱🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044324077519998976",
+            "3_2044333367160979456",
+            "3_2044333367127314432"
+          ]
+        },
+        "author_id": "1748064252521545731",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2044333408499958031",
+        "created_at": "2026-04-15T08:34:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T08:56:58.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044324087011651829",
+          "2044333408499958031"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OWUcLOQRWm",
+              "end": 170,
+              "expanded_url": "https://x.com/mihuanhuanhuan/status/2044333408499958031/photo/1",
+              "media_key": "3_2044324077519998976",
+              "start": 147,
+              "url": "https://t.co/OWUcLOQRWm"
+            },
+            {
+              "display_url": "pic.x.com/OWUcLOQRWm",
+              "end": 170,
+              "expanded_url": "https://x.com/mihuanhuanhuan/status/2044333408499958031/photo/1",
+              "media_key": "3_2044333367160979456",
+              "start": 147,
+              "url": "https://t.co/OWUcLOQRWm"
+            },
+            {
+              "display_url": "pic.x.com/OWUcLOQRWm",
+              "end": 170,
+              "expanded_url": "https://x.com/mihuanhuanhuan/status/2044333408499958031/photo/1",
+              "media_key": "3_2044333367127314432",
+              "start": 147,
+              "url": "https://t.co/OWUcLOQRWm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044333408499958031",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 122,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "72天\n还买了一个油桶\n打算cos一下激进鼠\n给自己炸上天www\n学习了一下汽油弹怎么做\n也找了一下杭州附近的废弃车场\n感觉很适合送走自己\n很摇滚不是吗wwwww\n把皮肤和脂肪全烧掉\n我没人知道我长什么样了\n开心😊\n当然也不会这么快\n我还是想试试\n能不能活下去………\n报销了一千，贷款上班啊. https://t.co/OWUcLOQRWm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "电波系中央空调；MtX&泛性恋&ASD&（隐藏属性）&CPTSD，性别/身材焦虑；od、自伤の新手；文娱杂食党，Gore爱好者；期待大家扩列互fo😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 193,
+          "following_count": 818,
+          "like_count": 2538,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 520
+        },
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-18T19:26:25.000Z",
+        "description": "intp紫色章鱼（叫我章鱼），mtx\n主业达人拍剪，常驻杭州的阴湿长发男m，\n懂点商业和心理学和哲学，希望能帮助你（\n欢迎xnn和4i爸比来踩我，目前在化茧\n永远的姐姐：@liki24003   可爱鱼鱼：@siuuuuneo\n\np站https://t.co/BCEf9rY5o6",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 85,
+                "username": "liki24003"
+              },
+              {
+                "end": 113,
+                "start": 103,
+                "username": "siuuuuneo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/103103881",
+                "end": 140,
+                "expanded_url": "https://www.pixiv.net/users/103103881",
+                "start": 117,
+                "url": "https://t.co/BCEf9rY5o6"
+              }
+            ]
+          }
+        },
+        "id": "1748064252521545731",
+        "location": "杭州",
+        "name": "变质牛乳🍥",
+        "pinned_tweet_id": "1989603644577386680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756361529560064000/cWcrXvVc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 301,
+          "following_count": 464,
+          "like_count": 2650,
+          "listed_count": 1,
+          "media_count": 357,
+          "tweet_count": 2807
+        },
+        "username": "mihuanhuanhuan",
+        "verified": true
+      }
+    ]
+  }
+}

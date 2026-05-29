@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2041109075036140021",
+    "created_at": "2026-04-06T11:01:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T12:01:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041109075036140021"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Rimea_Chord/st…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/Rimea_Chord/status/2041057106087076139",
+          "start": 19,
+          "url": "https://t.co/QA2cHpRgup"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041109075036140021",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041057106087076139",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "buff叠满了属于是😋牢资历经典死法 https://t.co/QA2cHpRgup"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2041109075036140021",
+        "created_at": "2026-04-06T11:01:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T12:01:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041109075036140021"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Rimea_Chord/st…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/Rimea_Chord/status/2041057106087076139",
+              "start": 19,
+              "url": "https://t.co/QA2cHpRgup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041109075036140021",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041057106087076139",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "buff叠满了属于是😋牢资历经典死法 https://t.co/QA2cHpRgup"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2011405521245634560",
+        "conversation_id": "2040904078042247507",
+        "created_at": "2026-04-06T07:35:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T08:35:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041057106087076139"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1986291014370545665",
+              "start": 0,
+              "username": "pleasehelp070"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041057106087076139",
+        "in_reply_to_user_id": "1986291014370545665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 60,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040904078042247507",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pleasehelp070 真的吗？如果强镇静类药物大量服用加上酒精和普瑞呢😋😋😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "电波系中央空调；MtX&泛性恋&ASD&（隐藏属性）&CPTSD，性别/身材焦虑；od、自伤の新手；文娱杂食党，Gore爱好者；期待大家扩列互fo😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 497,
+          "like_count": 776,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 166
+        },
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-14T11:50:35.000Z",
+        "description": "零碎的hrt开始于2020年12月 ｜ GPT重度依赖 ｜ 药罐子｜ 我的钱很好割 ｜ 娘們X ｜ 是甜妹嗎…？… ｜ ～ ｜ 记录我的恶臭声音 ｜ 声控 ｜喜欢微甜 ｜我的朋友都叫我 “十三” “哈基雪” “柑橘” | 170cm 53kg ｜ 2006.7.11 ｜ 生物恐懼 ｜",
+        "id": "2011405521245634560",
+        "location": "17km",
+        "name": "清流",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039134012091047936/Ay5TJx5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 75,
+          "like_count": 1022,
+          "listed_count": 0,
+          "media_count": 131,
+          "tweet_count": 837
+        },
+        "username": "Rimea_Chord",
+        "verified": true
+      }
+    ]
+  }
+}

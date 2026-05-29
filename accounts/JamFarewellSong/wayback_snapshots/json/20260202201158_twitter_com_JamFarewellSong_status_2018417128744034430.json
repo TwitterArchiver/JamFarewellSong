@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2018417128744034430",
+    "created_at": "2026-02-02T20:11:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-02T21:11:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018417128744034430"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1377227981127438350",
+          "start": 3,
+          "username": "darkRanger8964"
+        },
+        {
+          "end": 31,
+          "id": "1676900141754720256",
+          "start": 20,
+          "username": "hulicaijia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018417128744034430",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1787537915209470046",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @darkRanger8964: @hulicaijia 喂，我说，你，喂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2018417128744034430",
+        "created_at": "2026-02-02T20:11:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T21:11:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018417128744034430"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1377227981127438350",
+              "start": 3,
+              "username": "darkRanger8964"
+            },
+            {
+              "end": 31,
+              "id": "1676900141754720256",
+              "start": 20,
+              "username": "hulicaijia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018417128744034430",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1787537915209470046",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @darkRanger8964: @hulicaijia 喂，我说，你，喂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1377227981127438350",
+        "conversation_id": "1786477121986068912",
+        "created_at": "2024-05-06T17:40:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-06T18:40:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1787537915209470046"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1676900141754720256",
+              "start": 0,
+              "username": "hulicaijia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1787537915209470046",
+        "in_reply_to_user_id": "1676900141754720256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 897,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1786477121986068912",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hulicaijia 喂，我说，你，喂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "",
+        "id": "1907414826101669888",
+        "name": "Jam Farewell Song",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907415117874253824/L2WK8HRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 188,
+          "like_count": 38,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 43
+        },
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-31T11:55:28.000Z",
+        "description": "心脏弱",
+        "id": "1377227981127438350",
+        "name": "亦游",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822909368192630784/AdFLmeD4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 205,
+          "like_count": 7975,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 3307
+        },
+        "username": "darkRanger8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-06T10:25:43.000Z",
+        "description": "自宅警备员|同类互fo|喜欢磕右美笨蛋|术力口|坐标湖南|修眉刀爱好者 |173cm60kg|詩月撒嘛 @Poetry_Luna |逸子姐姐 @Jiangyineko |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 52,
+                "username": "Poetry_Luna"
+              },
+              {
+                "end": 83,
+                "start": 71,
+                "username": "Jiangyineko"
+              }
+            ]
+          }
+        },
+        "id": "1676900141754720256",
+        "location": "第四高原",
+        "name": "桜崎彩加🍥（右美贩售版）",
+        "pinned_tweet_id": "1785309643373514830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1758593905459855360/ZLZ-KAhI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 519,
+          "following_count": 244,
+          "like_count": 896,
+          "listed_count": 7,
+          "media_count": 69,
+          "tweet_count": 343
+        },
+        "username": "hulicaijia",
+        "verified": false
+      }
+    ]
+  }
+}

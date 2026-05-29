@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042908260160909312",
+        "3_2042908270457950214"
+      ],
+      "media_source_tweet_id": [
+        "2042908431234003178",
+        "2042908431234003178"
+      ]
+    },
+    "author_id": "1907414826101669888",
+    "conversation_id": "2044594037563551768",
+    "created_at": "2026-04-16T01:49:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T02:49:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044594037563551768"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "936376828788215809",
+          "start": 3,
+          "username": "uRa_noSa"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/47CY8ZnlK0",
+          "end": 50,
+          "expanded_url": "https://x.com/uRa_noSa/status/2042908431234003178/photo/1",
+          "media_key": "3_2042908260160909312",
+          "start": 27,
+          "url": "https://t.co/47CY8ZnlK0"
+        },
+        {
+          "display_url": "pic.x.com/47CY8ZnlK0",
+          "end": 50,
+          "expanded_url": "https://x.com/uRa_noSa/status/2042908431234003178/photo/1",
+          "media_key": "3_2042908270457950214",
+          "start": 27,
+          "url": "https://t.co/47CY8ZnlK0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044594037563551768",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 128
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042908431234003178",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @uRa_noSa: 冤罪！冤罪！\n↓\n……。 https://t.co/47CY8ZnlK0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2080,
+        "media_key": "3_2042908260160909312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFnePSOaMAAlJwZ.jpg",
+        "width": 2142
+      },
+      {
+        "height": 2080,
+        "media_key": "3_2042908270457950214",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFneP4lakAYK3-5.jpg",
+        "width": 2142
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042908260160909312",
+            "3_2042908270457950214"
+          ],
+          "media_source_tweet_id": [
+            "2042908431234003178",
+            "2042908431234003178"
+          ]
+        },
+        "author_id": "1907414826101669888",
+        "conversation_id": "2044594037563551768",
+        "created_at": "2026-04-16T01:49:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T02:49:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044594037563551768"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "936376828788215809",
+              "start": 3,
+              "username": "uRa_noSa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/47CY8ZnlK0",
+              "end": 50,
+              "expanded_url": "https://x.com/uRa_noSa/status/2042908431234003178/photo/1",
+              "media_key": "3_2042908260160909312",
+              "start": 27,
+              "url": "https://t.co/47CY8ZnlK0"
+            },
+            {
+              "display_url": "pic.x.com/47CY8ZnlK0",
+              "end": 50,
+              "expanded_url": "https://x.com/uRa_noSa/status/2042908431234003178/photo/1",
+              "media_key": "3_2042908270457950214",
+              "start": 27,
+              "url": "https://t.co/47CY8ZnlK0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044594037563551768",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 128
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042908431234003178",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @uRa_noSa: 冤罪！冤罪！\n↓\n……。 https://t.co/47CY8ZnlK0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042908260160909312",
+            "3_2042908270457950214"
+          ]
+        },
+        "author_id": "936376828788215809",
+        "conversation_id": "2042908431234003178",
+        "created_at": "2026-04-11T10:11:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T11:11:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042908431234003178"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/47CY8ZnlK0",
+              "end": 36,
+              "expanded_url": "https://x.com/uRa_noSa/status/2042908431234003178/photo/1",
+              "media_key": "3_2042908260160909312",
+              "start": 13,
+              "url": "https://t.co/47CY8ZnlK0"
+            },
+            {
+              "display_url": "pic.x.com/47CY8ZnlK0",
+              "end": 36,
+              "expanded_url": "https://x.com/uRa_noSa/status/2042908431234003178/photo/1",
+              "media_key": "3_2042908270457950214",
+              "start": 13,
+              "url": "https://t.co/47CY8ZnlK0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042908431234003178",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 344,
+          "impression_count": 31790,
+          "like_count": 1806,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 128
+        },
+        "reply_settings": "everyone",
+        "text": "冤罪！冤罪！\n↓\n……。 https://t.co/47CY8ZnlK0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "电波系中央空调；MtX&泛性恋&ASD&（隐藏属性）&CPTSD，性别/身材焦虑；od、自伤の新手；文娱杂食党，Gore爱好者；期待大家扩列互fo😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 193,
+          "following_count": 818,
+          "like_count": 2536,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 519
+        },
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2017-11-30T23:30:07.000Z",
+        "description": "女の子が恥ずかしい目にあってる絵を描きます。\nskeb→https://t.co/i5QFBCNfRh",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@uRa_noSa",
+                "end": 51,
+                "expanded_url": "http://skeb.jp/@uRa_noSa",
+                "start": 28,
+                "url": "https://t.co/i5QFBCNfRh"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/4301774",
+                "end": 23,
+                "expanded_url": "http://pixiv.net/users/4301774",
+                "start": 0,
+                "url": "https://t.co/hPSidRPsNy"
+              }
+            ]
+          }
+        },
+        "id": "936376828788215809",
+        "name": "うらのさ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836602569592090624/aWV2Heup_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3089,
+          "following_count": 285,
+          "like_count": 6766,
+          "listed_count": 16,
+          "media_count": 168,
+          "tweet_count": 2732
+        },
+        "url": "https://t.co/hPSidRPsNy",
+        "username": "uRa_noSa",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2042120058420506801",
+    "created_at": "2026-04-10T07:56:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T08:56:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042512096269865384"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1818920358403256320",
+          "start": 0,
+          "username": "xuanyu_awa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042512096269865384",
+    "in_reply_to_user_id": "1818920358403256320",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042120058420506801",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xuanyu_awa 恭喜喵～"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2042120052003237892",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFcRXiBa8AQ-pOW.jpg",
+        "width": 971
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2042120058420506801",
+        "created_at": "2026-04-10T07:56:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T08:56:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042512096269865384"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1818920358403256320",
+              "start": 0,
+              "username": "xuanyu_awa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042512096269865384",
+        "in_reply_to_user_id": "1818920358403256320",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042120058420506801",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xuanyu_awa 恭喜喵～"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042120052003237892"
+          ]
+        },
+        "author_id": "1818920358403256320",
+        "conversation_id": "2042120058420506801",
+        "created_at": "2026-04-09T05:58:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T06:58:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042120058420506801"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kuZCy5Bq0D",
+              "end": 31,
+              "expanded_url": "https://x.com/xuanyu_awa/status/2042120058420506801/photo/1",
+              "media_key": "3_2042120052003237892",
+              "start": 8,
+              "url": "https://t.co/kuZCy5Bq0D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042120058420506801",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1244,
+          "like_count": 71,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "3000fo！ https://t.co/kuZCy5Bq0D"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "电波系中央空调；MtX&泛性恋&ASD&（隐藏属性）&CPTSD，性别/身材焦虑；od、自伤の新手；文娱杂食党，Gore爱好者；期待大家扩列互fo😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 722,
+          "like_count": 1862,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 366
+        },
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-01T08:03:18.000Z",
+        "description": "mtf🍥🏳️‍⚧️/birthday:2010.4.14/hrt:2024.3.16/CChOer（省一倒数的废物……）/高一物化生/彩笔音游人/精神状态随机/坐标重庆/欢迎来找我聊天哦",
+        "id": "1818920358403256320",
+        "location": "重庆",
+        "name": "萱雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038619597285576704/qBOYoEc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3023,
+          "following_count": 3553,
+          "like_count": 32837,
+          "listed_count": 7,
+          "media_count": 114,
+          "tweet_count": 1174
+        },
+        "username": "xuanyu_awa",
+        "verified": false
+      }
+    ]
+  }
+}

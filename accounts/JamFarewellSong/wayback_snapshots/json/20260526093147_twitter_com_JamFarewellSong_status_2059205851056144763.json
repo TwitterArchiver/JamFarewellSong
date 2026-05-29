@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2035595548074639360"
+      ],
+      "media_source_tweet_id": [
+        "2035595551639757047"
+      ]
+    },
+    "author_id": "1907414826101669888",
+    "conversation_id": "2059205851056144763",
+    "created_at": "2026-05-26T09:31:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T10:31:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059205851056144763"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2010016500812533760",
+          "start": 3,
+          "username": "di_sco81"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0M7SvLYBTW",
+          "end": 51,
+          "expanded_url": "https://x.com/di_sco81/status/2035595551639757047/photo/1",
+          "media_key": "3_2035595548074639360",
+          "start": 28,
+          "url": "https://t.co/0M7SvLYBTW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059205851056144763",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 666
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035595551639757047",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @di_sco81: 私が愛国心を持つ唯一の国： https://t.co/0M7SvLYBTW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_2035595548074639360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD_jXa1bAAAYYhc.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035595548074639360"
+          ],
+          "media_source_tweet_id": [
+            "2035595551639757047"
+          ]
+        },
+        "author_id": "1907414826101669888",
+        "conversation_id": "2059205851056144763",
+        "created_at": "2026-05-26T09:31:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T10:31:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059205851056144763"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2010016500812533760",
+              "start": 3,
+              "username": "di_sco81"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0M7SvLYBTW",
+              "end": 51,
+              "expanded_url": "https://x.com/di_sco81/status/2035595551639757047/photo/1",
+              "media_key": "3_2035595548074639360",
+              "start": 28,
+              "url": "https://t.co/0M7SvLYBTW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059205851056144763",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 666
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035595551639757047",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @di_sco81: 私が愛国心を持つ唯一の国： https://t.co/0M7SvLYBTW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035595548074639360"
+          ]
+        },
+        "author_id": "2010016500812533760",
+        "conversation_id": "2035595551639757047",
+        "created_at": "2026-03-22T05:52:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T06:52:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035595551639757047"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0M7SvLYBTW",
+              "end": 37,
+              "expanded_url": "https://x.com/di_sco81/status/2035595551639757047/photo/1",
+              "media_key": "3_2035595548074639360",
+              "start": 14,
+              "url": "https://t.co/0M7SvLYBTW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035595551639757047",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 309,
+          "impression_count": 120786,
+          "like_count": 5686,
+          "quote_count": 25,
+          "reply_count": 74,
+          "retweet_count": 666
+        },
+        "reply_settings": "everyone",
+        "text": "私が愛国心を持つ唯一の国： https://t.co/0M7SvLYBTW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX（断糖中）&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od&自伤新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 271,
+          "following_count": 981,
+          "like_count": 3683,
+          "listed_count": 1,
+          "media_count": 10,
+          "tweet_count": 929
+        },
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-10T15:53:13.000Z",
+        "description": "08世代 MtF(未診断) She/Her 自閉症 ADHD(診断済)",
+        "id": "2010016500812533760",
+        "name": "でぃすこ🏳️‍⚧️",
+        "pinned_tweet_id": "2035595551639757047",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010020201153404928/sE9mr1CY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 495,
+          "following_count": 100,
+          "like_count": 2644,
+          "listed_count": 4,
+          "media_count": 21,
+          "tweet_count": 391
+        },
+        "username": "di_sco81",
+        "verified": false
+      }
+    ]
+  }
+}

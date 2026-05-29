@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "1981254265893953882",
+    "created_at": "2025-10-23T09:02:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-23T10:02:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981284965271949471"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1702145082697408512",
+          "start": 0,
+          "username": "figure_insight"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981284965271949471",
+    "in_reply_to_user_id": "1702145082697408512",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981254265893953882",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@figure_insight Coming first，cute boy🥰"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1981155674915581952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G356lvgXsAAv5jR.jpg",
+        "width": 900
+      },
+      {
+        "height": 800,
+        "media_key": "3_1981155673921536000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G356lrzXwAAag70.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "1981254265893953882",
+        "created_at": "2025-10-23T09:02:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T10:02:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981284965271949471"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1702145082697408512",
+              "start": 0,
+              "username": "figure_insight"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981284965271949471",
+        "in_reply_to_user_id": "1702145082697408512",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981254265893953882",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@figure_insight Coming first，cute boy🥰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1981155674915581952",
+            "3_1981155673921536000"
+          ]
+        },
+        "author_id": "1702145082697408512",
+        "conversation_id": "1981254265893953882",
+        "created_at": "2025-10-23T07:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T08:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981254265893953882"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XWKlMrphT7",
+              "end": 154,
+              "expanded_url": "https://x.com/figure_insight/status/1981254265893953882/photo/1",
+              "media_key": "3_1981155674915581952",
+              "start": 131,
+              "url": "https://t.co/XWKlMrphT7"
+            },
+            {
+              "display_url": "pic.x.com/XWKlMrphT7",
+              "end": 154,
+              "expanded_url": "https://x.com/figure_insight/status/1981254265893953882/photo/1",
+              "media_key": "3_1981155673921536000",
+              "start": 131,
+              "url": "https://t.co/XWKlMrphT7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981254265893953882",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "shop.ape-insight.jp/?pid=189055207",
+                "end": 200,
+                "expanded_url": "https://shop.ape-insight.jp/?pid=189055207",
+                "start": 177,
+                "url": "https://t.co/NH42BBJH1l"
+              },
+              {
+                "display_url": "amazon.co.jp/dp/B0FX8S7JX6",
+                "end": 231,
+                "expanded_url": "https://www.amazon.co.jp/dp/B0FX8S7JX6",
+                "start": 208,
+                "url": "https://t.co/7bii2BWx6p"
+              },
+              {
+                "display_url": "zenplus.jp/ja/search?sell…",
+                "end": 510,
+                "expanded_url": "https://zenplus.jp/ja/search?seller=bfull",
+                "start": 487,
+                "url": "https://t.co/RZfUoDbncT"
+              },
+              {
+                "display_url": "zenmarket.jp/ja/s/bfull?sor…",
+                "end": 544,
+                "expanded_url": "https://zenmarket.jp/ja/s/bfull?sort=newest",
+                "start": 521,
+                "url": "https://t.co/3g4tkH2G6X"
+              }
+            ]
+          },
+          "text": "【新商品情報】\n街を襲う魔物に立ち向かい、街の人々を守るために魔法を放つ――だが、その瞬間、無数の触手が彼の身体を絡め取った。\nぬらりと蠢くそれらは足元から這い上がり、冷たい粘液をまといながら手足を縛り、ついには誰にも触れられたことのない場所までも侵していく。\n恥じらいを押し殺し、唇を噛みしめても、こらえきれない甘い喘ぎ声が街に響く……。\n\n自社EC https://t.co/NH42BBJH1l\nAmazon https://t.co/7bii2BWx6p\n\n肉感美少年シリーズより、触手討伐失敗録 魔法少年「シアン」が1/6スケールフィギュアで新登場！\n太い触手に捕らわれ抵抗するも、好き勝手にされているシチュエーションを表現。\n表情はお好みで差し替え可能！ 一生懸命に耐える「抵抗顔」と、快楽に堕ちた「とろけ顔」の2種類をご用意。\n純粋で美しい少年が初めて味わう敗北の快楽――その甘美な瞬間を、あなたの手元で堪能しませんか？\n\n↓Customers outside of Japan can purchase from this EC site.\nZenPlus：https://t.co/RZfUoDbncT\nZenMarket：https://t.co/3g4tkH2G6X"
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 231,
+          "impression_count": 11039,
+          "like_count": 593,
+          "quote_count": 4,
+          "reply_count": 1,
+          "retweet_count": 86
+        },
+        "reply_settings": "everyone",
+        "text": "【新商品情報】\n街を襲う魔物に立ち向かい、街の人々を守るために魔法を放つ――だが、その瞬間、無数の触手が彼の身体を絡め取った。\nぬらりと蠢くそれらは足元から這い上がり、冷たい粘液をまといながら手足を縛り、ついには誰にも触れられたことのない場所までも侵していく。 https://t.co/XWKlMrphT7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "",
+        "id": "1907414826101669888",
+        "name": "Jam Farewell Song",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907415117874253824/L2WK8HRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 90,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 13
+        },
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-14T02:21:46.000Z",
+        "description": "インサイトフィギュア広報部アカウントです。日々の商品情報や小ネタ、大ネタ投稿します。\n\nBlueskyアカウント「インサイトのフィギュア」\nLINE公式アカウント：https://t.co/aftJ4gnB1i \npixiv：https://t.co/YXQsHaLR9P",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.gd/Pk2df",
+                "end": 105,
+                "expanded_url": "https://x.gd/Pk2df",
+                "start": 82,
+                "url": "https://t.co/aftJ4gnB1i"
+              },
+              {
+                "display_url": "pixiv.net/users/64110195",
+                "end": 136,
+                "expanded_url": "http://pixiv.net/users/64110195",
+                "start": 113,
+                "url": "https://t.co/YXQsHaLR9P"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ape-insight.jp",
+                "end": 23,
+                "expanded_url": "https://ape-insight.jp/",
+                "start": 0,
+                "url": "https://t.co/2b2DWUsZrR"
+              }
+            ]
+          }
+        },
+        "id": "1702145082697408512",
+        "name": "インサイトフィギュア広報部",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836555593169145858/6V5LSjm7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17300,
+          "following_count": 52,
+          "like_count": 349,
+          "listed_count": 129,
+          "media_count": 1829,
+          "tweet_count": 3300
+        },
+        "url": "https://t.co/2b2DWUsZrR",
+        "username": "figure_insight",
+        "verified": true
+      }
+    ]
+  }
+}

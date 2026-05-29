@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2046657018556297495",
+    "created_at": "2026-04-22T04:30:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T05:30:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046808964315382156"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2020935362386984964",
+          "start": 0,
+          "username": "yingxuan666666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046808964315382156",
+    "in_reply_to_user_id": "2020935362386984964",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046789984552927332",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yingxuan666666 感动🥺谢谢玄英劳斯喵～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2046657018556297495",
+        "created_at": "2026-04-22T04:30:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T05:30:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046808964315382156"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2020935362386984964",
+              "start": 0,
+              "username": "yingxuan666666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046808964315382156",
+        "in_reply_to_user_id": "2020935362386984964",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046789984552927332",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yingxuan666666 感动🥺谢谢玄英劳斯喵～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020935362386984964",
+        "conversation_id": "2046657018556297495",
+        "created_at": "2026-04-22T03:15:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T04:15:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046789984552927332"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1907414826101669888",
+              "start": 0,
+              "username": "JamFarewellSong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046789984552927332",
+        "in_reply_to_user_id": "1907414826101669888",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046657018556297495",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JamFarewellSong 又活了一天，真棒"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "电波系中央空调；MtX&泛性恋&ASD&（隐藏属性）&CPTSD，性别/身材焦虑；od、自伤の新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；期待大家扩列互fo😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 206,
+          "following_count": 858,
+          "like_count": 2912,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 632
+        },
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-09T18:58:46.000Z",
+        "description": "一個小油條🇨🇳\n神聖かまってちゃん🎸、大森靖子（Japan）、李志、低苦艾、阴三（China），羅大佑、陳昇、張雨生（Taiwan），黃耀明、達明一派、Beyond（HongKong）が好きです。\n日本語が基礎がなく、翻訳ツールしか使えません、すみません🥲",
+        "id": "2020935362386984964",
+        "name": "玄英",
+        "pinned_tweet_id": "2045440180946079798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020935964366077953/cAB_m43L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 145,
+          "like_count": 2550,
+          "listed_count": 1,
+          "media_count": 105,
+          "tweet_count": 894
+        },
+        "username": "yingxuan666666",
+        "verified": false
+      }
+    ]
+  }
+}

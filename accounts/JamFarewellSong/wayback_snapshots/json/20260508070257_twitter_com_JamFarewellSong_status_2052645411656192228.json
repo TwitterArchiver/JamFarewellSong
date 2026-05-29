@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2052645411656192228",
+    "created_at": "2026-05-08T07:02:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T08:02:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052645411656192228"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1847712034361659392",
+          "start": 3,
+          "username": "huaxuejilebaike"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052645411656192228",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048993672373653826",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @huaxuejilebaike: 人不靠药物怎样做到飘飘欲仙？\n沉沦的快乐与清醒的痛苦，哪个更好？我想…我想…我不知道。不是沉沦的痛苦就好。各种荧光色的电子玻璃在眼前排开，光从屏幕里爬出来，顺着眼球往脑子里钻。紫的绿的红的，一群发烫的虫子。它们都在咬我。咬得我闭上了还能…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2048993307737620480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG98jq7agAArKeZ.jpg",
+        "width": 1222
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2052645411656192228",
+        "created_at": "2026-05-08T07:02:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T08:02:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052645411656192228"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1847712034361659392",
+              "start": 3,
+              "username": "huaxuejilebaike"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052645411656192228",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048993672373653826",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @huaxuejilebaike: 人不靠药物怎样做到飘飘欲仙？\n沉沦的快乐与清醒的痛苦，哪个更好？我想…我想…我不知道。不是沉沦的痛苦就好。各种荧光色的电子玻璃在眼前排开，光从屏幕里爬出来，顺着眼球往脑子里钻。紫的绿的红的，一群发烫的虫子。它们都在咬我。咬得我闭上了还能…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048993307737620480"
+          ]
+        },
+        "author_id": "1847712034361659392",
+        "conversation_id": "2048993672373653826",
+        "created_at": "2026-04-28T05:12:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T06:12:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048993672373653826"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LM2YFGDrT5",
+              "end": 164,
+              "expanded_url": "https://x.com/huaxuejilebaike/status/2048993672373653826/photo/1",
+              "media_key": "3_2048993307737620480",
+              "start": 141,
+              "url": "https://t.co/LM2YFGDrT5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048993672373653826",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 895,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "人不靠药物怎样做到飘飘欲仙？\n沉沦的快乐与清醒的痛苦，哪个更好？我想…我想…我不知道。不是沉沦的痛苦就好。各种荧光色的电子玻璃在眼前排开，光从屏幕里爬出来，顺着眼球往脑子里钻。紫的绿的红的，一群发烫的虫子。它们都在咬我。咬得我闭上了还能看见，光印在里头，那不是太阳，烧焦了也不是。 https://t.co/LM2YFGDrT5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "电波系中央空调；MtX&泛性恋&ASD&（隐藏属性）&CPTSD，性别/身材焦虑；od、自伤の新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；期待大家扩列互fo😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 251,
+          "following_count": 942,
+          "like_count": 3300,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 772
+        },
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-19T18:51:20.000Z",
+        "description": "官网：https://t.co/DF7NTAL0F9 TG交流群：https://t.co/mCh0A9MOrv DC交流群：https://t.co/Zb0fsL464g",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "jile.bid",
+                "end": 26,
+                "expanded_url": "http://jile.bid",
+                "start": 3,
+                "url": "https://t.co/DF7NTAL0F9"
+              },
+              {
+                "display_url": "t.me/yuanliaogeming",
+                "end": 56,
+                "expanded_url": "https://t.me/yuanliaogeming",
+                "start": 33,
+                "url": "https://t.co/mCh0A9MOrv"
+              },
+              {
+                "display_url": "discord.gg/XmNt8AXCEb",
+                "end": 86,
+                "expanded_url": "http://discord.gg/XmNt8AXCEb",
+                "start": 63,
+                "url": "https://t.co/Zb0fsL464g"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yumeng_0721",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yumeng_0721",
+                "start": 0,
+                "url": "https://t.co/8eHnljmbAD"
+              }
+            ]
+          }
+        },
+        "id": "1847712034361659392",
+        "location": "提问箱：",
+        "name": "化学极乐百科⚛️",
+        "pinned_tweet_id": "2049742442048696673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046789084790890496/tu0DxovY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1957,
+          "following_count": 926,
+          "like_count": 24436,
+          "listed_count": 2,
+          "media_count": 397,
+          "tweet_count": 2998
+        },
+        "url": "https://t.co/8eHnljmbAD",
+        "username": "huaxuejilebaike",
+        "verified": false
+      }
+    ]
+  }
+}

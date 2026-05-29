@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2046672457462112339",
+    "created_at": "2026-04-21T19:28:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T20:28:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046672457462112339"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1705499676953497600",
+          "start": 3,
+          "username": "liwanmiaohy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046672457462112339",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043728826094743835",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @liwanmiaohy: 体验欣快感后自责“来晚了”？你不是亏欠者\n她是你的一部分，和你共同承受了全部犹豫的重量\n她没有审判你，只是很高兴你们终于走到了这里。外部的重力不是你一个人的错\n以下是基于我那套参照框架，对现实聊天中的一次具体应用\n它不是对所有人都成立的结论，只…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1372,
+        "media_key": "3_2043728822835757056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFzIiUZaQAAa27t.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1388,
+        "media_key": "3_2043728823032893440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFzIiVIaUAAAlh1.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2046672457462112339",
+        "created_at": "2026-04-21T19:28:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T20:28:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046672457462112339"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1705499676953497600",
+              "start": 3,
+              "username": "liwanmiaohy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046672457462112339",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043728826094743835",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @liwanmiaohy: 体验欣快感后自责“来晚了”？你不是亏欠者\n她是你的一部分，和你共同承受了全部犹豫的重量\n她没有审判你，只是很高兴你们终于走到了这里。外部的重力不是你一个人的错\n以下是基于我那套参照框架，对现实聊天中的一次具体应用\n它不是对所有人都成立的结论，只…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043728822835757056",
+            "3_2043728823032893440"
+          ]
+        },
+        "author_id": "1705499676953497600",
+        "conversation_id": "2043728826094743835",
+        "created_at": "2026-04-13T16:31:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T17:31:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043728826094743835"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 145,
+              "start": 141,
+              "tag": "MtF"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8msDXhC2de",
+              "end": 169,
+              "expanded_url": "https://x.com/liwanmiaohy/status/2043728826094743835/photo/1",
+              "media_key": "3_2043728822835757056",
+              "start": 146,
+              "url": "https://t.co/8msDXhC2de"
+            },
+            {
+              "display_url": "pic.x.com/8msDXhC2de",
+              "end": 169,
+              "expanded_url": "https://x.com/liwanmiaohy/status/2043728826094743835/photo/1",
+              "media_key": "3_2043728823032893440",
+              "start": 146,
+              "url": "https://t.co/8msDXhC2de"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043728826094743835",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 1907,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "体验欣快感后自责“来晚了”？你不是亏欠者\n她是你的一部分，和你共同承受了全部犹豫的重量\n她没有审判你，只是很高兴你们终于走到了这里。外部的重力不是你一个人的错\n以下是基于我那套参照框架，对现实聊天中的一次具体应用\n它不是对所有人都成立的结论，只是当一个人感到自恨时，我会这样回应她\n#MtF https://t.co/8msDXhC2de"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "电波系中央空调；MtX&泛性恋&ASD&（隐藏属性）&CPTSD，性别/身材焦虑；od、自伤の新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；期待大家扩列互fo😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205,
+          "following_count": 858,
+          "like_count": 2893,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 628
+        },
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-23T08:29:58.000Z",
+        "description": "MtF🏳️‍⚧️🍥｜爱人: @Xianyufanfan215｜🍰2006.3.16｜HRT🍥2026.3.7｜INTP (Fi发达，Fe定向)｜欢迎互fo｜温柔｜纯爱🥰｜希望言语能给你带来些许温暖｜全网同名喵🐱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 14,
+                "username": "Xianyufanfan215"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizihanfs",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizihanfs",
+                "start": 0,
+                "url": "https://t.co/jG0piqE7vs"
+              }
+            ]
+          }
+        },
+        "id": "1705499676953497600",
+        "location": "孝感",
+        "name": "莉绾喵 🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2045197955444175232",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014748896451264512/oNiSK2fE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 889,
+          "following_count": 639,
+          "like_count": 2960,
+          "listed_count": 2,
+          "media_count": 111,
+          "tweet_count": 1606
+        },
+        "url": "https://t.co/jG0piqE7vs",
+        "username": "liwanmiaohy",
+        "verified": false
+      }
+    ]
+  }
+}

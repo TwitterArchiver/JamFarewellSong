@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042259770116325376"
+      ],
+      "media_source_tweet_id": [
+        "2042259785727500528"
+      ]
+    },
+    "author_id": "1907414826101669888",
+    "conversation_id": "2042478780917432394",
+    "created_at": "2026-04-10T05:44:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T06:44:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042478780917432394"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1935420089186336768",
+          "start": 3,
+          "username": "ASplendour15"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rK7zQg7Ray",
+          "end": 70,
+          "expanded_url": "https://x.com/ASplendour15/status/2042259785727500528/photo/1",
+          "media_key": "3_2042259770116325376",
+          "start": 47,
+          "url": "https://t.co/rK7zQg7Ray"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042478780917432394",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042259785727500528",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ASplendour15: 「文字的尽头首尾相连。\n还没有告别，所以一定还没有结束」 https://t.co/rK7zQg7Ray"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2496,
+        "media_key": "3_2042259770116325376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFeQcMjawAAfjVx.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042259770116325376"
+          ],
+          "media_source_tweet_id": [
+            "2042259785727500528"
+          ]
+        },
+        "author_id": "1907414826101669888",
+        "conversation_id": "2042478780917432394",
+        "created_at": "2026-04-10T05:44:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T06:44:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042478780917432394"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1935420089186336768",
+              "start": 3,
+              "username": "ASplendour15"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rK7zQg7Ray",
+              "end": 70,
+              "expanded_url": "https://x.com/ASplendour15/status/2042259785727500528/photo/1",
+              "media_key": "3_2042259770116325376",
+              "start": 47,
+              "url": "https://t.co/rK7zQg7Ray"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042478780917432394",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042259785727500528",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ASplendour15: 「文字的尽头首尾相连。\n还没有告别，所以一定还没有结束」 https://t.co/rK7zQg7Ray"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042259770116325376"
+          ]
+        },
+        "author_id": "1935420089186336768",
+        "conversation_id": "2042259469405721048",
+        "created_at": "2026-04-09T15:14:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T16:14:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042259785727500528"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rK7zQg7Ray",
+              "end": 52,
+              "expanded_url": "https://x.com/ASplendour15/status/2042259785727500528/photo/1",
+              "media_key": "3_2042259770116325376",
+              "start": 29,
+              "url": "https://t.co/rK7zQg7Ray"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042259785727500528",
+        "in_reply_to_user_id": "1935420089186336768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 438,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042259469405721048",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "「文字的尽头首尾相连。\n还没有告别，所以一定还没有结束」 https://t.co/rK7zQg7Ray"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "电波系中央空调；MtX&泛性恋&ASD&（隐藏属性）&CPTSD，性别/身材焦虑；od、自伤の新手；文娱杂食党，Gore爱好者；期待大家扩列互fo😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 709,
+          "like_count": 1749,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 327
+        },
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-18T19:31:31.000Z",
+        "description": "前世@AnIncandescence\n我会一直恨平台不公的判决和举报的人…",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "AnIncandescence"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/anincandescenc…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/anincandescence1",
+                "start": 0,
+                "url": "https://t.co/exk0RhRMOb"
+              }
+            ]
+          }
+        },
+        "id": "1935420089186336768",
+        "location": "夜航忒修斯",
+        "name": "炽烈已极 到此为止吧。",
+        "pinned_tweet_id": "2041092518423753008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041093049498079232/MhcvRoGe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 441,
+          "following_count": 107,
+          "like_count": 304,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 170
+        },
+        "url": "https://t.co/exk0RhRMOb",
+        "username": "ASplendour15",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,469 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2032674331164291249",
+    "created_at": "2026-03-29T20:42:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T21:42:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038356048973861270"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1540315386931204098",
+          "start": 0,
+          "username": "kyouka_charming"
+        },
+        {
+          "end": 30,
+          "id": "1781308864438345728",
+          "start": 17,
+          "username": "FoxRed695449"
+        },
+        {
+          "end": 47,
+          "id": "823342515201851392",
+          "start": 31,
+          "username": "AristocracyFree"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038356048973861270",
+    "in_reply_to_user_id": "1540315386931204098",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032760430234657141",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kyouka_charming @FoxRed695449 @AristocracyFree 笑不活了😆怎么还有我们神圣放逐的事"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1052,
+        "media_key": "3_2032760415156129792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDXQ09rbUAA1jO_.jpg",
+        "width": 1083
+      },
+      {
+        "height": 1104,
+        "media_key": "3_2032760415072169990",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDXQ09XaMAYL6kI.jpg",
+        "width": 1114
+      },
+      {
+        "duration_ms": 6400,
+        "height": 480,
+        "media_key": "13_2032760415076364292",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2032760415076364292/img/3w8qrvIbiLG8kstu.jpg",
+        "public_metrics": {
+          "view_count": 2061
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2032760415076364292/vid/avc1/360x270/lDZNboEUkYYF5JNZ.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2032760415076364292/vid/avc1/480x360/-ypbwMAw2w87vU86.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2032760415076364292/vid/avc1/640x480/czw8iy3jjW1eBc3a.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2032760415076364292/pl/jk9jramD3Rui9zdA.m3u8"
+          }
+        ],
+        "width": 640
+      },
+      {
+        "height": 724,
+        "media_key": "3_2032760415076454400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDXQ09YbkAAi7NB.jpg",
+        "width": 870
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2032674331164291249",
+        "created_at": "2026-03-29T20:42:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T21:42:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038356048973861270"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1540315386931204098",
+              "start": 0,
+              "username": "kyouka_charming"
+            },
+            {
+              "end": 30,
+              "id": "1781308864438345728",
+              "start": 17,
+              "username": "FoxRed695449"
+            },
+            {
+              "end": 47,
+              "id": "823342515201851392",
+              "start": 31,
+              "username": "AristocracyFree"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038356048973861270",
+        "in_reply_to_user_id": "1540315386931204098",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032760430234657141",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kyouka_charming @FoxRed695449 @AristocracyFree 笑不活了😆怎么还有我们神圣放逐的事"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032760415156129792",
+            "3_2032760415072169990",
+            "13_2032760415076364292",
+            "3_2032760415076454400"
+          ]
+        },
+        "author_id": "1540315386931204098",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Board Games",
+              "id": "872578743771963392",
+              "name": "Tabletop gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "1148209264256663552",
+              "name": "Tabletop role-playing games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1148209264256663552",
+              "name": "Tabletop role-playing games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Board Games",
+              "id": "872578743771963392",
+              "name": "Tabletop gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1148209264256663552",
+              "name": "Tabletop role-playing games"
+            }
+          }
+        ],
+        "conversation_id": "2032674331164291249",
+        "created_at": "2026-03-14T10:07:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T11:07:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032760430234657141"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781308864438345728",
+              "start": 0,
+              "username": "FoxRed695449"
+            },
+            {
+              "end": 65,
+              "id": "823342515201851392",
+              "start": 49,
+              "username": "AristocracyFree"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yi3AcqfsE5",
+              "end": 122,
+              "expanded_url": "https://x.com/kyouka_charming/status/2032760430234657141/video/1",
+              "media_key": "3_2032760415156129792",
+              "start": 99,
+              "url": "https://t.co/yi3AcqfsE5"
+            },
+            {
+              "display_url": "pic.x.com/yi3AcqfsE5",
+              "end": 122,
+              "expanded_url": "https://x.com/kyouka_charming/status/2032760430234657141/video/1",
+              "media_key": "3_2032760415072169990",
+              "start": 99,
+              "url": "https://t.co/yi3AcqfsE5"
+            },
+            {
+              "display_url": "pic.x.com/yi3AcqfsE5",
+              "end": 122,
+              "expanded_url": "https://x.com/kyouka_charming/status/2032760430234657141/video/1",
+              "media_key": "13_2032760415076364292",
+              "start": 99,
+              "url": "https://t.co/yi3AcqfsE5"
+            },
+            {
+              "display_url": "pic.x.com/yi3AcqfsE5",
+              "end": 122,
+              "expanded_url": "https://x.com/kyouka_charming/status/2032760430234657141/video/1",
+              "media_key": "3_2032760415076454400",
+              "start": 99,
+              "url": "https://t.co/yi3AcqfsE5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032760430234657141",
+        "in_reply_to_user_id": "1781308864438345728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 6516,
+          "like_count": 32,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032674331164291249",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FoxRed695449 请支持我们心病结社推出的TRPG游戏，谢谢\n\n后续内容请关注本账号或者@AristocracyFree \n\n我们将会改变整个病文化圈\n\n（P.S请不要滥用“地雷“一词） https://t.co/yi3AcqfsE5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "",
+        "id": "1907414826101669888",
+        "name": "Jam Farewell Song",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907415117874253824/L2WK8HRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 225,
+          "like_count": 80,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 67
+        },
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-24T12:46:39.000Z",
+        "description": "京香と申します。物知らず悪役令嬢です、🏳️‍⚧️トランスジェンダー女性です、漫画家志望、TRPG/ボードゲーマー。日本語/華语OK。元日本高校生(八王子)。\n現在、メンヘラテーマのTRPGを制作しています、メンヘラ結社パステラーの一員として",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/kyuuka129?igsh…",
+                "end": 23,
+                "expanded_url": "https://instagram.com/kyuuka129?igshid=OGQ5ZDc2ODk2ZA==",
+                "start": 0,
+                "url": "https://t.co/RiMq5GSEJ2"
+              }
+            ]
+          }
+        },
+        "id": "1540315386931204098",
+        "location": "紅月の元",
+        "name": "🪞❄️🌙🌺【メンヘラ救済RPG】制作中",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037697121529524224/0xq_PmNd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 822,
+          "following_count": 1297,
+          "like_count": 12301,
+          "listed_count": 1,
+          "media_count": 1186,
+          "tweet_count": 9462
+        },
+        "url": "https://t.co/RiMq5GSEJ2",
+        "username": "kyouka_charming",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "Hi,這裡是RedFox(近期狀態不佳)|是一個Coser(至少曾經是),喜歡艾瑪(約定的夢幻島),白子(蔚藍檔案),阿米婭以及迷迭香(明日方舟)|是個家長党+年齡党吧(或許),關於從醫院/診所(內地及香港)獲取GnRh和HRT的相關問題可以私信問我,或許可以幫到你|生活裏帳@RedRedFoxLife",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 138,
+                "username": "RedRedFoxLife"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "长三角or大湾区",
+        "name": "RedFox（2代目）",
+        "pinned_tweet_id": "1961841195229048982",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008042942641172480/4QjR52Lf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2325,
+          "following_count": 814,
+          "like_count": 7169,
+          "listed_count": 7,
+          "media_count": 950,
+          "tweet_count": 3030
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2017-01-23T01:32:07.000Z",
+        "description": "「※怪文書多い/日本語華語👌/🎭不動産&心理学家族出身」《20代／☯️華夏族/TRPG通訳者(常夜国/JK/魔法少女/プリパラ) / 萌文化研究員/元日本留学不登校児/✒︎漫画コース志望浪人✒︎》【⚜an-ari無政府貴族主義者⚜/真祖信仰/伝統主義/ 🕊️東アジア各民族団結☮️/マイノリティ友好 🏳️‍⚧️】",
+        "id": "823342515201851392",
+        "location": "常夜国の何処か",
+        "name": "K.K.K世宇烏鬱(イょう.ア.ウ)🧛‍♂️⚜️",
+        "pinned_tweet_id": "2017114444393042382",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783511007530491904/MO5W_MTf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 640,
+          "following_count": 2483,
+          "like_count": 30688,
+          "listed_count": 7,
+          "media_count": 2244,
+          "tweet_count": 41936
+        },
+        "username": "AristocracyFree",
+        "verified": false
+      }
+    ]
+  }
+}

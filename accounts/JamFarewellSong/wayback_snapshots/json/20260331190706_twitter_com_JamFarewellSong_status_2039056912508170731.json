@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2039056912508170731",
+    "created_at": "2026-03-31T19:07:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T20:07:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039056912508170731"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1491429513779359745",
+          "start": 3,
+          "username": "Sakura_LRT"
+        },
+        {
+          "end": 27,
+          "id": "893141157395316736",
+          "start": 16,
+          "username": "Shion_Glad"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039056912508170731",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038980040239489535",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Sakura_LRT: @Shion_Glad 如果完全退出救援行動，那也是他的個人自由。\n但他的原意是「我將繼續救援那些在扭轉機構的孩子，唯獨除了那些跨性別者。」\n這個決定本身就很情緒化，舉個例子，如果一個深櫃跨性別扭轉機構受害者，在馬上就要被救出來的時候被發現了ta…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2039056912508170731",
+        "created_at": "2026-03-31T19:07:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T20:07:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039056912508170731"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1491429513779359745",
+              "start": 3,
+              "username": "Sakura_LRT"
+            },
+            {
+              "end": 27,
+              "id": "893141157395316736",
+              "start": 16,
+              "username": "Shion_Glad"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039056912508170731",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038980040239489535",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Sakura_LRT: @Shion_Glad 如果完全退出救援行動，那也是他的個人自由。\n但他的原意是「我將繼續救援那些在扭轉機構的孩子，唯獨除了那些跨性別者。」\n這個決定本身就很情緒化，舉個例子，如果一個深櫃跨性別扭轉機構受害者，在馬上就要被救出來的時候被發現了ta…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1491429513779359745",
+        "conversation_id": "2038957401450447087",
+        "created_at": "2026-03-31T14:01:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T15:01:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038980040239489535"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "893141157395316736",
+              "start": 0,
+              "username": "Shion_Glad"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038980040239489535",
+        "in_reply_to_user_id": "893141157395316736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "如果完全退出救援行動，那也是他的個人自由。\n但他的原意是「我將繼續救援那些在扭轉機構的孩子，唯獨除了那些跨性別者。」\n這個決定本身就很情緒化，舉個例子，如果一個深櫃跨性別扭轉機構受害者，在馬上就要被救出來的時候被發現了ta的跨性別身份，救助者要怎麼處理？就直接拋棄見死不救？\n要救助就不要談立場，這是國際共識。\n救援行動應僅根據需求行事，而不是因為一個「跨性別」的身份就見死不救。\n我無意支持包括跨性別在內的任何群體，如果將「跨性別」換成「殘障人士」「自閉症」我的立場也是一樣的。\n我無法接受一個有悖人道，對受害者還要挑三揀四的救援團體。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 895,
+          "like_count": 29,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038975866877649228",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shion_Glad 如果完全退出救援行動，那也是他的個人自由。\n但他的原意是「我將繼續救援那些在扭轉機構的孩子，唯獨除了那些跨性別者。」\n這個決定本身就很情緒化，舉個例子，如果一個深櫃跨性別扭轉機構受害者，在馬上就要被救出來的時候被發現了ta的跨性別身份，救助者要怎麼處理？就直接拋棄見死不救？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "",
+        "id": "1907414826101669888",
+        "name": "Jam Farewell Song",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907415117874253824/L2WK8HRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 280,
+          "like_count": 159,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 80
+        },
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-09T15:11:30.000Z",
+        "description": "都電荒川線をご利用くださいまして、ありがとうございました。| 🍡🌸 撮り鉄 | 無言フォロー失礼します | Member of @Nekonesiagov @7sRef @Asylumwiki | zh-tw/en/ja | 這個帳號主要使用中文（zh-tw）回覆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 64,
+                "username": "Nekonesiagov"
+              },
+              {
+                "end": 84,
+                "start": 78,
+                "username": "7sRef"
+              },
+              {
+                "end": 96,
+                "start": 85,
+                "username": "Asylumwiki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "toaran.art",
+                "end": 23,
+                "expanded_url": "https://www.toaran.art/",
+                "start": 0,
+                "url": "https://t.co/9k4bLMB18a"
+              }
+            ]
+          }
+        },
+        "id": "1491429513779359745",
+        "location": "SA01🌸三ノ輪橋停留場",
+        "name": "とあらん",
+        "pinned_tweet_id": "2031375207534047309",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031984681504423939/y2Kly41o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2701,
+          "following_count": 2326,
+          "like_count": 92820,
+          "listed_count": 9,
+          "media_count": 2270,
+          "tweet_count": 8410
+        },
+        "url": "https://t.co/9k4bLMB18a",
+        "username": "Sakura_LRT",
+        "verified": true
+      },
+      {
+        "created_at": "2017-08-03T16:07:00.000Z",
+        "description": "👀呜喵..||好困呀...||是一只日睡眠12h+的大猫猫||为了变温柔，我活在当下。怀着能比昨天的我，变得更温柔一点的希望，活在今天|| 大姐姐@quite8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 73,
+                "username": "quite8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Shion_Glad",
+                "end": 23,
+                "expanded_url": "https://t.me/Shion_Glad",
+                "start": 0,
+                "url": "https://t.co/N02WIQQ2zF"
+              }
+            ]
+          }
+        },
+        "id": "893141157395316736",
+        "location": "被鲨鲨吃掉了（",
+        "name": "时零喵🌱（每天困困版",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/894924665608577024/6TiDLpjn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1158,
+          "following_count": 580,
+          "like_count": 6499,
+          "listed_count": 10,
+          "media_count": 343,
+          "tweet_count": 3518
+        },
+        "url": "https://t.co/N02WIQQ2zF",
+        "username": "Shion_Glad",
+        "verified": false
+      }
+    ]
+  }
+}

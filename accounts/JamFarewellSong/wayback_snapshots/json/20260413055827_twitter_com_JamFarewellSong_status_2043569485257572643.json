@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2043569485257572643",
+    "created_at": "2026-04-13T05:58:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T06:58:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043569485257572643"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1621552410048237569",
+          "start": 3,
+          "username": "amecandy_x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043569485257572643",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043546115405136066",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @amecandy_x: 从约7小时前起，药百GPT服务器持续遭到来自境外IP的SSH暴力破解攻击，导致今日上午（北京时间）网站出现短暂不可访问。\n\n目前技术员已完成处置，服务已全面恢复正常。\n对由此带来的影响，我们深表歉意。\n\n这种攻击不会带来任何实际收益，只会加强我们…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2043569485257572643",
+        "created_at": "2026-04-13T05:58:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T06:58:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043569485257572643"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1621552410048237569",
+              "start": 3,
+              "username": "amecandy_x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043569485257572643",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043546115405136066",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @amecandy_x: 从约7小时前起，药百GPT服务器持续遭到来自境外IP的SSH暴力破解攻击，导致今日上午（北京时间）网站出现短暂不可访问。\n\n目前技术员已完成处置，服务已全面恢复正常。\n对由此带来的影响，我们深表歉意。\n\n这种攻击不会带来任何实际收益，只会加强我们…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1621552410048237569",
+        "conversation_id": "2043546115405136066",
+        "created_at": "2026-04-13T04:25:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T05:25:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043546115405136066"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/amecandy_x/sta…",
+              "end": 171,
+              "expanded_url": "https://twitter.com/amecandy_x/status/2043365620079874396",
+              "start": 148,
+              "url": "https://t.co/W8owM9Ew40"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "c999e6a453e9ef72"
+        },
+        "id": "2043546115405136066",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 436,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043365620079874396",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "从约7小时前起，药百GPT服务器持续遭到来自境外IP的SSH暴力破解攻击，导致今日上午（北京时间）网站出现短暂不可访问。\n\n目前技术员已完成处置，服务已全面恢复正常。\n对由此带来的影响，我们深表歉意。\n\n这种攻击不会带来任何实际收益，只会加强我们维护服务的决心。\n建议尽早停止这类无意义的尝试。 https://t.co/W8owM9Ew40"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "电波系中央空调；MtX&泛性恋&ASD&（隐藏属性）&CPTSD，性别/身材焦虑；od、自伤の新手；文娱杂食党，Gore爱好者；期待大家扩列互fo😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174,
+          "following_count": 794,
+          "like_count": 2286,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 451
+        },
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-03T16:53:25.000Z",
+        "description": "07 / MtF / 自由意志左翼🚩/ 大模型工程师 /  药百GPT开发者 / 抽烟嗑药",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/Ul32kqG4uh"
+              }
+            ]
+          }
+        },
+        "id": "1621552410048237569",
+        "location": "山东·济南",
+        "name": "小雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023354415944495104/Uixnel15_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5938,
+          "following_count": 2069,
+          "like_count": 26924,
+          "listed_count": 15,
+          "media_count": 1403,
+          "tweet_count": 10001
+        },
+        "url": "https://t.co/Ul32kqG4uh",
+        "username": "amecandy_x",
+        "verified": true
+      }
+    ]
+  }
+}

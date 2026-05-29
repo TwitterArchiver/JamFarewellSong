@@ -1,0 +1,329 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2041613911154413682",
+    "created_at": "2026-04-07T20:27:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T21:27:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041613911154413682"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1587653801305153538",
+          "start": 3,
+          "username": "XiaoHuiHuiH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041613911154413682",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943992875965882852",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @XiaoHuiHuiH: ［hrt后的mtf也会形成“类似月经周期”的现象］\n\n《（摘要）关于mtf在hrt后，身体可能会自行调节，形成类似月经的周期性激素波动（包括情绪周期性波动、周期性“痛经”的腹痛情况）的不完全统计现象。根据激素水平变化对体温的调节机制，通过观察出…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1943992873239695360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvpzN-9X0AAfl_q.jpg",
+        "width": 943
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1943992872149118976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvpzN65W8AAb24X.jpg",
+        "width": 943
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1943992872602112000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvpzN8lXEAAeO1F.jpg",
+        "width": 955
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1943992873004810241",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvpzN-FXwAEdVHe.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2041613911154413682",
+        "created_at": "2026-04-07T20:27:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T21:27:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041613911154413682"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1587653801305153538",
+              "start": 3,
+              "username": "XiaoHuiHuiH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041613911154413682",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943992875965882852",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @XiaoHuiHuiH: ［hrt后的mtf也会形成“类似月经周期”的现象］\n\n《（摘要）关于mtf在hrt后，身体可能会自行调节，形成类似月经的周期性激素波动（包括情绪周期性波动、周期性“痛经”的腹痛情况）的不完全统计现象。根据激素水平变化对体温的调节机制，通过观察出…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1943992873239695360",
+            "3_1943992872149118976",
+            "3_1943992872602112000",
+            "3_1943992873004810241"
+          ]
+        },
+        "author_id": "1587653801305153538",
+        "conversation_id": "1943992875965882852",
+        "created_at": "2025-07-12T11:16:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T12:16:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943992875965882852"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/awAMCkUjYu",
+              "end": 171,
+              "expanded_url": "https://x.com/XiaoHuiHuiH/status/1943992875965882852/photo/1",
+              "media_key": "3_1943992873239695360",
+              "start": 148,
+              "url": "https://t.co/awAMCkUjYu"
+            },
+            {
+              "display_url": "pic.x.com/awAMCkUjYu",
+              "end": 171,
+              "expanded_url": "https://x.com/XiaoHuiHuiH/status/1943992875965882852/photo/1",
+              "media_key": "3_1943992872149118976",
+              "start": 148,
+              "url": "https://t.co/awAMCkUjYu"
+            },
+            {
+              "display_url": "pic.x.com/awAMCkUjYu",
+              "end": 171,
+              "expanded_url": "https://x.com/XiaoHuiHuiH/status/1943992875965882852/photo/1",
+              "media_key": "3_1943992872602112000",
+              "start": 148,
+              "url": "https://t.co/awAMCkUjYu"
+            },
+            {
+              "display_url": "pic.x.com/awAMCkUjYu",
+              "end": 171,
+              "expanded_url": "https://x.com/XiaoHuiHuiH/status/1943992875965882852/photo/1",
+              "media_key": "3_1943992873004810241",
+              "start": 148,
+              "url": "https://t.co/awAMCkUjYu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943992875965882852",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 530,
+                "id": "1264929033097080832",
+                "start": 516,
+                "username": "xiaofang23333"
+              },
+              {
+                "end": 721,
+                "id": "1849098966039969792",
+                "start": 713,
+                "username": "36duola"
+              },
+              {
+                "end": 905,
+                "id": "1004362078956613632",
+                "start": 889,
+                "username": "OliviaWantsHugs"
+              },
+              {
+                "end": 1438,
+                "id": "1600208165269741570",
+                "start": 1424,
+                "username": "MeowCatherina"
+              },
+              {
+                "end": 1732,
+                "id": "1264929033097080832",
+                "start": 1718,
+                "username": "xiaofang23333"
+              },
+              {
+                "end": 1751,
+                "id": "1849098966039969792",
+                "start": 1743,
+                "username": "36duola"
+              },
+              {
+                "end": 1808,
+                "id": "1264929033097080832",
+                "start": 1794,
+                "username": "xiaofang23333"
+              },
+              {
+                "end": 1821,
+                "id": "1849098966039969792",
+                "start": 1813,
+                "username": "36duola"
+              },
+              {
+                "end": 1846,
+                "id": "1004362078956613632",
+                "start": 1830,
+                "username": "OliviaWantsHugs"
+              },
+              {
+                "end": 1867,
+                "id": "1600208165269741570",
+                "start": 1853,
+                "username": "MeowCatherina"
+              }
+            ]
+          },
+          "text": "［hrt后的mtf也会形成“类似月经周期”的现象］\n\n《（摘要）关于mtf在hrt后，身体可能会自行调节，形成类似月经的周期性激素波动（包括情绪周期性波动、周期性“痛经”的腹痛情况）的不完全统计现象。根据激素水平变化对体温的调节机制，通过观察出体温出现月度性的周期性变化来对这一猜想进行佐证。》\n\n作者：咴咴\n​\n​背景：\n​事情是这样的，因为有不少认识的mtf都表示在hrt之后，激素的波动会导致出现以月份为周期的周期性的类似“经期变化”，具体表现为激素水平波动，情绪月度性波动，每个月都有几个月出现类似“月经”的腹痛之类的。\n但当然，这个只是“身边统计学”，无法排除是否存在心理因素的影响，众多mtf本身也不存在子宫之类的产生痛经的器官。\n虽然也有人提及，服用“色普龙”等孕酮，这样的现象会更明显；或者泌乳素水平上去后，这样的现象会更明显。但缺乏有力的量化方式或者科学佐证。\n其实如果有研究机构，在研究mtf稳定hrt一段时间之后，持续跟踪测量每日的六项激素水平，在“每天的hrt剂量都保持不变的情况下”，身体会不会出现类似月经周期的那种激素波动，也可以形成一定的证据。不过这种研究耗费的人力物力将会稍大。\n​\n转机：\n​小方 @xiaofang23333 是一名hrt半年多的mtf。她的手表一直在记录自己每日的平均体温。（同时因为软件里设置的性别为女性，所以手表软件也同时在记录所谓“经期”）。然后她神奇的发现，自己每个月的“日平均体温”，会出现月度性的周期性变化。\n​不过，小方她偶尔会od雌二醇，也可能会喝酒之类的导致单日体温异常身高，所以体温的记录比较波动。\n\n​不过呢，小方又找到一个我曾经介绍的mtf，哆啦 @36duola 。哆啦是一名hrt200多天的mtf。她不od不抽烟喝酒，作息也比较规律。\n而哆啦也和小方一样，用手表记录着自己的日平均体温，同时手表也在记录着“经期”。而哆啦的日平均体温，就体现出很规律的月度周期性变化。\n\n（以下图片，图一图二为小方的数据，图三为哆啦的数据。这些数据的发布已获得当事人的同意。）\n\n这个现象也获得了 Olivia @OliviaWantsHugs 的“身边统计学”的认同。Olivia本人的hrt时间更长，且目前已经接受了SRS手术。（笔者在这里小小恭喜一下她QvQ）。而且她认识的“较长时间hrt的mtf”，以及“srs术后的mtf”也比笔者更多，因此“身边统计学”的样本也明显更多。\n\n值得一提的是，小方、哆啦、Olivia这三位，都是天生雄激素偏低，雌激素偏高，hrt后激素反应较为明显，自身会感知出明显的月经周期，情绪的月度周期性变化明显，并伴随月度周期性腹痛的类“月经”反应。\n​\n​然后呢笔者就思考，雌二醇会不会影响体温？然后使用grok查了一下。（图四）。​\n​雌激素的水平会影响体温的调节。（grok可能是根据曾经的历史记忆，尤其提及了hrt，不过此处应该指的是更年期女性的激素治疗。）\n​\n研究方法：\n​于是，其实只要收集几个月到半年左右的，顺女的、mtf的，顺男的体温变化。\n\n​就至少可以研究出hrt可能的对体温的周期性变化。\n\n当然，测试期内，最好不要出现hrt剂量的变化、以及od、饮酒之类会影响体温的变量。对于测试之前，mtf需要稳定hrt一段时间（约三个月以上）。\n在此之前的od、饮酒之类的行为，应该不会影响最终实验的结果。\n\n这边需要感谢 凯瑟琳奈 @MeowCatherina 对这边研究可行性论证的帮助。因为我们没有能力进行足量样本的研究，也或许难以找到对此感兴趣的研究机构。所以很可惜，这项研究目前并不能科学的进行。（或许大家可以自行研究观察）。\n于是笔者决定，把这样一个有趣的研究以推特帖子的方式进行发布。\n​\n引申：\n​然后以此研究为引子，虽然或许可以延伸出hrt是否会在身体的调节下自动产生激素水平变化，或者出现类似月经的周期，包括情绪变化、“痛经”之类的现象。\n当然这只是一个引申猜想。\n\n结论：\n​单纯进行收集体温报告的话，或许是一个还不错的研究方法的切入点，可以作为辅佐的论证。\n\n引用来源：\n［图一、图二］小方的数据 @xiaofang23333\n［图三］哆啦的数据 @36duola\n［图四］grok的分析内容\n（数据的发布已获得当事人的同意）\n\n感谢：\n感谢 小方 @xiaofang23333 ，哆啦 @36duola ，Olivia @OliviaWantsHugs ，凯瑟琳奈 @MeowCatherina ,等所有对此文章带来帮助的人！\n（顺序仅为文章内出现顺序，不分先后）"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 7803,
+          "like_count": 68,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "［hrt后的mtf也会形成“类似月经周期”的现象］\n\n《（摘要）关于mtf在hrt后，身体可能会自行调节，形成类似月经的周期性激素波动（包括情绪周期性波动、周期性“痛经”的腹痛情况）的不完全统计现象。根据激素水平变化对体温的调节机制，通过观察出体温出现月度性的周期性变化来对这一猜想进行佐证。》 https://t.co/awAMCkUjYu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "电波系中央空调；MtX&泛性恋&ASD&（隐藏属性）&CPTSD，性别/身材焦虑；od、自伤の新手；文娱杂食党，Gore爱好者；期待大家扩列互fo😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 618,
+          "like_count": 1277,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 235
+        },
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-02T03:52:34.000Z",
+        "description": "好东西曾在咱主页的“亮点”里🥹\n/日常+抽象+涩涩推🫣/\nmtx(f)🏳️‍⚧️但可以把我当男娘喵🏳️‍🌈/含糖🍥2023.12.7/嘈嘈风流往事…/🩷💜/？？岁/单身了/多伦多🇨🇦/\n\n免责避雷声明⚠️地狱笑话+抽象批/温柔+发癫集合体/地雷嗑学家💊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@XiaoHuiHuiH",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@XiaoHuiHuiH",
+                "start": 0,
+                "url": "https://t.co/LQg5S7YXOr"
+              }
+            ]
+          }
+        },
+        "id": "1587653801305153538",
+        "location": "Toronto, Ontario🇨🇦",
+        "name": "小咴咴喵(⁠≧⁠▽⁠≦⁠)/🍥喵喵艺术家~",
+        "pinned_tweet_id": "2039094400928661552",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904236723636224000/W8Cl9P5f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12452,
+          "following_count": 1377,
+          "like_count": 159748,
+          "listed_count": 35,
+          "media_count": 5083,
+          "tweet_count": 67818
+        },
+        "url": "https://t.co/LQg5S7YXOr",
+        "username": "XiaoHuiHuiH",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2044007897684934694",
+    "created_at": "2026-04-14T11:00:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T12:00:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044007897684934694"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1917988927409143812",
+          "start": 3,
+          "username": "OverSpeed_Wiki2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044007897684934694",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043574003206644126",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @OverSpeed_Wiki2: 王宇航和亚明，温柔的想法从来不是关掉所有机构。尤其国安鹰犬小二，他们就是想把地方官员勾私牟利的扭转机构国有化\n\n日韩的这种扭转营（和东亚老保价值）最后都被西方式的社群互助与NGO组织淘汰了，这帮傻逼（王宇航 亚明 小二）就是想把扭转营国…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2044007897684934694",
+        "created_at": "2026-04-14T11:00:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T12:00:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044007897684934694"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1917988927409143812",
+              "start": 3,
+              "username": "OverSpeed_Wiki2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044007897684934694",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043574003206644126",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @OverSpeed_Wiki2: 王宇航和亚明，温柔的想法从来不是关掉所有机构。尤其国安鹰犬小二，他们就是想把地方官员勾私牟利的扭转机构国有化\n\n日韩的这种扭转营（和东亚老保价值）最后都被西方式的社群互助与NGO组织淘汰了，这帮傻逼（王宇航 亚明 小二）就是想把扭转营国…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917988927409143812",
+        "conversation_id": "2043574003206644126",
+        "created_at": "2026-04-13T06:16:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T07:16:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043574003206644126"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/amber_toffee/s…",
+              "end": 169,
+              "expanded_url": "https://twitter.com/amber_toffee/status/2043323100817752375",
+              "start": 146,
+              "url": "https://t.co/uDC4XjUcEq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043574003206644126",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2223,
+          "like_count": 24,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043323100817752375",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "王宇航和亚明，温柔的想法从来不是关掉所有机构。尤其国安鹰犬小二，他们就是想把地方官员勾私牟利的扭转机构国有化\n\n日韩的这种扭转营（和东亚老保价值）最后都被西方式的社群互助与NGO组织淘汰了，这帮傻逼（王宇航 亚明 小二）就是想把扭转营国有化变成合法再教育营 劳动营 集中营 乃至灭绝营罢了… https://t.co/uDC4XjUcEq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "电波系中央空调；MtX&泛性恋&ASD&（隐藏属性）&CPTSD，性别/身材焦虑；od、自伤の新手；文娱杂食党，Gore爱好者；期待大家扩列互fo😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178,
+          "following_count": 802,
+          "like_count": 2351,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 467
+        },
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-01T17:06:19.000Z",
+        "description": "已与原站切割，原站已解散，本账户言论与原站人马无关\n即将重命名本账户",
+        "id": "1917988927409143812",
+        "name": "安卓跨➗ 安卓药蛆 安卓户晨风",
+        "pinned_tweet_id": "2009423003097199073",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975613813534957572/UyriMur8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 934,
+          "following_count": 286,
+          "like_count": 31344,
+          "listed_count": 0,
+          "media_count": 162,
+          "tweet_count": 4949
+        },
+        "username": "OverSpeed_Wiki2",
+        "verified": false
+      }
+    ]
+  }
+}

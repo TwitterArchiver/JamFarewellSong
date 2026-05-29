@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2048362196292481364",
+    "created_at": "2026-04-26T11:22:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T12:22:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048362196292481364"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2022153081031733252",
+          "start": 3,
+          "username": "ax09s84751"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "mfti.hey.run",
+          "end": 39,
+          "expanded_url": "https://mfti.hey.run/",
+          "start": 16,
+          "unwound_url": "https://mfti.hey.run/",
+          "url": "https://t.co/dmKjrPwQyo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048362196292481364",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047936891459453352",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ax09s84751: https://t.co/dmKjrPwQyo\n「mtf」人格测试"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2048362196292481364",
+        "created_at": "2026-04-26T11:22:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T12:22:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048362196292481364"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2022153081031733252",
+              "start": 3,
+              "username": "ax09s84751"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "mfti.hey.run",
+              "end": 39,
+              "expanded_url": "https://mfti.hey.run/",
+              "start": 16,
+              "unwound_url": "https://mfti.hey.run/",
+              "url": "https://t.co/dmKjrPwQyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048362196292481364",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047936891459453352",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ax09s84751: https://t.co/dmKjrPwQyo\n「mtf」人格测试"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2047936891459453352",
+        "created_at": "2026-04-25T07:12:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T08:12:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047936891459453352"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "mfti.hey.run",
+              "end": 23,
+              "expanded_url": "https://mfti.hey.run/",
+              "start": 0,
+              "unwound_url": "https://mfti.hey.run/",
+              "url": "https://t.co/dmKjrPwQyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047936891459453352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 1936,
+          "like_count": 16,
+          "quote_count": 6,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/dmKjrPwQyo\n「mtf」人格测试"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "电波系中央空调；MtX&泛性恋&ASD&（隐藏属性）&CPTSD，性别/身材焦虑；od、自伤の新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；期待大家扩列互fo😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 892,
+          "like_count": 3056,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 690
+        },
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09/SZ苏州！不是深圳/确诊/顺直，不zc不od\n精神科钉子户/喜欢超天酱/混mtf/od圈/友跨/可能是mtx？？🇨🇳刻进DNA\n对殖蛆执行垃圾回收♻️/手动清理缓存🗑️/视成分互关\n/破防了找超天酱哭😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2046782170111627621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048356974254071809/sJTTXsVq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 726,
+          "following_count": 1334,
+          "like_count": 854,
+          "listed_count": 1,
+          "media_count": 142,
+          "tweet_count": 1032
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": false
+      }
+    ]
+  }
+}

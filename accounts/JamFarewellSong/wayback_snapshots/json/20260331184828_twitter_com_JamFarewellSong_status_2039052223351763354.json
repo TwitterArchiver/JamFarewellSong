@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+          "id": "159",
+          "name": "States"
+        },
+        "entity": {
+          "description": "Texas",
+          "id": "855432197297192961",
+          "name": "Texas"
+        }
+      }
+    ],
+    "conversation_id": "2039052223351763354",
+    "created_at": "2026-03-31T18:48:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T19:48:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039052223351763354"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1974276207496867842",
+          "start": 3,
+          "username": "DXMDusk"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/Kbg3ec",
+          "end": 139,
+          "start": 120,
+          "url": "https://t.co/Kbg3ec"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039052223351763354",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038559106643173524",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DXMDusk: 这是药圈古早时期的几位神明，如果你能猜到他们是谁，你将能到达第五高原\n恰米与（）（）之神\n晚安与嘎蛋之神董\n联用与求生之神三崎\n转生与我妈妈喹硫平\n整活与（）（）之神texas\n死藤水与剧烈变形之神spring风 https://t.co/Kbg3ec…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1163,
+        "media_key": "3_2038531152936673280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEpRSHJboAAlkZs.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+              "id": "159",
+              "name": "States"
+            },
+            "entity": {
+              "description": "Texas",
+              "id": "855432197297192961",
+              "name": "Texas"
+            }
+          }
+        ],
+        "conversation_id": "2039052223351763354",
+        "created_at": "2026-03-31T18:48:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T19:48:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039052223351763354"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1974276207496867842",
+              "start": 3,
+              "username": "DXMDusk"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/Kbg3ec",
+              "end": 139,
+              "start": 120,
+              "url": "https://t.co/Kbg3ec"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039052223351763354",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038559106643173524",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DXMDusk: 这是药圈古早时期的几位神明，如果你能猜到他们是谁，你将能到达第五高原\n恰米与（）（）之神\n晚安与嘎蛋之神董\n联用与求生之神三崎\n转生与我妈妈喹硫平\n整活与（）（）之神texas\n死藤水与剧烈变形之神spring风 https://t.co/Kbg3ec…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038531152936673280"
+          ]
+        },
+        "author_id": "1974276207496867842",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+              "id": "159",
+              "name": "States"
+            },
+            "entity": {
+              "description": "Texas",
+              "id": "855432197297192961",
+              "name": "Texas"
+            }
+          }
+        ],
+        "conversation_id": "2038559106643173524",
+        "created_at": "2026-03-30T10:09:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T11:09:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038559106643173524"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Kbg3ecY27f",
+              "end": 130,
+              "expanded_url": "https://x.com/DXMDusk/status/2038559106643173524/photo/1",
+              "media_key": "3_2038531152936673280",
+              "start": 107,
+              "url": "https://t.co/Kbg3ecY27f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038559106643173524",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 2455,
+          "like_count": 41,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "这是药圈古早时期的几位神明，如果你能猜到他们是谁，你将能到达第五高原\n恰米与（）（）之神\n晚安与嘎蛋之神董\n联用与求生之神三崎\n转生与我妈妈喹硫平\n整活与（）（）之神texas\n死藤水与剧烈变形之神spring风 https://t.co/Kbg3ecY27f"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "",
+        "id": "1907414826101669888",
+        "name": "Jam Farewell Song",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907415117874253824/L2WK8HRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 273,
+          "like_count": 142,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 76
+        },
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1981,
+          "following_count": 1089,
+          "like_count": 1985,
+          "listed_count": 3,
+          "media_count": 305,
+          "tweet_count": 1962
+        },
+        "username": "DXMDusk",
+        "verified": true
+      }
+    ]
+  }
+}

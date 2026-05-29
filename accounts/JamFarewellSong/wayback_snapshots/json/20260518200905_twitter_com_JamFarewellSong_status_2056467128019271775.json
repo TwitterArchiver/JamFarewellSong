@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2056467128019271775",
+    "created_at": "2026-05-18T20:09:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T21:09:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056467128019271775"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1811265295849598976",
+          "start": 3,
+          "username": "KiraMyao"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/i/article/2056…",
+          "end": 37,
+          "expanded_url": "http://x.com/i/article/2056116690640080896",
+          "start": 14,
+          "status": 500,
+          "unwound_url": "http://x.com/i/article/2056116690640080896",
+          "url": "https://t.co/fkthD4Xw3V"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056467128019271775",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 22
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056374347380695276",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KiraMyao: https://t.co/fkthD4Xw3V"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2056467128019271775",
+        "created_at": "2026-05-18T20:09:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T21:09:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056467128019271775"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1811265295849598976",
+              "start": 3,
+              "username": "KiraMyao"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/article/2056…",
+              "end": 37,
+              "expanded_url": "http://x.com/i/article/2056116690640080896",
+              "start": 14,
+              "status": 500,
+              "unwound_url": "http://x.com/i/article/2056116690640080896",
+              "url": "https://t.co/fkthD4Xw3V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056467128019271775",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 22
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056374347380695276",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KiraMyao: https://t.co/fkthD4Xw3V"
+      },
+      {
+        "article": {
+          "title": " 中国MTF生存指南：喵呜，一起在当下活下去"
+        },
+        "attachments": {},
+        "author_id": "1811265295849598976",
+        "conversation_id": "2056374347380695276",
+        "created_at": "2026-05-18T14:00:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T15:00:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056374347380695276"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/article/2056…",
+              "end": 23,
+              "expanded_url": "http://x.com/i/article/2056116690640080896",
+              "start": 0,
+              "status": 500,
+              "unwound_url": "http://x.com/i/article/2056116690640080896",
+              "url": "https://t.co/fkthD4Xw3V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056374347380695276",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 55,
+          "impression_count": 4384,
+          "like_count": 102,
+          "quote_count": 6,
+          "reply_count": 9,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/fkthD4Xw3V"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od、自伤の新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 269,
+          "following_count": 983,
+          "like_count": 3661,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 918
+        },
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-11T05:04:57.000Z",
+        "description": "KiraMyao🌎きらみゃお🌏星绮喵                                      \n  \nTech💾 meme👻 Equal❤️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "equal.kiramayo.dpdns.org",
+                "end": 23,
+                "expanded_url": "https://equal.kiramayo.dpdns.org",
+                "start": 0,
+                "url": "https://t.co/HY2O2A4Kqa"
+              }
+            ]
+          }
+        },
+        "id": "1811265295849598976",
+        "location": "Japan",
+        "name": "KiraMyao🐱",
+        "pinned_tweet_id": "2043007235786445150",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050442466428616704/Cd6JwXLB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1087,
+          "following_count": 361,
+          "like_count": 9730,
+          "listed_count": 3,
+          "media_count": 392,
+          "tweet_count": 1623
+        },
+        "url": "https://t.co/HY2O2A4Kqa",
+        "username": "KiraMyao",
+        "verified": true
+      }
+    ]
+  }
+}

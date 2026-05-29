@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2051600553059528704"
+      ],
+      "media_source_tweet_id": [
+        "2051600558289727595"
+      ]
+    },
+    "author_id": "1907414826101669888",
+    "conversation_id": "2052762398659088870",
+    "created_at": "2026-05-08T14:47:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T15:47:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052762398659088870"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1553030912052305926",
+          "start": 3,
+          "username": "emoemoe99"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Xx0KcfL0Cd",
+          "end": 47,
+          "expanded_url": "https://x.com/emoemoe99/status/2051600558289727595/photo/1",
+          "media_key": "3_2051600553059528704",
+          "start": 24,
+          "url": "https://t.co/Xx0KcfL0Cd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052762398659088870",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 639
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051600558289727595",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @emoemoe99: ずっと、みてる。 https://t.co/Xx0KcfL0Cd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2051600553059528704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHi_1UobsAATdv1.jpg",
+        "width": 906
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051600553059528704"
+          ],
+          "media_source_tweet_id": [
+            "2051600558289727595"
+          ]
+        },
+        "author_id": "1907414826101669888",
+        "conversation_id": "2052762398659088870",
+        "created_at": "2026-05-08T14:47:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T15:47:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052762398659088870"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1553030912052305926",
+              "start": 3,
+              "username": "emoemoe99"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Xx0KcfL0Cd",
+              "end": 47,
+              "expanded_url": "https://x.com/emoemoe99/status/2051600558289727595/photo/1",
+              "media_key": "3_2051600553059528704",
+              "start": 24,
+              "url": "https://t.co/Xx0KcfL0Cd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052762398659088870",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 639
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051600558289727595",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @emoemoe99: ずっと、みてる。 https://t.co/Xx0KcfL0Cd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051600553059528704"
+          ]
+        },
+        "author_id": "1553030912052305926",
+        "conversation_id": "2051600558289727595",
+        "created_at": "2026-05-05T09:51:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T10:51:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051600558289727595"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Xx0KcfL0Cd",
+              "end": 32,
+              "expanded_url": "https://x.com/emoemoe99/status/2051600558289727595/photo/1",
+              "media_key": "3_2051600553059528704",
+              "start": 9,
+              "url": "https://t.co/Xx0KcfL0Cd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051600558289727595",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 630,
+          "impression_count": 70694,
+          "like_count": 7468,
+          "quote_count": 4,
+          "reply_count": 5,
+          "retweet_count": 639
+        },
+        "reply_settings": "everyone",
+        "text": "ずっと、みてる。 https://t.co/Xx0KcfL0Cd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "电波系中央空调；MtX&泛性恋&ASD&（隐藏属性）&CPTSD，性别/身材焦虑；od、自伤の新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；期待大家扩列互fo😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 253,
+          "following_count": 943,
+          "like_count": 3315,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 780
+        },
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-29T14:54:01.000Z",
+        "description": "backrooms.萌研究絵垢。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/mugicx",
+                "end": 23,
+                "expanded_url": "https://lit.link/mugicx",
+                "start": 0,
+                "url": "https://t.co/HKvEOoC73f"
+              }
+            ]
+          }
+        },
+        "id": "1553030912052305926",
+        "location": "日本",
+        "name": "ᙆƶ",
+        "pinned_tweet_id": "2049723069066043825",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049118160121704448/ahmpAS6G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 877,
+          "following_count": 51,
+          "like_count": 355,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 106
+        },
+        "url": "https://t.co/HKvEOoC73f",
+        "username": "emoemoe99",
+        "verified": false
+      }
+    ]
+  }
+}

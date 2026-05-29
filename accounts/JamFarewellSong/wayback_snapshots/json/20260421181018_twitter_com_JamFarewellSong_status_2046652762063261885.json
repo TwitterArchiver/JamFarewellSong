@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2046652762063261885",
+    "created_at": "2026-04-21T18:10:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T19:10:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046652762063261885"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1991711672684421121",
+          "start": 3,
+          "username": "pearl0812lucky"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046652762063261885",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 266
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046398129847902702",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pearl0812lucky: 见面真的太重要了，为什么见面跟聊天是两回事，因为隔着屏幕你永远不知道，和你好好说话的人，也许正在掉眼泪，文字表达爱意很无力，但表达恨意却又很锋利。见面不同，会心软会看到泪光，会得到拥抱，会更靠近彼此。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2046652762063261885",
+        "created_at": "2026-04-21T18:10:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T19:10:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046652762063261885"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1991711672684421121",
+              "start": 3,
+              "username": "pearl0812lucky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046652762063261885",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 266
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046398129847902702",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pearl0812lucky: 见面真的太重要了，为什么见面跟聊天是两回事，因为隔着屏幕你永远不知道，和你好好说话的人，也许正在掉眼泪，文字表达爱意很无力，但表达恨意却又很锋利。见面不同，会心软会看到泪光，会得到拥抱，会更靠近彼此。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2046398129847902702",
+        "created_at": "2026-04-21T01:18:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T02:18:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046398129847902702"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046398129847902702",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 91,
+          "impression_count": 42009,
+          "like_count": 1478,
+          "quote_count": 28,
+          "reply_count": 95,
+          "retweet_count": 266
+        },
+        "reply_settings": "everyone",
+        "text": "见面真的太重要了，为什么见面跟聊天是两回事，因为隔着屏幕你永远不知道，和你好好说话的人，也许正在掉眼泪，文字表达爱意很无力，但表达恨意却又很锋利。见面不同，会心软会看到泪光，会得到拥抱，会更靠近彼此。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "电波系中央空调；MtX&泛性恋&ASD&（隐藏属性）&CPTSD，性别/身材焦虑；od、自伤の新手；文娱杂食党，Gore爱好者；期待大家扩列互fo😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 203,
+          "following_count": 850,
+          "like_count": 2853,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 607
+        },
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5958,
+          "following_count": 57,
+          "like_count": 6110,
+          "listed_count": 4,
+          "media_count": 145,
+          "tweet_count": 1511
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}

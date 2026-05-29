@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1828364618231881728"
+      ],
+      "media_source_tweet_id": [
+        "1828364726117531866"
+      ]
+    },
+    "author_id": "1907414826101669888",
+    "conversation_id": "2053280374302879868",
+    "created_at": "2026-05-10T01:06:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T02:06:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053280374302879868"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1545009548473221120",
+          "start": 3,
+          "username": "L1suks"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/G875KCHrHh",
+          "end": 43,
+          "expanded_url": "https://x.com/L1suks/status/1828364726117531866/photo/1",
+          "media_key": "3_1828364618231881728",
+          "start": 20,
+          "url": "https://t.co/G875KCHrHh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053280374302879868",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2810
+    },
+    "referenced_tweets": [
+      {
+        "id": "1828364726117531866",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @L1suks: ....... https://t.co/G875KCHrHh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1828364618231881728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GV-n7uWaoAA_WHV.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1828364618231881728"
+          ],
+          "media_source_tweet_id": [
+            "1828364726117531866"
+          ]
+        },
+        "author_id": "1907414826101669888",
+        "conversation_id": "2053280374302879868",
+        "created_at": "2026-05-10T01:06:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T02:06:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053280374302879868"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1545009548473221120",
+              "start": 3,
+              "username": "L1suks"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/G875KCHrHh",
+              "end": 43,
+              "expanded_url": "https://x.com/L1suks/status/1828364726117531866/photo/1",
+              "media_key": "3_1828364618231881728",
+              "start": 20,
+              "url": "https://t.co/G875KCHrHh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053280374302879868",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2810
+        },
+        "referenced_tweets": [
+          {
+            "id": "1828364726117531866",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @L1suks: ....... https://t.co/G875KCHrHh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1828364618231881728"
+          ]
+        },
+        "author_id": "1545009548473221120",
+        "conversation_id": "1828364726117531866",
+        "created_at": "2024-08-27T09:31:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-27T10:31:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1828364726117531866"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/G875KCHrHh",
+              "end": 31,
+              "expanded_url": "https://x.com/L1suks/status/1828364726117531866/photo/1",
+              "media_key": "3_1828364618231881728",
+              "start": 8,
+              "url": "https://t.co/G875KCHrHh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1828364726117531866",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1694,
+          "impression_count": 807491,
+          "like_count": 24532,
+          "quote_count": 193,
+          "reply_count": 30,
+          "retweet_count": 2810
+        },
+        "reply_settings": "everyone",
+        "text": "....... https://t.co/G875KCHrHh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od、自伤の新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 257,
+          "following_count": 955,
+          "like_count": 3388,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 809
+        },
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-07T11:39:25.000Z",
+        "description": "蛾（é）：昆蟲，與蝴蝶相似， 體肥大，觸角細長如絲， 翅面灰白， 靜止時，翅左右平放， 常在夜間活動， 有趨光性。（绿色举牌）",
+        "id": "1545009548473221120",
+        "location": "枯 海 便利店 淤青 玉蝶",
+        "name": "什么都无法解决的世界",
+        "pinned_tweet_id": "1646916435380166660",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017630852403105794/A5bfTNxK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7057,
+          "following_count": 10,
+          "like_count": 487,
+          "listed_count": 20,
+          "media_count": 238,
+          "tweet_count": 1290
+        },
+        "username": "L1suks",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2041108486826979831",
+    "created_at": "2026-04-06T10:59:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T11:59:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041108486826979831"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1697911946820177920",
+          "start": 3,
+          "username": "luc1917317"
+        },
+        {
+          "end": 26,
+          "id": "1513444882865856516",
+          "start": 16,
+          "username": "thorino10"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041108486826979831",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040862402833699079",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @luc1917317: @thorino10 不一定要割 只要舍得付出代价 我行我素了半辈子的老东西飘过如是说"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2041108486826979831",
+        "created_at": "2026-04-06T10:59:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T11:59:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041108486826979831"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1697911946820177920",
+              "start": 3,
+              "username": "luc1917317"
+            },
+            {
+              "end": 26,
+              "id": "1513444882865856516",
+              "start": 16,
+              "username": "thorino10"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041108486826979831",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040862402833699079",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @luc1917317: @thorino10 不一定要割 只要舍得付出代价 我行我素了半辈子的老东西飘过如是说"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1697911946820177920",
+        "conversation_id": "2040758577233907885",
+        "created_at": "2026-04-05T18:41:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T19:41:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040862402833699079"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1513444882865856516",
+              "start": 0,
+              "username": "thorino10"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040862402833699079",
+        "in_reply_to_user_id": "1513444882865856516",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 65,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040758577233907885",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@thorino10 不一定要割 只要舍得付出代价 我行我素了半辈子的老东西飘过如是说"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "电波系中央空调；MtX&泛性恋&ASD&（隐藏属性）&CPTSD，性别/身材焦虑；od、自伤の新手；文娱杂食党，Gore爱好者；期待大家扩列互fo😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 497,
+          "like_count": 774,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 165
+        },
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-02T09:58:57.000Z",
+        "description": "",
+        "id": "1697911946820177920",
+        "name": "潇潇雨歇",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807114473238646784/8YySA0tK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 2079,
+          "like_count": 49,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 450
+        },
+        "username": "luc1917317",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-11T09:12:57.000Z",
+        "description": "你从不道别，你闷着头往前走，顺手接过命运递到你手上的东西，不管它是什么。",
+        "id": "1513444882865856516",
+        "name": "日内瓦十六夜",
+        "pinned_tweet_id": "1920530931422724192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977356427384721408/9V-JtoBh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6578,
+          "following_count": 473,
+          "like_count": 11032,
+          "listed_count": 21,
+          "media_count": 331,
+          "tweet_count": 4023
+        },
+        "username": "thorino10",
+        "verified": false
+      }
+    ]
+  }
+}

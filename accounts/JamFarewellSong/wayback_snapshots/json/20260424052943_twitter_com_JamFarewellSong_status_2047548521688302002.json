@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047086679593263104"
+      ],
+      "media_source_tweet_id": [
+        "2047086685066809536"
+      ]
+    },
+    "author_id": "1907414826101669888",
+    "conversation_id": "2047548521688302002",
+    "created_at": "2026-04-24T05:29:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T06:29:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047548521688302002"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1740443914924937216",
+          "start": 3,
+          "username": "cutx111"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/iyZ2U1Jx03",
+          "end": 36,
+          "expanded_url": "https://x.com/cutx111/status/2047086685066809536/photo/1",
+          "media_key": "3_2047086679593263104",
+          "start": 13,
+          "url": "https://t.co/iyZ2U1Jx03"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047548521688302002",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 991
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047086685066809536",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cutx111: https://t.co/iyZ2U1Jx03"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 414,
+        "media_key": "3_2047086679593263104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGi2fTmXIAA0ErU.jpg",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047086679593263104"
+          ],
+          "media_source_tweet_id": [
+            "2047086685066809536"
+          ]
+        },
+        "author_id": "1907414826101669888",
+        "conversation_id": "2047548521688302002",
+        "created_at": "2026-04-24T05:29:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T06:29:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047548521688302002"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1740443914924937216",
+              "start": 3,
+              "username": "cutx111"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iyZ2U1Jx03",
+              "end": 36,
+              "expanded_url": "https://x.com/cutx111/status/2047086685066809536/photo/1",
+              "media_key": "3_2047086679593263104",
+              "start": 13,
+              "url": "https://t.co/iyZ2U1Jx03"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047548521688302002",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 991
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047086685066809536",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cutx111: https://t.co/iyZ2U1Jx03"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047086679593263104"
+          ]
+        },
+        "author_id": "1740443914924937216",
+        "conversation_id": "2047086685066809536",
+        "created_at": "2026-04-22T22:54:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T23:54:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047086685066809536"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iyZ2U1Jx03",
+              "end": 23,
+              "expanded_url": "https://x.com/cutx111/status/2047086685066809536/photo/1",
+              "media_key": "3_2047086679593263104",
+              "start": 0,
+              "url": "https://t.co/iyZ2U1Jx03"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047086685066809536",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 406,
+          "impression_count": 40172,
+          "like_count": 4585,
+          "quote_count": 17,
+          "reply_count": 10,
+          "retweet_count": 991
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/iyZ2U1Jx03"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "电波系中央空调；MtX&泛性恋&ASD&（隐藏属性）&CPTSD，性别/身材焦虑；od、自伤の新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；期待大家扩列互fo😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 871,
+          "like_count": 2986,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 663
+        },
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-28T18:45:47.000Z",
+        "description": "",
+        "id": "1740443914924937216",
+        "location": "19",
+        "name": "mar 🐾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047068432860844032/K39qi1gD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 852,
+          "following_count": 537,
+          "like_count": 7146,
+          "listed_count": 3,
+          "media_count": 51,
+          "tweet_count": 1122
+        },
+        "username": "cutx111",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2051757932510052742",
+    "created_at": "2026-05-05T20:16:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T21:16:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051757932510052742"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1843623844982206466",
+          "start": 3,
+          "username": "Sledge230282"
+        },
+        {
+          "end": 29,
+          "id": "1851254945984741376",
+          "start": 18,
+          "username": "LastExeX01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051757932510052742",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051738329494995385",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Sledge230282: @LastExeX01 如果不出意外，以后只会越来越保守，对“局外人”们而言，这个社会将会越来越不宽容，对外国人，对性少数的社会宽容度也不会比现在更好\n可能这就是21世纪，更年轻的人群并不意味着更开放的思想"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2051757932510052742",
+        "created_at": "2026-05-05T20:16:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T21:16:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051757932510052742"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843623844982206466",
+              "start": 3,
+              "username": "Sledge230282"
+            },
+            {
+              "end": 29,
+              "id": "1851254945984741376",
+              "start": 18,
+              "username": "LastExeX01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051757932510052742",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051738329494995385",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Sledge230282: @LastExeX01 如果不出意外，以后只会越来越保守，对“局外人”们而言，这个社会将会越来越不宽容，对外国人，对性少数的社会宽容度也不会比现在更好\n可能这就是21世纪，更年轻的人群并不意味着更开放的思想"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843623844982206466",
+        "conversation_id": "2051514433612963907",
+        "created_at": "2026-05-05T18:58:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T19:58:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051738329494995385"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1851254945984741376",
+              "start": 0,
+              "username": "LastExeX01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051738329494995385",
+        "in_reply_to_user_id": "1851254945984741376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051514433612963907",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LastExeX01 如果不出意外，以后只会越来越保守，对“局外人”们而言，这个社会将会越来越不宽容，对外国人，对性少数的社会宽容度也不会比现在更好\n可能这就是21世纪，更年轻的人群并不意味着更开放的思想"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "电波系中央空调；MtX&泛性恋&ASD&（隐藏属性）&CPTSD，性别/身材焦虑；od、自伤の新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；期待大家扩列互fo😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241,
+          "following_count": 931,
+          "like_count": 3159,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 734
+        },
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-08T12:06:04.000Z",
+        "description": "🇨🇳\n你好👋",
+        "id": "1843623844982206466",
+        "name": "雲",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048847687492231168/5sBErWam_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 23,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 163
+        },
+        "username": "Sledge230282",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-29T13:29:13.000Z",
+        "description": "│🏳️‍⚧️MtX│🇺🇳🇪🇺🇺🇦🇵🇸│现代化、进步主义和理性│认同“自由的专制主义”│请坚定不移的拥护胡春华路线│时而嘴臭的温家宝梦男/女",
+        "id": "1851254945984741376",
+        "location": "家住北京中南海",
+        "name": "我早就不是建制派了",
+        "pinned_tweet_id": "2047530512928198939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951149350907944964/a9pbadi4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1259,
+          "following_count": 360,
+          "like_count": 19995,
+          "listed_count": 6,
+          "media_count": 1088,
+          "tweet_count": 8881
+        },
+        "username": "LastExeX01",
+        "verified": false
+      }
+    ]
+  }
+}

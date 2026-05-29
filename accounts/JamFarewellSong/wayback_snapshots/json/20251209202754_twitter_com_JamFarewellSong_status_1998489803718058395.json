@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1997515316172312576"
+      ],
+      "media_source_tweet_id": [
+        "1997515323273351534"
+      ]
+    },
+    "author_id": "1907414826101669888",
+    "conversation_id": "1998489803718058395",
+    "created_at": "2025-12-09T20:27:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-09T21:27:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998489803718058395"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1992467730176565248",
+          "start": 3,
+          "username": "sugarofAzathoth"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AnLokZHNQ2",
+          "end": 77,
+          "expanded_url": "https://x.com/sugarofAzathoth/status/1997515323273351534/photo/1",
+          "media_key": "3_1997515316172312576",
+          "start": 54,
+          "url": "https://t.co/AnLokZHNQ2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998489803718058395",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 169
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997515323273351534",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sugarofAzathoth: 我们粉红内网一堆种族歧视看不见，上外网听个“支那”就说别人乳化了 https://t.co/AnLokZHNQ2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 392,
+        "media_key": "3_1997515316172312576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7iZmMXaUAALEq6.jpg",
+        "width": 400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1997515316172312576"
+          ],
+          "media_source_tweet_id": [
+            "1997515323273351534"
+          ]
+        },
+        "author_id": "1907414826101669888",
+        "conversation_id": "1998489803718058395",
+        "created_at": "2025-12-09T20:27:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T21:27:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998489803718058395"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1992467730176565248",
+              "start": 3,
+              "username": "sugarofAzathoth"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AnLokZHNQ2",
+              "end": 77,
+              "expanded_url": "https://x.com/sugarofAzathoth/status/1997515323273351534/photo/1",
+              "media_key": "3_1997515316172312576",
+              "start": 54,
+              "url": "https://t.co/AnLokZHNQ2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998489803718058395",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 169
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997515323273351534",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sugarofAzathoth: 我们粉红内网一堆种族歧视看不见，上外网听个“支那”就说别人乳化了 https://t.co/AnLokZHNQ2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1997515316172312576"
+          ]
+        },
+        "author_id": "1992467730176565248",
+        "conversation_id": "1997515323273351534",
+        "created_at": "2025-12-07T03:55:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-07T04:55:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997515323273351534"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AnLokZHNQ2",
+              "end": 56,
+              "expanded_url": "https://x.com/sugarofAzathoth/status/1997515323273351534/photo/1",
+              "media_key": "3_1997515316172312576",
+              "start": 33,
+              "url": "https://t.co/AnLokZHNQ2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997515323273351534",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 123,
+          "impression_count": 126574,
+          "like_count": 2456,
+          "quote_count": 6,
+          "reply_count": 124,
+          "retweet_count": 169
+        },
+        "reply_settings": "everyone",
+        "text": "我们粉红内网一堆种族歧视看不见，上外网听个“支那”就说别人乳化了 https://t.co/AnLokZHNQ2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "",
+        "id": "1907414826101669888",
+        "name": "Jam Farewell Song",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907415117874253824/L2WK8HRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 107,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 25
+        },
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-23T05:38:41.000Z",
+        "description": "指點江山 激揚文字 糞土當年萬戶侯（该账号被马一龙限制，暂时用@glucoseAzathoth 活动）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 31,
+                "username": "glucoseAzathoth"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "google.com.sg",
+                "end": 23,
+                "expanded_url": "http://google.com.sg",
+                "start": 0,
+                "url": "https://t.co/8kpCY84ADm"
+              }
+            ]
+          }
+        },
+        "id": "1992467730176565248",
+        "location": "R’lyeh",
+        "name": "Suaz glctos(被马一龙限制中）",
+        "pinned_tweet_id": "1997864639976309084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997302037944627200/F4mGNbtC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 442,
+          "following_count": 276,
+          "like_count": 3937,
+          "listed_count": 5,
+          "media_count": 82,
+          "tweet_count": 573
+        },
+        "url": "https://t.co/8kpCY84ADm",
+        "username": "sugarofAzathoth",
+        "verified": false
+      }
+    ]
+  }
+}

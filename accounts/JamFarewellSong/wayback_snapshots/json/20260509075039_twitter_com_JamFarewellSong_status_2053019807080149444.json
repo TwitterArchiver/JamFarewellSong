@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2053019807080149444",
+    "created_at": "2026-05-09T07:50:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T08:50:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053019807080149444"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1671372665402060801",
+          "start": 3,
+          "username": "HomerArcinoma"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053019807080149444",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052370387271315536",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HomerArcinoma: 💀💀💀💀💀💀💀💀\nWho else gets that feeling of *redemption* when I open your X notifications and see that a strange human has se…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2052370372654206980",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHt7-uGXEAQkOFm.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2053019807080149444",
+        "created_at": "2026-05-09T07:50:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T08:50:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053019807080149444"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1671372665402060801",
+              "start": 3,
+              "username": "HomerArcinoma"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053019807080149444",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052370387271315536",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HomerArcinoma: 💀💀💀💀💀💀💀💀\nWho else gets that feeling of *redemption* when I open your X notifications and see that a strange human has se…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052370372654206980"
+          ]
+        },
+        "author_id": "1671372665402060801",
+        "conversation_id": "2052370387271315536",
+        "created_at": "2026-05-07T12:50:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T13:50:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052370387271315536"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/D0U2jBxxbS",
+              "end": 161,
+              "expanded_url": "https://x.com/HomerArcinoma/status/2052370387271315536/photo/1",
+              "media_key": "3_2052370372654206980",
+              "start": 138,
+              "url": "https://t.co/D0U2jBxxbS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052370387271315536",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "💀💀💀💀💀💀💀💀\nWho else gets that feeling of *redemption* when I open your X notifications and see that a strange human has sent me a HellMari? https://t.co/D0U2jBxxbS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od、自伤の新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 255,
+          "following_count": 947,
+          "like_count": 3330,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 785
+        },
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-21T04:21:34.000Z",
+        "description": "I'm Homer, a Homo sapiens who is obsessed with BIOLOGY, paleontology, philosophy, psychology and psychoactive substance EXPERIMENT.\nLong Live FREEDOM",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/homerarcinoma",
+                "end": 23,
+                "expanded_url": "https://t.me/homerarcinoma",
+                "start": 0,
+                "url": "https://t.co/XbJ5nuJV6A"
+              }
+            ]
+          }
+        },
+        "id": "1671372665402060801",
+        "location": "Earth",
+        "name": "Homer Arcinoma",
+        "pinned_tweet_id": "2038192962186944535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004355049632284672/Aopr2_bC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 148,
+          "like_count": 10999,
+          "listed_count": 1,
+          "media_count": 182,
+          "tweet_count": 1173
+        },
+        "url": "https://t.co/XbJ5nuJV6A",
+        "username": "HomerArcinoma",
+        "verified": true
+      }
+    ]
+  }
+}

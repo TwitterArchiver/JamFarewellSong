@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2041758999633391974",
+    "created_at": "2026-04-08T06:04:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T07:04:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041758999633391974"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "803813847161155584",
+          "start": 3,
+          "username": "asukad13"
+        },
+        {
+          "end": 30,
+          "id": "1852895432269234176",
+          "start": 14,
+          "username": "432Ifantrygroup"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041758999633391974",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040924264573153281",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @asukad13: @432Ifantrygroup 这条底下有不少看到这个历史事实的第一反应是“同性恋关一起会有乱交”这样的回应，意味着基督教价值观下的“同性恋是反道德性关系”的价值判断彻底融入进现代性中（当然现代性本身就很基督教价值），真实的同性间关系和最基础的感情…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2041758999633391974",
+        "created_at": "2026-04-08T06:04:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T07:04:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041758999633391974"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "803813847161155584",
+              "start": 3,
+              "username": "asukad13"
+            },
+            {
+              "end": 30,
+              "id": "1852895432269234176",
+              "start": 14,
+              "username": "432Ifantrygroup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041758999633391974",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040924264573153281",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @asukad13: @432Ifantrygroup 这条底下有不少看到这个历史事实的第一反应是“同性恋关一起会有乱交”这样的回应，意味着基督教价值观下的“同性恋是反道德性关系”的价值判断彻底融入进现代性中（当然现代性本身就很基督教价值），真实的同性间关系和最基础的感情…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "803813847161155584",
+        "conversation_id": "2040480158122119593",
+        "created_at": "2026-04-05T22:47:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T23:47:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040924264573153281"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1852895432269234176",
+              "start": 0,
+              "username": "432Ifantrygroup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040924264573153281",
+        "in_reply_to_user_id": "1852895432269234176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 4464,
+          "like_count": 26,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040480158122119593",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@432Ifantrygroup 这条底下有不少看到这个历史事实的第一反应是“同性恋关一起会有乱交”这样的回应，意味着基督教价值观下的“同性恋是反道德性关系”的价值判断彻底融入进现代性中（当然现代性本身就很基督教价值），真实的同性间关系和最基础的感情联系，在很多人看来依然是“同性恋”这个词不配拥有的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "电波系中央空调；MtX&泛性恋&ASD&（隐藏属性）&CPTSD，性别/身材焦虑；od、自伤の新手；文娱杂食党，Gore爱好者；期待大家扩列互fo😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 649,
+          "like_count": 1448,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 258
+        },
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2016-11-30T04:12:10.000Z",
+        "description": "悪鬼ト高下ヲ争イ、覇王ニ寸分モ譲ラズ",
+        "id": "803813847161155584",
+        "location": "上海, 中华人民共和国",
+        "name": "峯込御貴",
+        "pinned_tweet_id": "1825479733385326944",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1439901747565060096/vjO7fF39_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 198,
+          "following_count": 5196,
+          "like_count": 2990,
+          "listed_count": 4,
+          "media_count": 108,
+          "tweet_count": 3013
+        },
+        "username": "asukad13",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2041499030333919302",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 437,
+          "following_count": 2863,
+          "like_count": 20630,
+          "listed_count": 0,
+          "media_count": 219,
+          "tweet_count": 5414
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      }
+    ]
+  }
+}

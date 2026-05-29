@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2039703495746744643",
+    "created_at": "2026-04-02T13:56:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T14:56:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2039703495746744643"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Snow_Xue_/stat…",
+          "end": 55,
+          "expanded_url": "https://twitter.com/Snow_Xue_/status/2038887253641244714",
+          "start": 32,
+          "url": "https://t.co/EfH9IOmkcg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039703495746744643",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038887253641244714",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这是我们跨圈著名神（明）（大）人n55，你敢和ta对视三秒吗😇 https://t.co/EfH9IOmkcg"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20881,
+        "height": 1280,
+        "media_key": "7_2038886797082787840",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2038886797082787840/pu/img/UYY3IYz5lpgK7IOx.jpg",
+        "public_metrics": {
+          "view_count": 34633
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2038886797082787840/pu/vid/avc1/320x568/qB00R4pfAVgxTxUq.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2038886797082787840/pu/vid/avc1/480x852/qp3oqqtaeI63-QEK.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2038886797082787840/pu/vid/avc1/720x1280/MGzBxk7yqmbMXAn2.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2038886797082787840/pu/pl/zzuLrKvjyaFo-SUV.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 21150,
+        "height": 1280,
+        "media_key": "7_2038886962187366400",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2038886962187366400/pu/img/Q7oc9c8p1fXMq6lU.jpg",
+        "public_metrics": {
+          "view_count": 4238
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2038886962187366400/pu/vid/avc1/320x568/rx_BFrM5GWXMcQgf.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2038886962187366400/pu/vid/avc1/480x852/k9vm8MOj4hgU7_kq.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2038886962187366400/pu/vid/avc1/720x1280/p_ZR_QB3-fkrSEQr.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2038886962187366400/pu/pl/--ubRfLIWtcnd5vI.m3u8?tag=12&v=4c2"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2039703495746744643",
+        "created_at": "2026-04-02T13:56:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T14:56:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039703495746744643"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Snow_Xue_/stat…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/Snow_Xue_/status/2038887253641244714",
+              "start": 32,
+              "url": "https://t.co/EfH9IOmkcg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039703495746744643",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038887253641244714",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这是我们跨圈著名神（明）（大）人n55，你敢和ta对视三秒吗😇 https://t.co/EfH9IOmkcg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2038886797082787840",
+            "7_2038886962187366400"
+          ]
+        },
+        "author_id": "1885154179922227200",
+        "conversation_id": "2038887253641244714",
+        "created_at": "2026-03-31T07:52:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T08:52:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038887253641244714"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/G3NHajrHGF",
+              "end": 31,
+              "expanded_url": "https://x.com/Snow_Xue_/status/2038887253641244714/video/1",
+              "media_key": "7_2038886797082787840",
+              "start": 8,
+              "url": "https://t.co/G3NHajrHGF"
+            },
+            {
+              "display_url": "pic.x.com/G3NHajrHGF",
+              "end": 31,
+              "expanded_url": "https://x.com/Snow_Xue_/status/2038887253641244714/video/1",
+              "media_key": "7_2038886962187366400",
+              "start": 8,
+              "url": "https://t.co/G3NHajrHGF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038887253641244714",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 106,
+          "impression_count": 108424,
+          "like_count": 430,
+          "quote_count": 34,
+          "reply_count": 95,
+          "retweet_count": 34
+        },
+        "reply_settings": "everyone",
+        "text": "n55虚空舞萌 https://t.co/G3NHajrHGF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "电波系中央空调；MtX&泛性恋&ASD&（隐藏属性）&CPTSD，性别/身材焦虑；od、自伤の新手；文娱杂食党，Gore爱好者；期待大家扩列互fo😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 355,
+          "like_count": 322,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 93
+        },
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-31T02:32:51.000Z",
+        "description": "普通的上海入 | hrt2025.11.11 🍥 |",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/snow_xue_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/snow_xue_",
+                "start": 0,
+                "url": "https://t.co/UJzajXA6Cp"
+              }
+            ]
+          }
+        },
+        "id": "1885154179922227200",
+        "location": "上海",
+        "name": "雪🍥",
+        "pinned_tweet_id": "2039637958161289350",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014003117520748544/Yng-qPnv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1931,
+          "following_count": 1399,
+          "like_count": 47217,
+          "listed_count": 3,
+          "media_count": 660,
+          "tweet_count": 4753
+        },
+        "url": "https://t.co/UJzajXA6Cp",
+        "username": "Snow_Xue_",
+        "verified": false
+      }
+    ]
+  }
+}

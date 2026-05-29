@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049649665101242368"
+      ],
+      "media_source_tweet_id": [
+        "2049649673221419332"
+      ]
+    },
+    "author_id": "1907414826101669888",
+    "conversation_id": "2052643578585981073",
+    "created_at": "2026-05-08T06:55:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T07:55:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052643578585981073"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1823160336691982336",
+          "start": 3,
+          "username": "Hozheganma"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/sc7dB4aygE",
+          "end": 39,
+          "expanded_url": "https://x.com/Hozheganma/status/2049649673221419332/photo/1",
+          "media_key": "3_2049649665101242368",
+          "start": 16,
+          "url": "https://t.co/sc7dB4aygE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052643578585981073",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049649673221419332",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Hozheganma: https://t.co/sc7dB4aygE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2049649665101242368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHHRgspboAAqWiE.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049649665101242368"
+          ],
+          "media_source_tweet_id": [
+            "2049649673221419332"
+          ]
+        },
+        "author_id": "1907414826101669888",
+        "conversation_id": "2052643578585981073",
+        "created_at": "2026-05-08T06:55:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T07:55:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052643578585981073"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1823160336691982336",
+              "start": 3,
+              "username": "Hozheganma"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sc7dB4aygE",
+              "end": 39,
+              "expanded_url": "https://x.com/Hozheganma/status/2049649673221419332/photo/1",
+              "media_key": "3_2049649665101242368",
+              "start": 16,
+              "url": "https://t.co/sc7dB4aygE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052643578585981073",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049649673221419332",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Hozheganma: https://t.co/sc7dB4aygE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049649665101242368"
+          ]
+        },
+        "author_id": "1823160336691982336",
+        "conversation_id": "2049649673221419332",
+        "created_at": "2026-04-30T00:38:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T01:38:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049649673221419332"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sc7dB4aygE",
+              "end": 23,
+              "expanded_url": "https://x.com/Hozheganma/status/2049649673221419332/photo/1",
+              "media_key": "3_2049649665101242368",
+              "start": 0,
+              "url": "https://t.co/sc7dB4aygE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049649673221419332",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2656,
+          "like_count": 53,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/sc7dB4aygE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "电波系中央空调；MtX&泛性恋&ASD&（隐藏属性）&CPTSD，性别/身材焦虑；od、自伤の新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；期待大家扩列互fo😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 251,
+          "following_count": 942,
+          "like_count": 3293,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 768
+        },
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-13T00:51:44.000Z",
+        "description": "高中在读/重度play游戏🎮中../oder🚬/无戒断之人😇/自伤/友跨/durg&set/同类互fo/无政府主义/q我：https://t.co/cNzWslTT8R",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lingganmogu",
+                "end": 84,
+                "expanded_url": "https://ngl.link/lingganmogu",
+                "start": 61,
+                "url": "https://t.co/cNzWslTT8R"
+              }
+            ]
+          }
+        },
+        "id": "1823160336691982336",
+        "location": "Highland.No-1",
+        "name": "沫依#Ng♓️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991569214524805120/tUZ2PIpI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 267,
+          "following_count": 356,
+          "like_count": 1292,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 485
+        },
+        "username": "Hozheganma",
+        "verified": false
+      }
+    ]
+  }
+}

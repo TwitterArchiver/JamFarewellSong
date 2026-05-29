@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2046215728819515656",
+    "created_at": "2026-04-22T07:46:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T08:46:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046858267062866379"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2042859706142601216",
+          "start": 0,
+          "username": "TankcheOuO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046858267062866379",
+    "in_reply_to_user_id": "2042859706142601216",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046215728819515656",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TankcheOuO 娜娜policewoman可爱捏😈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2046215728819515656",
+        "created_at": "2026-04-22T07:46:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T08:46:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046858267062866379"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2042859706142601216",
+              "start": 0,
+              "username": "TankcheOuO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046858267062866379",
+        "in_reply_to_user_id": "2042859706142601216",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046215728819515656",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TankcheOuO 娜娜policewoman可爱捏😈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042859706142601216",
+        "conversation_id": "2046215728819515656",
+        "created_at": "2026-04-20T13:13:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T14:13:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046215728819515656"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Sunset__3000/s…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/Sunset__3000/status/2046091541975109749",
+              "start": 4,
+              "url": "https://t.co/F7R38F7p9d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046215728819515656",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 74,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046091541975109749",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "愤怒喵 https://t.co/F7R38F7p9d"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "电波系中央空调；MtX&泛性恋&ASD&（隐藏属性）&CPTSD，性别/身材焦虑；od、自伤の新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；期待大家扩列互fo😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 206,
+          "following_count": 864,
+          "like_count": 2941,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 648
+        },
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-11T06:58:14.000Z",
+        "description": "幽暗的、深邃的、家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+NGZgHLdad28xZ…",
+                "end": 23,
+                "expanded_url": "http://t.me/+NGZgHLdad28xZWJl",
+                "start": 0,
+                "url": "https://t.co/et1GI6cQ9l"
+              }
+            ]
+          }
+        },
+        "id": "2042859706142601216",
+        "name": "坦克姬🎗",
+        "pinned_tweet_id": "2042861236908626197",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042860345832935425/WHafROeV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 101,
+          "like_count": 892,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 35
+        },
+        "url": "https://t.co/et1GI6cQ9l",
+        "username": "TankcheOuO",
+        "verified": false
+      }
+    ]
+  }
+}

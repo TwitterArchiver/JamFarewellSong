@@ -1,0 +1,401 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049864852039233536",
+        "3_2049865032109015040",
+        "3_2049865168751095808",
+        "3_2049865515137662976"
+      ],
+      "media_source_tweet_id": [
+        "2049866834292391999",
+        "2049866834292391999",
+        "2049866834292391999",
+        "2049866834292391999"
+      ]
+    },
+    "author_id": "1907414826101669888",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2051764493672419591",
+    "created_at": "2026-05-05T20:42:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T21:42:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051764493672419591"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1831350388861345793",
+          "start": 3,
+          "username": "Hiime0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YYUlaSQenN",
+          "end": 60,
+          "expanded_url": "https://x.com/Hiime0/status/2049866834292391999/photo/1",
+          "media_key": "3_2049864852039233536",
+          "start": 37,
+          "url": "https://t.co/YYUlaSQenN"
+        },
+        {
+          "display_url": "pic.x.com/YYUlaSQenN",
+          "end": 60,
+          "expanded_url": "https://x.com/Hiime0/status/2049866834292391999/photo/1",
+          "media_key": "3_2049865032109015040",
+          "start": 37,
+          "url": "https://t.co/YYUlaSQenN"
+        },
+        {
+          "display_url": "pic.x.com/YYUlaSQenN",
+          "end": 60,
+          "expanded_url": "https://x.com/Hiime0/status/2049866834292391999/photo/1",
+          "media_key": "3_2049865168751095808",
+          "start": 37,
+          "url": "https://t.co/YYUlaSQenN"
+        },
+        {
+          "display_url": "pic.x.com/YYUlaSQenN",
+          "end": 60,
+          "expanded_url": "https://x.com/Hiime0/status/2049866834292391999/photo/1",
+          "media_key": "3_2049865515137662976",
+          "start": 37,
+          "url": "https://t.co/YYUlaSQenN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051764493672419591",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049866834292391999",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Hiime0: 中華藥娘大學入學檢定考試（\n欢迎姐姐们留下答案💕 https://t.co/YYUlaSQenN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1111,
+        "media_key": "3_2049864852039233536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHKVOOdbcAA8u3p.png",
+        "width": 852
+      },
+      {
+        "height": 1103,
+        "media_key": "3_2049865032109015040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHKVYtRaQAAlvZY.png",
+        "width": 863
+      },
+      {
+        "height": 1107,
+        "media_key": "3_2049865168751095808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHKVgqTa8AAEISK.png",
+        "width": 867
+      },
+      {
+        "height": 1000,
+        "media_key": "3_2049865515137662976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHKV00sagAAksP2.jpg",
+        "width": 1800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049864852039233536",
+            "3_2049865032109015040",
+            "3_2049865168751095808",
+            "3_2049865515137662976"
+          ],
+          "media_source_tweet_id": [
+            "2049866834292391999",
+            "2049866834292391999",
+            "2049866834292391999",
+            "2049866834292391999"
+          ]
+        },
+        "author_id": "1907414826101669888",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2051764493672419591",
+        "created_at": "2026-05-05T20:42:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T21:42:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051764493672419591"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1831350388861345793",
+              "start": 3,
+              "username": "Hiime0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YYUlaSQenN",
+              "end": 60,
+              "expanded_url": "https://x.com/Hiime0/status/2049866834292391999/photo/1",
+              "media_key": "3_2049864852039233536",
+              "start": 37,
+              "url": "https://t.co/YYUlaSQenN"
+            },
+            {
+              "display_url": "pic.x.com/YYUlaSQenN",
+              "end": 60,
+              "expanded_url": "https://x.com/Hiime0/status/2049866834292391999/photo/1",
+              "media_key": "3_2049865032109015040",
+              "start": 37,
+              "url": "https://t.co/YYUlaSQenN"
+            },
+            {
+              "display_url": "pic.x.com/YYUlaSQenN",
+              "end": 60,
+              "expanded_url": "https://x.com/Hiime0/status/2049866834292391999/photo/1",
+              "media_key": "3_2049865168751095808",
+              "start": 37,
+              "url": "https://t.co/YYUlaSQenN"
+            },
+            {
+              "display_url": "pic.x.com/YYUlaSQenN",
+              "end": 60,
+              "expanded_url": "https://x.com/Hiime0/status/2049866834292391999/photo/1",
+              "media_key": "3_2049865515137662976",
+              "start": 37,
+              "url": "https://t.co/YYUlaSQenN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051764493672419591",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049866834292391999",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Hiime0: 中華藥娘大學入學檢定考試（\n欢迎姐姐们留下答案💕 https://t.co/YYUlaSQenN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049864852039233536",
+            "3_2049865032109015040",
+            "3_2049865168751095808",
+            "3_2049865515137662976"
+          ]
+        },
+        "author_id": "1831350388861345793",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2049866834292391999",
+        "created_at": "2026-04-30T15:01:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T16:01:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049866834292391999"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YYUlaSQenN",
+              "end": 48,
+              "expanded_url": "https://x.com/Hiime0/status/2049866834292391999/photo/1",
+              "media_key": "3_2049864852039233536",
+              "start": 25,
+              "url": "https://t.co/YYUlaSQenN"
+            },
+            {
+              "display_url": "pic.x.com/YYUlaSQenN",
+              "end": 48,
+              "expanded_url": "https://x.com/Hiime0/status/2049866834292391999/photo/1",
+              "media_key": "3_2049865032109015040",
+              "start": 25,
+              "url": "https://t.co/YYUlaSQenN"
+            },
+            {
+              "display_url": "pic.x.com/YYUlaSQenN",
+              "end": 48,
+              "expanded_url": "https://x.com/Hiime0/status/2049866834292391999/photo/1",
+              "media_key": "3_2049865168751095808",
+              "start": 25,
+              "url": "https://t.co/YYUlaSQenN"
+            },
+            {
+              "display_url": "pic.x.com/YYUlaSQenN",
+              "end": 48,
+              "expanded_url": "https://x.com/Hiime0/status/2049866834292391999/photo/1",
+              "media_key": "3_2049865515137662976",
+              "start": 25,
+              "url": "https://t.co/YYUlaSQenN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049866834292391999",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 49,
+          "impression_count": 17337,
+          "like_count": 109,
+          "quote_count": 3,
+          "reply_count": 11,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "中華藥娘大學入學檢定考試（\n欢迎姐姐们留下答案💕 https://t.co/YYUlaSQenN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "电波系中央空调；MtX&泛性恋&ASD&（隐藏属性）&CPTSD，性别/身材焦虑；od、自伤の新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；期待大家扩列互fo😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241,
+          "following_count": 933,
+          "like_count": 3176,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 740
+        },
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-04T15:15:42.000Z",
+        "description": "黑色的荆棘扼住她的咽喉，永恒的夜消融了她的心脏。沉溺在“等待”中的她呀，总有一天，白霜般的月光会洒满你遍体鳞伤的娇躯，把你变成殿堂上转着裙摆的女孩。\n【详情见置顶帖】\n希望能交到好朋友喵！欢迎私信；🏳️‍⚧️Transbian；HRT26.03.26",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Hiime0",
+                "end": 23,
+                "expanded_url": "http://t.me/Hiime0",
+                "start": 0,
+                "url": "https://t.co/nKdFGtLRKc"
+              }
+            ]
+          }
+        },
+        "id": "1831350388861345793",
+        "location": "東京湾",
+        "name": "𝐻𝒾𝒾𝓂𝑒 🍡🍥",
+        "pinned_tweet_id": "2051711268332134706",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046174460609503232/mDQ1pUpH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 515,
+          "following_count": 234,
+          "like_count": 488,
+          "listed_count": 2,
+          "media_count": 96,
+          "tweet_count": 517
+        },
+        "url": "https://t.co/nKdFGtLRKc",
+        "username": "Hiime0",
+        "verified": true
+      }
+    ]
+  }
+}

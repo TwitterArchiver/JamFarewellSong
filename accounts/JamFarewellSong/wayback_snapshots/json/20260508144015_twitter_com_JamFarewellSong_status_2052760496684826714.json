@@ -1,0 +1,561 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      }
+    ],
+    "conversation_id": "2052760496684826714",
+    "created_at": "2026-05-08T14:40:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T15:40:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052760496684826714"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "226233337",
+          "start": 3,
+          "username": "dwarf_inc"
+        }
+      ],
+      "urls": [
+        {
+          "description": "54 likes, 1 comment. \"TVアニメ『NEEDY GIRL OVERDOSE』ショートアニメ Vol.1\"",
+          "display_url": "youtu.be/MFV4QJJQY6U?si…",
+          "end": 100,
+          "expanded_url": "https://youtu.be/MFV4QJJQY6U?si=hQpeLX80PL0IsVXT",
+          "images": [
+            {
+              "height": 720,
+              "url": "https://pbs.twimg.com/news_img/2050607542775197697/3CM6ylgk?format=jpg&name=orig",
+              "width": 1280
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2050607542775197697/3CM6ylgk?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 77,
+          "status": 200,
+          "title": "アニプレックス チャンネル",
+          "unwound_url": "https://www.youtube.com/watch?si=hQpeLX80PL0IsVXT&v=MFV4QJJQY6U&feature=youtu.be",
+          "url": "https://t.co/SdMCzm7jj1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052760496684826714",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 357
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052335131545989423",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dwarf_inc: TVアニメ『NEEDY GIRL OVERDOSE』ショートアニメ Vol. 1 メイキング第一弾！\n本編はYotubeで\nhttps://t.co/SdMCzm7jj1\n\nTV Anime “NEEDY GIRL OVERDOSE” Short…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 18304,
+        "height": 1920,
+        "media_key": "13_2052330537864634368",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2052330537864634368/img/iIJ227lPHNwQwMmB.jpg",
+        "public_metrics": {
+          "view_count": 11886
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2052330537864634368/vid/avc1/720x1280/4JHVquxL--0Ncqmd.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2052330537864634368/vid/avc1/1080x1920/MpKnxL3_1wgUhXUo.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2052330537864634368/vid/avc1/480x852/nNMWQTtcTBxXnQ8u.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2052330537864634368/pl/Ak8YJCGDUt04doT5.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2052330537864634368/vid/avc1/320x568/MwwCzqReYdqoTx-i.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "2052760496684826714",
+        "created_at": "2026-05-08T14:40:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T15:40:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052760496684826714"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "226233337",
+              "start": 3,
+              "username": "dwarf_inc"
+            }
+          ],
+          "urls": [
+            {
+              "description": "54 likes, 1 comment. \"TVアニメ『NEEDY GIRL OVERDOSE』ショートアニメ Vol.1\"",
+              "display_url": "youtu.be/MFV4QJJQY6U?si…",
+              "end": 100,
+              "expanded_url": "https://youtu.be/MFV4QJJQY6U?si=hQpeLX80PL0IsVXT",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/2050607542775197697/3CM6ylgk?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2050607542775197697/3CM6ylgk?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 77,
+              "status": 200,
+              "title": "アニプレックス チャンネル",
+              "unwound_url": "https://www.youtube.com/watch?si=hQpeLX80PL0IsVXT&v=MFV4QJJQY6U&feature=youtu.be",
+              "url": "https://t.co/SdMCzm7jj1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052760496684826714",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 357
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052335131545989423",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dwarf_inc: TVアニメ『NEEDY GIRL OVERDOSE』ショートアニメ Vol. 1 メイキング第一弾！\n本編はYotubeで\nhttps://t.co/SdMCzm7jj1\n\nTV Anime “NEEDY GIRL OVERDOSE” Short…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2052330537864634368"
+          ]
+        },
+        "author_id": "226233337",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1339352442350125056",
+              "name": "Animation directors, producers, & writers"
+            }
+          }
+        ],
+        "conversation_id": "2052335131545989423",
+        "created_at": "2026-05-07T10:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T11:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052335131545989423"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "54 likes, 1 comment. \"TVアニメ『NEEDY GIRL OVERDOSE』ショートアニメ Vol.1\"",
+              "display_url": "youtu.be/MFV4QJJQY6U?si…",
+              "end": 85,
+              "expanded_url": "https://youtu.be/MFV4QJJQY6U?si=hQpeLX80PL0IsVXT",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/2050607542775197697/3CM6ylgk?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2050607542775197697/3CM6ylgk?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 62,
+              "status": 200,
+              "title": "アニプレックス チャンネル",
+              "unwound_url": "https://www.youtube.com/watch?si=hQpeLX80PL0IsVXT&v=MFV4QJJQY6U&feature=youtu.be",
+              "url": "https://t.co/SdMCzm7jj1"
+            },
+            {
+              "display_url": "pic.x.com/stVj6E7Aby",
+              "end": 273,
+              "expanded_url": "https://x.com/dwarf_inc/status/2052335131545989423/video/1",
+              "media_key": "13_2052330537864634368",
+              "start": 250,
+              "url": "https://t.co/stVj6E7Aby"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052335131545989423",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 504,
+                "start": 486,
+                "tag": "needygirloverdose"
+              },
+              {
+                "end": 510,
+                "start": 505,
+                "tag": "ニディガ"
+              },
+              {
+                "end": 518,
+                "start": 511,
+                "tag": "超てんちゃん"
+              },
+              {
+                "end": 539,
+                "start": 519,
+                "tag": "stopmotionanimation"
+              },
+              {
+                "end": 555,
+                "start": 540,
+                "tag": "shortanimation"
+              },
+              {
+                "end": 560,
+                "start": 556,
+                "tag": "BTS"
+              },
+              {
+                "end": 577,
+                "start": 561,
+                "tag": "behindthescenes"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "youtu.be/MFV4QJJQY6U?si…",
+                "end": 85,
+                "expanded_url": "https://youtu.be/MFV4QJJQY6U?si=hQpeLX80PL0IsVXT",
+                "start": 62,
+                "url": "https://t.co/2LCbUjVmGB"
+              }
+            ]
+          },
+          "text": "TVアニメ『NEEDY GIRL OVERDOSE』ショートアニメ Vol. 1 メイキング第一弾！\n本編はYotubeで\nhttps://t.co/2LCbUjVmGB\n\nTV Anime “NEEDY GIRL OVERDOSE” Short Animation Vol. 1   Behind the Scenes — Part 1!\n\n-------------------------------\n【CREDIT】\nDirector：Kano Ikeda\nDP：Yuki Sukegawa\nCamera dept. Assist.：Hana Shiratori\nGrip：Aoto Kato\nStop-motion Animator：Rikuto Konagaya \nPuppet dept. Assist：Koichi Furuya\nEditor：Makoto Hoashi \nProducer：Noriko Matsumoto, Mizuki Watanabe(studio ALBLE)\nProduction Company：dwarf studios\n\n#needygirloverdose #ニディガ #超てんちゃん #stopmotionanimation #shortanimation #BTS #behindthescenes🎬"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 214,
+          "impression_count": 34289,
+          "like_count": 1792,
+          "quote_count": 7,
+          "reply_count": 2,
+          "retweet_count": 357
+        },
+        "reply_settings": "everyone",
+        "text": "TVアニメ『NEEDY GIRL OVERDOSE』ショートアニメ Vol. 1 メイキング第一弾！\n本編はYotubeで\nhttps://t.co/SdMCzm7jj1\n\nTV Anime “NEEDY GIRL OVERDOSE” Short Animation Vol. 1   Behind the Scenes — Part 1!\n\n-------------------------------\n【CREDIT】\nDirector：Kano Ikeda\nDP：Yuki Sukegawa https://t.co/stVj6E7Aby"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "电波系中央空调；MtX&泛性恋&ASD&（隐藏属性）&CPTSD，性别/身材焦虑；od、自伤の新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；期待大家扩列互fo😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 252,
+          "following_count": 939,
+          "like_count": 3305,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 777
+        },
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2010-12-13T17:21:43.000Z",
+        "description": "キャラクター開発と #コマ撮り アニメーションを制作するドワーフのXアカウントです。Stop motion studio, dwarf’s official account. #ポケモンコンシェルジュ #リラックマとカオルさん #どーもくん #こまねこ #ミドすけ など。お仕事のお問い合わせはホームページへ✨",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 15,
+                "start": 10,
+                "tag": "コマ撮り"
+              },
+              {
+                "end": 100,
+                "start": 88,
+                "tag": "ポケモンコンシェルジュ"
+              },
+              {
+                "end": 113,
+                "start": 101,
+                "tag": "リラックマとカオルさん"
+              },
+              {
+                "end": 120,
+                "start": 114,
+                "tag": "どーもくん"
+              },
+              {
+                "end": 126,
+                "start": 121,
+                "tag": "こまねこ"
+              },
+              {
+                "end": 132,
+                "start": 127,
+                "tag": "ミドすけ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dw-f.jp",
+                "end": 23,
+                "expanded_url": "https://dw-f.jp",
+                "start": 0,
+                "url": "https://t.co/Z25FMerBi8"
+              }
+            ]
+          }
+        },
+        "id": "226233337",
+        "location": "ドワーフ秋津スタジオ",
+        "name": "dwarf studios",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863395738031673344/01NKpu3h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15045,
+          "following_count": 4353,
+          "like_count": 26113,
+          "listed_count": 156,
+          "media_count": 4134,
+          "tweet_count": 18091
+        },
+        "url": "https://t.co/Z25FMerBi8",
+        "username": "dwarf_inc",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2039698618266107904"
+      ],
+      "media_source_tweet_id": [
+        "2039698632115655097"
+      ]
+    },
+    "author_id": "1907414826101669888",
+    "conversation_id": "2039739434078441667",
+    "created_at": "2026-04-02T16:19:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T17:19:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039739434078441667"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1748555574709792768",
+          "start": 3,
+          "username": "Mdapp12com"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ntpktg3P5L",
+          "end": 132,
+          "expanded_url": "https://x.com/Mdapp12com/status/2039698632115655097/photo/1",
+          "media_key": "3_2039698618266107904",
+          "start": 109,
+          "url": "https://t.co/ntpktg3P5L"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039739434078441667",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039698632115655097",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Mdapp12com: 《关于平台停止运营的公告》\n\n这是一封告别的信。\n\n曾经，我们带着初心启航，在大家的支持下记录下了无数个闪耀的瞬间。我们骄傲于那些精心打磨的原创内容，也感恩于屏幕前你们的每一次停留。… https://t.co/ntpktg3P5L"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 784,
+        "media_key": "3_2039698618266107904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE53FiabQAAJF97.jpg",
+        "width": 1360
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039698618266107904"
+          ],
+          "media_source_tweet_id": [
+            "2039698632115655097"
+          ]
+        },
+        "author_id": "1907414826101669888",
+        "conversation_id": "2039739434078441667",
+        "created_at": "2026-04-02T16:19:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T17:19:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039739434078441667"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1748555574709792768",
+              "start": 3,
+              "username": "Mdapp12com"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ntpktg3P5L",
+              "end": 132,
+              "expanded_url": "https://x.com/Mdapp12com/status/2039698632115655097/photo/1",
+              "media_key": "3_2039698618266107904",
+              "start": 109,
+              "url": "https://t.co/ntpktg3P5L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039739434078441667",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039698632115655097",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Mdapp12com: 《关于平台停止运营的公告》\n\n这是一封告别的信。\n\n曾经，我们带着初心启航，在大家的支持下记录下了无数个闪耀的瞬间。我们骄傲于那些精心打磨的原创内容，也感恩于屏幕前你们的每一次停留。… https://t.co/ntpktg3P5L"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039698618266107904"
+          ]
+        },
+        "author_id": "1748555574709792768",
+        "conversation_id": "2039698632115655097",
+        "created_at": "2026-04-02T13:37:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T14:37:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039698632115655097"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ntpktg3P5L",
+              "end": 115,
+              "expanded_url": "https://x.com/Mdapp12com/status/2039698632115655097/photo/1",
+              "media_key": "3_2039698618266107904",
+              "start": 92,
+              "url": "https://t.co/ntpktg3P5L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039698632115655097",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "《关于平台停止运营的公告》\n\n这是一封告别的信。\n\n曾经，我们带着初心启航，在大家的支持下记录下了无数个闪耀的瞬间。我们骄傲于那些精心打磨的原创内容，也感恩于屏幕前你们的每一次停留。\n\n但前路漫漫，风雨也从未停歇。行业环境的剧变与盗版侵权的无奈，让坚持原创的道路变得异常崎岖。与其在日渐逼仄的空间里妥协，我们更愿意在最美好的时刻体面退场，把最好的一面留在大家的记忆里。\n\n因此，我们决定正式关闭相关服务。这并非一次溃败，而是一场尊重的告别。\n\n很抱歉，只能陪大家走到这里了。感谢你们曾给予的掌声、理解与鼓励。曲终人散，但感谢相遇。愿所有的美好，都在未来与你们不期而遇。"
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 22102,
+          "like_count": 34,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "《关于平台停止运营的公告》\n\n这是一封告别的信。\n\n曾经，我们带着初心启航，在大家的支持下记录下了无数个闪耀的瞬间。我们骄傲于那些精心打磨的原创内容，也感恩于屏幕前你们的每一次停留。 https://t.co/ntpktg3P5L"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "电波系中央空调；MtX&泛性恋&ASD&（隐藏属性）&CPTSD，性别/身材焦虑；od、自伤の新手；文娱杂食党，Gore爱好者；期待大家扩列互fo😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 360,
+          "like_count": 346,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 100
+        },
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-20T03:58:56.000Z",
+        "description": "因行业盗版猖獗、原创内容缺乏版权保护，平台长期入不敷出，决定停止运营。对于一直支持和陪伴我们的用户深感抱歉。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mdapp12.com",
+                "end": 23,
+                "expanded_url": "https://mdapp12.com",
+                "start": 0,
+                "url": "https://t.co/RulQf70ZoB"
+              }
+            ]
+          }
+        },
+        "id": "1748555574709792768",
+        "name": "麻豆-全球官方账号",
+        "pinned_tweet_id": "2039712748049928663",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010937703144230912/txSDt6ky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 224143,
+          "following_count": 5,
+          "like_count": 241,
+          "listed_count": 413,
+          "media_count": 366,
+          "tweet_count": 670
+        },
+        "url": "https://t.co/RulQf70ZoB",
+        "username": "Mdapp12com",
+        "verified": true
+      }
+    ]
+  }
+}

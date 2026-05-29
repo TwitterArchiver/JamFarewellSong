@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2045729616212750824",
+    "created_at": "2026-04-22T07:36:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T08:36:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046855676107100475"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1923721845750329344",
+          "start": 0,
+          "username": "LOUBSIS080"
+        },
+        {
+          "end": 24,
+          "id": "1236317911431536640",
+          "start": 12,
+          "username": "RusndageSNF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046855676107100475",
+    "in_reply_to_user_id": "1923721845750329344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046091368175739184",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LOUBSIS080 @RusndageSNF 这种不需要所谓公序良俗来束缚，自有法律规定。但部分行政、刑事处罚根据公序良俗来判，完全是没有能力还硬要管导致无法可依的懒政行为。何况此地的公序良俗实践不可避免会被保守派拿来猎巫，还不如多多呼吁及时设立更符合科学理性的法律条款"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2045729616212750824",
+        "created_at": "2026-04-22T07:36:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T08:36:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046855676107100475"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1923721845750329344",
+              "start": 0,
+              "username": "LOUBSIS080"
+            },
+            {
+              "end": 24,
+              "id": "1236317911431536640",
+              "start": 12,
+              "username": "RusndageSNF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046855676107100475",
+        "in_reply_to_user_id": "1923721845750329344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046091368175739184",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LOUBSIS080 @RusndageSNF 这种不需要所谓公序良俗来束缚，自有法律规定。但部分行政、刑事处罚根据公序良俗来判，完全是没有能力还硬要管导致无法可依的懒政行为。何况此地的公序良俗实践不可避免会被保守派拿来猎巫，还不如多多呼吁及时设立更符合科学理性的法律条款"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923721845750329344",
+        "conversation_id": "2045729616212750824",
+        "created_at": "2026-04-20T04:59:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T05:59:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046091368175739184"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1236317911431536640",
+              "start": 0,
+              "username": "RusndageSNF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046091368175739184",
+        "in_reply_to_user_id": "1236317911431536640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 62,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045729616212750824",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RusndageSNF 你支持有人大街上拍片吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "电波系中央空调；MtX&泛性恋&ASD&（隐藏属性）&CPTSD，性别/身材焦虑；od、自伤の新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；期待大家扩列互fo😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 206,
+          "following_count": 861,
+          "like_count": 2929,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 642
+        },
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-17T12:46:57.000Z",
+        "description": "",
+        "id": "1923721845750329344",
+        "location": "Hong Kong",
+        "name": "Doumankrose",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045545239335890944/-jF16tAd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 8,
+          "like_count": 15,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 76
+        },
+        "username": "LOUBSIS080",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n详细自介看主页置顶喵～\n头像画师 @deuxexmachina11  头图画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 73,
+                "username": "deuxexmachina11"
+              },
+              {
+                "end": 109,
+                "start": 96,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "2038973419287621846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042291013981782019/DCmVaNLl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2270,
+          "following_count": 1092,
+          "like_count": 29725,
+          "listed_count": 7,
+          "media_count": 575,
+          "tweet_count": 6006
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      }
+    ]
+  }
+}

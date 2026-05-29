@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050398066965114881"
+      ]
+    },
+    "author_id": "1907414826101669888",
+    "conversation_id": "2050399205819293919",
+    "created_at": "2026-05-02T02:17:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T03:17:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050399205819293919"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 71,
+          "id": "2044073101961412609",
+          "start": 56,
+          "username": "crow_kill_snow"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YFJkny7dtS",
+          "end": 95,
+          "expanded_url": "https://x.com/JamFarewellSong/status/2050399205819293919/photo/1",
+          "media_key": "3_2050398066965114881",
+          "start": 72,
+          "url": "https://t.co/YFJkny7dtS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050399205819293919",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "已收到，感谢老师的雪尘🥰🥰\n每颗克重约400mg，没有破损\n\n请等待小雨和果酱两位独立试药人员的测试和报告呐🩷\n@crow_kill_snow https://t.co/YFJkny7dtS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2050398066965114881",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHR6La2acAEkPou.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050398066965114881"
+          ]
+        },
+        "author_id": "1907414826101669888",
+        "conversation_id": "2050399205819293919",
+        "created_at": "2026-05-02T02:17:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T03:17:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050399205819293919"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 71,
+              "id": "2044073101961412609",
+              "start": 56,
+              "username": "crow_kill_snow"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YFJkny7dtS",
+              "end": 95,
+              "expanded_url": "https://x.com/JamFarewellSong/status/2050399205819293919/photo/1",
+              "media_key": "3_2050398066965114881",
+              "start": 72,
+              "url": "https://t.co/YFJkny7dtS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050399205819293919",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "已收到，感谢老师的雪尘🥰🥰\n每颗克重约400mg，没有破损\n\n请等待小雨和果酱两位独立试药人员的测试和报告呐🩷\n@crow_kill_snow https://t.co/YFJkny7dtS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "电波系中央空调；MtX&泛性恋&ASD&（隐藏属性）&CPTSD，性别/身材焦虑；od、自伤の新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；期待大家扩列互fo😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 232,
+          "following_count": 912,
+          "like_count": 3141,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 722
+        },
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-14T15:25:24.000Z",
+        "description": "你的名字是一枚雪\n落在无人认领的墓碑上",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Peckylarding",
+                "end": 23,
+                "expanded_url": "http://t.me/Peckylarding",
+                "start": 0,
+                "url": "https://t.co/D0VrWOdaPF"
+              }
+            ]
+          }
+        },
+        "id": "2044073101961412609",
+        "name": "鸦葬雪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044288804094390274/S4DRM1oY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 126,
+          "like_count": 67,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 21
+        },
+        "url": "https://t.co/D0VrWOdaPF",
+        "username": "crow_kill_snow",
+        "verified": false
+      }
+    ]
+  }
+}

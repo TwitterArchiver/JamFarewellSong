@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2041217838212685967",
+    "created_at": "2026-04-06T18:13:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T19:13:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041217838212685967"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1813085873598263298",
+          "start": 3,
+          "username": "hkwxsl"
+        },
+        {
+          "end": 25,
+          "id": "1808604308163940352",
+          "start": 12,
+          "username": "cici20120712"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041217838212685967",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040281460381507598",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hkwxsl: @cici20120712 所谓三岁看老，我们这边习俗一般是丢一堆小玩具让小孩子抓阄，抓到杯子就会变成直男，抓到strap on就会变成铁梯，抓到郊狼就会变成男娘，左手抓右手就会变成incel…以此类推"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2041217838212685967",
+        "created_at": "2026-04-06T18:13:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T19:13:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041217838212685967"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1813085873598263298",
+              "start": 3,
+              "username": "hkwxsl"
+            },
+            {
+              "end": 25,
+              "id": "1808604308163940352",
+              "start": 12,
+              "username": "cici20120712"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041217838212685967",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040281460381507598",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hkwxsl: @cici20120712 所谓三岁看老，我们这边习俗一般是丢一堆小玩具让小孩子抓阄，抓到杯子就会变成直男，抓到strap on就会变成铁梯，抓到郊狼就会变成男娘，左手抓右手就会变成incel…以此类推"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813085873598263298",
+        "conversation_id": "2040080078974157145",
+        "created_at": "2026-04-04T04:13:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T05:13:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040281460381507598"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1808604308163940352",
+              "start": 0,
+              "username": "cici20120712"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040281460381507598",
+        "in_reply_to_user_id": "1808604308163940352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 7013,
+          "like_count": 54,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040080078974157145",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cici20120712 所谓三岁看老，我们这边习俗一般是丢一堆小玩具让小孩子抓阄，抓到杯子就会变成直男，抓到strap on就会变成铁梯，抓到郊狼就会变成男娘，左手抓右手就会变成incel…以此类推"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "电波系中央空调；MtX&泛性恋&ASD&（隐藏属性）&CPTSD，性别/身材焦虑；od、自伤の新手；文娱杂食党，Gore爱好者；期待大家扩列互fo😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 523,
+          "like_count": 923,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 182
+        },
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-16T05:39:19.000Z",
+        "description": "猫能想明白的事情不多 所以自诩人类观察员好了\n自定义为小动物转发bot\n目前的梦想是考上不错的大学院和女友姐过上幸福的生活0^0",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/akiyama0_?s=21",
+                "end": 23,
+                "expanded_url": "https://x.com/akiyama0_?s=21",
+                "start": 0,
+                "url": "https://t.co/GDMR1LeBnm"
+              }
+            ]
+          }
+        },
+        "id": "1813085873598263298",
+        "name": "好困我先睡了",
+        "pinned_tweet_id": "1998993118587408601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041043241274155008/mBZU1_7T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2697,
+          "following_count": 1338,
+          "like_count": 19942,
+          "listed_count": 5,
+          "media_count": 30,
+          "tweet_count": 2618
+        },
+        "url": "https://t.co/GDMR1LeBnm",
+        "username": "hkwxsl",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-03T20:50:59.000Z",
+        "description": "门槛68zfb口令就行了喵\n底边coser，偶尔会配音或者画画，大部分时间在睡觉，小号@ci20120712",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 43,
+                "username": "ci20120712"
+              }
+            ]
+          }
+        },
+        "id": "1808604308163940352",
+        "name": "魔法少女凛瓷瓷",
+        "pinned_tweet_id": "2006526827796586753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831679763368353792/JCLSUlMG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70140,
+          "following_count": 102,
+          "like_count": 862,
+          "listed_count": 182,
+          "media_count": 732,
+          "tweet_count": 1313
+        },
+        "username": "cici20120712",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2039703688579588579",
+    "created_at": "2026-04-06T08:55:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T09:55:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041077335265542646"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1551042471575973889",
+          "start": 0,
+          "username": "fnoozp"
+        },
+        {
+          "end": 17,
+          "id": "1792933283040284673",
+          "start": 8,
+          "username": "tuamitx0"
+        },
+        {
+          "end": 31,
+          "id": "1468298719447887872",
+          "start": 18,
+          "username": "dviolettchan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041077335265542646",
+    "in_reply_to_user_id": "1551042471575973889",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040022574978273441",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fnoozp @tuamitx0 @dviolettchan 此言有理🤔今天早上刚看了wiki里的相关文章。顺性别没有性别烦躁，HRT的事想想也就过去了。会反反复复地考虑，本身就是一种很“跨儿”的表现了。很多时候人们之所以思考出各种结论用来忽视和压制性别烦躁，是因为在潜意识里已经觉察到这条路的艰难。因此才构建出种种理由，努力试图说服自己"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2039703688579588579",
+        "created_at": "2026-04-06T08:55:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T09:55:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041077335265542646"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1551042471575973889",
+              "start": 0,
+              "username": "fnoozp"
+            },
+            {
+              "end": 17,
+              "id": "1792933283040284673",
+              "start": 8,
+              "username": "tuamitx0"
+            },
+            {
+              "end": 31,
+              "id": "1468298719447887872",
+              "start": 18,
+              "username": "dviolettchan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041077335265542646",
+        "in_reply_to_user_id": "1551042471575973889",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040022574978273441",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fnoozp @tuamitx0 @dviolettchan 此言有理🤔今天早上刚看了wiki里的相关文章。顺性别没有性别烦躁，HRT的事想想也就过去了。会反反复复地考虑，本身就是一种很“跨儿”的表现了。很多时候人们之所以思考出各种结论用来忽视和压制性别烦躁，是因为在潜意识里已经觉察到这条路的艰难。因此才构建出种种理由，努力试图说服自己"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1551042471575973889",
+        "conversation_id": "2039703688579588579",
+        "created_at": "2026-04-03T11:04:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T12:04:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040022574978273441"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1792933283040284673",
+              "start": 0,
+              "username": "tuamitx0"
+            },
+            {
+              "end": 23,
+              "id": "1468298719447887872",
+              "start": 10,
+              "username": "dviolettchan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040022574978273441",
+        "in_reply_to_user_id": "1792933283040284673",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040022018532188480",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tuamitx0 @dviolettchan （"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "电波系中央空调；MtX&泛性恋&ASD&（隐藏属性）&CPTSD，性别/身材焦虑；od、自伤の新手；文娱杂食党，Gore爱好者；期待大家扩列互fo😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 489,
+          "like_count": 655,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 150
+        },
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-24T03:12:27.000Z",
+        "description": "20岁顺女（确信）",
+        "id": "1551042471575973889",
+        "name": "初怡晓晓",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034599883244802048/X9AhM2Mk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 1737,
+          "like_count": 7204,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 91
+        },
+        "username": "fnoozp",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-21T15:00:28.000Z",
+        "description": "我希望我爱的人都好好的🥺♥️/裏垢：https://t.co/q7AzGVPC4y /联络方式：https://t.co/2eUjAnLNoF",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pari.cafe/@poi",
+                "end": 41,
+                "expanded_url": "https://pari.cafe/@poi",
+                "start": 18,
+                "url": "https://t.co/q7AzGVPC4y"
+              },
+              {
+                "display_url": "matrix.to/#/@ai0bsw6k:ma…",
+                "end": 71,
+                "expanded_url": "https://matrix.to/#/@ai0bsw6k:matrix.org",
+                "start": 48,
+                "url": "https://t.co/2eUjAnLNoF"
+              }
+            ]
+          }
+        },
+        "id": "1792933283040284673",
+        "location": "🌕月球",
+        "name": "catalyst🍫🐢🌈",
+        "pinned_tweet_id": "2039217404102996391",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013987958014296065/ZXpt5StP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 618,
+          "following_count": 804,
+          "like_count": 27090,
+          "listed_count": 1,
+          "media_count": 248,
+          "tweet_count": 16455
+        },
+        "username": "tuamitx0",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-07T19:18:15.000Z",
+        "description": "制服收藏家 | 北美菜校ECE PhD Candidate | 魏晋名士 | ❤️: @xinxinUnique",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 43,
+                "username": "xinxinUnique"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "thesecatsdonotexist.com",
+                "end": 23,
+                "expanded_url": "https://thesecatsdonotexist.com/",
+                "start": 0,
+                "url": "https://t.co/XxMPM0dxoG"
+              }
+            ]
+          }
+        },
+        "id": "1468298719447887872",
+        "location": "Ontario, Canada",
+        "name": "紫云",
+        "pinned_tweet_id": "1999916217818333233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999225008120340481/KS3I1fWx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2720,
+          "following_count": 507,
+          "like_count": 6982,
+          "listed_count": 8,
+          "media_count": 48,
+          "tweet_count": 2767
+        },
+        "url": "https://t.co/XxMPM0dxoG",
+        "username": "dviolettchan",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2045440180946079798",
+    "created_at": "2026-04-21T18:56:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T19:56:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046664299335307646"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2020935362386984964",
+          "start": 0,
+          "username": "yingxuan666666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046664299335307646",
+    "in_reply_to_user_id": "2020935362386984964",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045440180946079798",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yingxuan666666 哇哇哇🥺又被玄英劳斯抓住了，居然没收到关注通知（？）已严肃回fo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2045440170493988864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGLc_3Ob0AAnvYc.jpg",
+        "width": 1710
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2045440180946079798",
+        "created_at": "2026-04-21T18:56:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T19:56:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046664299335307646"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2020935362386984964",
+              "start": 0,
+              "username": "yingxuan666666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046664299335307646",
+        "in_reply_to_user_id": "2020935362386984964",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045440180946079798",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yingxuan666666 哇哇哇🥺又被玄英劳斯抓住了，居然没收到关注通知（？）已严肃回fo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045440170493988864"
+          ]
+        },
+        "author_id": "2020935362386984964",
+        "conversation_id": "2045440180946079798",
+        "created_at": "2026-04-18T09:51:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T10:51:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045440180946079798"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 10,
+              "tag": "神聖かまってちゃん自己紹介カード"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VMSMmSCCuc",
+              "end": 51,
+              "expanded_url": "https://x.com/yingxuan666666/status/2045440180946079798/photo/1",
+              "media_key": "3_2045440170493988864",
+              "start": 28,
+              "url": "https://t.co/VMSMmSCCuc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045440180946079798",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1267,
+          "like_count": 39,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "再度修正しました\n #神聖かまってちゃん自己紹介カード https://t.co/VMSMmSCCuc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "电波系中央空调；MtX&泛性恋&ASD&（隐藏属性）&CPTSD，性别/身材焦虑；od、自伤の新手；文娱杂食党，Gore爱好者；心目中排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；期待大家扩列互fo😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 855,
+          "like_count": 2878,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 617
+        },
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-09T18:58:46.000Z",
+        "description": "一個小油條🇨🇳\n神聖かまってちゃん🎸、大森靖子（Japan）、李志、低苦艾、阴三（China），羅大佑、陳昇、張雨生（Taiwan），黃耀明、達明一派、Beyond（HongKong）が好きです。\n日本語が基礎がなく、翻訳ツールしか使えません、すみません🥲",
+        "id": "2020935362386984964",
+        "name": "玄英",
+        "pinned_tweet_id": "2045440180946079798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020935964366077953/cAB_m43L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 144,
+          "like_count": 2511,
+          "listed_count": 1,
+          "media_count": 105,
+          "tweet_count": 888
+        },
+        "username": "yingxuan666666",
+        "verified": false
+      }
+    ]
+  }
+}

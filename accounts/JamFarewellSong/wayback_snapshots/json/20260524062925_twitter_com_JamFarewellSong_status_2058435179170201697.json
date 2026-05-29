@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2058435179170201697",
+    "created_at": "2026-05-24T06:29:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T07:29:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058435179170201697"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1690570637499154432",
+          "start": 3,
+          "username": "saonanaa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058435179170201697",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057807288224919745",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @saonanaa: 前几天我批判了X上的文章都是废话连篇，现在我精简了一篇文章，你可以直观的看到我的写作原则：\n\n有时人常常因情绪而内耗的事情\n本文将提供一个流程引导你去改善这个问题\n\n1、他人即地狱\n不要在乎别人看法，那无关紧要。这就如同你成年了看自己以前因没有完成作…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2058435179170201697",
+        "created_at": "2026-05-24T06:29:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T07:29:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058435179170201697"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1690570637499154432",
+              "start": 3,
+              "username": "saonanaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058435179170201697",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057807288224919745",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @saonanaa: 前几天我批判了X上的文章都是废话连篇，现在我精简了一篇文章，你可以直观的看到我的写作原则：\n\n有时人常常因情绪而内耗的事情\n本文将提供一个流程引导你去改善这个问题\n\n1、他人即地狱\n不要在乎别人看法，那无关紧要。这就如同你成年了看自己以前因没有完成作…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1690570637499154432",
+        "conversation_id": "2057807288224919745",
+        "created_at": "2026-05-22T12:54:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T13:54:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057807288224919745"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lovelyshuimao/…",
+              "end": 164,
+              "expanded_url": "https://twitter.com/lovelyshuimao/status/2014101790581739949",
+              "start": 141,
+              "url": "https://t.co/BqlSISqmGl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057807288224919745",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "前几天我批判了X上的文章都是废话连篇，现在我精简了一篇文章，你可以直观的看到我的写作原则：\n\n有时人常常因情绪而内耗的事情\n本文将提供一个流程引导你去改善这个问题\n\n1、他人即地狱\n不要在乎别人看法，那无关紧要。这就如同你成年了看自己以前因没有完成作业而担忧一夜。\n\n2、停止内耗\n现在，你已经意识到了他人是如此的无关紧要。现在，停止内耗。大不了，就换一条路。\n\n3、 暗淡蓝点\n想象你飞上月球，没有人类，所有故事的起点和终点—地球可以轻易的被陨石灰飞烟灭，那里面的所有故事现在与你无关；想象你是原始人，你只需要活着就行，没有社会，没有金钱，没有人际关系。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 1860,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014101790581739949",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "前几天我批判了X上的文章都是废话连篇，现在我精简了一篇文章，你可以直观的看到我的写作原则：\n\n有时人常常因情绪而内耗的事情\n本文将提供一个流程引导你去改善这个问题\n\n1、他人即地狱\n不要在乎别人看法，那无关紧要。这就如同你成年了看自己以前因没有完成作业而担忧一夜。\n\n2、停止内耗 https://t.co/BqlSISqmGl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX（断糖中）&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od&自伤新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 267,
+          "following_count": 980,
+          "like_count": 3664,
+          "listed_count": 1,
+          "media_count": 10,
+          "tweet_count": 921
+        },
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-13T03:47:17.000Z",
+        "description": "Zhi Wei 👋｜ 想要每天耍乐到处玩 ✈️｜聚焦线下欢迎来面｜爱玩 🎱 和🏎️｜Never 碰碰 Car｜❤️💦🐱👊：@lovelyshuimao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 61,
+                "username": "lovelyshuimao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/zhweaa",
+                "end": 23,
+                "expanded_url": "https://github.com/zhweaa",
+                "start": 0,
+                "url": "https://t.co/Lsl0VyAvMl"
+              }
+            ]
+          }
+        },
+        "id": "1690570637499154432",
+        "location": "🌏🌐",
+        "name": "Zhi Wei",
+        "pinned_tweet_id": "2045171291104403596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042459177029943300/pXQSA0qX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7617,
+          "following_count": 444,
+          "like_count": 33676,
+          "listed_count": 22,
+          "media_count": 2549,
+          "tweet_count": 20264
+        },
+        "url": "https://t.co/Lsl0VyAvMl",
+        "username": "saonanaa",
+        "verified": true
+      }
+    ]
+  }
+}

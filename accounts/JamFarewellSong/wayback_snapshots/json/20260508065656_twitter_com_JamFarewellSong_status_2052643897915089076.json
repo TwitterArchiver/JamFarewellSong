@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049745812125839360"
+      ],
+      "media_source_tweet_id": [
+        "2049745890752217242"
+      ]
+    },
+    "author_id": "1907414826101669888",
+    "conversation_id": "2052643897915089076",
+    "created_at": "2026-05-08T06:56:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T07:56:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052643897915089076"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1847712034361659392",
+          "start": 3,
+          "username": "huaxuejilebaike"
+        }
+      ],
+      "urls": [
+        {
+          "description": "真正的仙丹 昨天和朋友们对着论文库统计了一下，确实能提高哺乳动物最大寿命的，能找到的。 首先： 2025年7月，美国英国新加坡几个著名研究机构联合发表了一项抗衰物质的动物试验综述，他们对DrugAge（收录临床前试验的精选数据库）中2025年之前发表的667个独立研究共720项临床前抗衰物质试验进行了分析，涉及568种“动物-抗衰物质配对”，结论如下： 1、52%的研究声明了利益冲突； 2、最重要...",
+          "display_url": "jile.bid/%E7%94%9F%E7%8…",
+          "end": 60,
+          "expanded_url": "https://jile.bid/%E7%94%9F%E7%89%A9%E5%8C%96%E5%AD%A6/1294.html",
+          "start": 37,
+          "status": 200,
+          "title": "比较可靠的延长人类寿命的方法",
+          "unwound_url": "https://jile.bid/%E7%94%9F%E7%89%A9%E5%8C%96%E5%AD%A6/1294.html",
+          "url": "https://t.co/VPN4NIe8tv"
+        },
+        {
+          "display_url": "pic.x.com/ABeRTVXVWc",
+          "end": 84,
+          "expanded_url": "https://x.com/huaxuejilebaike/status/2049745890752217242/photo/1",
+          "media_key": "3_2049745812125839360",
+          "start": 61,
+          "url": "https://t.co/ABeRTVXVWc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052643897915089076",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049745890752217242",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @huaxuejilebaike: 比较可靠的延长人类寿命的方法\n\nhttps://t.co/VPN4NIe8tv https://t.co/ABeRTVXVWc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1572,
+        "media_key": "3_2049745812125839360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHIo9MOa8AA1dEx.jpg",
+        "width": 919
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049745812125839360"
+          ],
+          "media_source_tweet_id": [
+            "2049745890752217242"
+          ]
+        },
+        "author_id": "1907414826101669888",
+        "conversation_id": "2052643897915089076",
+        "created_at": "2026-05-08T06:56:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T07:56:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052643897915089076"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1847712034361659392",
+              "start": 3,
+              "username": "huaxuejilebaike"
+            }
+          ],
+          "urls": [
+            {
+              "description": "真正的仙丹 昨天和朋友们对着论文库统计了一下，确实能提高哺乳动物最大寿命的，能找到的。 首先： 2025年7月，美国英国新加坡几个著名研究机构联合发表了一项抗衰物质的动物试验综述，他们对DrugAge（收录临床前试验的精选数据库）中2025年之前发表的667个独立研究共720项临床前抗衰物质试验进行了分析，涉及568种“动物-抗衰物质配对”，结论如下： 1、52%的研究声明了利益冲突； 2、最重要...",
+              "display_url": "jile.bid/%E7%94%9F%E7%8…",
+              "end": 60,
+              "expanded_url": "https://jile.bid/%E7%94%9F%E7%89%A9%E5%8C%96%E5%AD%A6/1294.html",
+              "start": 37,
+              "status": 200,
+              "title": "比较可靠的延长人类寿命的方法",
+              "unwound_url": "https://jile.bid/%E7%94%9F%E7%89%A9%E5%8C%96%E5%AD%A6/1294.html",
+              "url": "https://t.co/VPN4NIe8tv"
+            },
+            {
+              "display_url": "pic.x.com/ABeRTVXVWc",
+              "end": 84,
+              "expanded_url": "https://x.com/huaxuejilebaike/status/2049745890752217242/photo/1",
+              "media_key": "3_2049745812125839360",
+              "start": 61,
+              "url": "https://t.co/ABeRTVXVWc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052643897915089076",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049745890752217242",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @huaxuejilebaike: 比较可靠的延长人类寿命的方法\n\nhttps://t.co/VPN4NIe8tv https://t.co/ABeRTVXVWc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049745812125839360"
+          ]
+        },
+        "author_id": "1847712034361659392",
+        "conversation_id": "2049745890752217242",
+        "created_at": "2026-04-30T07:01:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T08:01:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049745890752217242"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "真正的仙丹 昨天和朋友们对着论文库统计了一下，确实能提高哺乳动物最大寿命的，能找到的。 首先： 2025年7月，美国英国新加坡几个著名研究机构联合发表了一项抗衰物质的动物试验综述，他们对DrugAge（收录临床前试验的精选数据库）中2025年之前发表的667个独立研究共720项临床前抗衰物质试验进行了分析，涉及568种“动物-抗衰物质配对”，结论如下： 1、52%的研究声明了利益冲突； 2、最重要...",
+              "display_url": "jile.bid/%E7%94%9F%E7%8…",
+              "end": 39,
+              "expanded_url": "https://jile.bid/%E7%94%9F%E7%89%A9%E5%8C%96%E5%AD%A6/1294.html",
+              "start": 16,
+              "status": 200,
+              "title": "比较可靠的延长人类寿命的方法",
+              "unwound_url": "https://jile.bid/%E7%94%9F%E7%89%A9%E5%8C%96%E5%AD%A6/1294.html",
+              "url": "https://t.co/VPN4NIe8tv"
+            },
+            {
+              "display_url": "pic.x.com/ABeRTVXVWc",
+              "end": 63,
+              "expanded_url": "https://x.com/huaxuejilebaike/status/2049745890752217242/photo/1",
+              "media_key": "3_2049745812125839360",
+              "start": 40,
+              "url": "https://t.co/ABeRTVXVWc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049745890752217242",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 930,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "比较可靠的延长人类寿命的方法\n\nhttps://t.co/VPN4NIe8tv https://t.co/ABeRTVXVWc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "电波系中央空调；MtX&泛性恋&ASD&（隐藏属性）&CPTSD，性别/身材焦虑；od、自伤の新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；期待大家扩列互fo😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 251,
+          "following_count": 942,
+          "like_count": 3294,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 769
+        },
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-19T18:51:20.000Z",
+        "description": "官网：https://t.co/DF7NTAL0F9 TG交流群：https://t.co/mCh0A9MOrv DC交流群：https://t.co/Zb0fsL464g",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "jile.bid",
+                "end": 26,
+                "expanded_url": "http://jile.bid",
+                "start": 3,
+                "url": "https://t.co/DF7NTAL0F9"
+              },
+              {
+                "display_url": "t.me/yuanliaogeming",
+                "end": 56,
+                "expanded_url": "https://t.me/yuanliaogeming",
+                "start": 33,
+                "url": "https://t.co/mCh0A9MOrv"
+              },
+              {
+                "display_url": "discord.gg/XmNt8AXCEb",
+                "end": 86,
+                "expanded_url": "http://discord.gg/XmNt8AXCEb",
+                "start": 63,
+                "url": "https://t.co/Zb0fsL464g"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yumeng_0721",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yumeng_0721",
+                "start": 0,
+                "url": "https://t.co/8eHnljmbAD"
+              }
+            ]
+          }
+        },
+        "id": "1847712034361659392",
+        "location": "提问箱：",
+        "name": "化学极乐百科⚛️",
+        "pinned_tweet_id": "2049742442048696673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046789084790890496/tu0DxovY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1957,
+          "following_count": 926,
+          "like_count": 24436,
+          "listed_count": 2,
+          "media_count": 397,
+          "tweet_count": 2998
+        },
+        "url": "https://t.co/8eHnljmbAD",
+        "username": "huaxuejilebaike",
+        "verified": false
+      }
+    ]
+  }
+}

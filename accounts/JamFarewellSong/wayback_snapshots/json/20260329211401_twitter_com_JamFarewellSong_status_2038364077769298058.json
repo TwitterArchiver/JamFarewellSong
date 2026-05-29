@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2038364077769298058",
+    "created_at": "2026-03-29T21:14:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T22:14:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038364077769298058"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2025238062138359811",
+          "start": 3,
+          "username": "B0PWuNwzJ441093"
+        },
+        {
+          "end": 33,
+          "id": "2011073315763601416",
+          "start": 21,
+          "username": "kilock_1208"
+        },
+        {
+          "end": 46,
+          "id": "1731704955721932800",
+          "start": 34,
+          "username": "ling1639040"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038364077769298058",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037512717062611279",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @B0PWuNwzJ441093: @kilock_1208 @ling1639040 唔……没事，尽力了就好。落在一个人生命中的雨他人永不能全部看见，但看见生命英年早逝，还是不由得痛心啊。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2038364077769298058",
+        "created_at": "2026-03-29T21:14:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T22:14:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038364077769298058"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2025238062138359811",
+              "start": 3,
+              "username": "B0PWuNwzJ441093"
+            },
+            {
+              "end": 33,
+              "id": "2011073315763601416",
+              "start": 21,
+              "username": "kilock_1208"
+            },
+            {
+              "end": 46,
+              "id": "1731704955721932800",
+              "start": 34,
+              "username": "ling1639040"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038364077769298058",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037512717062611279",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @B0PWuNwzJ441093: @kilock_1208 @ling1639040 唔……没事，尽力了就好。落在一个人生命中的雨他人永不能全部看见，但看见生命英年早逝，还是不由得痛心啊。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025238062138359811",
+        "conversation_id": "2037242011259142549",
+        "created_at": "2026-03-27T12:51:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T13:51:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037512717062611279"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2011073315763601416",
+              "start": 0,
+              "username": "kilock_1208"
+            },
+            {
+              "end": 25,
+              "id": "1731704955721932800",
+              "start": 13,
+              "username": "ling1639040"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037512717062611279",
+        "in_reply_to_user_id": "2011073315763601416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1534,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037511806995062895",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kilock_1208 @ling1639040 唔……没事，尽力了就好。落在一个人生命中的雨他人永不能全部看见，但看见生命英年早逝，还是不由得痛心啊。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "",
+        "id": "1907414826101669888",
+        "name": "Jam Farewell Song",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907415117874253824/L2WK8HRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 235,
+          "like_count": 99,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 72
+        },
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-21T15:56:18.000Z",
+        "description": "女；sub；女德；异性恋，头像是本人；本账号无额外业务，只用于刺激潜水；熟人认出直接删号跑路。",
+        "id": "2025238062138359811",
+        "name": "宋温宜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035777803279601664/2rbjzqQe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 4,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 35
+        },
+        "username": "B0PWuNwzJ441093",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-13T13:50:40.000Z",
+        "description": "蒟蒻OIer | 或许是个开发者？) | intp | 爱人 @qqqqqf_ 大号登不上了wwwww",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 31,
+                "username": "qqqqqf_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/kilockok",
+                "end": 23,
+                "expanded_url": "https://github.com/kilockok",
+                "start": 0,
+                "url": "https://t.co/ZHBAoZQdfs"
+              }
+            ]
+          }
+        },
+        "id": "2011073315763601416",
+        "location": "The World",
+        "name": "kilock🍥",
+        "pinned_tweet_id": "2037502430506795154",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011497532711714818/f-A8QXeK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 564,
+          "following_count": 586,
+          "like_count": 3260,
+          "listed_count": 1,
+          "media_count": 97,
+          "tweet_count": 723
+        },
+        "url": "https://t.co/ZHBAoZQdfs",
+        "username": "kilock_1208",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-04T16:00:20.000Z",
+        "description": "07//\nling会带来不幸，不要太靠近我\n                                 ❤ 老婆@LCG_Akiball /lingの猫猫@nanami_mua/🏳️‍⚧️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 59,
+                "username": "LCG_Akiball"
+              },
+              {
+                "end": 91,
+                "start": 80,
+                "username": "nanami_mua"
+              }
+            ]
+          }
+        },
+        "id": "1731704955721932800",
+        "location": "一个疯子？",
+        "name": "ling",
+        "pinned_tweet_id": "1938940959611592945",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005944188467306496/Nc0fJRQL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 560,
+          "following_count": 986,
+          "like_count": 9411,
+          "listed_count": 7,
+          "media_count": 52,
+          "tweet_count": 541
+        },
+        "username": "ling1639040",
+        "verified": false
+      }
+    ]
+  }
+}

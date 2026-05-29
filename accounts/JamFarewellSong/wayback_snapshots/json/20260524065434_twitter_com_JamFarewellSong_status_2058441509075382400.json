@@ -1,0 +1,423 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2058076480165621946",
+    "created_at": "2026-05-24T06:54:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T07:54:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058441509075382400"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2024424705026117634",
+          "start": 0,
+          "username": "cavityuk"
+        },
+        {
+          "end": 19,
+          "id": "1943561677762646016",
+          "start": 10,
+          "username": "qusuunmd"
+        },
+        {
+          "end": 30,
+          "id": "1368897611672018953",
+          "start": 20,
+          "username": "XUEQIUxka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058441509075382400",
+    "in_reply_to_user_id": "2024424705026117634",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058076480165621946",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cavityuk @qusuunmd @XUEQIUxka 好看喵😈"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2058074752162668544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI_AFTvbIAA3-nb.jpg",
+        "width": 1447
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2058074752154263552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI_AFTta4AAU9GE.jpg",
+        "width": 1411
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2058074752162635776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI_AFTvaoAASK9p.jpg",
+        "width": 1453
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2058074752162697216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI_AFTvbkAAmY8x.jpg",
+        "width": 1517
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2058076480165621946",
+        "created_at": "2026-05-24T06:54:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T07:54:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058441509075382400"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2024424705026117634",
+              "start": 0,
+              "username": "cavityuk"
+            },
+            {
+              "end": 19,
+              "id": "1943561677762646016",
+              "start": 10,
+              "username": "qusuunmd"
+            },
+            {
+              "end": 30,
+              "id": "1368897611672018953",
+              "start": 20,
+              "username": "XUEQIUxka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058441509075382400",
+        "in_reply_to_user_id": "2024424705026117634",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058076480165621946",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cavityuk @qusuunmd @XUEQIUxka 好看喵😈"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058074752162668544",
+            "3_2058074752154263552",
+            "3_2058074752162635776",
+            "3_2058074752162697216"
+          ]
+        },
+        "author_id": "2024424705026117634",
+        "conversation_id": "2058076480165621946",
+        "created_at": "2026-05-23T06:44:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T07:44:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058076480165621946"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 21,
+              "id": "1943561677762646016",
+              "start": 12,
+              "username": "qusuunmd"
+            },
+            {
+              "end": 64,
+              "id": "1368897611672018953",
+              "start": 54,
+              "username": "XUEQIUxka"
+            },
+            {
+              "end": 77,
+              "id": "1943561677762646016",
+              "start": 68,
+              "username": "qusuunmd"
+            },
+            {
+              "end": 91,
+              "id": "2024424705026117634",
+              "start": 82,
+              "username": "cavityuk"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SwS7L9J9HN",
+              "end": 202,
+              "expanded_url": "https://x.com/cavityuk/status/2058076480165621946/photo/1",
+              "media_key": "3_2058074752162668544",
+              "start": 179,
+              "url": "https://t.co/SwS7L9J9HN"
+            },
+            {
+              "display_url": "pic.x.com/SwS7L9J9HN",
+              "end": 202,
+              "expanded_url": "https://x.com/cavityuk/status/2058076480165621946/photo/1",
+              "media_key": "3_2058074752154263552",
+              "start": 179,
+              "url": "https://t.co/SwS7L9J9HN"
+            },
+            {
+              "display_url": "pic.x.com/SwS7L9J9HN",
+              "end": 202,
+              "expanded_url": "https://x.com/cavityuk/status/2058076480165621946/photo/1",
+              "media_key": "3_2058074752162635776",
+              "start": 179,
+              "url": "https://t.co/SwS7L9J9HN"
+            },
+            {
+              "display_url": "pic.x.com/SwS7L9J9HN",
+              "end": 202,
+              "expanded_url": "https://x.com/cavityuk/status/2058076480165621946/photo/1",
+              "media_key": "3_2058074752162697216",
+              "start": 179,
+              "url": "https://t.co/SwS7L9J9HN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058076480165621946",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 679,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "欢迎收看“本子”之uu→@qusuunmd \np1：uu被扣了！！\np2：温变皮带～\np3：惊现3p！雪秋：@XUEQIUxka uu：@qusuunmd 屿谙：\n@cavityuk \np4：uu疼我不疼系列\n\n正在上传更多这种类型！！大多是uu和屿谙的色色日常 很多都是真实事件改编哦～\n\n等下个周将会尝试去驯服数位板 然后更新一些电子插画～❤️❤️❤️ https://t.co/SwS7L9J9HN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX（断糖中）&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od&自伤新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 985,
+          "like_count": 3673,
+          "listed_count": 1,
+          "media_count": 10,
+          "tweet_count": 926
+        },
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-19T10:04:05.000Z",
+        "description": "ciallo～՞˶˃ ᵕ ˂˶՞这里是屿谙(也是cavityuk！\n素散架的高中生……\n2010.8 ♍ ENTP🧩泛性恋🩷💛🩵\n🏳️‍🌈LGBTQ+友好\n找不到我就是在画画画🎨……(绝不是在学习bushi\n女朋友❤️：@qusuunmd",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 110,
+                "username": "qusuunmd"
+              }
+            ]
+          }
+        },
+        "id": "2024424705026117634",
+        "location": "水族馆🐟",
+        "name": "是屿谙喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024424842578317313/CtJuVDll_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 34,
+          "like_count": 732,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 193
+        },
+        "username": "cavityuk",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-11T06:44:29.000Z",
+        "description": "2010年的xyn/167cm 57.5kg（www我要减肥）/hrt🍥时间:2025.8.15/无证含糖🍥/高一牲/有点缺爱/想要贴贴/同类互fo喵/常住于青岛喵/过年会回泉州/穷穷穷 想要钱钱/不抽烟不喝酒不od不割手/不圆角谢谢 勿扰",
+        "id": "1943561677762646016",
+        "location": "Hachinohe-shi, Aomori",
+        "name": "曲速 u🍥",
+        "pinned_tweet_id": "2051304340376461441",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025830754715090944/KciDNY7c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 662,
+          "following_count": 337,
+          "like_count": 2151,
+          "listed_count": 2,
+          "media_count": 60,
+          "tweet_count": 814
+        },
+        "username": "qusuunmd",
+        "verified": true
+      },
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "看日常@Xyliaxka，淡圈，尝试恢复社交中，SRS：2025/11/12\n爱人：@YongQuan\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTF，#MTFT男娘，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 101,
+                "start": 97,
+                "tag": "家长党"
+              },
+              {
+                "end": 106,
+                "start": 102,
+                "tag": "MTF"
+              },
+              {
+                "end": 114,
+                "start": 107,
+                "tag": "MTFT男娘"
+              },
+              {
+                "end": 119,
+                "start": 115,
+                "tag": "HRT"
+              },
+              {
+                "end": 124,
+                "start": 120,
+                "tag": "Les"
+              },
+              {
+                "end": 128,
+                "start": 125,
+                "tag": "双相"
+              },
+              {
+                "end": 134,
+                "start": 129,
+                "tag": "ADHD"
+              },
+              {
+                "end": 141,
+                "start": 135,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 12,
+                "start": 3,
+                "username": "Xyliaxka"
+              },
+              {
+                "end": 51,
+                "start": 42,
+                "username": "YongQuan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "2058235456702030064",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054858765954850816/zwnegy8n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8804,
+          "following_count": 2372,
+          "like_count": 31052,
+          "listed_count": 25,
+          "media_count": 1652,
+          "tweet_count": 5582
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      }
+    ]
+  }
+}

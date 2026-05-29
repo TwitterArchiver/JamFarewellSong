@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "1842038847548404043",
+    "created_at": "2025-04-11T15:35:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-11T16:35:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1910718371345375405"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1838919691714322432",
+          "start": 0,
+          "username": "Neet_Urei2005"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1910718371345375405",
+    "in_reply_to_user_id": "1838919691714322432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1842038847548404043",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Neet_Urei2005 也是经典永流传了awa以前自己玩的时候不得不做一堆准备工作也总是怨念满满地想起这段话"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 508,
+        "media_key": "3_1842038839105179648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GZA8kItWUAA08Sf.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "1842038847548404043",
+        "created_at": "2025-04-11T15:35:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-11T16:35:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1910718371345375405"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1838919691714322432",
+              "start": 0,
+              "username": "Neet_Urei2005"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1910718371345375405",
+        "in_reply_to_user_id": "1838919691714322432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1842038847548404043",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Neet_Urei2005 也是经典永流传了awa以前自己玩的时候不得不做一堆准备工作也总是怨念满满地想起这段话"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1842038839105179648"
+          ]
+        },
+        "author_id": "1838919691714322432",
+        "conversation_id": "1842038847548404043",
+        "created_at": "2024-10-04T03:07:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-04T04:07:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1842038847548404043"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OQo07JQagE",
+              "end": 65,
+              "expanded_url": "https://x.com/Neet_Urei2005/status/1842038847548404043/photo/1",
+              "media_key": "3_1842038839105179648",
+              "start": 42,
+              "url": "https://t.co/OQo07JQagE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1842038847548404043",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 20003,
+          "like_count": 47,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "刚刚洗完澡灌玩肠准备涩涩结果家里人开新店需要帮忙然后就把女装脱了衣服换了去帮忙嘞～ https://t.co/OQo07JQagE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "",
+        "id": "1907414826101669888",
+        "name": "Jam Farewell Song",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907415117874253824/L2WK8HRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 14,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 1
+        },
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-25T12:33:31.000Z",
+        "description": "B站Neet_Urei自宅警備中desu，177cm常年125～140斤，过不了审的都会放这里，不搞r18不盈利不收费没有🚪，想要联系方式可以直接私我喵～",
+        "id": "1838919691714322432",
+        "location": "特雷森学园",
+        "name": "Neet_Urei自宅警備中！",
+        "pinned_tweet_id": "1838925611328499985",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887423407010226176/zzbwW7QB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4131,
+          "following_count": 229,
+          "like_count": 1,
+          "listed_count": 5,
+          "media_count": 68,
+          "tweet_count": 558
+        },
+        "username": "Neet_Urei2005",
+        "verified": false
+      }
+    ]
+  }
+}
