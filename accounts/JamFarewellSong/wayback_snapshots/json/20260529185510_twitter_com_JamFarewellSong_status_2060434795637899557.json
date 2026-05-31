@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2060434795637899557",
+    "created_at": "2026-05-29T18:55:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T19:55:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060434795637899557"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1510447851507261445",
+          "start": 3,
+          "username": "LanziiLove"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060434795637899557",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060383246194786359",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LanziiLove: 以及邸晓兰医生这两天又遇到神人家长了（\n\n拿着一坨钱气凶凶地走进来：“明天给我家孩子加个号，你要是敢给ta确诊易性症我就起诉你。”\n\n“你是谁啊？你看病还是我看病？你还起诉我？拿着你的钱出去，我不可能给你看。”\n\n于是被邸奶奶让ta拿着钱滚给轰走…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2060434795637899557",
+        "created_at": "2026-05-29T18:55:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T19:55:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060434795637899557"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1510447851507261445",
+              "start": 3,
+              "username": "LanziiLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060434795637899557",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060383246194786359",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LanziiLove: 以及邸晓兰医生这两天又遇到神人家长了（\n\n拿着一坨钱气凶凶地走进来：“明天给我家孩子加个号，你要是敢给ta确诊易性症我就起诉你。”\n\n“你是谁啊？你看病还是我看病？你还起诉我？拿着你的钱出去，我不可能给你看。”\n\n于是被邸奶奶让ta拿着钱滚给轰走…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2060383246194786359",
+        "created_at": "2026-05-29T15:30:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T16:30:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060383246194786359"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060383246194786359",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 6456,
+          "like_count": 179,
+          "quote_count": 0,
+          "reply_count": 65,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "以及邸晓兰医生这两天又遇到神人家长了（\n\n拿着一坨钱气凶凶地走进来：“明天给我家孩子加个号，你要是敢给ta确诊易性症我就起诉你。”\n\n“你是谁啊？你看病还是我看病？你还起诉我？拿着你的钱出去，我不可能给你看。”\n\n于是被邸奶奶让ta拿着钱滚给轰走了\n\n好帅🥹\n\nps：细节可能有差别不完全保真仅供参考"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX（断糖中）&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od&自伤新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 274,
+          "following_count": 996,
+          "like_count": 3818,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 959
+        },
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "你好～ 可以叫我小雫！本名杜澄溪 She/Her🏳️‍⚧️是女孩子！💕账号纯绿日常向 无任何盈利/色情内容 仅B站推特本人 tg上的是骗子！🏠我的纯爱男友然然@dexy0306❤️ 祝你生活愉快～☀️10r任意公益慈善捐款可加粉丝群",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 79,
+                "username": "dexy0306"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "星野雫丶Shizuku✨",
+        "pinned_tweet_id": "2052452001582317618",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25167,
+          "following_count": 1233,
+          "like_count": 3007,
+          "listed_count": 77,
+          "media_count": 452,
+          "tweet_count": 2679
+        },
+        "username": "LanziiLove",
+        "verified": false
+      }
+    ]
+  }
+}

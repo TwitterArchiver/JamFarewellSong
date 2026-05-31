@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Nature",
+          "id": "1103294729079349250",
+          "name": "Nature"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Nature",
+          "id": "1103294729079349250",
+          "name": "Nature"
+        }
+      }
+    ],
+    "conversation_id": "2060279958988304425",
+    "created_at": "2026-05-29T08:39:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T09:39:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060279958988304425"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "899712221751648256",
+          "start": 3,
+          "username": "Kamotma_TM"
+        },
+        {
+          "end": 24,
+          "id": "1647230988769193986",
+          "start": 16,
+          "username": "xllqnyw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060279958988304425",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042257328611922244",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kamotma_TM: @xllqnyw 地球はそのまま人類だけ消えるのが理想\n人類が消えれば数千年後には豊かな自然と野生動物達の本来の営みが地球に戻ってくる"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Nature",
+              "id": "1103294729079349250",
+              "name": "Nature"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Nature",
+              "id": "1103294729079349250",
+              "name": "Nature"
+            }
+          }
+        ],
+        "conversation_id": "2060279958988304425",
+        "created_at": "2026-05-29T08:39:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T09:39:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060279958988304425"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "899712221751648256",
+              "start": 3,
+              "username": "Kamotma_TM"
+            },
+            {
+              "end": 24,
+              "id": "1647230988769193986",
+              "start": 16,
+              "username": "xllqnyw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060279958988304425",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042257328611922244",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kamotma_TM: @xllqnyw 地球はそのまま人類だけ消えるのが理想\n人類が消えれば数千年後には豊かな自然と野生動物達の本来の営みが地球に戻ってくる"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "899712221751648256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Nature",
+              "id": "1103294729079349250",
+              "name": "Nature"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Nature",
+              "id": "1103294729079349250",
+              "name": "Nature"
+            }
+          }
+        ],
+        "conversation_id": "2041622964765127104",
+        "created_at": "2026-04-09T15:04:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T16:04:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042257328611922244"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1647230988769193986",
+              "start": 0,
+              "username": "xllqnyw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042257328611922244",
+        "in_reply_to_user_id": "1647230988769193986",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041622964765127104",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xllqnyw 地球はそのまま人類だけ消えるのが理想\n人類が消えれば数千年後には豊かな自然と野生動物達の本来の営みが地球に戻ってくる"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX（断糖中）&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od&自伤新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 272,
+          "following_count": 979,
+          "like_count": 3702,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 941
+        },
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2017-08-21T19:18:04.000Z",
+        "description": "レスバでｲﾝﾌﾟﾚｯｼｮﾝは稼げるのかっ？！",
+        "id": "899712221751648256",
+        "location": "関東",
+        "name": "かもたま",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1619737083266101249/Y042LQYe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 31,
+          "like_count": 71,
+          "listed_count": 7,
+          "media_count": 130,
+          "tweet_count": 7125
+        },
+        "username": "Kamotma_TM",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-15T13:31:06.000Z",
+        "description": "♥251 @zzaallx 鍵@nulx31",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 5,
+                "username": "zzaallx"
+              },
+              {
+                "end": 22,
+                "start": 15,
+                "username": "nulx31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/xllqnyw?igsh=d…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/xllqnyw?igsh=dDliOWxidnBqMXVj&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/8gtMCpniKn"
+              }
+            ]
+          }
+        },
+        "id": "1647230988769193986",
+        "name": "ちわわ蹴る",
+        "pinned_tweet_id": "1982052161359101956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018525665293893632/hCDACE9M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3479,
+          "following_count": 105,
+          "like_count": 23456,
+          "listed_count": 8,
+          "media_count": 43,
+          "tweet_count": 7498
+        },
+        "url": "https://t.co/8gtMCpniKn",
+        "username": "xllqnyw",
+        "verified": false
+      }
+    ]
+  }
+}

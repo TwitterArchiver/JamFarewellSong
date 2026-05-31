@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2060099633679090160",
+    "created_at": "2026-05-29T19:11:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T20:11:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060438797884833833"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1793964158658158592",
+          "start": 0,
+          "username": "benzi_mofashi"
+        },
+        {
+          "end": 27,
+          "id": "1631173823528841217",
+          "start": 15,
+          "username": "hit23155979"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060438797884833833",
+    "in_reply_to_user_id": "1793964158658158592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060214270051381499",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@benzi_mofashi @hit23155979 牢本，怎么在这也能看到你😈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2060099633679090160",
+        "created_at": "2026-05-29T19:11:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T20:11:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060438797884833833"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1793964158658158592",
+              "start": 0,
+              "username": "benzi_mofashi"
+            },
+            {
+              "end": 27,
+              "id": "1631173823528841217",
+              "start": 15,
+              "username": "hit23155979"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060438797884833833",
+        "in_reply_to_user_id": "1793964158658158592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060214270051381499",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@benzi_mofashi @hit23155979 牢本，怎么在这也能看到你😈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1793964158658158592",
+        "conversation_id": "2060099633679090160",
+        "created_at": "2026-05-29T04:18:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T05:18:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060214270051381499"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1631173823528841217",
+              "start": 0,
+              "username": "hit23155979"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060214270051381499",
+        "in_reply_to_user_id": "1631173823528841217",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 422,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060099633679090160",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hit23155979 三国杀月卡没绷住"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX（断糖中）&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od&自伤新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 274,
+          "following_count": 1002,
+          "like_count": 3832,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 962
+        },
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-24T11:16:08.000Z",
+        "description": "B站新號：喵子魔法本",
+        "id": "1793964158658158592",
+        "location": "距離你-13cm",
+        "name": "本子魔法使",
+        "pinned_tweet_id": "1898579040673616289",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891850937347743744/OFOuu5ia_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92326,
+          "following_count": 2236,
+          "like_count": 12976,
+          "listed_count": 153,
+          "media_count": 364,
+          "tweet_count": 557
+        },
+        "username": "benzi_mofashi",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-02T06:05:27.000Z",
+        "description": "大号@haitu223被冻结了，被迫转生\n私信口令40/88/288获取菜单\n坐标四川",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "haitu223"
+              }
+            ]
+          }
+        },
+        "id": "1631173823528841217",
+        "name": "板鸭（转生版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1656704309525086208/pIrCcX2n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7916,
+          "following_count": 364,
+          "like_count": 50,
+          "listed_count": 24,
+          "media_count": 24,
+          "tweet_count": 67
+        },
+        "username": "hit23155979",
+        "verified": false
+      }
+    ]
+  }
+}

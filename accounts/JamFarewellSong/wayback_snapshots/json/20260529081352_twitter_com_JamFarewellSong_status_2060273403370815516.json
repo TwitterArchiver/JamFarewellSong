@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2051497721216041029",
+    "created_at": "2026-05-29T08:13:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T09:13:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060273403370815516"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1807437633326612480",
+          "start": 0,
+          "username": "Jade29LIk3wat3R"
+        },
+        {
+          "end": 32,
+          "id": "2044073101961412609",
+          "start": 17,
+          "username": "crow_kill_snow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060273403370815516",
+    "in_reply_to_user_id": "1807437633326612480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058703334513779095",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jade29LIk3wat3R @crow_kill_snow 不好意思，回复晚了😇空腹吸收快，但如果肠胃比较敏感的话，还是建议吃点食物垫垫肚子减少刺激"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [crow_kill_snow].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "crow_kill_snow",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "crow_kill_snow"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2051497721216041029",
+        "created_at": "2026-05-29T08:13:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T09:13:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060273403370815516"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1807437633326612480",
+              "start": 0,
+              "username": "Jade29LIk3wat3R"
+            },
+            {
+              "end": 32,
+              "id": "2044073101961412609",
+              "start": 17,
+              "username": "crow_kill_snow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060273403370815516",
+        "in_reply_to_user_id": "1807437633326612480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058703334513779095",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jade29LIk3wat3R @crow_kill_snow 不好意思，回复晚了😇空腹吸收快，但如果肠胃比较敏感的话，还是建议吃点食物垫垫肚子减少刺激"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1807437633326612480",
+        "conversation_id": "2051497721216041029",
+        "created_at": "2026-05-25T00:14:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T01:14:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058703334513779095"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1907414826101669888",
+              "start": 0,
+              "username": "JamFarewellSong"
+            },
+            {
+              "end": 32,
+              "id": "2044073101961412609",
+              "start": 17,
+              "username": "crow_kill_snow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058703334513779095",
+        "in_reply_to_user_id": "1907414826101669888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051497721216041029",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JamFarewellSong @crow_kill_snow 宝宝 请问服用之前要空腹吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX（断糖中）&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od&自伤新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 272,
+          "following_count": 977,
+          "like_count": 3684,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 935
+        },
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-30T15:35:04.000Z",
+        "description": "直fo是因为觉得你漂亮/喜欢你写的东西/发现是同类 我有人格障碍而且吃药片上瘾 大多数时候我说的话都不可信 互联网网蛆一条",
+        "id": "1807437633326612480",
+        "name": "玉观音",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807438641943416832/oosAOXoQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 46,
+          "like_count": 29,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 39
+        },
+        "username": "Jade29LIk3wat3R",
+        "verified": false
+      }
+    ]
+  }
+}

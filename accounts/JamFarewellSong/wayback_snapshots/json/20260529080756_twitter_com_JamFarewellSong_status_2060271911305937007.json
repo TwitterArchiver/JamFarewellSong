@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2056741900485545984",
+        "3_2056741900452085760"
+      ],
+      "media_source_tweet_id": [
+        "2056741968693305709",
+        "2056741968693305709"
+      ]
+    },
+    "author_id": "1907414826101669888",
+    "conversation_id": "2060271911305937007",
+    "created_at": "2026-05-29T08:07:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T09:07:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060271911305937007"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1807437633326612480",
+          "start": 3,
+          "username": "Jade29LIk3wat3R"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ESojk0LCVm",
+          "end": 48,
+          "expanded_url": "https://x.com/Jade29LIk3wat3R/status/2056741968693305709/video/1",
+          "media_key": "13_2056741900485545984",
+          "start": 25,
+          "url": "https://t.co/ESojk0LCVm"
+        },
+        {
+          "display_url": "pic.x.com/ESojk0LCVm",
+          "end": 48,
+          "expanded_url": "https://x.com/Jade29LIk3wat3R/status/2056741968693305709/video/1",
+          "media_key": "3_2056741900452085760",
+          "start": 25,
+          "url": "https://t.co/ESojk0LCVm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060271911305937007",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056741968693305709",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Jade29LIk3wat3R: 我难过 https://t.co/ESojk0LCVm"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7266,
+        "height": 1280,
+        "media_key": "13_2056741900485545984",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2056741900485545984/img/ceUsUpRXS44iIV0B.jpg",
+        "public_metrics": {
+          "view_count": 12
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056741900485545984/vid/avc1/320x568/9MXnPzFsDpXURIPJ.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056741900485545984/vid/avc1/480x852/rhXZVm3fqH4DeoRz.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056741900485545984/vid/avc1/720x1280/vhu1nE9T7wBhsQVd.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2056741900485545984/pl/vHLXKJ0BZHvSBx7b.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2056741900452085760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIsD3IMbwAAOenT.jpg",
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2056741900485545984",
+            "3_2056741900452085760"
+          ],
+          "media_source_tweet_id": [
+            "2056741968693305709",
+            "2056741968693305709"
+          ]
+        },
+        "author_id": "1907414826101669888",
+        "conversation_id": "2060271911305937007",
+        "created_at": "2026-05-29T08:07:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T09:07:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060271911305937007"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1807437633326612480",
+              "start": 3,
+              "username": "Jade29LIk3wat3R"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ESojk0LCVm",
+              "end": 48,
+              "expanded_url": "https://x.com/Jade29LIk3wat3R/status/2056741968693305709/video/1",
+              "media_key": "13_2056741900485545984",
+              "start": 25,
+              "url": "https://t.co/ESojk0LCVm"
+            },
+            {
+              "display_url": "pic.x.com/ESojk0LCVm",
+              "end": 48,
+              "expanded_url": "https://x.com/Jade29LIk3wat3R/status/2056741968693305709/video/1",
+              "media_key": "3_2056741900452085760",
+              "start": 25,
+              "url": "https://t.co/ESojk0LCVm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060271911305937007",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056741968693305709",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Jade29LIk3wat3R: 我难过 https://t.co/ESojk0LCVm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2056741900485545984",
+            "3_2056741900452085760"
+          ]
+        },
+        "author_id": "1807437633326612480",
+        "conversation_id": "2056741968693305709",
+        "created_at": "2026-05-19T14:21:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T15:21:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056741968693305709"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ESojk0LCVm",
+              "end": 27,
+              "expanded_url": "https://x.com/Jade29LIk3wat3R/status/2056741968693305709/video/1",
+              "media_key": "13_2056741900485545984",
+              "start": 4,
+              "url": "https://t.co/ESojk0LCVm"
+            },
+            {
+              "display_url": "pic.x.com/ESojk0LCVm",
+              "end": 27,
+              "expanded_url": "https://x.com/Jade29LIk3wat3R/status/2056741968693305709/video/1",
+              "media_key": "3_2056741900452085760",
+              "start": 4,
+              "url": "https://t.co/ESojk0LCVm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056741968693305709",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我难过 https://t.co/ESojk0LCVm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX（断糖中）&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od&自伤新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 272,
+          "following_count": 977,
+          "like_count": 3682,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 932
+        },
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-30T15:35:04.000Z",
+        "description": "直fo是因为觉得你漂亮/喜欢你写的东西/发现是同类 我有人格障碍而且吃药片上瘾 大多数时候我说的话都不可信 互联网网蛆一条",
+        "id": "1807437633326612480",
+        "name": "玉观音",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807438641943416832/oosAOXoQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 46,
+          "like_count": 29,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 39
+        },
+        "username": "Jade29LIk3wat3R",
+        "verified": false
+      }
+    ]
+  }
+}

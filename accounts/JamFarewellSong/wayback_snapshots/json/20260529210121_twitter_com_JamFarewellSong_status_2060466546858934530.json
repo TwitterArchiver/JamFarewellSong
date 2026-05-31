@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2060466546858934530",
+    "created_at": "2026-05-29T21:01:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T22:01:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060466546858934530"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1847925217038868480",
+          "start": 3,
+          "username": "longbao_yuxi"
+        },
+        {
+          "end": 34,
+          "id": "1843201902550634496",
+          "start": 18,
+          "username": "LwrDHYyuxR22499"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060466546858934530",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052884148352925952",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @longbao_yuxi: @LwrDHYyuxR22499 “我并非为成就世上一切善念而来”\n“却注定为摧毁世上一切恶念而死。”"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2060466546858934530",
+        "created_at": "2026-05-29T21:01:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T22:01:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060466546858934530"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1847925217038868480",
+              "start": 3,
+              "username": "longbao_yuxi"
+            },
+            {
+              "end": 34,
+              "id": "1843201902550634496",
+              "start": 18,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060466546858934530",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052884148352925952",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @longbao_yuxi: @LwrDHYyuxR22499 “我并非为成就世上一切善念而来”\n“却注定为摧毁世上一切恶念而死。”"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1847925217038868480",
+        "conversation_id": "2052585183455719658",
+        "created_at": "2026-05-08T22:51:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T23:51:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052884148352925952"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052884148352925952",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 172,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052587850621972792",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 “我并非为成就世上一切善念而来”\n“却注定为摧毁世上一切恶念而死。”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX（断糖中）&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od&自伤新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 280,
+          "following_count": 1039,
+          "like_count": 3990,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 989
+        },
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-20T08:58:12.000Z",
+        "description": "165/48 /hrt 09/08/25 /半家长不管（？/大概能算天赋（？/欧内桑@FrostyStrings/\n非常好朋友 @mav114514",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 42,
+                "username": "FrostyStrings"
+              },
+              {
+                "end": 74,
+                "start": 64,
+                "username": "mav114514"
+              }
+            ]
+          }
+        },
+        "id": "1847925217038868480",
+        "location": "上海",
+        "name": "玲珑语溪🍥",
+        "pinned_tweet_id": "2020525836214899141",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994691145704894464/HUop7X62_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 195,
+          "following_count": 106,
+          "like_count": 1817,
+          "listed_count": 1,
+          "media_count": 69,
+          "tweet_count": 487
+        },
+        "username": "longbao_yuxi",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者。曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈。",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058919180246646784/MUFZxWG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5409,
+          "following_count": 3023,
+          "like_count": 3058,
+          "listed_count": 19,
+          "media_count": 432,
+          "tweet_count": 2898
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      }
+    ]
+  }
+}
