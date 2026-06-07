@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061181997205106690"
+      ],
+      "media_source_tweet_id": [
+        "2061181998912155889"
+      ]
+    },
+    "author_id": "1907414826101669888",
+    "conversation_id": "2061318470814552167",
+    "created_at": "2026-06-01T05:26:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T06:26:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061318470814552167"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2024658352337457152",
+          "start": 3,
+          "username": "TheyNeedRights"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/adPAhfo5u8",
+          "end": 43,
+          "expanded_url": "https://x.com/TheyNeedRights/status/2061181998912155889/photo/1",
+          "media_key": "3_2061181997205106690",
+          "start": 20,
+          "url": "https://t.co/adPAhfo5u8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061318470814552167",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2598
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061181998912155889",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TheyNeedRights: https://t.co/adPAhfo5u8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 604,
+        "media_key": "3_2061181997205106690",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJrKGxjXMAIEIJT.jpg",
+        "width": 968
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061181997205106690"
+          ],
+          "media_source_tweet_id": [
+            "2061181998912155889"
+          ]
+        },
+        "author_id": "1907414826101669888",
+        "conversation_id": "2061318470814552167",
+        "created_at": "2026-06-01T05:26:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T06:26:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061318470814552167"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2024658352337457152",
+              "start": 3,
+              "username": "TheyNeedRights"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/adPAhfo5u8",
+              "end": 43,
+              "expanded_url": "https://x.com/TheyNeedRights/status/2061181998912155889/photo/1",
+              "media_key": "3_2061181997205106690",
+              "start": 20,
+              "url": "https://t.co/adPAhfo5u8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061318470814552167",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2598
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061181998912155889",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TheyNeedRights: https://t.co/adPAhfo5u8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061181997205106690"
+          ]
+        },
+        "author_id": "2024658352337457152",
+        "conversation_id": "2061181998912155889",
+        "created_at": "2026-05-31T20:24:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T21:24:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061181998912155889"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/adPAhfo5u8",
+              "end": 23,
+              "expanded_url": "https://x.com/TheyNeedRights/status/2061181998912155889/photo/1",
+              "media_key": "3_2061181997205106690",
+              "start": 0,
+              "url": "https://t.co/adPAhfo5u8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061181998912155889",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 186,
+          "impression_count": 54936,
+          "like_count": 9082,
+          "quote_count": 9,
+          "reply_count": 39,
+          "retweet_count": 2598
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/adPAhfo5u8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX（断糖中）&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od&自伤新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 292,
+          "following_count": 1074,
+          "like_count": 4188,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 1027
+        },
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-20T01:32:29.000Z",
+        "description": "An account made for the sole purpose of boosting the confidence of trans people (and others) in the LGBTQ community of their sexuality and gender identity.",
+        "id": "2024658352337457152",
+        "location": "Minors | 3 admins ",
+        "name": "Trans Reinforcement",
+        "pinned_tweet_id": "2041229155887370343",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041228117239287808/h3OGga4g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5314,
+          "following_count": 293,
+          "like_count": 1726,
+          "listed_count": 29,
+          "media_count": 248,
+          "tweet_count": 928
+        },
+        "username": "TheyNeedRights",
+        "verified": false
+      }
+    ]
+  }
+}

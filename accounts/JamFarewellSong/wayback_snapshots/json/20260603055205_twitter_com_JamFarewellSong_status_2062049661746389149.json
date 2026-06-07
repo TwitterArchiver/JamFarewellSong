@@ -1,0 +1,371 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2062049661746389149",
+    "created_at": "2026-06-03T05:52:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T06:52:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062049661746389149"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1597468568290873344",
+          "start": 3,
+          "username": "jingzhny11"
+        },
+        {
+          "end": 32,
+          "id": "1620506107306479617",
+          "start": 16,
+          "username": "Cheese_Ghostfox"
+        },
+        {
+          "end": 45,
+          "id": "1836041585475346432",
+          "start": 33,
+          "username": "LolingVerse"
+        },
+        {
+          "end": 60,
+          "id": "1608781688775245825",
+          "start": 46,
+          "username": "MisakaLycoris"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062049661746389149",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059525401420943839",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jingzhny11: @Cheese_Ghostfox @LolingVerse @MisakaLycoris 可是管制药物的是国家而不是oder，患者本身有绝对正当的底气合起来发声反对政策收紧而不是欺软怕硬攻击oder，这不是典型的“日军屠村赖国共”环节嘛😿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2062049661746389149",
+        "created_at": "2026-06-03T05:52:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T06:52:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062049661746389149"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1597468568290873344",
+              "start": 3,
+              "username": "jingzhny11"
+            },
+            {
+              "end": 32,
+              "id": "1620506107306479617",
+              "start": 16,
+              "username": "Cheese_Ghostfox"
+            },
+            {
+              "end": 45,
+              "id": "1836041585475346432",
+              "start": 33,
+              "username": "LolingVerse"
+            },
+            {
+              "end": 60,
+              "id": "1608781688775245825",
+              "start": 46,
+              "username": "MisakaLycoris"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062049661746389149",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059525401420943839",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jingzhny11: @Cheese_Ghostfox @LolingVerse @MisakaLycoris 可是管制药物的是国家而不是oder，患者本身有绝对正当的底气合起来发声反对政策收紧而不是欺软怕硬攻击oder，这不是典型的“日军屠村赖国共”环节嘛😿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597468568290873344",
+        "conversation_id": "2059213107130724545",
+        "created_at": "2026-05-27T06:41:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T07:41:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059525401420943839"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1620506107306479617",
+              "start": 0,
+              "username": "Cheese_Ghostfox"
+            },
+            {
+              "end": 29,
+              "id": "1836041585475346432",
+              "start": 17,
+              "username": "LolingVerse"
+            },
+            {
+              "end": 44,
+              "id": "1608781688775245825",
+              "start": 30,
+              "username": "MisakaLycoris"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059525401420943839",
+        "in_reply_to_user_id": "1620506107306479617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059498739346403549",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cheese_Ghostfox @LolingVerse @MisakaLycoris 可是管制药物的是国家而不是oder，患者本身有绝对正当的底气合起来发声反对政策收紧而不是欺软怕硬攻击oder，这不是典型的“日军屠村赖国共”环节嘛😿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX（断糖中）&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od&自伤新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 295,
+          "following_count": 1079,
+          "like_count": 4238,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 1042
+        },
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-29T05:53:13.000Z",
+        "description": "🍥​2023/05/07 srs2025/07/31 一米九超大只\n左下的，混乱善良的，激跨的，支持精神活性物质的，ODer但水平很差的，想当黄推的，下海预备的\n感性条拉满的理想主义者ENFP\n希望一个没人再感到痛苦的世界/如果可以我希望爱、原谅与理解而不是恶、仇恨与歧视",
+        "id": "1597468568290873344",
+        "location": "谁人的繁星之梦",
+        "name": "愿望天使DesireAngel",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024462875855900673/BMWGdQhI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5367,
+          "following_count": 2012,
+          "like_count": 125880,
+          "listed_count": 22,
+          "media_count": 260,
+          "tweet_count": 18802
+        },
+        "username": "jingzhny11",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2058707382977569280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058699765781798912/ImX2UQtX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1522,
+          "following_count": 1508,
+          "like_count": 19925,
+          "listed_count": 7,
+          "media_count": 738,
+          "tweet_count": 6418
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YekaseSuiso2022 | 逃生舱 @LolinAchiv\n：https://t.co/dPyJDXZFvr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "YekaseSuiso2022"
+              },
+              {
+                "end": 85,
+                "start": 74,
+                "username": "LolinAchiv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lolinverse",
+                "end": 110,
+                "expanded_url": "http://t.me/lolinverse",
+                "start": 87,
+                "url": "https://t.co/dPyJDXZFvr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpnlca"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "location": "可爱屋 - 鲨鱼🍥",
+        "name": "洛铃🦊Magic Caster",
+        "pinned_tweet_id": "2027734197717377426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949784927089876992/j676ysmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 391,
+          "following_count": 145,
+          "like_count": 20925,
+          "listed_count": 3,
+          "media_count": 263,
+          "tweet_count": 3661
+        },
+        "url": "https://t.co/SvAsHpnlca",
+        "username": "LolingVerse",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-30T11:07:57.000Z",
+        "description": "Linguistics & Tulpa Studies. 「Highest respect to all creators.」Rare disease girl (ex-Ewing's sarcoma & DCM), providing free medical advice.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tulpa.cn",
+                "end": 23,
+                "expanded_url": "https://tulpa.cn/",
+                "start": 0,
+                "url": "https://t.co/Y2RsCWDFE0"
+              }
+            ]
+          }
+        },
+        "id": "1608781688775245825",
+        "name": "Lycoris Misaka🔮🍥",
+        "pinned_tweet_id": "2059212115572052025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052239420489691141/ETMwa2ne_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1737,
+          "following_count": 571,
+          "like_count": 3260,
+          "listed_count": 8,
+          "media_count": 4,
+          "tweet_count": 39
+        },
+        "url": "https://t.co/Y2RsCWDFE0",
+        "username": "MisakaLycoris",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2060697481856631089",
+    "created_at": "2026-05-30T12:19:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T13:19:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060697481856631089"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 25,
+          "start": 21,
+          "tag": "MTF"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1990244187133140992",
+          "start": 3,
+          "username": "Naotan_Personal"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060697481856631089",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 26
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060509157862879694",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Naotan_Personal: #MTF 性転換手術（性別適合手術）に行ってきますっ(๑•̀ㅂ•́)و✧\n\n国内の症例非公開の某美容外科で日帰り手術・入院なし・週２営業・ＧＩＤ診断書不要...不安はあるけど何も考えたくないから現金７５万持って手術行ってくるね♪\n\nうち…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1090,
+        "media_key": "3_2060509150887792640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJhmJ9sb0AA9e-p.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2060697481856631089",
+        "created_at": "2026-05-30T12:19:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T13:19:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060697481856631089"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 21,
+              "tag": "MTF"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1990244187133140992",
+              "start": 3,
+              "username": "Naotan_Personal"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060697481856631089",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 26
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060509157862879694",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Naotan_Personal: #MTF 性転換手術（性別適合手術）に行ってきますっ(๑•̀ㅂ•́)و✧\n\n国内の症例非公開の某美容外科で日帰り手術・入院なし・週２営業・ＧＩＤ診断書不要...不安はあるけど何も考えたくないから現金７５万持って手術行ってくるね♪\n\nうち…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060509150887792640"
+          ]
+        },
+        "author_id": "1990244187133140992",
+        "conversation_id": "2060509157862879694",
+        "created_at": "2026-05-29T23:50:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T00:50:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060509157862879694"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "MTF"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AoIQk1lb8Q",
+              "end": 173,
+              "expanded_url": "https://x.com/Naotan_Personal/status/2060509157862879694/photo/1",
+              "media_key": "3_2060509150887792640",
+              "start": 150,
+              "url": "https://t.co/AoIQk1lb8Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060509157862879694",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 176,
+          "impression_count": 63130,
+          "like_count": 642,
+          "quote_count": 28,
+          "reply_count": 24,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "#MTF 性転換手術（性別適合手術）に行ってきますっ(๑•̀ㅂ•́)و✧\n\n国内の症例非公開の某美容外科で日帰り手術・入院なし・週２営業・ＧＩＤ診断書不要...不安はあるけど何も考えたくないから現金７５万持って手術行ってくるね♪\n\nうち先週に気分だけで決めたから親も主治医も誰にも言ってない...。 https://t.co/AoIQk1lb8Q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX（断糖中）&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od&自伤新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 289,
+          "following_count": 1061,
+          "like_count": 4068,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 1005
+        },
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-17T02:23:22.000Z",
+        "description": "なおたん本人｜’24 睾丸摘出（去勢）済｜’22 女性ホルモン剤投与２年～｜ＧＩＤ診断済｜苦手ならフォロー非推奨｜匿名の質問何でも大歓迎♪\n💌DMご自由に（※返信の確約は出来ません）\n🌟このＸアカウント以外ありません！\n※2025/11/17～YouTubeで告知の通りアカウント開設しました～ヾ(๑╹ꇴ◠๑)ﾉ\"",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@naotan-offici…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@naotan-official/shorts",
+                "start": 0,
+                "url": "https://t.co/zzYIT167tf"
+              }
+            ]
+          }
+        },
+        "id": "1990244187133140992",
+        "location": "東京都",
+        "name": "なおたん",
+        "pinned_tweet_id": "2022994296270639507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990245384334319616/xRPoHWPi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1750,
+          "following_count": 20,
+          "like_count": 6495,
+          "listed_count": 5,
+          "media_count": 115,
+          "tweet_count": 952
+        },
+        "url": "https://t.co/zzYIT167tf",
+        "username": "Naotan_Personal",
+        "verified": true
+      }
+    ]
+  }
+}

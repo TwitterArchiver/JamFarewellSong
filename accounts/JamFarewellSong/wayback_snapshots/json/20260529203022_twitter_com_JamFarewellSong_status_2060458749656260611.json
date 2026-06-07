@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2060458749656260611",
+    "created_at": "2026-05-29T20:30:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T21:30:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060458749656260611"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2047617385851756544",
+          "start": 3,
+          "username": "mingfeilu0427"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060458749656260611",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060280016328617988",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mingfeilu0427: 继周二吞药自杀未果，被送到icu抢救，现在才正式有人生自由。母亲已经下达最后通令，要将我赶出家中。我所处的地方是安徽省蚌埠市，现在求收留，我可以不占用食物资源，只需要香烟和水资源，可以虐待我，我会留有遗书以及保证书确定自己是自杀，我希望能有…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2060279952914993152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJeVs4tbUAAeGqu.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2060279952843612160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJeVs4caIAAziwx.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2060279952919199744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJeVs4ubgAAVPqJ.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2060458749656260611",
+        "created_at": "2026-05-29T20:30:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T21:30:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060458749656260611"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2047617385851756544",
+              "start": 3,
+              "username": "mingfeilu0427"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060458749656260611",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060280016328617988",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mingfeilu0427: 继周二吞药自杀未果，被送到icu抢救，现在才正式有人生自由。母亲已经下达最后通令，要将我赶出家中。我所处的地方是安徽省蚌埠市，现在求收留，我可以不占用食物资源，只需要香烟和水资源，可以虐待我，我会留有遗书以及保证书确定自己是自杀，我希望能有…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060279952914993152",
+            "3_2060279952843612160",
+            "3_2060279952919199744"
+          ]
+        },
+        "author_id": "2047617385851756544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2060280016328617988",
+        "created_at": "2026-05-29T08:40:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T09:40:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060280016328617988"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/unRkGPmbri",
+              "end": 165,
+              "expanded_url": "https://x.com/mingfeilu0427/status/2060280016328617988/photo/1",
+              "media_key": "3_2060279952914993152",
+              "start": 142,
+              "url": "https://t.co/unRkGPmbri"
+            },
+            {
+              "display_url": "pic.x.com/unRkGPmbri",
+              "end": 165,
+              "expanded_url": "https://x.com/mingfeilu0427/status/2060280016328617988/photo/1",
+              "media_key": "3_2060279952843612160",
+              "start": 142,
+              "url": "https://t.co/unRkGPmbri"
+            },
+            {
+              "display_url": "pic.x.com/unRkGPmbri",
+              "end": 165,
+              "expanded_url": "https://x.com/mingfeilu0427/status/2060280016328617988/photo/1",
+              "media_key": "3_2060279952919199744",
+              "start": 142,
+              "url": "https://t.co/unRkGPmbri"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060280016328617988",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 37,
+          "impression_count": 92664,
+          "like_count": 249,
+          "quote_count": 2,
+          "reply_count": 110,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "继周二吞药自杀未果，被送到icu抢救，现在才正式有人生自由。母亲已经下达最后通令，要将我赶出家中。我所处的地方是安徽省蚌埠市，现在求收留，我可以不占用食物资源，只需要香烟和水资源，可以虐待我，我会留有遗书以及保证书确定自己是自杀，我希望能有个要求，我死后请好心的收留者帮我举办葬礼。 https://t.co/unRkGPmbri"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX（断糖中）&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od&自伤新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 278,
+          "following_count": 1032,
+          "like_count": 3945,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 983
+        },
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-24T10:03:41.000Z",
+        "description": "重度双相强迫焦虑/被害妄想/性别认知偏差/od自餐/文艺逼 长发男 4i/m/健全人勿扰",
+        "id": "2047617385851756544",
+        "location": "床",
+        "name": "明非路",
+        "pinned_tweet_id": "2050061289985384582",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047620414290214912/sc3LavHg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 84,
+          "like_count": 13,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 114
+        },
+        "username": "mingfeilu0427",
+        "verified": false
+      }
+    ]
+  }
+}

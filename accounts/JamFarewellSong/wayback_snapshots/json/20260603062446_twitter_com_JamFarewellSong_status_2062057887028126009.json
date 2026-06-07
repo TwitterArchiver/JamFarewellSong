@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2061496782572642726",
+    "created_at": "2026-06-03T06:24:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T07:24:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062057887028126009"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1244108589175697408",
+          "start": 0,
+          "username": "A2017laite"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062057887028126009",
+    "in_reply_to_user_id": "1244108589175697408",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061496782572642726",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@A2017laite See the blind man shooting at the world…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1234,
+        "media_key": "3_2061496722506076160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJvoWMqbUAAXseY.jpg",
+        "width": 682
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2061496782572642726",
+        "created_at": "2026-06-03T06:24:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T07:24:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062057887028126009"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1244108589175697408",
+              "start": 0,
+              "username": "A2017laite"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062057887028126009",
+        "in_reply_to_user_id": "1244108589175697408",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061496782572642726",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@A2017laite See the blind man shooting at the world…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061496722506076160"
+          ]
+        },
+        "author_id": "1244108589175697408",
+        "conversation_id": "2061496782572642726",
+        "created_at": "2026-06-01T17:15:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T18:15:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061496782572642726"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nXz3rCsNyT",
+              "end": 28,
+              "expanded_url": "https://x.com/A2017laite/status/2061496782572642726/photo/1",
+              "media_key": "3_2061496722506076160",
+              "start": 5,
+              "url": "https://t.co/nXz3rCsNyT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061496782572642726",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 221,
+          "impression_count": 30964,
+          "like_count": 2570,
+          "quote_count": 2,
+          "reply_count": 7,
+          "retweet_count": 332
+        },
+        "reply_settings": "everyone",
+        "text": "愚者愚者 https://t.co/nXz3rCsNyT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX（断糖中）&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od&自伤新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 296,
+          "following_count": 1085,
+          "like_count": 4295,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 1051
+        },
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-29T03:46:33.000Z",
+        "description": "＝Sept or 赛普特，称呼请随意 / 20↑ / 中文only，外语交流均使用翻译器 / 🚫AI / 邪恶杂食人，没有左右倾向吃的也很杂，什么都可能会发或转注意避雷！/ 不是很擅长交流所以基本只会发图或者转推😣 / 背景是我的鲨鲨，它很可爱",
+        "id": "1244108589175697408",
+        "name": "KalSept🦈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996158608971792384/Y7ZtMgk1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22819,
+          "following_count": 136,
+          "like_count": 6601,
+          "listed_count": 144,
+          "media_count": 294,
+          "tweet_count": 2444
+        },
+        "username": "A2017laite",
+        "verified": false
+      }
+    ]
+  }
+}

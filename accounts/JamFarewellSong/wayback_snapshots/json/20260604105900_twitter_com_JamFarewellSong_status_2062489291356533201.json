@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062350469079748608"
+      ],
+      "media_source_tweet_id": [
+        "2062350473957605748"
+      ]
+    },
+    "author_id": "1907414826101669888",
+    "conversation_id": "2062489291356533201",
+    "created_at": "2026-06-04T10:59:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T11:59:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062489291356533201"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1846188581905485828",
+          "start": 3,
+          "username": "aaaa____dry"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pzksu1uP1b",
+          "end": 45,
+          "expanded_url": "https://x.com/aaaa____dry/status/2062350473957605748/photo/1",
+          "media_key": "3_2062350469079748608",
+          "start": 22,
+          "url": "https://t.co/pzksu1uP1b"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062489291356533201",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 107
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062350473957605748",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @aaaa____dry: お友達？ https://t.co/pzksu1uP1b"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2062350469079748608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ7w0yfb0AA6tCn.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062350469079748608"
+          ],
+          "media_source_tweet_id": [
+            "2062350473957605748"
+          ]
+        },
+        "author_id": "1907414826101669888",
+        "conversation_id": "2062489291356533201",
+        "created_at": "2026-06-04T10:59:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T11:59:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062489291356533201"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1846188581905485828",
+              "start": 3,
+              "username": "aaaa____dry"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pzksu1uP1b",
+              "end": 45,
+              "expanded_url": "https://x.com/aaaa____dry/status/2062350473957605748/photo/1",
+              "media_key": "3_2062350469079748608",
+              "start": 22,
+              "url": "https://t.co/pzksu1uP1b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062489291356533201",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 107
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062350473957605748",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @aaaa____dry: お友達？ https://t.co/pzksu1uP1b"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062350469079748608"
+          ]
+        },
+        "author_id": "1846188581905485828",
+        "conversation_id": "2062350473957605748",
+        "created_at": "2026-06-04T01:47:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T02:47:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062350473957605748"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pzksu1uP1b",
+              "end": 28,
+              "expanded_url": "https://x.com/aaaa____dry/status/2062350473957605748/photo/1",
+              "media_key": "3_2062350469079748608",
+              "start": 5,
+              "url": "https://t.co/pzksu1uP1b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062350473957605748",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 65,
+          "impression_count": 6243,
+          "like_count": 869,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 107
+        },
+        "reply_settings": "following",
+        "text": "お友達？ https://t.co/pzksu1uP1b"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX（断糖中）&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od&自伤新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 302,
+          "following_count": 1092,
+          "like_count": 4316,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 1058
+        },
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-15T13:57:35.000Z",
+        "description": "無断転載❌\n⋆✴︎˚｡⋆感情と子供たちの絵*･ﾟ❤︎\nsub→@mosohk_sub\n依頼等DMまで",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 31,
+                "username": "mosohk_sub"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/aaaa_dry",
+                "end": 23,
+                "expanded_url": "https://lit.link/aaaa_dry",
+                "start": 0,
+                "url": "https://t.co/t6kH1MCquz"
+              }
+            ]
+          }
+        },
+        "id": "1846188581905485828",
+        "location": " 𝐡_ @9_Un_ya__ ",
+        "name": "妄想癖 @COMITIA156 G28b",
+        "pinned_tweet_id": "2060723295155363996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928593953114435584/vsRqgJsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10671,
+          "following_count": 148,
+          "like_count": 13338,
+          "listed_count": 37,
+          "media_count": 1667,
+          "tweet_count": 3819
+        },
+        "url": "https://t.co/t6kH1MCquz",
+        "username": "aaaa____dry",
+        "verified": true
+      }
+    ]
+  }
+}

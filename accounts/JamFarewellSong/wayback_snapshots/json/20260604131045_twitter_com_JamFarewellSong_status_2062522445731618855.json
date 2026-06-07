@@ -1,0 +1,372 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "Page for Global Pride Month for all years",
+          "id": "1275153105659650048",
+          "name": "Pride Month"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1275179649987784704",
+          "name": "International Pride Day"
+        }
+      },
+      {
+        "domain": {
+          "description": "Holidays like Christmas or Halloween",
+          "id": "119",
+          "name": "Holiday"
+        },
+        "entity": {
+          "id": "1275179649987784704",
+          "name": "International Pride Day"
+        }
+      }
+    ],
+    "conversation_id": "2062522445731618855",
+    "created_at": "2026-06-04T13:10:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T14:10:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062522445731618855"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 25,
+          "start": 19,
+          "tag": "Pride"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1840810905833197568",
+          "start": 3,
+          "username": "xubai_01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062522445731618855",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 57
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062265234715554079",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xubai_01: 🏳️‍🌈 #Pride 以骄傲月为契机，向异性恋者提出几个问题：\n\n• 您什么时候意识到自己是异性恋的？\n\n• 您确定这真的是您自己的决定吗，还是受到了周围环境的影响才成为异性恋的？\n\n• 您如何在没有和异性交往的情况下决定自己是异性恋的？\n\n•…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Page for Global Pride Month for all years",
+              "id": "1275153105659650048",
+              "name": "Pride Month"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1275179649987784704",
+              "name": "International Pride Day"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "id": "1275179649987784704",
+              "name": "International Pride Day"
+            }
+          }
+        ],
+        "conversation_id": "2062522445731618855",
+        "created_at": "2026-06-04T13:10:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T14:10:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062522445731618855"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 19,
+              "tag": "Pride"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1840810905833197568",
+              "start": 3,
+              "username": "xubai_01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062522445731618855",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 57
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062265234715554079",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xubai_01: 🏳️‍🌈 #Pride 以骄傲月为契机，向异性恋者提出几个问题：\n\n• 您什么时候意识到自己是异性恋的？\n\n• 您确定这真的是您自己的决定吗，还是受到了周围环境的影响才成为异性恋的？\n\n• 您如何在没有和异性交往的情况下决定自己是异性恋的？\n\n•…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Page for Global Pride Month for all years",
+              "id": "1275153105659650048",
+              "name": "Pride Month"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1275179649987784704",
+              "name": "International Pride Day"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "id": "1275179649987784704",
+              "name": "International Pride Day"
+            }
+          }
+        ],
+        "conversation_id": "2062265234715554079",
+        "created_at": "2026-06-03T20:08:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T21:08:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062265234715554079"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 5,
+              "tag": "Pride"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/tugbaiyigun/st…",
+              "end": 147,
+              "expanded_url": "https://twitter.com/tugbaiyigun/status/2061812340446601479",
+              "start": 124,
+              "url": "https://t.co/yxVCVRehAs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062265234715554079",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 11,
+                "start": 5,
+                "tag": "Pride"
+              }
+            ]
+          },
+          "text": "🏳️‍🌈 #Pride 以骄傲月为契机，向异性恋者提出几个问题：\n\n• 您什么时候意识到自己是异性恋的？\n\n• 您确定这真的是您自己的决定吗，还是受到了周围环境的影响才成为异性恋的？\n\n• 您如何在没有和异性交往的情况下决定自己是异性恋的？\n\n• 您对那些鼓励儿童追求异性恋的电影、电视剧、歌曲和童话故事有何看法？\n\n• 向家人解释您的异性恋身份很难吗？\n\n• 您成为异性恋的基本原因 是生物性的、心理性的，还是某个时期受到了朋友圈的影响？\n\n• 在家中过异性恋生活方式是我们所有人都能接受的事情。但您为什么想在街上让它变得显而易见？\n\n• 您认为自己有一天会遇到对的人，从而放弃异性恋吗？\n\n如果这些问题让您觉得荒谬、无礼或伤害，那么您就开始理解LGBTİQ+群体几十年来所遭受的东西了。\n\n有些问题不是为了理解而问的；它们是为了将偏见合法化而问的。\n\n问题从来都不是LGBTİQ+群体本身。问题在于，有些人从不质疑自己的存在，却认为自己有权质疑他人的存在。\n\n🏳️‍🌈 骄傲月快乐。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 8388,
+          "like_count": 255,
+          "quote_count": 0,
+          "reply_count": 21,
+          "retweet_count": 57
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061812340446601479",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🏳️‍🌈 #Pride 以骄傲月为契机，向异性恋者提出几个问题：\n\n• 您什么时候意识到自己是异性恋的？\n\n• 您确定这真的是您自己的决定吗，还是受到了周围环境的影响才成为异性恋的？\n\n• 您如何在没有和异性交往的情况下决定自己是异性恋的？\n\n• https://t.co/yxVCVRehAs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX（断糖中）&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od&自伤新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 304,
+          "following_count": 1096,
+          "like_count": 4392,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 1072
+        },
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "HBD🎂Dec/13/2010💛😋\n舞萌痴/Minecraft/排球🏐/羽毛球🏸/🏳️‍🌈泛\n爱说梦话/想交朋友。👀｜🏫MKHS\n欢迎随时联系/发疯乱叫是常态\n\n白@xuba1_/鲤鱼@yuji53719/洋洋@xiaoyi969/@xubaimedia/@QWQINC/:)\n\n没回蓝/黄fo是上限了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 82,
+                "username": "xuba1_"
+              },
+              {
+                "end": 102,
+                "start": 92,
+                "username": "yuji53719"
+              },
+              {
+                "end": 115,
+                "start": 105,
+                "username": "xiaoyi969"
+              },
+              {
+                "end": 127,
+                "start": 116,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 135,
+                "start": 128,
+                "username": "QWQINC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "ZH,EN / local:11451💚 / 🇺🇸LA",
+        "name": "许白",
+        "pinned_tweet_id": "2060623041269522688",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1986,
+          "following_count": 1453,
+          "like_count": 23651,
+          "listed_count": 2,
+          "media_count": 1159,
+          "tweet_count": 6073
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      }
+    ]
+  }
+}

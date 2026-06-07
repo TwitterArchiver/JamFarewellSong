@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2060690736287461629",
+    "created_at": "2026-05-30T11:52:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T12:52:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060690736287461629"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1440268407249649668",
+          "start": 3,
+          "username": "sjshb57"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "twitterarchiver.github.io/home/search.ht…",
+          "end": 82,
+          "expanded_url": "http://twitterarchiver.github.io/home/search.html",
+          "start": 59,
+          "status": 200,
+          "title": "全站时间线 · TwitterArchiver",
+          "unwound_url": "https://twitterarchiver.github.io/home/search.html",
+          "url": "https://t.co/DQ2cwaq6r0"
+        },
+        {
+          "display_url": "twitterarchiver.github.io/home/guestbook…",
+          "end": 123,
+          "expanded_url": "http://twitterarchiver.github.io/home/guestbook.html",
+          "start": 100,
+          "status": 200,
+          "title": "留言板 · TwitterArchiver",
+          "unwound_url": "https://twitterarchiver.github.io/home/guestbook.html",
+          "url": "https://t.co/5dvZBiZRv1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060690736287461629",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060661685862736139",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sjshb57: [TwitterArchiver]已完成数据中心化！！\n\n现在可以在此处查看所有人的推文！\nhttps://t.co/DQ2cwaq6r0\n开放了留言板功能！欢迎大家留言！\nhttps://t.co/5dvZBiZRv1\n左侧是现在的Home页面，非常…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1125,
+        "media_key": "3_2060661682331148288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJjw4dmbYAADBXZ.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2060690736287461629",
+        "created_at": "2026-05-30T11:52:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T12:52:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060690736287461629"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1440268407249649668",
+              "start": 3,
+              "username": "sjshb57"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "twitterarchiver.github.io/home/search.ht…",
+              "end": 82,
+              "expanded_url": "http://twitterarchiver.github.io/home/search.html",
+              "start": 59,
+              "status": 200,
+              "title": "全站时间线 · TwitterArchiver",
+              "unwound_url": "https://twitterarchiver.github.io/home/search.html",
+              "url": "https://t.co/DQ2cwaq6r0"
+            },
+            {
+              "display_url": "twitterarchiver.github.io/home/guestbook…",
+              "end": 123,
+              "expanded_url": "http://twitterarchiver.github.io/home/guestbook.html",
+              "start": 100,
+              "status": 200,
+              "title": "留言板 · TwitterArchiver",
+              "unwound_url": "https://twitterarchiver.github.io/home/guestbook.html",
+              "url": "https://t.co/5dvZBiZRv1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060690736287461629",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060661685862736139",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sjshb57: [TwitterArchiver]已完成数据中心化！！\n\n现在可以在此处查看所有人的推文！\nhttps://t.co/DQ2cwaq6r0\n开放了留言板功能！欢迎大家留言！\nhttps://t.co/5dvZBiZRv1\n左侧是现在的Home页面，非常…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060661682331148288"
+          ]
+        },
+        "author_id": "1440268407249649668",
+        "conversation_id": "2060661685862736139",
+        "created_at": "2026-05-30T09:56:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T10:56:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060661685862736139"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "twitterarchiver.github.io/home/search.ht…",
+              "end": 69,
+              "expanded_url": "http://twitterarchiver.github.io/home/search.html",
+              "start": 46,
+              "status": 200,
+              "title": "全站时间线 · TwitterArchiver",
+              "unwound_url": "https://twitterarchiver.github.io/home/search.html",
+              "url": "https://t.co/DQ2cwaq6r0"
+            },
+            {
+              "display_url": "twitterarchiver.github.io/home/guestbook…",
+              "end": 110,
+              "expanded_url": "http://twitterarchiver.github.io/home/guestbook.html",
+              "start": 87,
+              "status": 200,
+              "title": "留言板 · TwitterArchiver",
+              "unwound_url": "https://twitterarchiver.github.io/home/guestbook.html",
+              "url": "https://t.co/5dvZBiZRv1"
+            },
+            {
+              "display_url": "twitterarchiver.github.io/home/search.ht…",
+              "end": 153,
+              "expanded_url": "http://twitterarchiver.github.io/home/search.html",
+              "start": 130,
+              "status": 200,
+              "title": "全站时间线 · TwitterArchiver",
+              "unwound_url": "https://twitterarchiver.github.io/home/search.html",
+              "url": "https://t.co/DQ2cwaq6r0"
+            },
+            {
+              "display_url": "pic.x.com/OasqKdAZbZ",
+              "end": 177,
+              "expanded_url": "https://x.com/sjshb57/status/2060661685862736139/photo/1",
+              "media_key": "3_2060661682331148288",
+              "start": 154,
+              "url": "https://t.co/OasqKdAZbZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060661685862736139",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 64,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "[TwitterArchiver]已完成数据中心化！！\n\n现在可以在此处查看所有人的推文！\nhttps://t.co/DQ2cwaq6r0\n开放了留言板功能！欢迎大家留言！\nhttps://t.co/5dvZBiZRv1\n左侧是现在的Home页面，非常美丽！\nhttps://t.co/DQ2cwaq6r0 https://t.co/OasqKdAZbZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX（断糖中）&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od&自伤新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 288,
+          "following_count": 1058,
+          "like_count": 4052,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 1000
+        },
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-21T10:55:42.000Z",
+        "description": "被困在玻璃罐中的千纸鹤，真的可能自由吗？\n - 「全员永生计划」进行中 |  \n组织：https://t.co/zQUuHV5jgl | 互联网时光机 | 另一个我 @她",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/TwitterArchiver",
+                "end": 66,
+                "expanded_url": "http://github.com/TwitterArchiver",
+                "start": 43,
+                "url": "https://t.co/zQUuHV5jgl"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/sjshb57",
+                "end": 23,
+                "expanded_url": "https://github.com/sjshb57",
+                "start": 0,
+                "url": "https://t.co/exd5BvIRMs"
+              }
+            ]
+          }
+        },
+        "id": "1440268407249649668",
+        "location": "🌏🌐",
+        "name": "拜託",
+        "pinned_tweet_id": "2059963380421804541",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043709113801318400/w2Ah0L0Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234,
+          "following_count": 427,
+          "like_count": 630,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 170
+        },
+        "url": "https://t.co/exd5BvIRMs",
+        "username": "sjshb57",
+        "verified": true
+      }
+    ]
+  }
+}

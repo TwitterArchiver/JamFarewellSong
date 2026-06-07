@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2060470418025451943",
+    "created_at": "2026-05-29T21:16:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T22:16:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060470418025451943"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1820207828931424256",
+          "start": 3,
+          "username": "neko0202002"
+        },
+        {
+          "end": 32,
+          "id": "1243590342911410176",
+          "start": 17,
+          "username": "bing2000100830"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060470418025451943",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 39
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038639469193199815",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @neko0202002: @bing2000100830 转发这个图片，不要增加无谓的死亡，就算要下去陪她，也必须确定她真的死亡之后，不然的话，假如她存活了，那么就是我们亲手杀死了她而已，用一切方法收集信息，尘埃落定之前，不能再增加无谓的死亡了 https://t.co…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2038639452323753984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEqzx9zasAA40pS.jpg",
+        "width": 916
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2060470418025451943",
+        "created_at": "2026-05-29T21:16:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T22:16:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060470418025451943"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1820207828931424256",
+              "start": 3,
+              "username": "neko0202002"
+            },
+            {
+              "end": 32,
+              "id": "1243590342911410176",
+              "start": 17,
+              "username": "bing2000100830"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060470418025451943",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 39
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038639469193199815",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @neko0202002: @bing2000100830 转发这个图片，不要增加无谓的死亡，就算要下去陪她，也必须确定她真的死亡之后，不然的话，假如她存活了，那么就是我们亲手杀死了她而已，用一切方法收集信息，尘埃落定之前，不能再增加无谓的死亡了 https://t.co…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038639452323753984"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "conversation_id": "2038593489173463382",
+        "created_at": "2026-03-30T15:28:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T16:28:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038639469193199815"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1243590342911410176",
+              "start": 0,
+              "username": "bing2000100830"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mAliILKQrG",
+              "end": 133,
+              "expanded_url": "https://x.com/neko0202002/status/2038639469193199815/photo/1",
+              "media_key": "3_2038639452323753984",
+              "start": 110,
+              "url": "https://t.co/mAliILKQrG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038639469193199815",
+        "in_reply_to_user_id": "1243590342911410176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 14210,
+          "like_count": 91,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 39
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038637611221397654",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bing2000100830 转发这个图片，不要增加无谓的死亡，就算要下去陪她，也必须确定她真的死亡之后，不然的话，假如她存活了，那么就是我们亲手杀死了她而已，用一切方法收集信息，尘埃落定之前，不能再增加无谓的死亡了 https://t.co/mAliILKQrG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX（断糖中）&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od&自伤新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 280,
+          "following_count": 1043,
+          "like_count": 4019,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 997
+        },
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "圣应女学院三年级生",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 756,
+          "following_count": 970,
+          "like_count": 1671,
+          "listed_count": 2,
+          "media_count": 1521,
+          "tweet_count": 4236
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。  \n💊",
+        "id": "1243590342911410176",
+        "location": "北极",
+        "name": "饼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 810,
+          "following_count": 1187,
+          "like_count": 42229,
+          "listed_count": 3,
+          "media_count": 95,
+          "tweet_count": 2555
+        },
+        "username": "bing2000100830",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061915746867752960"
+      ],
+      "media_source_tweet_id": [
+        "2061915774130786641"
+      ]
+    },
+    "author_id": "1907414826101669888",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2062048932524687470",
+    "created_at": "2026-06-03T05:49:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T06:49:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062048932524687470"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2001982225848692737",
+          "start": 3,
+          "username": "tac_nyanX3"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UFeeQ530rl",
+          "end": 39,
+          "expanded_url": "https://x.com/tac_nyanX3/status/2061915774130786641/photo/1",
+          "media_key": "3_2061915746867752960",
+          "start": 16,
+          "url": "https://t.co/UFeeQ530rl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062048932524687470",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1374
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061915774130786641",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tac_nyanX3: https://t.co/UFeeQ530rl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 526,
+        "media_key": "3_2061915746867752960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ1lcoDWMAAMn7h.jpg",
+        "width": 525
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061915746867752960"
+          ],
+          "media_source_tweet_id": [
+            "2061915774130786641"
+          ]
+        },
+        "author_id": "1907414826101669888",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2062048932524687470",
+        "created_at": "2026-06-03T05:49:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T06:49:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062048932524687470"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2001982225848692737",
+              "start": 3,
+              "username": "tac_nyanX3"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UFeeQ530rl",
+              "end": 39,
+              "expanded_url": "https://x.com/tac_nyanX3/status/2061915774130786641/photo/1",
+              "media_key": "3_2061915746867752960",
+              "start": 16,
+              "url": "https://t.co/UFeeQ530rl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062048932524687470",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1374
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061915774130786641",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tac_nyanX3: https://t.co/UFeeQ530rl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061915746867752960"
+          ]
+        },
+        "author_id": "2001982225848692737",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2061915774130786641",
+        "created_at": "2026-06-02T21:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T22:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061915774130786641"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UFeeQ530rl",
+              "end": 23,
+              "expanded_url": "https://x.com/tac_nyanX3/status/2061915774130786641/photo/1",
+              "media_key": "3_2061915746867752960",
+              "start": 0,
+              "url": "https://t.co/UFeeQ530rl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061915774130786641",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 985,
+          "impression_count": 52565,
+          "like_count": 8917,
+          "quote_count": 2,
+          "reply_count": 10,
+          "retweet_count": 1374
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/UFeeQ530rl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX（断糖中）&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od&自伤新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 295,
+          "following_count": 1079,
+          "like_count": 4235,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 1041
+        },
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-19T11:45:49.000Z",
+        "description": "i draw whatever i want\ncredit me if ur using my art !!\ncomms (closed)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tacnyanx3.straw.page",
+                "end": 23,
+                "expanded_url": "https://tacnyanx3.straw.page/",
+                "start": 0,
+                "url": "https://t.co/UGfseTnDX5"
+              }
+            ]
+          }
+        },
+        "id": "2001982225848692737",
+        "location": "she.22",
+        "name": "DEVI",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006781325332930560/cgddU6sQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3220,
+          "following_count": 56,
+          "like_count": 2413,
+          "listed_count": 3,
+          "media_count": 68,
+          "tweet_count": 362
+        },
+        "url": "https://t.co/UGfseTnDX5",
+        "username": "tac_nyanX3",
+        "verified": false
+      }
+    ]
+  }
+}

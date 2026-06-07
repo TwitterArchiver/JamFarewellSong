@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2060683265493913737",
+    "created_at": "2026-05-30T12:18:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T13:18:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060697352822992984"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1990244187133140992",
+          "start": 0,
+          "username": "Naotan_Personal"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060697352822992984",
+    "in_reply_to_user_id": "1990244187133140992",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060683265493913737",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Naotan_Personal 手術完了おめでとうございます(๑•̀ㅂ•́)੭✧回復が順調であることを願う"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1355,
+        "media_key": "3_2060683258288013312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJkEgWTaAAAYMO-.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2060683265493913737",
+        "created_at": "2026-05-30T12:18:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T13:18:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060697352822992984"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1990244187133140992",
+              "start": 0,
+              "username": "Naotan_Personal"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060697352822992984",
+        "in_reply_to_user_id": "1990244187133140992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060683265493913737",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Naotan_Personal 手術完了おめでとうございます(๑•̀ㅂ•́)੭✧回復が順調であることを願う"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060683258288013312"
+          ]
+        },
+        "author_id": "1990244187133140992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2060683265493913737",
+        "created_at": "2026-05-30T11:22:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T12:22:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060683265493913737"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Sbg5DBzmUO",
+              "end": 57,
+              "expanded_url": "https://x.com/Naotan_Personal/status/2060683265493913737/photo/1",
+              "media_key": "3_2060683258288013312",
+              "start": 34,
+              "url": "https://t.co/Sbg5DBzmUO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060683265493913737",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 1205,
+          "like_count": 45,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "麻酔抜けるまであとちょっと病棟...。\n体験談は後日書けるかも！？ https://t.co/Sbg5DBzmUO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX（断糖中）&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od&自伤新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 289,
+          "following_count": 1061,
+          "like_count": 4065,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 1004
+        },
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-17T02:23:22.000Z",
+        "description": "なおたん本人｜’24 睾丸摘出（去勢）済｜’22 女性ホルモン剤投与２年～｜ＧＩＤ診断済｜苦手ならフォロー非推奨｜匿名の質問何でも大歓迎♪\n💌DMご自由に（※返信の確約は出来ません）\n🌟このＸアカウント以外ありません！\n※2025/11/17～YouTubeで告知の通りアカウント開設しました～ヾ(๑╹ꇴ◠๑)ﾉ\"",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@naotan-offici…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@naotan-official/shorts",
+                "start": 0,
+                "url": "https://t.co/zzYIT167tf"
+              }
+            ]
+          }
+        },
+        "id": "1990244187133140992",
+        "location": "東京都",
+        "name": "なおたん",
+        "pinned_tweet_id": "2022994296270639507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990245384334319616/xRPoHWPi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1750,
+          "following_count": 20,
+          "like_count": 6495,
+          "listed_count": 5,
+          "media_count": 115,
+          "tweet_count": 952
+        },
+        "url": "https://t.co/zzYIT167tf",
+        "username": "Naotan_Personal",
+        "verified": true
+      }
+    ]
+  }
+}

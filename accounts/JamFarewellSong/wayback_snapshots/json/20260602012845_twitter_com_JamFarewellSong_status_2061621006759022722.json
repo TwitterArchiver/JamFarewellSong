@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2061583472389742707",
+    "created_at": "2026-06-02T01:28:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T02:28:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061621006759022722"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2010816143846768640",
+          "start": 0,
+          "username": "luo_240110"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061621006759022722",
+    "in_reply_to_user_id": "2010816143846768640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061583472389742707",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@luo_240110 呜，每日查看中…又看到Ciallo在说这种话😢"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1910,
+        "media_key": "3_2061582401671999488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJw2RYbbMAAMPhO.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2061583472389742707",
+        "created_at": "2026-06-02T01:28:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T02:28:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061621006759022722"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2010816143846768640",
+              "start": 0,
+              "username": "luo_240110"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061621006759022722",
+        "in_reply_to_user_id": "2010816143846768640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061583472389742707",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luo_240110 呜，每日查看中…又看到Ciallo在说这种话😢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061582401671999488"
+          ]
+        },
+        "author_id": "2010816143846768640",
+        "conversation_id": "2061583472389742707",
+        "created_at": "2026-06-01T22:59:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T23:59:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061583472389742707"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PbWNzDEsz8",
+              "end": 169,
+              "expanded_url": "https://x.com/luo_240110/status/2061583472389742707/photo/1",
+              "media_key": "3_2061582401671999488",
+              "start": 146,
+              "url": "https://t.co/PbWNzDEsz8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061583472389742707",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 108,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这样其实也挺好，大幅减少帖子曝光率可以降低被人发现的可能，现在连互fo都有可能看不见我的帖子更别提非互fo了；\n像之前一二代目一两千fo的时候我那定时刚发出来五分钟不到就有人报警了，现在不过百来fo，有时候帖子发出去几十分钟连10浏览量都没有，所以即使真似了也没多少人知道，嗯，真挺好的☺️ https://t.co/PbWNzDEsz8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX（断糖中）&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od&自伤新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 293,
+          "following_count": 1071,
+          "like_count": 4216,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 1034
+        },
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-12T20:48:47.000Z",
+        "description": "話したくない｜Ciallo～(∠・ω ≤ )︵★四代目",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Wrin520t",
+                "end": 23,
+                "expanded_url": "http://t.me/Wrin520t",
+                "start": 0,
+                "url": "https://t.co/qKIDVMQsor"
+              }
+            ]
+          }
+        },
+        "id": "2010816143846768640",
+        "location": "地球",
+        "name": "Ciallo🍥",
+        "pinned_tweet_id": "2058950293937958932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058074498285617152/2kdhJxKg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 204,
+          "like_count": 329,
+          "listed_count": 1,
+          "media_count": 10,
+          "tweet_count": 471
+        },
+        "url": "https://t.co/qKIDVMQsor",
+        "username": "luo_240110",
+        "verified": false
+      }
+    ]
+  }
+}
