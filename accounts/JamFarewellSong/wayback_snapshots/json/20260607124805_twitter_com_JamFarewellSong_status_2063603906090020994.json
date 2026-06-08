@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2063603906090020994",
+    "created_at": "2026-06-07T12:48:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T13:48:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063603906090020994"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1902217890738401281",
+          "start": 3,
+          "username": "Sylvviiae"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063603906090020994",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 31
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049317915904913746",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Sylvviiae: 此推仅作为自我表达\n我不希望在我紫砂时朋友晶我，因为我不希望把给你的知情权变成捅向自己的利刃。比起紫砂，我觉得让一群健全b和我痛苦的根源剥夺生命留给我最后的尊严更像是自私的定义。这是我深思熟虑后的选择，也是我希望最后一次被看见的机会。在我的生命如烟…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2063603906090020994",
+        "created_at": "2026-06-07T12:48:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T13:48:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063603906090020994"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1902217890738401281",
+              "start": 3,
+              "username": "Sylvviiae"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063603906090020994",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 31
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049317915904913746",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Sylvviiae: 此推仅作为自我表达\n我不希望在我紫砂时朋友晶我，因为我不希望把给你的知情权变成捅向自己的利刃。比起紫砂，我觉得让一群健全b和我痛苦的根源剥夺生命留给我最后的尊严更像是自私的定义。这是我深思熟虑后的选择，也是我希望最后一次被看见的机会。在我的生命如烟…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902217890738401281",
+        "conversation_id": "2049317915904913746",
+        "created_at": "2026-04-29T02:40:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T03:40:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049317915904913746"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049317915904913746",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 15954,
+          "like_count": 225,
+          "quote_count": 1,
+          "reply_count": 23,
+          "retweet_count": 31
+        },
+        "reply_settings": "everyone",
+        "text": "此推仅作为自我表达\n我不希望在我紫砂时朋友晶我，因为我不希望把给你的知情权变成捅向自己的利刃。比起紫砂，我觉得让一群健全b和我痛苦的根源剥夺生命留给我最后的尊严更像是自私的定义。这是我深思熟虑后的选择，也是我希望最后一次被看见的机会。在我的生命如烟花般炸开的时候，请抬头说：她真好看"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX（断糖中）&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od&自伤新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 313,
+          "following_count": 1109,
+          "like_count": 4527,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 1087
+        },
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-19T04:38:16.000Z",
+        "description": "bilingual, bisexual, bipolar, and bpd\n有fo就回，请来找我聊天(ifb and dms open)\n该小众文艺b想走近你的世界看一看\nTrying my best to be interesting lest I be jilted.",
+        "id": "1902217890738401281",
+        "name": "Sylwia",
+        "pinned_tweet_id": "2049317915904913746",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023853936030216193/teTeCxB-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1008,
+          "following_count": 840,
+          "like_count": 339,
+          "listed_count": 2,
+          "media_count": 71,
+          "tweet_count": 1488
+        },
+        "username": "Sylvviiae",
+        "verified": false
+      }
+    ]
+  }
+}

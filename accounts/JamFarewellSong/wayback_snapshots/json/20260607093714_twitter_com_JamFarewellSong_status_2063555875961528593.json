@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2063555875961528593",
+    "created_at": "2026-06-07T09:37:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T10:37:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063555875961528593"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1809604484173295620",
+          "start": 3,
+          "username": "for_4ngel"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063555875961528593",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061309129990476143",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @for_4ngel: 偏回避策略的恐惧型依恋往往在后期会对伴侣这么做，也可能包括突然对你大发脾气做出一些很极端的推拉的事。但实际上当他开始对你这么做，是因为你已经走到测试的最后一步了，他要看看你是否真的能接受他的全部或者真的在乎他他才敢把自己和伤害自己的权利交给你，这是…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2063555875961528593",
+        "created_at": "2026-06-07T09:37:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T10:37:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063555875961528593"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1809604484173295620",
+              "start": 3,
+              "username": "for_4ngel"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063555875961528593",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061309129990476143",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @for_4ngel: 偏回避策略的恐惧型依恋往往在后期会对伴侣这么做，也可能包括突然对你大发脾气做出一些很极端的推拉的事。但实际上当他开始对你这么做，是因为你已经走到测试的最后一步了，他要看看你是否真的能接受他的全部或者真的在乎他他才敢把自己和伤害自己的权利交给你，这是…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809604484173295620",
+        "conversation_id": "2061309129990476143",
+        "created_at": "2026-06-01T04:49:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T05:49:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061309129990476143"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/0b7cm/status/2…",
+              "end": 154,
+              "expanded_url": "https://twitter.com/0b7cm/status/2061074324552118605",
+              "start": 131,
+              "url": "https://t.co/R4GFjb11sO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061309129990476143",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 598,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061074324552118605",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "偏回避策略的恐惧型依恋往往在后期会对伴侣这么做，也可能包括突然对你大发脾气做出一些很极端的推拉的事。但实际上当他开始对你这么做，是因为你已经走到测试的最后一步了，他要看看你是否真的能接受他的全部或者真的在乎他他才敢把自己和伤害自己的权利交给你，这是一种高级信任 https://t.co/R4GFjb11sO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX（断糖中）&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od&自伤新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 308,
+          "following_count": 1100,
+          "like_count": 4478,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 1075
+        },
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-06T15:05:18.000Z",
+        "description": "07 |♂ | 双相情感障碍C-PTSD BPD-E | shtwt| 0D | 学过一些人格学，心理学以及药理学 最擅长的是依恋人格学和人格障碍学还有一些0D相关的药理学，有问题可以来找我可以把我当情绪垃圾桶，非常乐意解答希望你们都好好的Angel永远在这里🤪，欢迎互fo",
+        "id": "1809604484173295620",
+        "location": "若能成為誰的心臟",
+        "name": "Angel",
+        "pinned_tweet_id": "2060574328085995870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058112788934098944/ke7b7Se3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 638,
+          "following_count": 496,
+          "like_count": 342,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 627
+        },
+        "username": "for_4ngel",
+        "verified": false
+      }
+    ]
+  }
+}

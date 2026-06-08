@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062859065814880256"
+      ],
+      "media_source_tweet_id": [
+        "2062859085528121784"
+      ]
+    },
+    "author_id": "1907414826101669888",
+    "conversation_id": "2063228846837744075",
+    "created_at": "2026-06-06T11:57:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T12:57:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063228846837744075"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1315706812935487489",
+          "start": 3,
+          "username": "maigo_wakatake"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xQNiQuBz9b",
+          "end": 76,
+          "expanded_url": "https://x.com/maigo_wakatake/status/2062859085528121784/photo/1",
+          "media_key": "3_2062859065814880256",
+          "start": 53,
+          "url": "https://t.co/xQNiQuBz9b"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063228846837744075",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062859085528121784",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @maigo_wakatake: 给任何一位有意从事危机干预和心理支持工作的人的一个教科书级反例。 https://t.co/xQNiQuBz9b"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 985,
+        "media_key": "3_2062859065814880256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKC_ZA-XEAAOjbi.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062859065814880256"
+          ],
+          "media_source_tweet_id": [
+            "2062859085528121784"
+          ]
+        },
+        "author_id": "1907414826101669888",
+        "conversation_id": "2063228846837744075",
+        "created_at": "2026-06-06T11:57:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T12:57:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063228846837744075"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1315706812935487489",
+              "start": 3,
+              "username": "maigo_wakatake"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xQNiQuBz9b",
+              "end": 76,
+              "expanded_url": "https://x.com/maigo_wakatake/status/2062859085528121784/photo/1",
+              "media_key": "3_2062859065814880256",
+              "start": 53,
+              "url": "https://t.co/xQNiQuBz9b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063228846837744075",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062859085528121784",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @maigo_wakatake: 给任何一位有意从事危机干预和心理支持工作的人的一个教科书级反例。 https://t.co/xQNiQuBz9b"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062859065814880256"
+          ]
+        },
+        "author_id": "1315706812935487489",
+        "conversation_id": "2062859085528121784",
+        "created_at": "2026-06-05T11:28:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T12:28:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062859085528121784"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xQNiQuBz9b",
+              "end": 56,
+              "expanded_url": "https://x.com/maigo_wakatake/status/2062859085528121784/photo/1",
+              "media_key": "3_2062859065814880256",
+              "start": 33,
+              "url": "https://t.co/xQNiQuBz9b"
+            },
+            {
+              "display_url": "x.com/transyuwen/sta…",
+              "end": 80,
+              "expanded_url": "https://twitter.com/transyuwen/status/2062453803253989773",
+              "start": 57,
+              "url": "https://t.co/BSNQaOlm6V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062859085528121784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 783,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062453803253989773",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "给任何一位有意从事危机干预和心理支持工作的人的一个教科书级反例。 https://t.co/xQNiQuBz9b https://t.co/BSNQaOlm6V"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX（断糖中）&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od&自伤新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 306,
+          "following_count": 1100,
+          "like_count": 4463,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 1074
+        },
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-12T17:32:11.000Z",
+        "description": "以及当然了我需要钱。",
+        "id": "1315706812935487489",
+        "location": "Ará Orún",
+        "name": "⌘",
+        "pinned_tweet_id": "2059613401626620381",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870529941026267136/vJ_l7ugO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2354,
+          "following_count": 206,
+          "like_count": 3103,
+          "listed_count": 10,
+          "media_count": 2401,
+          "tweet_count": 21780
+        },
+        "username": "maigo_wakatake",
+        "verified": true
+      }
+    ]
+  }
+}

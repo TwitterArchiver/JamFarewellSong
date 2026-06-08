@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2063225113546461212",
+    "created_at": "2026-06-06T11:42:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T12:42:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063225113546461212"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1767161673566359552",
+          "start": 3,
+          "username": "willa_citrus"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063225113546461212",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062763885984448530",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @willa_citrus: 要跳楼的人我拉过不止一两个 我知道需要出多大的力把人扯住到摔在地上 你只是选择了把人扔给家长和她不愿面对的精卫\n第六条更荒谬了 如果你认同这种方式你应该注销自己的所有账号 然后去劝清蒸把频道关了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2063225113546461212",
+        "created_at": "2026-06-06T11:42:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T12:42:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063225113546461212"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1767161673566359552",
+              "start": 3,
+              "username": "willa_citrus"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063225113546461212",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062763885984448530",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @willa_citrus: 要跳楼的人我拉过不止一两个 我知道需要出多大的力把人扯住到摔在地上 你只是选择了把人扔给家长和她不愿面对的精卫\n第六条更荒谬了 如果你认同这种方式你应该注销自己的所有账号 然后去劝清蒸把频道关了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767161673566359552",
+        "conversation_id": "2062763885984448530",
+        "created_at": "2026-06-05T05:10:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T06:10:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062763885984448530"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/willa_citrus/s…",
+              "end": 121,
+              "expanded_url": "https://twitter.com/willa_citrus/status/2062763319212339511",
+              "start": 98,
+              "url": "https://t.co/QxFWR302PU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062763885984448530",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2020,
+          "like_count": 69,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062763319212339511",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "要跳楼的人我拉过不止一两个 我知道需要出多大的力把人扯住到摔在地上 你只是选择了把人扔给家长和她不愿面对的精卫\n第六条更荒谬了 如果你认同这种方式你应该注销自己的所有账号 然后去劝清蒸把频道关了 https://t.co/QxFWR302PU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX（断糖中）&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od&自伤新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 305,
+          "following_count": 1097,
+          "like_count": 4447,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 1073
+        },
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-11T12:12:39.000Z",
+        "description": "试图照见自己 / 杭州三本工科PhD在读 / 怪猎&魂 / 光明果派漫宿研习者 / 彻夜飞旋，直至甜美的生诞 / 人生意义是创造、帮助和改变 / 如果空下来一定要做个播客 / 甜甜同居六年多 @rat_miyari",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 96,
+                "username": "rat_miyari"
+              }
+            ]
+          }
+        },
+        "id": "1767161673566359552",
+        "location": "杭州",
+        "name": "王小檬𝖂𝖎𝖑𝖑𝖆🍋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978691032192782336/2rH_jGCj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12012,
+          "following_count": 238,
+          "like_count": 7774,
+          "listed_count": 35,
+          "media_count": 350,
+          "tweet_count": 8838
+        },
+        "username": "willa_citrus",
+        "verified": false
+      }
+    ]
+  }
+}

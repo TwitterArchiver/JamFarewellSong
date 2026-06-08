@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      }
+    ],
+    "conversation_id": "2063556975733129528",
+    "created_at": "2026-06-07T09:41:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T10:41:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063556975733129528"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1574668085314965504",
+          "start": 3,
+          "username": "Meer19002"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063556975733129528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 120
+    },
+    "referenced_tweets": [
+      {
+        "id": "1742733252396482778",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Meer19002: （转载一封遗书，写得很好）\n\n致所有希望阻止我并失败了的人们：\n\n人生这部电影到现在为止我都很不喜欢，所以剩下的我也不想看了。\n\n你作为一个也没看过的人，又有什么底气向我保证接下来的会更好看呢？\n\n劝人不要自杀，作好对他接下来的生命负责的准备了吗？…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2063556975733129528",
+        "created_at": "2026-06-07T09:41:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T10:41:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063556975733129528"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1574668085314965504",
+              "start": 3,
+              "username": "Meer19002"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063556975733129528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 120
+        },
+        "referenced_tweets": [
+          {
+            "id": "1742733252396482778",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Meer19002: （转载一封遗书，写得很好）\n\n致所有希望阻止我并失败了的人们：\n\n人生这部电影到现在为止我都很不喜欢，所以剩下的我也不想看了。\n\n你作为一个也没看过的人，又有什么底气向我保证接下来的会更好看呢？\n\n劝人不要自杀，作好对他接下来的生命负责的准备了吗？…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1574668085314965504",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "1742733252396482778",
+        "created_at": "2024-01-04T02:22:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-01-04T03:22:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1742733252396482778"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1742733252396482778",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "（转载一封遗书，写得很好）\n\n致所有希望阻止我并失败了的人们：\n\n人生这部电影到现在为止我都很不喜欢，所以剩下的我也不想看了。\n\n你作为一个也没看过的人，又有什么底气向我保证接下来的会更好看呢？\n\n劝人不要自杀，作好对他接下来的生命负责的准备了吗？\n\n活着就会有好事发生，说出这句话，如果有坏事发生了你负责解决掉么？没有好事的话，你负责造出来吗？\n\n因为自己想活着，为了维护自己的认知而去改变别人的认知，不自私么？\n\n上下两片嘴，说生命宝贵的是你，说人生不如意十之八九的也是你。\n\n为什么要为了不如意活着？\n\n为了那一两分的美好吗？\n\n就像从一堆垃圾里找出几粒米饭来吃。\n\n“活该”这个词也许是最好的词。\n\n因为活，所以该。\n\n为什么你觉得宝贵的东西，我也一样要觉得宝贵呢？\n\n也许你的珍馐在我看来就是臭鱼罐头，你为什么要强迫我也去欣赏呢？\n\n生活就像品味美食，喜欢吃就吃，因为别人说好吃而捏着鼻子去学怎么吃，就不值得了吧。\n\n因为自己觉得好吃而在我表现出不想吃以后还一直劝我吃，也太无理取闹了吧。\n\n我不吃臭豆腐，你把臭豆腐硬塞给我还不许我倒掉，是不是有点不讲理？\n\n你相信“来都来了”，我相信“及时止损”。我没质疑你的投资理念，你为什么要来干预我的？\n\n同样的股票，你觉得会涨，我觉得要跌。但这不是你按着我的手不让我卖掉的借口。\n\n没人会问“为什么一定要阻止抛股票的人”\n\n因为我们都知道要尊重对方的投资理念。\n\n如果是为了自杀的当事人，也就是我，那么不需要阻止。请祝我成功。那才是我做梦都想要的。\n\n如果为了你自己，是不是又太自私。\n\n生命是被强加于我的物品，喜欢的话我自然会珍惜。但是如果不喜欢甚至很讨厌，要扔掉时还有一堆人抱着各种各样的理论来干预，不是强人所难吗？\n\n批评自杀的人懦弱，和批评扔掉垃圾的人浪费，又有什么区别呢。\n\n你想要的话欢迎拿去，如果你有办法的话。\n\n要不然我只能扔掉了。\n\n没有人自己选择来到这世界上，更没有人是通过努力“争取”到了来到这世界上的机会。所以所谓生命的宝贵只是没意义的空谈。说不定我是因为做错了什么事被惩罚来到这世上的，说不定这世界就是个没有狱警的监狱，那么为什么要阻止别人走出去呢？\n\n也许设计监狱的人让我们互相作为对方的狱警。\n\n如果一个没付出任何努力就得到的东西还给它的所有者带来烦恼和痛苦，那这个东西至少对他而言根本不宝贵。\n\n也许同样的东西在你眼中是无价之宝，但是这并不是我留下他的理由，更不是任何人阻止我丢弃它的借口。\n\n我们的父母想要延续自己的基因，所以我们被迫来到这世界上完成他们的愿望。又由于自然的选择，我们都是那种潜意识里认为生命宝贵的生物。但是我们却没有任何强有力的论据支持我们的观点。所以有些人在有些情况下对这个观点产生了质疑，并且不打算在以此为面对世界的准则，难道有什么不对的么？\n\n归根结底，你我都是基因的奴隶。\n\n为了你好，是最理直气壮的谎言。\n\n怕你后悔，是最莫名其妙的借口。\n\n以后的事，你们随意。\n\n剩下的路，祝你乘风破浪。\n\n也请祝我一路走好。\n\n以及，不要因为没能阻止我而遗憾。\n\n因为我花了这么久述说我的思想，请不要让我最后的努力白费。\n\n拜托。\n\n已经太久了，就陪你们到这吧。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 156,
+          "impression_count": 99750,
+          "like_count": 400,
+          "quote_count": 31,
+          "reply_count": 23,
+          "retweet_count": 120
+        },
+        "reply_settings": "everyone",
+        "text": "（转载一封遗书，写得很好）\n\n致所有希望阻止我并失败了的人们：\n\n人生这部电影到现在为止我都很不喜欢，所以剩下的我也不想看了。\n\n你作为一个也没看过的人，又有什么底气向我保证接下来的会更好看呢？\n\n劝人不要自杀，作好对他接下来的生命负责的准备了吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX（断糖中）&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od&自伤新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 308,
+          "following_count": 1100,
+          "like_count": 4480,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 1076
+        },
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-27T07:51:55.000Z",
+        "description": "好想死☠️",
+        "id": "1574668085314965504",
+        "name": "Hazel Valentine",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1838764299734650880/DF7plmmj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1590,
+          "following_count": 747,
+          "like_count": 11289,
+          "listed_count": 13,
+          "media_count": 1403,
+          "tweet_count": 11429
+        },
+        "username": "Meer19002",
+        "verified": false
+      }
+    ]
+  }
+}

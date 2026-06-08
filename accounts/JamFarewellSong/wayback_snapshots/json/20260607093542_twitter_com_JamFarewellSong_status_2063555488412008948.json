@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2063555488412008948",
+    "created_at": "2026-06-07T09:35:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T10:35:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063555488412008948"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1827721690606182400",
+          "start": 3,
+          "username": "agoneHhhh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063555488412008948",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 26
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063274303202971857",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @agoneHhhh: X能出一个仅自己可见的功能就好了\n那些赤裸表达感情的文字\n删了吧，也算是当时的一种心境\n留着吧，心里又是一阵酸涩"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2063555488412008948",
+        "created_at": "2026-06-07T09:35:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T10:35:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063555488412008948"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1827721690606182400",
+              "start": 3,
+              "username": "agoneHhhh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063555488412008948",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 26
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063274303202971857",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @agoneHhhh: X能出一个仅自己可见的功能就好了\n那些赤裸表达感情的文字\n删了吧，也算是当时的一种心境\n留着吧，心里又是一阵酸涩"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1827721690606182400",
+        "conversation_id": "2063274303202971857",
+        "created_at": "2026-06-06T14:58:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T15:58:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063274303202971857"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063274303202971857",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 20277,
+          "like_count": 368,
+          "quote_count": 3,
+          "reply_count": 47,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "X能出一个仅自己可见的功能就好了\n那些赤裸表达感情的文字\n删了吧，也算是当时的一种心境\n留着吧，心里又是一阵酸涩"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX（断糖中）&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od&自伤新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 308,
+          "following_count": 1100,
+          "like_count": 4477,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 1074
+        },
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-25T14:56:51.000Z",
+        "description": "匿名提问：https://t.co/hYjpUG1pna\n没人认识我的朋友圈，情绪垃圾桶，把这当日记本 不加其他的，不约，不线下 好色但不随便",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/agonehhhh12",
+                "end": 28,
+                "expanded_url": "https://ngl.link/agonehhhh12",
+                "start": 5,
+                "url": "https://t.co/hYjpUG1pna"
+              }
+            ]
+          }
+        },
+        "id": "1827721690606182400",
+        "name": "醉",
+        "pinned_tweet_id": "2049860670775296012",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828103802400157696/ZnE1SXlo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 701,
+          "following_count": 110,
+          "like_count": 226,
+          "listed_count": 2,
+          "media_count": 69,
+          "tweet_count": 426
+        },
+        "username": "agoneHhhh",
+        "verified": false
+      }
+    ]
+  }
+}
