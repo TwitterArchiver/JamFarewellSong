@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-06-21T06:59:05",
+  "last_updated": "2026-06-21T07:09:29",
   "html": {
     "https://web.archive.org/web/20251022170627if_/https://twitter.com/JamFarewellSong/status/1981044493173608808": {
       "status": "done",
@@ -10744,9 +10744,9 @@
         "20251024041941_twitter_com_JamFarewellSong_status_1981576305553629639.json",
         "20251024041947_twitter_com_JamFarewellSong_status_1981576330295775671.json"
       ],
-      "last_updated": "2026-06-16T18:36:52",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251024041947if_/https://pbs.twimg.com/profile_images/1909400417718697984/MZ6HHcVe_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f1a795337d0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 14
+      "last_updated": "2026-06-21T07:04:22",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251024041947im_/https://pbs.twimg.com/profile_images/1909400417718697984/MZ6HHcVe_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ff53c8b3560>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 16
     },
     "https://pbs.twimg.com/profile_images/1962426785532170240/hz3rO6fL_normal.jpg": {
       "status": "done",
@@ -10821,9 +10821,9 @@
       "referenced_by": [
         "20251215145755_twitter_com_JamFarewellSong_status_2000581088368853323.json"
       ],
-      "last_updated": "2026-06-16T18:36:56",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251215145755im_/https://pbs.twimg.com/profile_images/1785932135343517696/IksFS8pw_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f1a7956a180>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 14
+      "last_updated": "2026-06-21T07:04:24",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251215145755if_/https://pbs.twimg.com/profile_images/1785932135343517696/IksFS8pw_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ff53c8c8c20>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 16
     },
     "https://pbs.twimg.com/profile_images/1989137189947510784/PVNYflHA_normal.jpg": {
       "status": "done",
@@ -10844,9 +10844,9 @@
       "referenced_by": [
         "20251217121205_twitter_com_JamFarewellSong_status_2001264131580838062.json"
       ],
-      "last_updated": "2026-06-16T18:36:59",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251217121205im_/https://pbs.twimg.com/profile_images/1970416869896265733/EPXCdoOg_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f1a7956afc0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 14
+      "last_updated": "2026-06-21T07:04:28",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251217121205if_/https://pbs.twimg.com/profile_images/1970416869896265733/EPXCdoOg_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ff53c8c8e00>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 16
     },
     "https://pbs.twimg.com/profile_images/2002586355323502592/8QOsOMbS_normal.jpg": {
       "status": "done",
@@ -10885,9 +10885,9 @@
       "referenced_by": [
         "20260111164154_twitter_com_JamFarewellSong_status_2010391729321783418.json"
       ],
-      "last_updated": "2026-06-16T18:37:02",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260111164154im_/https://pbs.twimg.com/profile_images/2005994446182346752/UEoFuDkT_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f1a79532c90>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 14
+      "last_updated": "2026-06-21T07:04:32",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260111164154im_/https://pbs.twimg.com/profile_images/2005994446182346752/UEoFuDkT_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ff53c8b2a50>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 16
     },
     "https://pbs.twimg.com/profile_images/1998005078113095680/QHJ0qXyl_normal.jpg": {
       "status": "done",
@@ -11005,27 +11005,27 @@
       "referenced_by": [
         "20260202203358_twitter_com_JamFarewellSong_status_2018422666458497320.json"
       ],
-      "last_updated": "2026-06-16T18:37:06",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260202203358im_/https://pbs.twimg.com/profile_images/2018208475923480576/ON1VpjXw_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f1a79532ea0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 14
+      "last_updated": "2026-06-21T07:04:35",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260202203358if_/https://pbs.twimg.com/profile_images/2018208475923480576/ON1VpjXw_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ff53c8b19a0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 16
     },
     "https://pbs.twimg.com/profile_images/2012460809369145344/kPPllsS5_normal.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260202203705_twitter_com_JamFarewellSong_status_2018423448255750359.json"
       ],
-      "last_updated": "2026-06-16T18:37:09",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260202203705im_/https://pbs.twimg.com/profile_images/2012460809369145344/kPPllsS5_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f1a7956ba40>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 14
+      "last_updated": "2026-06-21T07:04:39",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260202203705im_/https://pbs.twimg.com/profile_images/2012460809369145344/kPPllsS5_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ff53c8f0590>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 16
     },
     "https://pbs.twimg.com/profile_images/2009203275032350726/PGYv_RPG_normal.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260202203705_twitter_com_JamFarewellSong_status_2018423448255750359.json"
       ],
-      "last_updated": "2026-06-16T18:37:13",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260202203705im_/https://pbs.twimg.com/profile_images/2009203275032350726/PGYv_RPG_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f1a795c36e0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 14
+      "last_updated": "2026-06-21T07:04:43",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260202203705im_/https://pbs.twimg.com/profile_images/2009203275032350726/PGYv_RPG_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ff53c8c8bc0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 16
     },
     "https://pbs.twimg.com/profile_images/2015596343691972609/3AX9GPcF_normal.jpg": {
       "status": "done",
@@ -11040,9 +11040,9 @@
       "referenced_by": [
         "20260203000500_twitter_com_JamFarewellSong_status_2018475772743450768.json"
       ],
-      "last_updated": "2026-06-16T18:37:16",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260203000500im_/https://pbs.twimg.com/profile_images/2017618397626871808/E9Ovv9d7_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f1a79532870>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 14
+      "last_updated": "2026-06-21T07:04:46",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260203000500if_/https://pbs.twimg.com/profile_images/2017618397626871808/E9Ovv9d7_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ff53c8b0f50>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 16
     },
     "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg": {
       "status": "done",
@@ -11138,9 +11138,9 @@
       "referenced_by": [
         "20260329202544_twitter_com_JamFarewellSong_status_2038351923687063752.json"
       ],
-      "last_updated": "2026-06-16T18:37:20",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260329202544im_/https://pbs.twimg.com/profile_images/2010705759475208194/F3qst3e9_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f1a795e0260>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 14
+      "last_updated": "2026-06-21T07:04:49",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260329202544im_/https://pbs.twimg.com/profile_images/2010705759475208194/F3qst3e9_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ff53c8f14f0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 16
     },
     "https://pbs.twimg.com/profile_images/2029202626315993095/w12DBvYF_normal.jpg": {
       "status": "done",
@@ -11171,9 +11171,9 @@
       "referenced_by": [
         "20260329204207_twitter_com_JamFarewellSong_status_2038356048973861270.json"
       ],
-      "last_updated": "2026-06-16T18:37:23",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260329204207im_/https://pbs.twimg.com/profile_images/2037697121529524224/0xq_PmNd_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f1a795c1040>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 14
+      "last_updated": "2026-06-21T07:04:52",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260329204207if_/https://pbs.twimg.com/profile_images/2037697121529524224/0xq_PmNd_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ff53c8f1250>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 16
     },
     "https://pbs.twimg.com/profile_images/2008042942641172480/4QjR52Lf_normal.jpg": {
       "status": "done",
@@ -11191,9 +11191,9 @@
       "referenced_by": [
         "20260329204207_twitter_com_JamFarewellSong_status_2038356048973861270.json"
       ],
-      "last_updated": "2026-06-16T18:37:27",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260329204207im_/https://pbs.twimg.com/profile_images/1783511007530491904/MO5W_MTf_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f1a79568800>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 14
+      "last_updated": "2026-06-21T07:04:57",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260329204207if_/https://pbs.twimg.com/profile_images/1783511007530491904/MO5W_MTf_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ff53c8c9fa0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 16
     },
     "https://pbs.twimg.com/profile_images/2029921107885838338/S82ZZ0Mv_normal.jpg": {
       "status": "done",
@@ -11245,27 +11245,27 @@
       "referenced_by": [
         "20260329211401_twitter_com_JamFarewellSong_status_2038364077769298058.json"
       ],
-      "last_updated": "2026-06-16T18:37:30",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260329211401im_/https://pbs.twimg.com/profile_images/2035777803279601664/2rbjzqQe_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f1a79569490>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 14
+      "last_updated": "2026-06-21T07:04:59",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260329211401if_/https://pbs.twimg.com/profile_images/2035777803279601664/2rbjzqQe_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ff53c8f3410>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 16
     },
     "https://pbs.twimg.com/profile_images/2011497532711714818/f-A8QXeK_normal.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260329211401_twitter_com_JamFarewellSong_status_2038364077769298058.json"
       ],
-      "last_updated": "2026-06-16T18:37:33",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260329211401im_/https://pbs.twimg.com/profile_images/2011497532711714818/f-A8QXeK_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f1a795c1fa0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 14
+      "last_updated": "2026-06-21T07:05:04",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260329211401im_/https://pbs.twimg.com/profile_images/2011497532711714818/f-A8QXeK_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ff53c722c30>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 16
     },
     "https://pbs.twimg.com/profile_images/2021393278487363585/yeDtyevT_normal.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260331174306_twitter_com_JamFarewellSong_status_2039035773014683783.json"
       ],
-      "last_updated": "2026-06-16T18:37:38",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260331174306im_/https://pbs.twimg.com/profile_images/2021393278487363585/yeDtyevT_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f1a79533d10>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 14
+      "last_updated": "2026-06-21T07:05:07",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260331174306if_/https://pbs.twimg.com/profile_images/2021393278487363585/yeDtyevT_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ff53c8b3e30>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 16
     },
     "https://pbs.twimg.com/profile_images/1805344123525709824/8PQieLkR_normal.jpg": {
       "status": "done",
@@ -11281,9 +11281,9 @@
       "referenced_by": [
         "20260331185417_twitter_com_JamFarewellSong_status_2039053688006922455.json"
       ],
-      "last_updated": "2026-06-16T18:37:41",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260331185417im_/https://pbs.twimg.com/profile_images/2038287122256302080/T-kolqI2_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f1a79569820>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 14
+      "last_updated": "2026-06-21T07:05:11",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260331185417im_/https://pbs.twimg.com/profile_images/2038287122256302080/T-kolqI2_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ff53c8f1100>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 16
     },
     "https://pbs.twimg.com/profile_images/1530385867826556928/p_rx1WWI_normal.jpg": {
       "status": "done",
@@ -11370,9 +11370,9 @@
       "referenced_by": [
         "20260401213152_twitter_com_JamFarewellSong_status_2039455733373411776.json"
       ],
-      "last_updated": "2026-06-16T18:37:44",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260401213152im_/https://pbs.twimg.com/profile_images/2032645675612254208/588yugtP_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f1a795e36b0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 14
+      "last_updated": "2026-06-21T07:05:13",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260401213152if_/https://pbs.twimg.com/profile_images/2032645675612254208/588yugtP_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ff53c8b3110>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 16
     },
     "https://pbs.twimg.com/profile_images/1979282587441823744/rJVAp01e_normal.jpg": {
       "status": "done",
@@ -12593,9 +12593,9 @@
       "referenced_by": [
         "20260401233942_twitter_com_JamFarewellSong_status_2039487901743079529.json"
       ],
-      "last_updated": "2026-06-16T18:37:48",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260401233942im_/https://pbs.twimg.com/profile_images/2018364510457749504/B0j0ySjd_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f1a795c2e40>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 14
+      "last_updated": "2026-06-21T07:05:19",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260401233942im_/https://pbs.twimg.com/profile_images/2018364510457749504/B0j0ySjd_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ff53c8f1220>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 16
     },
     "https://pbs.twimg.com/profile_images/1999012450235199488/oiXZrvSO_normal.jpg": {
       "status": "done",
@@ -12639,9 +12639,9 @@
       "referenced_by": [
         "20260402160256_twitter_com_JamFarewellSong_status_2039735339821224045.json"
       ],
-      "last_updated": "2026-06-16T18:37:51",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260402160256im_/https://pbs.twimg.com/profile_images/2039264349282603008/_wWEfmzr_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f1a795e3f20>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 14
+      "last_updated": "2026-06-21T07:05:21",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260402160256if_/https://pbs.twimg.com/profile_images/2039264349282603008/_wWEfmzr_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ff53c8f3ce0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 16
     },
     "https://pbs.twimg.com/profile_images/2035670602305122304/zXiLibal_normal.jpg": {
       "status": "done",
@@ -12681,9 +12681,9 @@
       "referenced_by": [
         "20260402161912_twitter_com_JamFarewellSong_status_2039739434078441667.json"
       ],
-      "last_updated": "2026-06-16T18:37:54",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260402161912im_/https://pbs.twimg.com/profile_images/2010937703144230912/txSDt6ky_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f1a795c1b80>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 14
+      "last_updated": "2026-06-21T07:05:26",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260402161912if_/https://pbs.twimg.com/profile_images/2010937703144230912/txSDt6ky_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ff53c8b2cc0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 16
     },
     "https://pbs.twimg.com/profile_images/2029989134065094657/h1uFKinL_normal.jpg": {
       "status": "done",
@@ -12822,9 +12822,9 @@
       "referenced_by": [
         "20260405190643_twitter_com_JamFarewellSong_status_2040868757640458638.json"
       ],
-      "last_updated": "2026-06-16T18:37:57",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260405190643im_/https://pbs.twimg.com/profile_images/1991011105947492353/uNVdJm95_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f1a7956ac90>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 14
+      "last_updated": "2026-06-21T07:05:28",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260405190643if_/https://pbs.twimg.com/profile_images/1991011105947492353/uNVdJm95_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ff53c8f0bf0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 16
     },
     "https://pbs.twimg.com/profile_images/2016575350965510144/2XNPGmpU_normal.jpg": {
       "status": "done",
@@ -12845,18 +12845,18 @@
       "referenced_by": [
         "20260405192438_twitter_com_JamFarewellSong_status_2040873265951097229.json"
       ],
-      "last_updated": "2026-06-16T18:38:01",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260405192438im_/https://pbs.twimg.com/profile_images/2038939171126177792/8QoQIgca_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f1a795e3680>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 14
+      "last_updated": "2026-06-21T07:05:33",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260405192438if_/https://pbs.twimg.com/profile_images/2038939171126177792/8QoQIgca_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ff53c8c95e0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 16
     },
     "https://pbs.twimg.com/profile_images/2040630513514549248/XfKNnj1m_normal.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260405192438_twitter_com_JamFarewellSong_status_2040873265951097229.json"
       ],
-      "last_updated": "2026-06-16T18:38:04",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260405192438im_/https://pbs.twimg.com/profile_images/2040630513514549248/XfKNnj1m_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f1a795c3d10>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 14
+      "last_updated": "2026-06-21T07:05:36",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260405192438if_/https://pbs.twimg.com/profile_images/2040630513514549248/XfKNnj1m_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ff53c8cac90>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 16
     },
     "https://pbs.twimg.com/profile_images/1973792191043809284/lzew5Epz_normal.jpg": {
       "status": "done",
@@ -12872,9 +12872,9 @@
       "referenced_by": [
         "20260405202303_twitter_com_JamFarewellSong_status_2040887963769541096.json"
       ],
-      "last_updated": "2026-06-16T18:38:07",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260405202303im_/https://pbs.twimg.com/profile_images/2037757966074757120/78Tp4amm_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f1a795c0140>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 14
+      "last_updated": "2026-06-21T07:05:41",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260405202303im_/https://pbs.twimg.com/profile_images/2037757966074757120/78Tp4amm_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ff53c8c8230>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 16
     },
     "https://pbs.twimg.com/profile_images/2039023815087566850/NH31PKtP_normal.jpg": {
       "status": "done",
@@ -12940,9 +12940,9 @@
       "referenced_by": [
         "20260405210406_twitter_com_JamFarewellSong_status_2040898295040786679.json"
       ],
-      "last_updated": "2026-06-16T18:38:11",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260405210406im_/https://pbs.twimg.com/profile_images/2040872378071465984/qFyYn5RC_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f1a795c0fe0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 14
+      "last_updated": "2026-06-21T07:05:43",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260405210406if_/https://pbs.twimg.com/profile_images/2040872378071465984/qFyYn5RC_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ff53c8b01a0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 16
     },
     "https://pbs.twimg.com/profile_images/2021791717650010112/9BvDRLle_normal.jpg": {
       "status": "done",
@@ -13015,9 +13015,9 @@
       "referenced_by": [
         "20260405231955_twitter_com_JamFarewellSong_status_2040932476466655417.json"
       ],
-      "last_updated": "2026-06-16T18:38:14",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260405231955im_/https://pbs.twimg.com/profile_images/1908782550824476675/HMvPdSuq_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f1a795e2f00>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 14
+      "last_updated": "2026-06-21T07:05:48",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260405231955if_/https://pbs.twimg.com/profile_images/1908782550824476675/HMvPdSuq_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ff53c721370>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 16
     },
     "https://pbs.twimg.com/profile_images/1867229055067783168/PQRw8gfy_normal.jpg": {
       "status": "done",
@@ -13093,9 +13093,9 @@
       "referenced_by": [
         "20260406064902_twitter_com_JamFarewellSong_status_2041045501081207058.json"
       ],
-      "last_updated": "2026-06-16T18:38:18",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260406064902im_/https://pbs.twimg.com/profile_images/2033135194635706368/h5mbGu8C_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f1a795e19a0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 14
+      "last_updated": "2026-06-21T07:05:51",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260406064902if_/https://pbs.twimg.com/profile_images/2033135194635706368/h5mbGu8C_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ff53c723740>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 16
     },
     "https://pbs.twimg.com/profile_images/1678973215383879680/TJCnWz_6_normal.jpg": {
       "status": "done",
@@ -13110,9 +13110,9 @@
       "referenced_by": [
         "20260406075655_twitter_com_JamFarewellSong_status_2041062581847368084.json"
       ],
-      "last_updated": "2026-06-16T18:38:21",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260406075655im_/https://pbs.twimg.com/profile_images/2040049209597153280/GDAWZlX4_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f1a795c0ce0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 14
+      "last_updated": "2026-06-21T07:05:55",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260406075655im_/https://pbs.twimg.com/profile_images/2040049209597153280/GDAWZlX4_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ff53c8f27b0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 16
     },
     "https://pbs.twimg.com/profile_images/2020476650681675776/N8B9tua-_normal.jpg": {
       "status": "done",
@@ -13155,9 +13155,9 @@
       "referenced_by": [
         "20260406083154_twitter_com_JamFarewellSong_status_2041071384814850530.json"
       ],
-      "last_updated": "2026-06-16T18:38:25",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260406083154im_/https://pbs.twimg.com/profile_images/1946206971041816576/6XWCoBQO_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f1a795330e0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 14
+      "last_updated": "2026-06-21T07:05:57",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260406083154if_/https://pbs.twimg.com/profile_images/1946206971041816576/6XWCoBQO_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ff53c8f2ff0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 16
     },
     "https://pbs.twimg.com/profile_images/2033978135059062784/y7sj8Gmi_normal.jpg": {
       "status": "done",
@@ -13217,9 +13217,9 @@
       "referenced_by": [
         "20260406092008_twitter_com_JamFarewellSong_status_2041083525366239553.json"
       ],
-      "last_updated": "2026-06-16T18:38:28",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260406092008im_/https://pbs.twimg.com/profile_images/2031760424920883200/DV4uG4Xo_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f1a795c3a10>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 14
+      "last_updated": "2026-06-21T07:06:02",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260406092008im_/https://pbs.twimg.com/profile_images/2031760424920883200/DV4uG4Xo_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ff53c740ad0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 16
     },
     "https://pbs.twimg.com/profile_images/2008776444445626368/iHOJfO5R_normal.jpg": {
       "status": "done",
@@ -13328,9 +13328,9 @@
       "referenced_by": [
         "20260406110636_twitter_com_JamFarewellSong_status_2041110318655660459.json"
       ],
-      "last_updated": "2026-06-16T18:38:31",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260406110636im_/https://pbs.twimg.com/profile_images/2040562202382618624/-GjJAhPc_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f1a795e1af0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 14
+      "last_updated": "2026-06-21T07:06:06",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260406110636im_/https://pbs.twimg.com/profile_images/2040562202382618624/-GjJAhPc_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ff53c8cb1d0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 16
     },
     "https://pbs.twimg.com/profile_images/2024462875855900673/BMWGdQhI_normal.jpg": {
       "status": "done",
@@ -13371,9 +13371,9 @@
         "20260406151236_twitter_com_JamFarewellSong_status_2041172227924898071.json",
         "20260409154202_twitter_com_JamFarewellSong_status_2042266795600703747.json"
       ],
-      "last_updated": "2026-06-16T18:38:35",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260409154202im_/https://pbs.twimg.com/profile_images/2040974004794916864/MDffMkBI_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f1a795e2de0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 14
+      "last_updated": "2026-06-21T07:06:09",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260409154202if_/https://pbs.twimg.com/profile_images/2040974004794916864/MDffMkBI_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ff53c8ca7e0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 16
     },
     "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg": {
       "status": "done",
@@ -13412,9 +13412,9 @@
       "referenced_by": [
         "20260406175929_twitter_com_JamFarewellSong_status_2041214223687258145.json"
       ],
-      "last_updated": "2026-06-16T18:38:38",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260406175929im_/https://pbs.twimg.com/profile_images/2039052513966800896/uHTGw-bW_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f1a79532ff0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 14
+      "last_updated": "2026-06-21T07:06:15",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260406175929if_/https://pbs.twimg.com/profile_images/2039052513966800896/uHTGw-bW_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ff53c8cbb00>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 16
     },
     "https://pbs.twimg.com/profile_images/1975150471385075713/oVgW1gWH_normal.jpg": {
       "status": "done",
@@ -13433,9 +13433,9 @@
       "referenced_by": [
         "20260406181351_twitter_com_JamFarewellSong_status_2041217838212685967.json"
       ],
-      "last_updated": "2026-06-16T18:38:41",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260406181351im_/https://pbs.twimg.com/profile_images/2041043241274155008/mBZU1_7T_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f1a795c2720>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 14
+      "last_updated": "2026-06-21T07:06:17",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260406181351if_/https://pbs.twimg.com/profile_images/2041043241274155008/mBZU1_7T_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ff53c723440>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 16
     },
     "https://pbs.twimg.com/profile_images/1831679763368353792/JCLSUlMG_normal.jpg": {
       "status": "done",
@@ -13524,18 +13524,18 @@
       "referenced_by": [
         "20260406195224_twitter_com_JamFarewellSong_status_2041242641174864359.json"
       ],
-      "last_updated": "2026-06-16T18:38:45",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260406195224im_/https://pbs.twimg.com/profile_images/2041129916411101184/L2KSZRQK_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f1a795e2180>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 14
+      "last_updated": "2026-06-21T07:06:22",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260406195224im_/https://pbs.twimg.com/profile_images/2041129916411101184/L2KSZRQK_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ff53c8f29f0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 16
     },
     "https://pbs.twimg.com/profile_images/2039688223329566720/RJXo5Ejr_normal.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260406195406_twitter_com_JamFarewellSong_status_2041243068381516006.json"
       ],
-      "last_updated": "2026-06-16T18:38:48",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260406195406im_/https://pbs.twimg.com/profile_images/2039688223329566720/RJXo5Ejr_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f1a795c0f50>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 14
+      "last_updated": "2026-06-21T07:06:24",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260406195406if_/https://pbs.twimg.com/profile_images/2039688223329566720/RJXo5Ejr_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ff53c8f14c0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 16
     },
     "https://pbs.twimg.com/profile_images/1920311707546644480/0Ve3MZpc_normal.jpg": {
       "status": "done",
@@ -13549,9 +13549,9 @@
       "referenced_by": [
         "20260406202115_twitter_com_JamFarewellSong_status_2041249899493425155.json"
       ],
-      "last_updated": "2026-06-16T18:38:52",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260406202115im_/https://pbs.twimg.com/profile_images/2003799709836791810/xaTc0zVP_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f1a795e0c80>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 14
+      "last_updated": "2026-06-21T07:06:29",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260406202115if_/https://pbs.twimg.com/profile_images/2003799709836791810/xaTc0zVP_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ff53c8c8d70>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 16
     },
     "https://pbs.twimg.com/profile_images/2036538174407602176/f3gEBOjw_normal.jpg": {
       "status": "done",
@@ -13582,9 +13582,9 @@
       "referenced_by": [
         "20260406204155_twitter_com_JamFarewellSong_status_2041255100405154010.json"
       ],
-      "last_updated": "2026-06-16T18:38:55",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260406204155im_/https://pbs.twimg.com/profile_images/2040152875402448896/Y4juXxgn_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f1a795c3650>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 14
+      "last_updated": "2026-06-21T07:06:32",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260406204155if_/https://pbs.twimg.com/profile_images/2040152875402448896/Y4juXxgn_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ff53c8f16a0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 16
     },
     "https://pbs.twimg.com/profile_images/2040069727905841152/yJuCt1k5_normal.jpg": {
       "status": "done",
@@ -13681,13 +13681,13 @@
       "last_updated": "2026-05-29T10:07:50"
     },
     "https://pbs.twimg.com/profile_images/2035649404812853248/cnSm6sUs_normal.jpg": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20260407175121_twitter_com_JamFarewellSong_status_2041574566452224110.json"
       ],
-      "last_updated": "2026-06-16T18:38:58",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260407175121im_/https://pbs.twimg.com/profile_images/2035649404812853248/cnSm6sUs_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f1a797804a0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 14
+      "last_updated": "2026-06-21T07:06:35",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260407175121if_/https://pbs.twimg.com/profile_images/2035649404812853248/cnSm6sUs_normal.jpg",
+      "miss_count": 16
     },
     "https://pbs.twimg.com/profile_images/2036072131864526848/RLHnRjsO_normal.jpg": {
       "status": "failed_all",
@@ -13721,13 +13721,13 @@
       "last_updated": "2026-05-29T10:07:51"
     },
     "https://pbs.twimg.com/profile_images/2030455820924903424/W2qzunzE_normal.jpg": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20260407194311_twitter_com_JamFarewellSong_status_2041602710273978807.json"
       ],
-      "last_updated": "2026-06-16T18:39:05",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260407194311if_/https://pbs.twimg.com/profile_images/2030455820924903424/W2qzunzE_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f1a795e1fd0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 14
+      "last_updated": "2026-06-21T07:06:38",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260407194311if_/https://pbs.twimg.com/profile_images/2030455820924903424/W2qzunzE_normal.jpg",
+      "miss_count": 16
     },
     "https://pbs.twimg.com/profile_images/2033161267213697024/nZfuP7C9_normal.jpg": {
       "status": "done",
@@ -13797,19 +13797,19 @@
         "20260407203752_twitter_com_JamFarewellSong_status_2041616468056666393.json",
         "20260407203800_twitter_com_JamFarewellSong_status_2041616503997673769.json"
       ],
-      "last_updated": "2026-06-16T18:39:13",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260407203800if_/https://pbs.twimg.com/profile_images/2040630561983930368/WWbg05MA_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f1a795332f0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 14
+      "last_updated": "2026-06-21T07:06:40",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260407203800if_/https://pbs.twimg.com/profile_images/2040630561983930368/WWbg05MA_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ff53db6e600>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 16
     },
     "https://pbs.twimg.com/profile_images/2008943119623188480/vmd2MtXn_normal.jpg": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20260407203752_twitter_com_JamFarewellSong_status_2041616468056666393.json",
         "20260407203800_twitter_com_JamFarewellSong_status_2041616503997673769.json"
       ],
-      "last_updated": "2026-06-16T18:39:16",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260407203800im_/https://pbs.twimg.com/profile_images/2008943119623188480/vmd2MtXn_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f1a795c0260>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 14
+      "last_updated": "2026-06-21T07:06:43",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260407203800if_/https://pbs.twimg.com/profile_images/2008943119623188480/vmd2MtXn_normal.jpg",
+      "miss_count": 16
     },
     "https://pbs.twimg.com/profile_images/1993866475808153600/ZoM2H5Cp_normal.jpg": {
       "status": "done",
@@ -13867,9 +13867,9 @@
       "referenced_by": [
         "20260407212834_twitter_com_JamFarewellSong_status_2041629230556119236.json"
       ],
-      "last_updated": "2026-06-16T18:39:20",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260407212834im_/https://pbs.twimg.com/profile_images/2029253064029564928/WYyvRS9d_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f1a795e3b30>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 14
+      "last_updated": "2026-06-21T07:06:46",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260407212834if_/https://pbs.twimg.com/profile_images/2029253064029564928/WYyvRS9d_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ff53c743680>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 16
     },
     "https://pbs.twimg.com/profile_images/2037149597009928198/mPcUl3UR_normal.jpg": {
       "status": "done",
@@ -13886,9 +13886,9 @@
         "20260408114418_twitter_com_JamFarewellSong_status_2041844581873152338.json",
         "20260410082759_twitter_com_JamFarewellSong_status_2042519952524284082.json"
       ],
-      "last_updated": "2026-06-16T18:39:24",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260410082759im_/https://pbs.twimg.com/profile_images/2040943373352378368/AH34Is4s_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f1a795c1910>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 14
+      "last_updated": "2026-06-21T07:06:49",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260410082759if_/https://pbs.twimg.com/profile_images/2040943373352378368/AH34Is4s_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ff53c7a06b0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 16
     },
     "https://pbs.twimg.com/profile_images/2040999312478621696/QZAhsYwI_normal.jpg": {
       "status": "done",
@@ -13908,13 +13908,13 @@
       "last_updated": "2026-05-29T10:07:52"
     },
     "https://pbs.twimg.com/profile_images/1915420112183844872/WriGAZAB_normal.jpg": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20260407225333_twitter_com_JamFarewellSong_status_2041650616402084250.json"
       ],
-      "last_updated": "2026-06-16T18:39:27",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260407225333im_/https://pbs.twimg.com/profile_images/1915420112183844872/WriGAZAB_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f1a795e0890>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 14
+      "last_updated": "2026-06-21T07:06:52",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260407225333if_/https://pbs.twimg.com/profile_images/1915420112183844872/WriGAZAB_normal.jpg",
+      "miss_count": 16
     },
     "https://pbs.twimg.com/profile_images/1489537206905872384/Wlz54C4Q_normal.jpg": {
       "status": "done",
@@ -14003,9 +14003,9 @@
         "20260409065028_twitter_com_JamFarewellSong_status_2042133023785935023.json",
         "20260410081019_twitter_com_JamFarewellSong_status_2042515504649376163.json"
       ],
-      "last_updated": "2026-06-16T18:39:30",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260410081019im_/https://pbs.twimg.com/profile_images/2041570538485956609/QSk4pqeb_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f1a7aaff3b0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 14
+      "last_updated": "2026-06-21T07:06:55",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260410081019im_/https://pbs.twimg.com/profile_images/2041570538485956609/QSk4pqeb_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ff53c7a01d0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 16
     },
     "https://pbs.twimg.com/profile_images/2041343523228889088/y0SOhB3L_normal.jpg": {
       "status": "done",
@@ -14032,9 +14032,9 @@
       "referenced_by": [
         "20260408124816_twitter_com_JamFarewellSong_status_2041860677300863009.json"
       ],
-      "last_updated": "2026-06-16T18:39:34",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260408124816im_/https://pbs.twimg.com/profile_images/2041245441946513408/rP371w0K_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f1a79569a90>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 14
+      "last_updated": "2026-06-21T07:06:58",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260408124816if_/https://pbs.twimg.com/profile_images/2041245441946513408/rP371w0K_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ff53c8b2e70>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 16
     },
     "https://pbs.twimg.com/profile_images/2040816556092125184/flGyywBU_normal.jpg": {
       "status": "done",
@@ -14070,9 +14070,9 @@
       "referenced_by": [
         "20260408190623_twitter_com_JamFarewellSong_status_2041955834402632053.json"
       ],
-      "last_updated": "2026-06-16T18:39:37",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260408190623im_/https://pbs.twimg.com/profile_images/1830450281479303169/Zpy4n_d1_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f1a795e20c0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 14
+      "last_updated": "2026-06-21T07:07:01",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260408190623if_/https://pbs.twimg.com/profile_images/1830450281479303169/Zpy4n_d1_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ff53c8b1070>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 16
     },
     "https://pbs.twimg.com/profile_images/1909544832277569536/8KxKESL9_normal.jpg": {
       "status": "done",
@@ -14163,9 +14163,9 @@
       "referenced_by": [
         "20260409152126_twitter_com_JamFarewellSong_status_2042261614368637265.json"
       ],
-      "last_updated": "2026-06-16T18:39:41",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260409152126im_/https://pbs.twimg.com/profile_images/2011472697138790400/zWZC7GQy_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f1a7956a540>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 14
+      "last_updated": "2026-06-21T07:07:03",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260409152126if_/https://pbs.twimg.com/profile_images/2011472697138790400/zWZC7GQy_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ff53c7205c0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 16
     },
     "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg": {
       "status": "done",
@@ -14289,9 +14289,9 @@
       "referenced_by": [
         "20260410054858_twitter_com_JamFarewellSong_status_2042479935336694114.json"
       ],
-      "last_updated": "2026-06-16T18:39:44",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260410054858im_/https://pbs.twimg.com/profile_images/2009266813008531462/vUT2WQ8H_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f1a795e3b00>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 14
+      "last_updated": "2026-06-21T07:07:08",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260410054858if_/https://pbs.twimg.com/profile_images/2009266813008531462/vUT2WQ8H_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ff53c7227e0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 16
     },
     "https://pbs.twimg.com/profile_images/2028447229040812032/QJB4InPH_normal.jpg": {
       "status": "done",
@@ -14336,9 +14336,9 @@
       "referenced_by": [
         "20260410072756_twitter_com_JamFarewellSong_status_2042504841113874656.json"
       ],
-      "last_updated": "2026-06-16T18:39:47",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260410072756im_/https://pbs.twimg.com/profile_images/2041751501471961088/9Z6qcf2Q_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f1a795e14f0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 14
+      "last_updated": "2026-06-21T07:07:10",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260410072756if_/https://pbs.twimg.com/profile_images/2041751501471961088/9Z6qcf2Q_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ff53c743c50>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 16
     },
     "https://pbs.twimg.com/profile_images/2038850222680633345/r8zG5Gc1_normal.jpg": {
       "status": "done",
@@ -14458,14 +14458,14 @@
       "last_updated": "2026-05-29T10:07:58"
     },
     "https://pbs.twimg.com/profile_images/2022474411425910784/CCV0vKhw_normal.jpg": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20260410080503_twitter_com_JamFarewellSong_status_2042514180239167971.json",
         "20260410080505_twitter_com_JamFarewellSong_status_2042514190720733303.json"
       ],
-      "last_updated": "2026-06-16T18:39:51",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260410080505im_/https://pbs.twimg.com/profile_images/2022474411425910784/CCV0vKhw_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f1a79568080>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 14
+      "last_updated": "2026-06-21T07:07:14",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260410080505if_/https://pbs.twimg.com/profile_images/2022474411425910784/CCV0vKhw_normal.jpg",
+      "miss_count": 16
     },
     "https://pbs.twimg.com/profile_images/1656704309525086208/pIrCcX2n_normal.jpg": {
       "status": "done",
@@ -14498,9 +14498,9 @@
       "referenced_by": [
         "20260410081603_twitter_com_JamFarewellSong_status_2042516947959714145.json"
       ],
-      "last_updated": "2026-06-16T18:39:54",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260410081603im_/https://pbs.twimg.com/profile_images/2040377325158801408/BOYfFeq2_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f1a795690a0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 14
+      "last_updated": "2026-06-21T07:07:16",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260410081603if_/https://pbs.twimg.com/profile_images/2040377325158801408/BOYfFeq2_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ff53c8b0710>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 16
     },
     "https://pbs.twimg.com/profile_images/2041391782861434882/pkljq0Fd_normal.jpg": {
       "status": "failed",
@@ -14509,9 +14509,9 @@
         "20260411174046_twitter_com_JamFarewellSong_status_2043021452027531530.json",
         "20260411174102_twitter_com_JamFarewellSong_status_2043021521590063111.json"
       ],
-      "last_updated": "2026-06-16T18:39:58",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260411174102im_/https://pbs.twimg.com/profile_images/2041391782861434882/pkljq0Fd_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f1a795e3bf0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 14
+      "last_updated": "2026-06-21T07:07:20",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260411174102if_/https://pbs.twimg.com/profile_images/2041391782861434882/pkljq0Fd_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ff53c741ac0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 16
     },
     "https://pbs.twimg.com/profile_images/2042294772828946433/gGNwxFyK_normal.jpg": {
       "status": "done",
@@ -14583,9 +14583,9 @@
         "20260411174946_twitter_com_JamFarewellSong_status_2043023716607758635.json",
         "20260411175154_twitter_com_JamFarewellSong_status_2043024253117960547.json"
       ],
-      "last_updated": "2026-06-16T18:40:01",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260411175154im_/https://pbs.twimg.com/profile_images/2035449774409961472/2LF4vjk__400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f1a795c1b50>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 14
+      "last_updated": "2026-06-21T07:07:23",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260411175154im_/https://pbs.twimg.com/profile_images/2035449774409961472/2LF4vjk__400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ff53c8b3b90>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 16
     },
     "https://pbs.twimg.com/profile_images/1985567912334409731/Hx4R_X4Z_normal.jpg": {
       "status": "done",
@@ -14703,9 +14703,9 @@
       "referenced_by": [
         "20260412050554_twitter_com_JamFarewellSong_status_2043193873279979884.json"
       ],
-      "last_updated": "2026-06-16T18:40:04",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260412050554im_/https://pbs.twimg.com/profile_images/2035752291907883008/IGwfrJ9V_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f1a79568e90>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 14
+      "last_updated": "2026-06-21T07:07:27",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260412050554im_/https://pbs.twimg.com/profile_images/2035752291907883008/IGwfrJ9V_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ff53c721010>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 16
     },
     "https://pbs.twimg.com/profile_images/1698984838739447808/JD2twRCd_normal.jpg": {
       "status": "done",
@@ -14849,18 +14849,18 @@
         "20260416112923_twitter_com_JamFarewellSong_status_2044739931634082065.json",
         "20260421173802_twitter_com_JamFarewellSong_status_2046644641739702541.json"
       ],
-      "last_updated": "2026-06-16T18:40:08",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260421173802im_/https://pbs.twimg.com/profile_images/2040321451027468288/A1-8QvCF_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f1a795c2bd0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 14
+      "last_updated": "2026-06-21T07:07:32",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260421173802if_/https://pbs.twimg.com/profile_images/2040321451027468288/A1-8QvCF_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ff53c8f3d10>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 16
     },
     "https://pbs.twimg.com/profile_images/2032774748237869062/3VRs-T0m_normal.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260414142545_twitter_com_JamFarewellSong_status_2044059537356009881.json"
       ],
-      "last_updated": "2026-06-16T18:40:12",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260414142545im_/https://pbs.twimg.com/profile_images/2032774748237869062/3VRs-T0m_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f1a7956bbc0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 14
+      "last_updated": "2026-06-21T07:07:38",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260414142545if_/https://pbs.twimg.com/profile_images/2032774748237869062/3VRs-T0m_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ff53c8c8b60>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 16
     },
     "https://pbs.twimg.com/profile_images/1824649573098459136/GkqxuO5F_normal.jpg": {
       "status": "done",
@@ -14896,18 +14896,18 @@
       "referenced_by": [
         "20260414190654_twitter_com_JamFarewellSong_status_2044130292584329270.json"
       ],
-      "last_updated": "2026-06-16T18:40:15",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260414190654im_/https://pbs.twimg.com/profile_images/2043360211638104064/3rfknD6o_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f1a795e1010>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 14
+      "last_updated": "2026-06-21T07:07:41",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260414190654im_/https://pbs.twimg.com/profile_images/2043360211638104064/3rfknD6o_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ff53c723470>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 16
     },
     "https://pbs.twimg.com/profile_images/2039184890097467392/dbO1I6P9_normal.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260414190828_twitter_com_JamFarewellSong_status_2044130686483968413.json"
       ],
-      "last_updated": "2026-06-16T18:40:18",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260414190828im_/https://pbs.twimg.com/profile_images/2039184890097467392/dbO1I6P9_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f1a795e0a40>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 14
+      "last_updated": "2026-06-21T07:07:43",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260414190828if_/https://pbs.twimg.com/profile_images/2039184890097467392/dbO1I6P9_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ff53c8f0b90>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 16
     },
     "https://pbs.twimg.com/profile_images/2042515696677195776/vLiJvmh8_normal.jpg": {
       "status": "done",
@@ -14971,18 +14971,18 @@
         "20260416010119_twitter_com_JamFarewellSong_status_2044581871628271981.json",
         "20260416141531_twitter_com_JamFarewellSong_status_2044781737226690641.json"
       ],
-      "last_updated": "2026-06-16T18:40:22",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260416141531im_/https://pbs.twimg.com/profile_images/1992931054592897024/ljyA04jN_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f1a7956bf20>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 14
+      "last_updated": "2026-06-21T07:07:47",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260416141531im_/https://pbs.twimg.com/profile_images/1992931054592897024/ljyA04jN_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ff53c8caf00>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 16
     },
     "https://pbs.twimg.com/profile_images/2041239223823695872/oskidzdg_normal.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260416010119_twitter_com_JamFarewellSong_status_2044581871628271981.json"
       ],
-      "last_updated": "2026-06-16T18:40:26",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260416010119im_/https://pbs.twimg.com/profile_images/2041239223823695872/oskidzdg_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f1a79533ce0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 14
+      "last_updated": "2026-06-21T07:07:53",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260416010119if_/https://pbs.twimg.com/profile_images/2041239223823695872/oskidzdg_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ff53c8c8770>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 16
     },
     "https://pbs.twimg.com/profile_images/2024836701106130944/EBTywHtS_normal.jpg": {
       "status": "done",
@@ -15082,9 +15082,9 @@
       "referenced_by": [
         "20260416113838_twitter_com_JamFarewellSong_status_2044742257644060685.json"
       ],
-      "last_updated": "2026-06-16T18:40:29",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260416113838im_/https://pbs.twimg.com/profile_images/2041811823687823360/QQkkR0z6_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f1a79568f80>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 14
+      "last_updated": "2026-06-21T07:07:57",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260416113838im_/https://pbs.twimg.com/profile_images/2041811823687823360/QQkkR0z6_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ff53db6fec0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 16
     },
     "https://pbs.twimg.com/profile_images/1937052623523168256/NWtxx8z__normal.jpg": {
       "status": "done",
@@ -15116,9 +15116,9 @@
       "referenced_by": [
         "20260416183231_twitter_com_JamFarewellSong_status_2044846413545402790.json"
       ],
-      "last_updated": "2026-06-16T18:40:32",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260416183231im_/https://pbs.twimg.com/profile_images/2014974017019535361/pXcdgBH7_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f1a794081d0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 14
+      "last_updated": "2026-06-21T07:08:01",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260416183231im_/https://pbs.twimg.com/profile_images/2014974017019535361/pXcdgBH7_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ff53c8f08f0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 16
     },
     "https://pbs.twimg.com/profile_images/2032117812551159808/-D5q3EOm_normal.jpg": {
       "status": "done",
@@ -15132,27 +15132,27 @@
       "referenced_by": [
         "20260417032459_twitter_com_JamFarewellSong_status_2044980415807844812.json"
       ],
-      "last_updated": "2026-06-16T18:40:36",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260417032459im_/https://pbs.twimg.com/profile_images/1850538881437040640/2bT56gc9_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f1a795694c0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 14
+      "last_updated": "2026-06-21T07:08:05",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260417032459if_/https://pbs.twimg.com/profile_images/1850538881437040640/2bT56gc9_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ff53c8ca5d0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 16
     },
     "https://pbs.twimg.com/profile_images/2022153470095302657/6fWkX3GZ_normal.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260418034710_twitter_com_JamFarewellSong_status_2045348385922933137.json"
       ],
-      "last_updated": "2026-06-16T18:40:39",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260418034710im_/https://pbs.twimg.com/profile_images/2022153470095302657/6fWkX3GZ_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f1a795c26c0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 14
+      "last_updated": "2026-06-21T07:08:09",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260418034710im_/https://pbs.twimg.com/profile_images/2022153470095302657/6fWkX3GZ_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ff53c723260>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 16
     },
     "https://pbs.twimg.com/profile_images/2036500012721643521/0552Jvmy_normal.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260419133637_twitter_com_JamFarewellSong_status_2045859113679327354.json"
       ],
-      "last_updated": "2026-06-16T18:40:43",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260419133637im_/https://pbs.twimg.com/profile_images/2036500012721643521/0552Jvmy_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f1a795683e0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 14
+      "last_updated": "2026-06-21T07:08:11",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260419133637if_/https://pbs.twimg.com/profile_images/2036500012721643521/0552Jvmy_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ff53c720da0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 16
     },
     "https://pbs.twimg.com/profile_images/2045718502472822784/LbasGIQH_normal.jpg": {
       "status": "done",
@@ -15175,9 +15175,9 @@
       "referenced_by": [
         "20260419135218_twitter_com_JamFarewellSong_status_2045863058413908107.json"
       ],
-      "last_updated": "2026-06-16T18:40:46",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260419135218im_/https://pbs.twimg.com/profile_images/2043839513395638274/6sYnAGrh_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f1a795e0bf0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 14
+      "last_updated": "2026-06-21T07:08:15",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260419135218im_/https://pbs.twimg.com/profile_images/2043839513395638274/6sYnAGrh_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ff53c8f1550>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 16
     },
     "https://pbs.twimg.com/profile_images/2012000843101585410/iYFGBMZQ_normal.jpg": {
       "status": "done",
@@ -15214,9 +15214,9 @@
       "referenced_by": [
         "20260419143616_twitter_com_JamFarewellSong_status_2045874126267752775.json"
       ],
-      "last_updated": "2026-06-16T18:40:49",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260419143616im_/https://pbs.twimg.com/profile_images/2040513387734712320/nXeN_voK_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f1a795e2240>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 14
+      "last_updated": "2026-06-21T07:08:19",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260419143616if_/https://pbs.twimg.com/profile_images/2040513387734712320/nXeN_voK_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ff53c8f29f0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 16
     },
     "https://pbs.twimg.com/profile_images/1662692455043694592/PqualeMd_normal.jpg": {
       "status": "done",
@@ -15288,9 +15288,9 @@
       "referenced_by": [
         "20260419214538_twitter_com_JamFarewellSong_status_2045982180145614945.json"
       ],
-      "last_updated": "2026-06-16T18:40:52",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260419214538im_/https://pbs.twimg.com/profile_images/1948958533245927424/MTLhcmzd_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f1a795c35f0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 14
+      "last_updated": "2026-06-21T07:08:23",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260419214538im_/https://pbs.twimg.com/profile_images/1948958533245927424/MTLhcmzd_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ff53c8ca270>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 16
     },
     "https://pbs.twimg.com/profile_images/2004767849303232513/-EovBf2p_normal.jpg": {
       "status": "done",
@@ -15312,18 +15312,18 @@
         "20260420072945_twitter_com_JamFarewellSong_status_2046129176164639119.json",
         "20260420073006_twitter_com_JamFarewellSong_status_2046129262198182290.json"
       ],
-      "last_updated": "2026-06-16T18:40:56",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260420073006im_/https://pbs.twimg.com/profile_images/2043341760320139265/yVb3k51a_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f1a79568230>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 14
+      "last_updated": "2026-06-21T07:08:27",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260420073006im_/https://pbs.twimg.com/profile_images/2043341760320139265/yVb3k51a_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ff53c722780>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 16
     },
     "https://pbs.twimg.com/profile_images/2044960713345818624/eNV6jb0O_normal.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260420073356_twitter_com_JamFarewellSong_status_2046130230084166050.json"
       ],
-      "last_updated": "2026-06-16T18:40:59",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260420073356im_/https://pbs.twimg.com/profile_images/2044960713345818624/eNV6jb0O_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f1a795e0050>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 14
+      "last_updated": "2026-06-21T07:08:32",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260420073356im_/https://pbs.twimg.com/profile_images/2044960713345818624/eNV6jb0O_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ff53c8f0290>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 16
     },
     "https://pbs.twimg.com/profile_images/1378912446782394368/icyGMaK5_normal.jpg": {
       "status": "done",
@@ -15448,9 +15448,9 @@
         "20260421185618_twitter_com_JamFarewellSong_status_2046664341295083706.json",
         "20260422043059_twitter_com_JamFarewellSong_status_2046808964315382156.json"
       ],
-      "last_updated": "2026-06-16T18:41:02",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260422043059im_/https://pbs.twimg.com/profile_images/2020935964366077953/cAB_m43L_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f1a7940b530>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 14
+      "last_updated": "2026-06-21T07:08:36",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260422043059im_/https://pbs.twimg.com/profile_images/2020935964366077953/cAB_m43L_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ff53c8cb290>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 16
     },
     "https://pbs.twimg.com/profile_images/1942231036634820608/-gLnzGqY_normal.jpg": {
       "status": "done",
@@ -15488,9 +15488,9 @@
       "referenced_by": [
         "20260421193625_twitter_com_JamFarewellSong_status_2046674434992521721.json"
       ],
-      "last_updated": "2026-06-16T18:41:06",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260421193625im_/https://pbs.twimg.com/profile_images/2040986255287328768/brQseJMP_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f1a79533a40>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 14
+      "last_updated": "2026-06-21T07:08:41",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260421193625if_/https://pbs.twimg.com/profile_images/2040986255287328768/brQseJMP_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ff53db6fb60>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 16
     },
     "https://pbs.twimg.com/profile_images/1762302331314667520/gTSuaeNo_normal.jpg": {
       "status": "done",
@@ -15505,9 +15505,9 @@
         "20260422071243_twitter_com_JamFarewellSong_status_2046849667095507052.json",
         "20260422074535_twitter_com_JamFarewellSong_status_2046857935519941071.json"
       ],
-      "last_updated": "2026-06-16T18:41:09",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260422074535im_/https://pbs.twimg.com/profile_images/2044807398196690944/WJaDIheb_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f1a795681d0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 14
+      "last_updated": "2026-06-21T07:08:44",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260422074535im_/https://pbs.twimg.com/profile_images/2044807398196690944/WJaDIheb_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ff53c8f0da0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 16
     },
     "https://pbs.twimg.com/profile_images/2046789084790890496/tu0DxovY_normal.jpg": {
       "status": "done",
@@ -15532,9 +15532,9 @@
       "referenced_by": [
         "20260422072653_twitter_com_JamFarewellSong_status_2046853232425849273.json"
       ],
-      "last_updated": "2026-06-16T18:41:13",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260422072653im_/https://pbs.twimg.com/profile_images/1995015582014738436/pqwajC9S_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f1a7940b020>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 14
+      "last_updated": "2026-06-21T07:08:47",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260422072653if_/https://pbs.twimg.com/profile_images/1995015582014738436/pqwajC9S_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ff53c742f00>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 16
     },
     "https://pbs.twimg.com/profile_images/2042291013981782019/DCmVaNLl_normal.jpg": {
       "status": "done",
@@ -15654,9 +15654,9 @@
       "referenced_by": [
         "20260422184620_twitter_com_JamFarewellSong_status_2047024220723699985.json"
       ],
-      "last_updated": "2026-06-16T18:41:16",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260422184620im_/https://pbs.twimg.com/profile_images/2045361501431885824/EeWkmGro_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f1a79780c20>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 14
+      "last_updated": "2026-06-21T07:08:52",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260422184620im_/https://pbs.twimg.com/profile_images/2045361501431885824/EeWkmGro_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ff53c8c8e60>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 16
     },
     "https://pbs.twimg.com/profile_images/2033812687277461507/y7sGn9v7_normal.jpg": {
       "status": "done",
@@ -15677,9 +15677,9 @@
       "referenced_by": [
         "20260423191352_twitter_com_JamFarewellSong_status_2047393538519044483.json"
       ],
-      "last_updated": "2026-06-16T18:41:20",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260423191352im_/https://pbs.twimg.com/profile_images/2028890906003386369/wL8jZ7_r_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f1a795699a0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 14
+      "last_updated": "2026-06-21T07:08:56",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260423191352im_/https://pbs.twimg.com/profile_images/2028890906003386369/wL8jZ7_r_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ff53c7a24b0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 16
     },
     "https://pbs.twimg.com/profile_images/1240651592560513027/6fstVHAy_normal.jpg": {
       "status": "done",
@@ -15771,9 +15771,9 @@
       "referenced_by": [
         "20260424063923_twitter_com_JamFarewellSong_status_2047566051903459726.json"
       ],
-      "last_updated": "2026-06-16T18:41:23",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260424063923im_/https://pbs.twimg.com/profile_images/2045004879303958528/xNxtLn0S_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f1a79532420>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 14
+      "last_updated": "2026-06-21T07:09:01",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260424063923if_/https://pbs.twimg.com/profile_images/2045004879303958528/xNxtLn0S_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ff53c8b3230>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 16
     },
     "https://pbs.twimg.com/profile_images/1938519215071481856/RGyMr1ce_normal.jpg": {
       "status": "done",
@@ -15804,9 +15804,9 @@
       "referenced_by": [
         "20260426112258_twitter_com_JamFarewellSong_status_2048362196292481364.json"
       ],
-      "last_updated": "2026-06-16T18:41:27",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260426112258im_/https://pbs.twimg.com/profile_images/2048356974254071809/sJTTXsVq_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f1a7940a270>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 14
+      "last_updated": "2026-06-21T07:09:04",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260426112258if_/https://pbs.twimg.com/profile_images/2048356974254071809/sJTTXsVq_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ff53c8b0c50>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 16
     },
     "https://pbs.twimg.com/profile_images/1759984206468222976/03bgRFtY_normal.jpg": {
       "status": "done",
@@ -15846,9 +15846,9 @@
       "referenced_by": [
         "20260426113307_twitter_com_JamFarewellSong_status_2048364749751197771.json"
       ],
-      "last_updated": "2026-06-16T18:41:30",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260426113307im_/https://pbs.twimg.com/profile_images/2042581281222070273/eop2xwyz_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f1a7956a720>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 14
+      "last_updated": "2026-06-21T07:09:08",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260426113307im_/https://pbs.twimg.com/profile_images/2042581281222070273/eop2xwyz_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ff53c8b1760>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 16
     },
     "https://pbs.twimg.com/profile_images/2002781704680030208/O0cqzBz3_normal.jpg": {
       "status": "done",
@@ -16201,9 +16201,9 @@
       "referenced_by": [
         "20260508070039_twitter_com_JamFarewellSong_status_2052644836420006282.json"
       ],
-      "last_updated": "2026-06-16T18:41:34",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260508070039im_/https://pbs.twimg.com/profile_images/2052429741299257347/SO6e9lld_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f1a79781580>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 14
+      "last_updated": "2026-06-21T07:09:10",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260508070039if_/https://pbs.twimg.com/profile_images/2052429741299257347/SO6e9lld_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ff53c8b2e70>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 16
     },
     "https://pbs.twimg.com/profile_images/2045516948973424640/FnVFzfOY_normal.jpg": {
       "status": "done",
@@ -16260,9 +16260,9 @@
       "referenced_by": [
         "20260508145147_twitter_com_JamFarewellSong_status_2052763400548364325.json"
       ],
-      "last_updated": "2026-06-16T18:41:40",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260508145147if_/https://pbs.twimg.com/profile_images/2052606090114912256/yvguvJ1L_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f1a79533380>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 14
+      "last_updated": "2026-06-21T07:09:14",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260508145147im_/https://pbs.twimg.com/profile_images/2052606090114912256/yvguvJ1L_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ff53c743680>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 16
     },
     "https://pbs.twimg.com/profile_images/1662904781411844096/Z6vPqlAE_normal.jpg": {
       "status": "done",
@@ -16363,9 +16363,9 @@
       "referenced_by": [
         "20260510005428_twitter_com_JamFarewellSong_status_2053277457806176539.json"
       ],
-      "last_updated": "2026-06-16T18:41:43",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260510005428im_/https://pbs.twimg.com/profile_images/2052868858894053377/Mavmt3xe_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f1a795339b0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 14
+      "last_updated": "2026-06-21T07:09:18",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260510005428im_/https://pbs.twimg.com/profile_images/2052868858894053377/Mavmt3xe_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ff53c8b2d20>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 16
     },
     "https://pbs.twimg.com/profile_images/2043509872428490752/r5DJT75y_normal.jpg": {
       "status": "done",
@@ -16699,9 +16699,9 @@
       "referenced_by": [
         "20260512120754_twitter_com_JamFarewellSong_status_2054171708488294478.json"
       ],
-      "last_updated": "2026-06-16T18:41:47",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260512120754im_/https://pbs.twimg.com/profile_images/2050651147199975424/Q4r3IJl6_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f1a795e20c0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 14
+      "last_updated": "2026-06-21T07:09:20",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260512120754if_/https://pbs.twimg.com/profile_images/2050651147199975424/Q4r3IJl6_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ff53c7432c0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 16
     },
     "https://pbs.twimg.com/profile_images/2033453812279918592/7rVzzZ4f_normal.jpg": {
       "status": "done",
@@ -16814,9 +16814,9 @@
         "20260515155114_twitter_com_JamFarewellSong_status_2055315073762312423.json",
         "20260515155220_twitter_com_JamFarewellSong_status_2055315352293425163.json"
       ],
-      "last_updated": "2026-06-16T18:41:50",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260515155220im_/https://pbs.twimg.com/profile_images/2052275519425486852/wlKDFWz4_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f1a795c1ee0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 14
+      "last_updated": "2026-06-21T07:09:22",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260515155220if_/https://pbs.twimg.com/profile_images/2052275519425486852/wlKDFWz4_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ff53c720230>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 16
     },
     "https://pbs.twimg.com/profile_images/2028696823247097856/m77kK6t8_normal.jpg": {
       "status": "done",
@@ -16871,9 +16871,9 @@
       "referenced_by": [
         "20260516010331_twitter_com_JamFarewellSong_status_2055454061722546266.json"
       ],
-      "last_updated": "2026-06-16T18:41:54",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260516010331im_/https://pbs.twimg.com/profile_images/2054258840385015808/jgmLq34C_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f1a795e2ed0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 14
+      "last_updated": "2026-06-21T07:09:26",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260516010331im_/https://pbs.twimg.com/profile_images/2054258840385015808/jgmLq34C_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ff53c740710>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 16
     },
     "https://pbs.twimg.com/profile_images/2055181144560443392/SysacanM_normal.jpg": {
       "status": "done",
@@ -17888,217 +17888,253 @@
       "last_updated": "2026-06-14T06:35:30"
     },
     "https://pbs.twimg.com/profile_images/2064420842935881728/qOmEnKft_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260610124252_twitter_com_JamFarewellSong_status_2064689756831948831.json",
         "20260610124559_twitter_com_JamFarewellSong_status_2064690540948656332.json"
-      ]
+      ],
+      "last_updated": "2026-06-21T07:04:14"
     },
     "https://pbs.twimg.com/profile_images/2050756019983417344/FAGENlQo_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260610124708_twitter_com_JamFarewellSong_status_2064690828623462835.json"
-      ]
+      ],
+      "last_updated": "2026-06-21T07:04:14"
     },
     "https://pbs.twimg.com/profile_images/1866204965921816576/ZEtERUnz_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260610124940_twitter_com_JamFarewellSong_status_2064691468498071611.json"
-      ]
+      ],
+      "last_updated": "2026-06-21T07:04:15"
     },
     "https://pbs.twimg.com/profile_images/2058491039305084928/dJpjJwl0_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260610125220_twitter_com_JamFarewellSong_status_2064692139599257621.json"
-      ]
+      ],
+      "last_updated": "2026-06-21T07:04:15"
     },
     "https://pbs.twimg.com/profile_images/1893501220620509186/59T8Mbft_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260610125457_twitter_com_JamFarewellSong_status_2064692795861078414.json"
-      ]
+      ],
+      "last_updated": "2026-06-21T07:04:15"
     },
     "https://pbs.twimg.com/profile_images/1486710720834117636/8z2GHsnQ_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260610125524_twitter_com_JamFarewellSong_status_2064692910722089390.json"
-      ]
+      ],
+      "last_updated": "2026-06-21T07:04:15"
     },
     "https://pbs.twimg.com/profile_images/2063810145600339968/UI1msXPu_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260610125725_twitter_com_JamFarewellSong_status_2064693418006368721.json"
-      ]
+      ],
+      "last_updated": "2026-06-21T07:04:15"
     },
     "https://pbs.twimg.com/profile_images/2040790835063881728/wk-qi4m1_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260610153535_twitter_com_JamFarewellSong_status_2064733222668538046.json"
-      ]
+      ],
+      "last_updated": "2026-06-21T07:04:15"
     },
     "https://pbs.twimg.com/profile_images/2062166605665062913/oGIOHGYN_normal.jpg": {
-      "status": "unknown",
+      "status": "failed",
       "referenced_by": [
         "20260610153731_twitter_com_JamFarewellSong_status_2064733706879926762.json"
-      ]
+      ],
+      "last_updated": "2026-06-21T07:09:29",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260610153731if_/https://pbs.twimg.com/profile_images/2062166605665062913/oGIOHGYN_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ff53c742870>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 2
     },
     "https://pbs.twimg.com/profile_images/2057004089637208065/acX35vio_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260611150735_twitter_com_JamFarewellSong_status_2065088560739557582.json",
         "20260611151037_twitter_com_JamFarewellSong_status_2065089327412232700.json"
-      ]
+      ],
+      "last_updated": "2026-06-21T07:04:15"
     },
     "https://pbs.twimg.com/profile_images/2055510546129297408/y_1wEzKK_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260611152546_twitter_com_JamFarewellSong_status_2065093137660617092.json"
-      ]
+      ],
+      "last_updated": "2026-06-21T07:04:15"
     },
     "https://pbs.twimg.com/profile_images/1984318233198166016/_pVJONM5_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260611153410_twitter_com_JamFarewellSong_status_2065095253670154599.json"
-      ]
+      ],
+      "last_updated": "2026-06-21T07:04:15"
     },
     "https://pbs.twimg.com/profile_images/2032647765591994370/LpUlymeH_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260611153431_twitter_com_JamFarewellSong_status_2065095338780942649.json"
-      ]
+      ],
+      "last_updated": "2026-06-21T07:04:15"
     },
     "https://pbs.twimg.com/profile_images/1894946127629426688/RKH6WAzr_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260614120824_twitter_com_JamFarewellSong_status_2066130633622245386.json",
         "20260614124701_twitter_com_JamFarewellSong_status_2066140352403366028.json"
-      ]
+      ],
+      "last_updated": "2026-06-21T07:04:15"
     },
     "https://pbs.twimg.com/profile_images/1361370246750212107/b4lOajh4_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260614121103_twitter_com_JamFarewellSong_status_2066131301913313464.json"
-      ]
+      ],
+      "last_updated": "2026-06-21T07:04:15"
     },
     "https://pbs.twimg.com/profile_images/2050427976786010112/u0ceyAKE_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260614121818_twitter_com_JamFarewellSong_status_2066133124938121271.json"
-      ]
+      ],
+      "last_updated": "2026-06-21T07:04:15"
     },
     "https://pbs.twimg.com/profile_images/2060241467340374016/i5TS9D_z_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260614122054_twitter_com_JamFarewellSong_status_2066133781082485099.json"
-      ]
+      ],
+      "last_updated": "2026-06-21T07:04:15"
     },
     "https://pbs.twimg.com/profile_images/2065716915386060800/rO7-OA9L_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260614122426_twitter_com_JamFarewellSong_status_2066134666437140648.json"
-      ]
+      ],
+      "last_updated": "2026-06-21T07:04:15"
     },
     "https://pbs.twimg.com/profile_images/2065150134065954816/FdqO6LUP_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260614122851_twitter_com_JamFarewellSong_status_2066135778342887715.json",
         "20260614122910_twitter_com_JamFarewellSong_status_2066135857430688063.json"
-      ]
+      ],
+      "last_updated": "2026-06-21T07:04:15"
     },
     "https://pbs.twimg.com/profile_images/2062600655634907136/sl1r5PSg_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260614123748_twitter_com_JamFarewellSong_status_2066138033943105946.json"
-      ]
+      ],
+      "last_updated": "2026-06-21T07:04:15"
     },
     "https://pbs.twimg.com/profile_images/1952769024816783360/Ec1PgkNp_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260614123748_twitter_com_JamFarewellSong_status_2066138033943105946.json"
-      ]
+      ],
+      "last_updated": "2026-06-21T07:04:15"
     },
     "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260614123930_twitter_com_JamFarewellSong_status_2066138458280833158.json"
-      ]
+      ],
+      "last_updated": "2026-06-21T07:04:15"
     },
     "https://pbs.twimg.com/profile_images/2052171541077704704/sPryY9_A_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260615082026_twitter_com_JamFarewellSong_status_2066435653198643225.json"
-      ]
+      ],
+      "last_updated": "2026-06-21T07:04:15"
     },
     "https://pbs.twimg.com/profile_images/2053154412919721985/J6EwJycm_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260615082327_twitter_com_JamFarewellSong_status_2066436411444920765.json"
-      ]
+      ],
+      "last_updated": "2026-06-21T07:04:15"
     },
     "https://pbs.twimg.com/profile_images/2023347910138900480/MX5ULQRh_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260615082542_twitter_com_JamFarewellSong_status_2066436977134858247.json"
-      ]
+      ],
+      "last_updated": "2026-06-21T07:04:15"
     },
     "https://pbs.twimg.com/profile_images/2060685033225228288/M9pISiDO_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260618011823_twitter_com_JamFarewellSong_status_2067416604737261658.json"
-      ]
+      ],
+      "last_updated": "2026-06-21T07:04:15"
     },
     "https://pbs.twimg.com/profile_images/1970833892660674561/YaapNhBZ_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260618011823_twitter_com_JamFarewellSong_status_2067416604737261658.json"
-      ]
+      ],
+      "last_updated": "2026-06-21T07:04:15"
     },
     "https://pbs.twimg.com/profile_images/2063315690971668481/gE9clKkq_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260618012509_twitter_com_JamFarewellSong_status_2067418304755765339.json"
-      ]
+      ],
+      "last_updated": "2026-06-21T07:04:15"
     },
     "https://pbs.twimg.com/profile_images/2062989136881958912/YFP-Zjel_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260618012728_twitter_com_JamFarewellSong_status_2067418888057634894.json"
-      ]
+      ],
+      "last_updated": "2026-06-21T07:04:15"
     },
     "https://pbs.twimg.com/profile_images/2059484390053613568/X677uU8V_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260618013337_twitter_com_JamFarewellSong_status_2067420437039260143.json"
-      ]
+      ],
+      "last_updated": "2026-06-21T07:04:15"
     },
     "https://pbs.twimg.com/profile_images/1872186399245709312/tkRb083a_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260618013831_twitter_com_JamFarewellSong_status_2067421668587532676.json"
-      ]
+      ],
+      "last_updated": "2026-06-21T07:04:15"
     },
     "https://pbs.twimg.com/profile_images/1899870118106324996/rqhj8L2-_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260618013917_twitter_com_JamFarewellSong_status_2067421860615299562.json"
-      ]
+      ],
+      "last_updated": "2026-06-21T07:04:16"
     },
     "https://pbs.twimg.com/profile_images/2059761684500336640/bvv_7t16_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260618015802_twitter_com_JamFarewellSong_status_2067426581832946002.json",
         "20260618020017_twitter_com_JamFarewellSong_status_2067427147359383704.json"
-      ]
+      ],
+      "last_updated": "2026-06-21T07:04:15"
     },
     "https://pbs.twimg.com/profile_images/2000119531575095296/-lELMvd3_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260618015802_twitter_com_JamFarewellSong_status_2067426581832946002.json",
         "20260618020227_twitter_com_JamFarewellSong_status_2067427691817775315.json"
-      ]
+      ],
+      "last_updated": "2026-06-21T07:04:16"
     },
     "https://pbs.twimg.com/profile_images/2038078401266020352/1lfmum7A_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260618020642_twitter_com_JamFarewellSong_status_2067428761256214564.json",
         "20260618020646_twitter_com_JamFarewellSong_status_2067428780453560543.json",
@@ -18108,10 +18144,11 @@
         "20260618022443_twitter_com_JamFarewellSong_status_2067433297198960853.json",
         "20260618022535_twitter_com_JamFarewellSong_status_2067433513444581512.json",
         "20260618022552_twitter_com_JamFarewellSong_status_2067433585024659785.json"
-      ]
+      ],
+      "last_updated": "2026-06-21T07:04:15"
     },
     "https://pbs.twimg.com/profile_images/2046964782033752064/ozF77ljw_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260618021253_twitter_com_JamFarewellSong_status_2067430320002175484.json",
         "20260618021650_twitter_com_JamFarewellSong_status_2067431313418953099.json",
@@ -18119,44 +18156,51 @@
         "20260618022443_twitter_com_JamFarewellSong_status_2067433297198960853.json",
         "20260618022535_twitter_com_JamFarewellSong_status_2067433513444581512.json",
         "20260618022552_twitter_com_JamFarewellSong_status_2067433585024659785.json"
-      ]
+      ],
+      "last_updated": "2026-06-21T07:04:16"
     },
     "https://pbs.twimg.com/profile_images/2052386249051422721/32J8Hjfa_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260618022809_twitter_com_JamFarewellSong_status_2067434160558583983.json"
-      ]
+      ],
+      "last_updated": "2026-06-21T07:04:16"
     },
     "https://pbs.twimg.com/profile_images/1827501235777499137/7MqqoZ6P_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260620050719_twitter_com_JamFarewellSong_status_2068198992555704473.json",
         "20260620050729_twitter_com_JamFarewellSong_status_2068199031965430035.json"
-      ]
+      ],
+      "last_updated": "2026-06-21T07:04:16"
     },
     "https://pbs.twimg.com/profile_images/1942255962624262144/np4f2PQj_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260620052212_twitter_com_JamFarewellSong_status_2068202735028384080.json"
-      ]
+      ],
+      "last_updated": "2026-06-21T07:04:16"
     },
     "https://pbs.twimg.com/profile_images/2065777044454326272/ythwTg06_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260620052441_twitter_com_JamFarewellSong_status_2068203360663347426.json"
-      ]
+      ],
+      "last_updated": "2026-06-21T07:04:16"
     },
     "https://pbs.twimg.com/profile_images/2063959820148064256/gZr_9bTC_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260620052441_twitter_com_JamFarewellSong_status_2068203360663347426.json"
-      ]
+      ],
+      "last_updated": "2026-06-21T07:04:16"
     },
     "https://pbs.twimg.com/profile_images/2067843965739847680/Osf-j3D4_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260620052731_twitter_com_JamFarewellSong_status_2068204076396089473.json"
-      ]
+      ],
+      "last_updated": "2026-06-21T07:04:16"
     }
   },
   "media": {
@@ -21439,7 +21483,7 @@
       "miss_count": 2
     },
     "20260407175121_twitter_com_JamFarewellSong_status_2041574566452224110.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -21448,7 +21492,7 @@
           "https://pbs.twimg.com/profile_images/2035649404812853248/cnSm6sUs_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T06:59:04",
+      "last_updated": "2026-06-21T07:06:35",
       "miss_count": 14
     },
     "20260407181350_twitter_com_JamFarewellSong_status_2041580221724553311.json": {
@@ -21551,7 +21595,7 @@
       "last_updated": "2026-05-29T10:07:44"
     },
     "20260407194311_twitter_com_JamFarewellSong_status_2041602710273978807.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HFQcdL4bIAAEBpy.jpg"
@@ -21562,7 +21606,7 @@
           "https://pbs.twimg.com/profile_images/2030455820924903424/W2qzunzE_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T06:59:04",
+      "last_updated": "2026-06-21T07:06:38",
       "miss_count": 14
     },
     "20260407194338_twitter_com_JamFarewellSong_status_2041602821783711999.json": {
@@ -21988,7 +22032,7 @@
       "last_updated": "2026-05-29T10:07:52"
     },
     "20260407225333_twitter_com_JamFarewellSong_status_2041650616402084250.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -21997,7 +22041,7 @@
           "https://pbs.twimg.com/profile_images/1915420112183844872/WriGAZAB_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T06:59:04",
+      "last_updated": "2026-06-21T07:06:52",
       "miss_count": 14
     },
     "20260408055905_twitter_com_JamFarewellSong_status_2041757702951727583.json": {
@@ -34558,7 +34602,7 @@
       "last_updated": "2026-06-21T06:45:22"
     },
     "20260610124252_twitter_com_JamFarewellSong_status_2064689756831948831.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -34567,10 +34611,10 @@
           "https://pbs.twimg.com/profile_images/2064420842935881728/qOmEnKft_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T06:59:04"
+      "last_updated": "2026-06-21T07:04:14"
     },
     "20260610124559_twitter_com_JamFarewellSong_status_2064690540948656332.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -34579,10 +34623,10 @@
           "https://pbs.twimg.com/profile_images/2064420842935881728/qOmEnKft_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T06:59:04"
+      "last_updated": "2026-06-21T07:04:14"
     },
     "20260610124708_twitter_com_JamFarewellSong_status_2064690828623462835.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -34591,10 +34635,10 @@
           "https://pbs.twimg.com/profile_images/2050756019983417344/FAGENlQo_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T06:59:04"
+      "last_updated": "2026-06-21T07:04:14"
     },
     "20260610124940_twitter_com_JamFarewellSong_status_2064691468498071611.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -34604,10 +34648,10 @@
           "https://pbs.twimg.com/profile_images/2045354329792749568/b7JXuLvu_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T06:59:04"
+      "last_updated": "2026-06-21T07:04:15"
     },
     "20260610125220_twitter_com_JamFarewellSong_status_2064692139599257621.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -34616,10 +34660,10 @@
           "https://pbs.twimg.com/profile_images/2058491039305084928/dJpjJwl0_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T06:59:04"
+      "last_updated": "2026-06-21T07:04:15"
     },
     "20260610125457_twitter_com_JamFarewellSong_status_2064692795861078414.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -34628,10 +34672,10 @@
           "https://pbs.twimg.com/profile_images/1893501220620509186/59T8Mbft_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T06:59:04"
+      "last_updated": "2026-06-21T07:04:15"
     },
     "20260610125524_twitter_com_JamFarewellSong_status_2064692910722089390.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -34640,10 +34684,10 @@
           "https://pbs.twimg.com/profile_images/1486710720834117636/8z2GHsnQ_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T06:59:04"
+      "last_updated": "2026-06-21T07:04:15"
     },
     "20260610125725_twitter_com_JamFarewellSong_status_2064693418006368721.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -34652,10 +34696,10 @@
           "https://pbs.twimg.com/profile_images/2063810145600339968/UI1msXPu_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T06:59:04"
+      "last_updated": "2026-06-21T07:04:15"
     },
     "20260610153535_twitter_com_JamFarewellSong_status_2064733222668538046.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HKdUPLbbsAArgDw.jpg"
@@ -34667,7 +34711,7 @@
           "https://pbs.twimg.com/profile_images/2018362784418091009/P1EuyheT_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T06:59:04"
+      "last_updated": "2026-06-21T07:04:15"
     },
     "20260610153645_twitter_com_JamFarewellSong_status_2064733516248822157.json": {
       "status": "done",
@@ -34684,7 +34728,7 @@
       "last_updated": "2026-06-21T06:45:23"
     },
     "20260610153731_twitter_com_JamFarewellSong_status_2064733706879926762.json": {
-      "status": "unknown",
+      "status": "failed",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -34693,10 +34737,10 @@
           "https://pbs.twimg.com/profile_images/2062166605665062913/oGIOHGYN_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T06:59:04"
+      "last_updated": "2026-06-21T07:04:17"
     },
     "20260611150735_twitter_com_JamFarewellSong_status_2065088560739557582.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -34705,10 +34749,10 @@
           "https://pbs.twimg.com/profile_images/2057004089637208065/acX35vio_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T06:59:04"
+      "last_updated": "2026-06-21T07:04:15"
     },
     "20260611151037_twitter_com_JamFarewellSong_status_2065089327412232700.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HKirur6aMAA027r.jpg"
@@ -34719,7 +34763,7 @@
           "https://pbs.twimg.com/profile_images/2057004089637208065/acX35vio_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T06:59:04"
+      "last_updated": "2026-06-21T07:04:15"
     },
     "20260611151404_twitter_com_JamFarewellSong_status_2065090194609730020.json": {
       "status": "done",
@@ -34736,7 +34780,7 @@
       "last_updated": "2026-06-21T06:45:23"
     },
     "20260611152546_twitter_com_JamFarewellSong_status_2065093137660617092.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -34745,7 +34789,7 @@
           "https://pbs.twimg.com/profile_images/2055510546129297408/y_1wEzKK_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T06:59:04"
+      "last_updated": "2026-06-21T07:04:15"
     },
     "20260611152913_twitter_com_JamFarewellSong_status_2065094005206220947.json": {
       "status": "done",
@@ -34774,7 +34818,7 @@
       "last_updated": "2026-06-21T06:45:22"
     },
     "20260611153410_twitter_com_JamFarewellSong_status_2065095253670154599.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HKSKYQRbUAArd0S.jpg"
@@ -34785,10 +34829,10 @@
           "https://pbs.twimg.com/profile_images/1984318233198166016/_pVJONM5_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T06:59:04"
+      "last_updated": "2026-06-21T07:04:15"
     },
     "20260611153431_twitter_com_JamFarewellSong_status_2065095338780942649.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/G5HTsd9bYAAPX7c.jpg"
@@ -34799,7 +34843,7 @@
           "https://pbs.twimg.com/profile_images/2032647765591994370/LpUlymeH_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T06:59:04"
+      "last_updated": "2026-06-21T07:04:15"
     },
     "20260611154806_twitter_com_JamFarewellSong_status_2065098757948178653.json": {
       "status": "done",
@@ -34826,7 +34870,7 @@
       "last_updated": "2026-06-21T06:45:22"
     },
     "20260614120824_twitter_com_JamFarewellSong_status_2066130633622245386.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -34835,7 +34879,7 @@
           "https://pbs.twimg.com/profile_images/1894946127629426688/RKH6WAzr_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T06:59:04"
+      "last_updated": "2026-06-21T07:04:15"
     },
     "20260614120949_twitter_com_JamFarewellSong_status_2066130990381285671.json": {
       "status": "done",
@@ -34854,7 +34898,7 @@
       "last_updated": "2026-06-21T06:45:24"
     },
     "20260614121103_twitter_com_JamFarewellSong_status_2066131301913313464.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HGl6aqhbAAALOF7.jpg"
@@ -34865,10 +34909,10 @@
           "https://pbs.twimg.com/profile_images/1361370246750212107/b4lOajh4_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T06:59:04"
+      "last_updated": "2026-06-21T07:04:15"
     },
     "20260614121818_twitter_com_JamFarewellSong_status_2066133124938121271.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -34877,10 +34921,10 @@
           "https://pbs.twimg.com/profile_images/2050427976786010112/u0ceyAKE_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T06:59:04"
+      "last_updated": "2026-06-21T07:04:15"
     },
     "20260614122054_twitter_com_JamFarewellSong_status_2066133781082485099.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HKvYiJWbAAA4sYc.jpg"
@@ -34891,10 +34935,10 @@
           "https://pbs.twimg.com/profile_images/2060241467340374016/i5TS9D_z_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T06:59:04"
+      "last_updated": "2026-06-21T07:04:15"
     },
     "20260614122426_twitter_com_JamFarewellSong_status_2066134666437140648.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -34903,10 +34947,10 @@
           "https://pbs.twimg.com/profile_images/2065716915386060800/rO7-OA9L_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T06:59:04"
+      "last_updated": "2026-06-21T07:04:15"
     },
     "20260614122851_twitter_com_JamFarewellSong_status_2066135778342887715.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HKkw3RxbUAEkwkv.jpg"
@@ -34917,10 +34961,10 @@
           "https://pbs.twimg.com/profile_images/2065150134065954816/FdqO6LUP_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T06:59:04"
+      "last_updated": "2026-06-21T07:04:15"
     },
     "20260614122910_twitter_com_JamFarewellSong_status_2066135857430688063.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HKkw3RxbUAEkwkv.jpg"
@@ -34931,10 +34975,10 @@
           "https://pbs.twimg.com/profile_images/2065150134065954816/FdqO6LUP_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T06:59:04"
+      "last_updated": "2026-06-21T07:04:15"
     },
     "20260614123748_twitter_com_JamFarewellSong_status_2066138033943105946.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -34944,10 +34988,10 @@
           "https://pbs.twimg.com/profile_images/1952769024816783360/Ec1PgkNp_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T06:59:04"
+      "last_updated": "2026-06-21T07:04:15"
     },
     "20260614123930_twitter_com_JamFarewellSong_status_2066138458280833158.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -34956,7 +35000,7 @@
           "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T06:59:04"
+      "last_updated": "2026-06-21T07:04:15"
     },
     "20260614124601_twitter_com_JamFarewellSong_status_2066140098517995856.json": {
       "status": "done",
@@ -34975,7 +35019,7 @@
       "last_updated": "2026-06-21T06:45:24"
     },
     "20260614124701_twitter_com_JamFarewellSong_status_2066140352403366028.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -34984,10 +35028,10 @@
           "https://pbs.twimg.com/profile_images/1894946127629426688/RKH6WAzr_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T06:59:04"
+      "last_updated": "2026-06-21T07:04:15"
     },
     "20260615082026_twitter_com_JamFarewellSong_status_2066435653198643225.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -34996,10 +35040,10 @@
           "https://pbs.twimg.com/profile_images/2052171541077704704/sPryY9_A_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T06:59:04"
+      "last_updated": "2026-06-21T07:04:15"
     },
     "20260615082327_twitter_com_JamFarewellSong_status_2066436411444920765.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HKxIrpZaEAAeUJF.jpg"
@@ -35010,10 +35054,10 @@
           "https://pbs.twimg.com/profile_images/2053154412919721985/J6EwJycm_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T06:59:04"
+      "last_updated": "2026-06-21T07:04:15"
     },
     "20260615082542_twitter_com_JamFarewellSong_status_2066436977134858247.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HJRVFACWEAEjzde.jpg",
@@ -35025,10 +35069,10 @@
           "https://pbs.twimg.com/profile_images/2023347910138900480/MX5ULQRh_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T06:59:04"
+      "last_updated": "2026-06-21T07:04:15"
     },
     "20260618011823_twitter_com_JamFarewellSong_status_2067416604737261658.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -35038,10 +35082,10 @@
           "https://pbs.twimg.com/profile_images/1970833892660674561/YaapNhBZ_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T06:59:04"
+      "last_updated": "2026-06-21T07:04:15"
     },
     "20260618012509_twitter_com_JamFarewellSong_status_2067418304755765339.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HKu0m6UbkAA7y5K.png"
@@ -35052,10 +35096,10 @@
           "https://pbs.twimg.com/profile_images/2063315690971668481/gE9clKkq_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T06:59:04"
+      "last_updated": "2026-06-21T07:04:15"
     },
     "20260618012728_twitter_com_JamFarewellSong_status_2067418888057634894.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -35064,10 +35108,10 @@
           "https://pbs.twimg.com/profile_images/2062989136881958912/YFP-Zjel_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T06:59:04"
+      "last_updated": "2026-06-21T07:04:15"
     },
     "20260618013337_twitter_com_JamFarewellSong_status_2067420437039260143.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -35076,10 +35120,10 @@
           "https://pbs.twimg.com/profile_images/2059484390053613568/X677uU8V_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T06:59:04"
+      "last_updated": "2026-06-21T07:04:15"
     },
     "20260618013831_twitter_com_JamFarewellSong_status_2067421668587532676.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HK7F0LhaEAA3uIL.jpg"
@@ -35090,10 +35134,10 @@
           "https://pbs.twimg.com/profile_images/1872186399245709312/tkRb083a_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T06:59:04"
+      "last_updated": "2026-06-21T07:04:15"
     },
     "20260618013917_twitter_com_JamFarewellSong_status_2067421860615299562.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HJ0fFxza0AAvpiH.jpg"
@@ -35104,7 +35148,7 @@
           "https://pbs.twimg.com/profile_images/1899870118106324996/rqhj8L2-_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T06:59:04"
+      "last_updated": "2026-06-21T07:04:16"
     },
     "20260618014240_twitter_com_JamFarewellSong_status_2067422715875864644.json": {
       "status": "done",
@@ -35121,7 +35165,7 @@
       "last_updated": "2026-06-21T06:45:23"
     },
     "20260618015802_twitter_com_JamFarewellSong_status_2067426581832946002.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HKx5fQLbMAAuRoW.jpg"
@@ -35133,10 +35177,10 @@
           "https://pbs.twimg.com/profile_images/2000119531575095296/-lELMvd3_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T06:59:04"
+      "last_updated": "2026-06-21T07:04:16"
     },
     "20260618020017_twitter_com_JamFarewellSong_status_2067427147359383704.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HK6G2ZdboAAzU9j.jpg"
@@ -35147,7 +35191,7 @@
           "https://pbs.twimg.com/profile_images/2059761684500336640/bvv_7t16_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T06:59:04"
+      "last_updated": "2026-06-21T07:04:15"
     },
     "20260618020038_twitter_com_JamFarewellSong_status_2067427233543991635.json": {
       "status": "done",
@@ -35164,7 +35208,7 @@
       "last_updated": "2026-06-21T06:45:24"
     },
     "20260618020227_twitter_com_JamFarewellSong_status_2067427691817775315.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HLBsgr1aAAA_yPk.jpg"
@@ -35175,10 +35219,10 @@
           "https://pbs.twimg.com/profile_images/2000119531575095296/-lELMvd3_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T06:59:04"
+      "last_updated": "2026-06-21T07:04:16"
     },
     "20260618020642_twitter_com_JamFarewellSong_status_2067428761256214564.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HKPpsO4bEAAma2S.jpg",
@@ -35192,10 +35236,10 @@
           "https://pbs.twimg.com/profile_images/2038078401266020352/1lfmum7A_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T06:59:04"
+      "last_updated": "2026-06-21T07:04:15"
     },
     "20260618020646_twitter_com_JamFarewellSong_status_2067428780453560543.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HKPpsO4bEAAma2S.jpg",
@@ -35209,10 +35253,10 @@
           "https://pbs.twimg.com/profile_images/2038078401266020352/1lfmum7A_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T06:59:04"
+      "last_updated": "2026-06-21T07:04:15"
     },
     "20260618021253_twitter_com_JamFarewellSong_status_2067430320002175484.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HK7gt0hbAAAllfy.jpg"
@@ -35225,10 +35269,10 @@
           "https://pbs.twimg.com/profile_images/2038078401266020352/1lfmum7A_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T06:59:04"
+      "last_updated": "2026-06-21T07:04:16"
     },
     "20260618021650_twitter_com_JamFarewellSong_status_2067431313418953099.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HK7gt0hbAAAllfy.jpg"
@@ -35241,10 +35285,10 @@
           "https://pbs.twimg.com/profile_images/2038078401266020352/1lfmum7A_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T06:59:04"
+      "last_updated": "2026-06-21T07:04:16"
     },
     "20260618022432_twitter_com_JamFarewellSong_status_2067433249824211170.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -35255,10 +35299,10 @@
           "https://pbs.twimg.com/profile_images/2038078401266020352/1lfmum7A_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T06:59:04"
+      "last_updated": "2026-06-21T07:04:16"
     },
     "20260618022443_twitter_com_JamFarewellSong_status_2067433297198960853.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -35269,10 +35313,10 @@
           "https://pbs.twimg.com/profile_images/2038078401266020352/1lfmum7A_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T06:59:04"
+      "last_updated": "2026-06-21T07:04:16"
     },
     "20260618022535_twitter_com_JamFarewellSong_status_2067433513444581512.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HK7gt0hbAAAllfy.jpg"
@@ -35285,10 +35329,10 @@
           "https://pbs.twimg.com/profile_images/2038078401266020352/1lfmum7A_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T06:59:04"
+      "last_updated": "2026-06-21T07:04:16"
     },
     "20260618022552_twitter_com_JamFarewellSong_status_2067433585024659785.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -35299,10 +35343,10 @@
           "https://pbs.twimg.com/profile_images/2038078401266020352/1lfmum7A_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T06:59:04"
+      "last_updated": "2026-06-21T07:04:16"
     },
     "20260618022809_twitter_com_JamFarewellSong_status_2067434160558583983.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -35311,7 +35355,7 @@
           "https://pbs.twimg.com/profile_images/2052386249051422721/32J8Hjfa_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T06:59:04"
+      "last_updated": "2026-06-21T07:04:16"
     },
     "20260618022829_twitter_com_JamFarewellSong_status_2067434245665288519.json": {
       "status": "done",
@@ -35326,7 +35370,7 @@
       "last_updated": "2026-06-21T06:45:23"
     },
     "20260620050719_twitter_com_JamFarewellSong_status_2068198992555704473.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/GfORDXVWcAAV_F9.jpg"
@@ -35338,10 +35382,10 @@
           "https://pbs.twimg.com/profile_images/1827501235777499137/7MqqoZ6P_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T06:59:04"
+      "last_updated": "2026-06-21T07:04:16"
     },
     "20260620050729_twitter_com_JamFarewellSong_status_2068199031965430035.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -35351,7 +35395,7 @@
           "https://pbs.twimg.com/profile_images/1827501235777499137/7MqqoZ6P_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T06:59:04"
+      "last_updated": "2026-06-21T07:04:16"
     },
     "20260620051717_twitter_com_JamFarewellSong_status_2068201500086763806.json": {
       "status": "done",
@@ -35370,7 +35414,7 @@
       "last_updated": "2026-06-21T06:45:25"
     },
     "20260620052212_twitter_com_JamFarewellSong_status_2068202735028384080.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HLLro37bUAAK6hh.jpg"
@@ -35381,10 +35425,10 @@
           "https://pbs.twimg.com/profile_images/1942255962624262144/np4f2PQj_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T06:59:04"
+      "last_updated": "2026-06-21T07:04:16"
     },
     "20260620052441_twitter_com_JamFarewellSong_status_2068203360663347426.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -35394,10 +35438,10 @@
           "https://pbs.twimg.com/profile_images/2063959820148064256/gZr_9bTC_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T06:59:04"
+      "last_updated": "2026-06-21T07:04:16"
     },
     "20260620052731_twitter_com_JamFarewellSong_status_2068204076396089473.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -35406,7 +35450,7 @@
           "https://pbs.twimg.com/profile_images/2067843965739847680/Osf-j3D4_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T06:59:04"
+      "last_updated": "2026-06-21T07:04:16"
     }
   }
 }
