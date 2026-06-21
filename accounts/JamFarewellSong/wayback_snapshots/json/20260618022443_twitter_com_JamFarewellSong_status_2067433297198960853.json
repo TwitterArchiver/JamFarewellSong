@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2067433297198960853",
+    "created_at": "2026-06-18T02:24:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T03:24:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067433297198960853"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1907414826101669888",
+          "start": 3,
+          "username": "JamFarewellSong"
+        },
+        {
+          "end": 34,
+          "id": "2029291241704439808",
+          "start": 21,
+          "username": "20satsumaimo"
+        },
+        {
+          "end": 42,
+          "id": "1546431985086009344",
+          "start": 35,
+          "username": "NL8526"
+        },
+        {
+          "end": 57,
+          "id": "1581854903709802496",
+          "start": 43,
+          "username": "Xuyuansha9889"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067433297198960853",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067433249824211170",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JamFarewellSong: @20satsumaimo @NL8526 @Xuyuansha9889 你是…？如果你是家属的话，我就要喷你了😅\n“吾儿”“因病离世”，家属依然假装什么都不知道，因此不承认逝者的性别认同。也不承认杀死她的不是什么病，而是家庭和社会的否…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2067433297198960853",
+        "created_at": "2026-06-18T02:24:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T03:24:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067433297198960853"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1907414826101669888",
+              "start": 3,
+              "username": "JamFarewellSong"
+            },
+            {
+              "end": 34,
+              "id": "2029291241704439808",
+              "start": 21,
+              "username": "20satsumaimo"
+            },
+            {
+              "end": 42,
+              "id": "1546431985086009344",
+              "start": 35,
+              "username": "NL8526"
+            },
+            {
+              "end": 57,
+              "id": "1581854903709802496",
+              "start": 43,
+              "username": "Xuyuansha9889"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067433297198960853",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067433249824211170",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @JamFarewellSong: @20satsumaimo @NL8526 @Xuyuansha9889 你是…？如果你是家属的话，我就要喷你了😅\n“吾儿”“因病离世”，家属依然假装什么都不知道，因此不承认逝者的性别认同。也不承认杀死她的不是什么病，而是家庭和社会的否…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2066836446909174090",
+        "created_at": "2026-06-18T02:24:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T03:24:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067433249824211170"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2029291241704439808",
+              "start": 0,
+              "username": "20satsumaimo"
+            },
+            {
+              "end": 21,
+              "id": "1546431985086009344",
+              "start": 14,
+              "username": "NL8526"
+            },
+            {
+              "end": 36,
+              "id": "1581854903709802496",
+              "start": 22,
+              "username": "Xuyuansha9889"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067433249824211170",
+        "in_reply_to_user_id": "2029291241704439808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067318591398334583",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@20satsumaimo @NL8526 @Xuyuansha9889 你是…？如果你是家属的话，我就要喷你了😅\n“吾儿”“因病离世”，家属依然假装什么都不知道，因此不承认逝者的性别认同。也不承认杀死她的不是什么病，而是家庭和社会的否认与压迫。最后还用这些词汇侮辱逝者，死因不正明晃晃地摆在眼前么🤬"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX（断糖中）&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od&自伤新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 331,
+          "following_count": 1136,
+          "like_count": 4716,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 1148
+        },
+        "url": "",
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-04T20:25:12.000Z",
+        "description": "mtf/有证含糖/02年/基本待人友善/OD/不割手/疑似严重躁狂（叫我红薯就好啦～",
+        "id": "2029291241704439808",
+        "name": "是红薯呀～🍥",
+        "pinned_tweet_id": "2038964958881575022",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046964782033752064/ozF77ljw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 813,
+          "following_count": 1,
+          "like_count": 110,
+          "listed_count": 10,
+          "media_count": 85,
+          "tweet_count": 138
+        },
+        "url": "",
+        "username": "20satsumaimo",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🏳️‍⚧️07MTF ♍ISFP-T 😺AuDHD BPD 🎹钢专/数码/音游/MC 😴大一休学/家长不管党/不线下/小透明/友好欢迎dm ✨本人照片在亮点 🩷同类蓝v互fo 🙏包含梗图 抽象致歉 无故之b必回 ⬇️匿名问答箱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nl8526",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nl8526",
+                "start": 0,
+                "url": "https://t.co/jWEGQcvXbV"
+              }
+            ]
+          }
+        },
+        "id": "1546431985086009344",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2066003299510464743",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027271602556297216/MVm2kNIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2903,
+          "following_count": 810,
+          "like_count": 17257,
+          "listed_count": 5,
+          "media_count": 173,
+          "tweet_count": 746
+        },
+        "url": "https://t.co/jWEGQcvXbV",
+        "username": "NL8526",
+        "verified": true
+      },
+      {
+        "created_at": "2022-10-17T03:49:42.000Z",
+        "description": "極度社恐，重度社交障碍| 重抑双相 | 持证MtF🍥 | 165/60 | istp |负能药罐子 | m |不键政|活在自己的世界里，可以叫我小酥~",
+        "id": "1581854903709802496",
+        "name": "噬語🍥 🏳‍⚧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038078401266020352/1lfmum7A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 239,
+          "following_count": 49,
+          "like_count": 209,
+          "listed_count": 7,
+          "media_count": 49,
+          "tweet_count": 143
+        },
+        "url": "",
+        "username": "Xuyuansha9889",
+        "verified": false
+      }
+    ]
+  }
+}

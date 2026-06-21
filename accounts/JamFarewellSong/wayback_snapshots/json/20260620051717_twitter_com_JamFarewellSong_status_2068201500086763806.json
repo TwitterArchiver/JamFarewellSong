@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047333088758571009",
+        "3_2047333088611766272",
+        "3_2047333088615907328"
+      ],
+      "media_source_tweet_id": [
+        "2047342839835816193",
+        "2047342839835816193",
+        "2047342839835816193"
+      ]
+    },
+    "author_id": "1907414826101669888",
+    "conversation_id": "2068201500086763806",
+    "created_at": "2026-06-20T05:17:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T06:17:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068201500086763806"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1639816523190763521",
+          "start": 3,
+          "username": "ggdxfulan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qzzsriJBLE",
+          "end": 78,
+          "expanded_url": "https://x.com/ggdxfulan/status/2047342839835816193/photo/1",
+          "media_key": "3_2047333088758571009",
+          "start": 55,
+          "url": "https://t.co/qzzsriJBLE"
+        },
+        {
+          "display_url": "pic.x.com/qzzsriJBLE",
+          "end": 78,
+          "expanded_url": "https://x.com/ggdxfulan/status/2047342839835816193/photo/1",
+          "media_key": "3_2047333088611766272",
+          "start": 55,
+          "url": "https://t.co/qzzsriJBLE"
+        },
+        {
+          "display_url": "pic.x.com/qzzsriJBLE",
+          "end": 78,
+          "expanded_url": "https://x.com/ggdxfulan/status/2047342839835816193/photo/1",
+          "media_key": "3_2047333088615907328",
+          "start": 55,
+          "url": "https://t.co/qzzsriJBLE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068201500086763806",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047342839835816193",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ggdxfulan: 家里面现在7只药娘\n\n我、周一不吃糖、柒厌离、大咕咕、瑶光猫、霖月/糯米、琉璃 https://t.co/qzzsriJBLE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2047333088758571009",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGmWmNRboAEyRSx.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2047333088611766272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGmWmMubkAAusYi.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2047333088615907328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGmWmMvawAAtwvC.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047333088758571009",
+            "3_2047333088611766272",
+            "3_2047333088615907328"
+          ],
+          "media_source_tweet_id": [
+            "2047342839835816193",
+            "2047342839835816193",
+            "2047342839835816193"
+          ]
+        },
+        "author_id": "1907414826101669888",
+        "conversation_id": "2068201500086763806",
+        "created_at": "2026-06-20T05:17:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T06:17:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068201500086763806"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1639816523190763521",
+              "start": 3,
+              "username": "ggdxfulan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qzzsriJBLE",
+              "end": 78,
+              "expanded_url": "https://x.com/ggdxfulan/status/2047342839835816193/photo/1",
+              "media_key": "3_2047333088758571009",
+              "start": 55,
+              "url": "https://t.co/qzzsriJBLE"
+            },
+            {
+              "display_url": "pic.x.com/qzzsriJBLE",
+              "end": 78,
+              "expanded_url": "https://x.com/ggdxfulan/status/2047342839835816193/photo/1",
+              "media_key": "3_2047333088611766272",
+              "start": 55,
+              "url": "https://t.co/qzzsriJBLE"
+            },
+            {
+              "display_url": "pic.x.com/qzzsriJBLE",
+              "end": 78,
+              "expanded_url": "https://x.com/ggdxfulan/status/2047342839835816193/photo/1",
+              "media_key": "3_2047333088615907328",
+              "start": 55,
+              "url": "https://t.co/qzzsriJBLE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068201500086763806",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047342839835816193",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ggdxfulan: 家里面现在7只药娘\n\n我、周一不吃糖、柒厌离、大咕咕、瑶光猫、霖月/糯米、琉璃 https://t.co/qzzsriJBLE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047333088758571009",
+            "3_2047333088611766272",
+            "3_2047333088615907328"
+          ]
+        },
+        "author_id": "1639816523190763521",
+        "conversation_id": "2047342839835816193",
+        "created_at": "2026-04-23T15:52:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T16:13:43.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047333098912907673",
+          "2047342839835816193"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qzzsriJBLE",
+              "end": 63,
+              "expanded_url": "https://x.com/ggdxfulan/status/2047342839835816193/photo/1",
+              "media_key": "3_2047333088758571009",
+              "start": 40,
+              "url": "https://t.co/qzzsriJBLE"
+            },
+            {
+              "display_url": "pic.x.com/qzzsriJBLE",
+              "end": 63,
+              "expanded_url": "https://x.com/ggdxfulan/status/2047342839835816193/photo/1",
+              "media_key": "3_2047333088611766272",
+              "start": 40,
+              "url": "https://t.co/qzzsriJBLE"
+            },
+            {
+              "display_url": "pic.x.com/qzzsriJBLE",
+              "end": 63,
+              "expanded_url": "https://x.com/ggdxfulan/status/2047342839835816193/photo/1",
+              "media_key": "3_2047333088615907328",
+              "start": 40,
+              "url": "https://t.co/qzzsriJBLE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047342839835816193",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 36657,
+          "like_count": 221,
+          "quote_count": 0,
+          "reply_count": 35,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "家里面现在7只药娘\n\n我、周一不吃糖、柒厌离、大咕咕、瑶光猫、霖月/糯米、琉璃 https://t.co/qzzsriJBLE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX（断糖中）&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od&自伤新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 335,
+          "following_count": 1136,
+          "like_count": 4717,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 1151
+        },
+        "url": "",
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-26T02:28:25.000Z",
+        "description": "一个看书的人",
+        "id": "1639816523190763521",
+        "location": "距离你2km",
+        "name": "乖乖哒二小姐",
+        "pinned_tweet_id": "2058399513157722597",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002781704680030208/O0cqzBz3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17857,
+          "following_count": 500,
+          "like_count": 36689,
+          "listed_count": 29,
+          "media_count": 3808,
+          "tweet_count": 11783
+        },
+        "url": "",
+        "username": "ggdxfulan",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2066134666437140648",
+    "created_at": "2026-06-14T12:24:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T13:24:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066134666437140648"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1495262246213230600",
+          "start": 3,
+          "username": "woodburninbox"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066134666437140648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065861400485052654",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @woodburninbox: 分配资源和建立心理优势的手段。然后呢？是不是通过跟爱的人建立很深刻的联系，可以在一个两人圈子内片刻消除这种虚无感？我最近在思考这个问题。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2066134666437140648",
+        "created_at": "2026-06-14T12:24:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T13:24:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066134666437140648"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1495262246213230600",
+              "start": 3,
+              "username": "woodburninbox"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066134666437140648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065861400485052654",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @woodburninbox: 分配资源和建立心理优势的手段。然后呢？是不是通过跟爱的人建立很深刻的联系，可以在一个两人圈子内片刻消除这种虚无感？我最近在思考这个问题。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495262246213230600",
+        "conversation_id": "2065861400485052654",
+        "created_at": "2026-06-13T18:18:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T19:18:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065861400485052654"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/woodburninbox/…",
+              "end": 92,
+              "expanded_url": "https://twitter.com/woodburninbox/status/2065860734538732022",
+              "start": 69,
+              "url": "https://t.co/lQltbtpR28"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065861400485052654",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 50,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065860734538732022",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "分配资源和建立心理优势的手段。然后呢？是不是通过跟爱的人建立很深刻的联系，可以在一个两人圈子内片刻消除这种虚无感？我最近在思考这个问题。 https://t.co/lQltbtpR28"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX（断糖中）&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od&自伤新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 323,
+          "following_count": 1120,
+          "like_count": 4637,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 1126
+        },
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-20T05:01:27.000Z",
+        "description": "🩸💊☠️ 大龄餐券\n解答世间万物，但是\n宇宙的奥秘我解答不了呀！下一个",
+        "id": "1495262246213230600",
+        "location": "上海",
+        "name": "ccandle",
+        "pinned_tweet_id": "2065720435707379823",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065716915386060800/rO7-OA9L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 35,
+          "like_count": 24,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 20
+        },
+        "username": "woodburninbox",
+        "verified": false
+      }
+    ]
+  }
+}

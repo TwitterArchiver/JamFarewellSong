@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2066138033943105946",
+    "created_at": "2026-06-14T12:37:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T13:37:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066138033943105946"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2042276998668525573",
+          "start": 3,
+          "username": "SakurabaAya514"
+        },
+        {
+          "end": 63,
+          "id": "1946593949180993536",
+          "start": 49,
+          "username": "RogerDisboard"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066138033943105946",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065101406932271566",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SakurabaAya514: 起初这只是一个张vv的梗图……\n之后一发不可收拾了……\n跟@RogerDisboard 激烈对图中，张vv还是赢麻了🤓"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2066138033943105946",
+        "created_at": "2026-06-14T12:37:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T13:37:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066138033943105946"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2042276998668525573",
+              "start": 3,
+              "username": "SakurabaAya514"
+            },
+            {
+              "end": 63,
+              "id": "1946593949180993536",
+              "start": 49,
+              "username": "RogerDisboard"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066138033943105946",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065101406932271566",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SakurabaAya514: 起初这只是一个张vv的梗图……\n之后一发不可收拾了……\n跟@RogerDisboard 激烈对图中，张vv还是赢麻了🤓"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2065101406932271566",
+        "created_at": "2026-06-11T15:58:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T16:58:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065101406932271566"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 43,
+              "id": "1946593949180993536",
+              "start": 29,
+              "username": "RogerDisboard"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/RogerDisboard/…",
+              "end": 83,
+              "expanded_url": "https://twitter.com/RogerDisboard/status/2065085851424698769",
+              "start": 60,
+              "url": "https://t.co/uSHXAcFdmt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065101406932271566",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 651,
+          "like_count": 12,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065085851424698769",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "起初这只是一个张vv的梗图……\n之后一发不可收拾了……\n跟@RogerDisboard 激烈对图中，张vv还是赢麻了🤓 https://t.co/uSHXAcFdmt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX（断糖中）&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od&自伤新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 325,
+          "following_count": 1124,
+          "like_count": 4645,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 1129
+        },
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "来自坎通国（现居巴蜀）/东方project/魔裁/Arcaea/舞萌/键政⚠️/双相情感障碍⚠️/亚文化B/欢迎互fo（会看成分致歉）/LGBTQ+🏳️‍🌈友好/友跨🏳️‍⚧️\n主要在X上网冲浪评论搞抽象为主，发帖主要是日常生活和碎碎念，以及负面推文⚠️",
+        "id": "2042276998668525573",
+        "location": "真理就是没真理！",
+        "name": "赤月",
+        "pinned_tweet_id": "2063643511128522806",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062600655634907136/sl1r5PSg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 615,
+          "following_count": 746,
+          "like_count": 8577,
+          "listed_count": 0,
+          "media_count": 327,
+          "tweet_count": 2663
+        },
+        "username": "SakurabaAya514",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-19T15:32:31.000Z",
+        "description": "人生就是要幼稚一点才有乐趣/2008/（希望）永远是12岁/不o不割不健全/友跨/继承@Aureliax17QwQ的心意，我将继续成为心理委员/随机掉落奇妙思想/查成分互fo喵/欢迎私信喵/月计/永远和@mendong_tian剧烈贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 43,
+                "username": "Aureliax17QwQ"
+              },
+              {
+                "end": 114,
+                "start": 101,
+                "username": "mendong_tian"
+              }
+            ]
+          }
+        },
+        "id": "1946593949180993536",
+        "location": "Disboard",
+        "name": "DISBOARDの神様Roger",
+        "pinned_tweet_id": "2065817116843168242",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952769024816783360/Ec1PgkNp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 645,
+          "following_count": 1122,
+          "like_count": 9184,
+          "listed_count": 0,
+          "media_count": 282,
+          "tweet_count": 2459
+        },
+        "username": "RogerDisboard",
+        "verified": false
+      }
+    ]
+  }
+}

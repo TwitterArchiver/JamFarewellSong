@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1541424761129033728"
+      ],
+      "media_source_tweet_id": [
+        "1541424771623272448"
+      ]
+    },
+    "author_id": "1907414826101669888",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2067427233543991635",
+    "created_at": "2026-06-18T02:00:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T03:00:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067427233543991635"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1533024617811812352",
+          "start": 3,
+          "username": "Spr1ngW1nd"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ny1J9x0NWz",
+          "end": 42,
+          "expanded_url": "https://x.com/Spr1ngW1nd/status/1541424771623272448/photo/1",
+          "media_key": "3_1541424761129033728",
+          "start": 19,
+          "url": "https://t.co/Ny1J9x0NWz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067427233543991635",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "1541424771623272448",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Spr1ngW1nd: 引用 https://t.co/Ny1J9x0NWz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1040,
+        "media_key": "3_1541424761129033728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FWQ9p0cWYAAdIpz.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1541424761129033728"
+          ],
+          "media_source_tweet_id": [
+            "1541424771623272448"
+          ]
+        },
+        "author_id": "1907414826101669888",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2067427233543991635",
+        "created_at": "2026-06-18T02:00:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T03:00:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067427233543991635"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1533024617811812352",
+              "start": 3,
+              "username": "Spr1ngW1nd"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ny1J9x0NWz",
+              "end": 42,
+              "expanded_url": "https://x.com/Spr1ngW1nd/status/1541424771623272448/photo/1",
+              "media_key": "3_1541424761129033728",
+              "start": 19,
+              "url": "https://t.co/Ny1J9x0NWz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067427233543991635",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "1541424771623272448",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Spr1ngW1nd: 引用 https://t.co/Ny1J9x0NWz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1541424761129033728"
+          ]
+        },
+        "author_id": "1533024617811812352",
+        "conversation_id": "1541424771623272448",
+        "created_at": "2022-06-27T14:14:38.000Z",
+        "edit_controls": {
+          "editable_until": "2022-06-27T14:44:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1541424771623272448"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ny1J9x0NWz",
+              "end": 26,
+              "expanded_url": "https://x.com/Spr1ngW1nd/status/1541424771623272448/photo/1",
+              "media_key": "3_1541424761129033728",
+              "start": 3,
+              "url": "https://t.co/Ny1J9x0NWz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1541424771623272448",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 0,
+          "like_count": 53,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "引用 https://t.co/Ny1J9x0NWz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX（断糖中）&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od&自伤新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 331,
+          "following_count": 1133,
+          "like_count": 4709,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 1141
+        },
+        "url": "",
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-04T09:55:35.000Z",
+        "description": "药物滥用的内容相关会转发到@Overdose_Wind /#StandWithUkraine/",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 46,
+                "start": 29,
+                "tag": "StandWithUkraine"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 27,
+                "start": 13,
+                "username": "Overdose_Wind"
+              }
+            ]
+          }
+        },
+        "id": "1533024617811812352",
+        "location": "Japan",
+        "name": "Spring风#参宿四",
+        "pinned_tweet_id": "1555067952335970305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1606726635713335296/TrmJq-XY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6968,
+          "following_count": 357,
+          "like_count": 4379,
+          "listed_count": 17,
+          "media_count": 450,
+          "tweet_count": 4947
+        },
+        "url": "",
+        "username": "Spr1ngW1nd",
+        "verified": false
+      }
+    ]
+  }
+}

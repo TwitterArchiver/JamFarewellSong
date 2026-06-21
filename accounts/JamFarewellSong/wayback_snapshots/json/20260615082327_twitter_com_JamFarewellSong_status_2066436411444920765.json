@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066106243740209152"
+      ],
+      "media_source_tweet_id": [
+        "2066106259049463895"
+      ]
+    },
+    "author_id": "1907414826101669888",
+    "conversation_id": "2066436411444920765",
+    "created_at": "2026-06-15T08:23:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T09:23:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066436411444920765"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1991795014163382272",
+          "start": 3,
+          "username": "fortearsidie"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PhSIYrkiH0",
+          "end": 52,
+          "expanded_url": "https://x.com/fortearsidie/status/2066106259049463895/photo/1",
+          "media_key": "3_2066106243740209152",
+          "start": 29,
+          "url": "https://t.co/PhSIYrkiH0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066436411444920765",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 37
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066106259049463895",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @fortearsidie: 躲超市后门OD的二人 https://t.co/PhSIYrkiH0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2036,
+        "media_key": "3_2066106243740209152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKxIrpZaEAAeUJF.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066106243740209152"
+          ],
+          "media_source_tweet_id": [
+            "2066106259049463895"
+          ]
+        },
+        "author_id": "1907414826101669888",
+        "conversation_id": "2066436411444920765",
+        "created_at": "2026-06-15T08:23:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T09:23:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066436411444920765"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1991795014163382272",
+              "start": 3,
+              "username": "fortearsidie"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PhSIYrkiH0",
+              "end": 52,
+              "expanded_url": "https://x.com/fortearsidie/status/2066106259049463895/photo/1",
+              "media_key": "3_2066106243740209152",
+              "start": 29,
+              "url": "https://t.co/PhSIYrkiH0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066436411444920765",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 37
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066106259049463895",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @fortearsidie: 躲超市后门OD的二人 https://t.co/PhSIYrkiH0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066106243740209152"
+          ]
+        },
+        "author_id": "1991795014163382272",
+        "conversation_id": "2066106259049463895",
+        "created_at": "2026-06-14T10:31:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T11:31:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066106259049463895"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PhSIYrkiH0",
+              "end": 34,
+              "expanded_url": "https://x.com/fortearsidie/status/2066106259049463895/photo/1",
+              "media_key": "3_2066106243740209152",
+              "start": 11,
+              "url": "https://t.co/PhSIYrkiH0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066106259049463895",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 7147,
+          "like_count": 250,
+          "quote_count": 7,
+          "reply_count": 28,
+          "retweet_count": 37
+        },
+        "reply_settings": "everyone",
+        "text": "躲超市后门OD的二人 https://t.co/PhSIYrkiH0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX（断糖中）&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od&自伤新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 328,
+          "following_count": 1123,
+          "like_count": 4655,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 1133
+        },
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-21T09:05:27.000Z",
+        "description": "可以叫我Eri｜Male｜双性浪漫倾向无性恋｜友LGBTQ+\n碎碎念｜大龄社畜｜ISFP｜有对象｜欢迎互fo\nBFF：@hongdounuomi\n“我们彻夜飞旋，直至没入火焰。”",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 59,
+                "username": "hongdounuomi"
+              }
+            ]
+          }
+        },
+        "id": "1991795014163382272",
+        "location": "    The Kingdom of overdose",
+        "name": "为泪舍己",
+        "pinned_tweet_id": "2054249080063504423",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053154412919721985/J6EwJycm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 260,
+          "following_count": 469,
+          "like_count": 7733,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 202
+        },
+        "username": "fortearsidie",
+        "verified": true
+      }
+    ]
+  }
+}

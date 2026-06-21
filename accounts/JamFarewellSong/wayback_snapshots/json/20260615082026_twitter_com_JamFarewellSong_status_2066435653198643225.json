@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2066435653198643225",
+    "created_at": "2026-06-15T08:20:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T09:20:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066435653198643225"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1558757725797986305",
+          "start": 3,
+          "username": "Hemlock_113"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066435653198643225",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065095841359220907",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Hemlock_113: 在香港就是爽 我买了1000t右美 牛逼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2066435653198643225",
+        "created_at": "2026-06-15T08:20:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T09:20:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066435653198643225"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1558757725797986305",
+              "start": 3,
+              "username": "Hemlock_113"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066435653198643225",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065095841359220907",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Hemlock_113: 在香港就是爽 我买了1000t右美 牛逼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1558757725797986305",
+        "conversation_id": "2065095841359220907",
+        "created_at": "2026-06-11T15:36:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T16:36:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065095841359220907"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065095841359220907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2228,
+          "like_count": 41,
+          "quote_count": 1,
+          "reply_count": 15,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "在香港就是爽 我买了1000t右美 牛逼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX（断糖中）&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od&自伤新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 328,
+          "following_count": 1123,
+          "like_count": 4650,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 1132
+        },
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-14T10:09:46.000Z",
+        "description": "🇭🇰HK 10 单机透明人\nod｜自伤｜碎碎念｜小作文\n严重社交恐惧 低情商 查成分互fo\n接线下纯绿半绿 入门发价格不闲聊",
+        "id": "1558757725797986305",
+        "location": "🚪52/88/188/520",
+        "name": "凝檬_☆",
+        "pinned_tweet_id": "2063871577591275690",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052171541077704704/sPryY9_A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 410,
+          "following_count": 145,
+          "like_count": 698,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 784
+        },
+        "username": "Hemlock_113",
+        "verified": false
+      }
+    ]
+  }
+}

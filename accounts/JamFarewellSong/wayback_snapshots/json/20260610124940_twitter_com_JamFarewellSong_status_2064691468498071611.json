@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2064691468498071611",
+    "created_at": "2026-06-10T12:49:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T13:49:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064691468498071611"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1695553771961729024",
+          "start": 3,
+          "username": "Shiraishiwatari"
+        },
+        {
+          "end": 35,
+          "id": "1748763011140169729",
+          "start": 21,
+          "username": "lovelyshuimao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064691468498071611",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063948567891317179",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Shiraishiwatari: @lovelyshuimao 系统性的资源界定不能降维成个体遭受的压迫事实。\n另外按照你说的，大众对孕妇都能施加这种压迫和审视，为什么跨性别为了获得资源承认自己“有病”就真的能获得所需资源呢。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2064691468498071611",
+        "created_at": "2026-06-10T12:49:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T13:49:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064691468498071611"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1695553771961729024",
+              "start": 3,
+              "username": "Shiraishiwatari"
+            },
+            {
+              "end": 35,
+              "id": "1748763011140169729",
+              "start": 21,
+              "username": "lovelyshuimao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064691468498071611",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063948567891317179",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Shiraishiwatari: @lovelyshuimao 系统性的资源界定不能降维成个体遭受的压迫事实。\n另外按照你说的，大众对孕妇都能施加这种压迫和审视，为什么跨性别为了获得资源承认自己“有病”就真的能获得所需资源呢。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695553771961729024",
+        "conversation_id": "2063940574239977493",
+        "created_at": "2026-06-08T11:37:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T12:37:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063948567891317179"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1748763011140169729",
+              "start": 0,
+              "username": "lovelyshuimao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063948567891317179",
+        "in_reply_to_user_id": "1748763011140169729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 290,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063946584111640633",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lovelyshuimao 系统性的资源界定不能降维成个体遭受的压迫事实。\n另外按照你说的，大众对孕妇都能施加这种压迫和审视，为什么跨性别为了获得资源承认自己“有病”就真的能获得所需资源呢。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX（断糖中）&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od&自伤新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 317,
+          "following_count": 1107,
+          "like_count": 4575,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 1105
+        },
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-26T21:48:32.000Z",
+        "description": "Perpetua et firma libertas",
+        "id": "1695553771961729024",
+        "name": "白石渡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866204965921816576/ZEtERUnz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 50,
+          "like_count": 4776,
+          "listed_count": 0,
+          "media_count": 154,
+          "tweet_count": 1214
+        },
+        "username": "Shiraishiwatari",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "｜水猫星铃Lumia\n｜INTJ ♀14  \n｜❤️@saonanaa\n｜提問box——————————↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 27,
+                "username": "saonanaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGspkq"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水",
+        "pinned_tweet_id": "2063974537272910172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045354329792749568/b7JXuLvu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4891,
+          "following_count": 1009,
+          "like_count": 274,
+          "listed_count": 17,
+          "media_count": 3250,
+          "tweet_count": 14585
+        },
+        "url": "https://t.co/EZhyEGspkq",
+        "username": "lovelyshuimao",
+        "verified": false
+      }
+    ]
+  }
+}

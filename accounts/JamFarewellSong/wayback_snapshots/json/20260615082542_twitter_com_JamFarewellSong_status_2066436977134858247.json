@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2066436977134858247",
+    "created_at": "2026-06-15T08:25:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T09:25:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066436977134858247"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1959422320491347968",
+          "start": 3,
+          "username": "Meow5tr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066436977134858247",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059364502588572095",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Meow5tr: 咪，测试了加巴喷丁和pr咪喵\n猫的结论是，1200mg加巴喷丁会带来的社交增强和欣快感（表现为坐着想摇晃，想轻哼），比600mg pr更强咪，而且加巴喷丁所表现的社交增强是强烈的母性思维咪，比pr的好咪，然后咪，600mg pr会带来头痛的副作用咪（…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2188,
+        "media_key": "3_2059364474012700673",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJRVFACWEAEjzde.jpg",
+        "width": 1151
+      },
+      {
+        "height": 1798,
+        "media_key": "3_2059364473962459136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJRVE_2XcAAcSND.jpg",
+        "width": 1160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2066436977134858247",
+        "created_at": "2026-06-15T08:25:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T09:25:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066436977134858247"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1959422320491347968",
+              "start": 3,
+              "username": "Meow5tr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066436977134858247",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059364502588572095",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Meow5tr: 咪，测试了加巴喷丁和pr咪喵\n猫的结论是，1200mg加巴喷丁会带来的社交增强和欣快感（表现为坐着想摇晃，想轻哼），比600mg pr更强咪，而且加巴喷丁所表现的社交增强是强烈的母性思维咪，比pr的好咪，然后咪，600mg pr会带来头痛的副作用咪（…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059364474012700673",
+            "3_2059364473962459136"
+          ]
+        },
+        "author_id": "1959422320491347968",
+        "conversation_id": "2059364502588572095",
+        "created_at": "2026-05-26T20:02:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T21:02:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059364502588572095"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 136,
+              "id": "1639816523190763521",
+              "start": 126,
+              "username": "ggdxfulan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LGwVMdhDoI",
+              "end": 185,
+              "expanded_url": "https://x.com/Meow5tr/status/2059364502588572095/photo/1",
+              "media_key": "3_2059364474012700673",
+              "start": 162,
+              "url": "https://t.co/LGwVMdhDoI"
+            },
+            {
+              "display_url": "pic.x.com/LGwVMdhDoI",
+              "end": 185,
+              "expanded_url": "https://x.com/Meow5tr/status/2059364502588572095/photo/1",
+              "media_key": "3_2059364473962459136",
+              "start": 162,
+              "url": "https://t.co/LGwVMdhDoI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059364502588572095",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 5515,
+          "like_count": 66,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "咪，测试了加巴喷丁和pr咪喵\n猫的结论是，1200mg加巴喷丁会带来的社交增强和欣快感（表现为坐着想摇晃，想轻哼），比600mg pr更强咪，而且加巴喷丁所表现的社交增强是强烈的母性思维咪，比pr的好咪，然后咪，600mg pr会带来头痛的副作用咪（ @ggdxfulan 也这样咪），1200mg加巴喷丁没有这种副作用喵 https://t.co/LGwVMdhDoI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX（断糖中）&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od&自伤新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 328,
+          "following_count": 1124,
+          "like_count": 4658,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 1134
+        },
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-24T01:07:49.000Z",
+        "description": "🍥|司祭|🐱|No Biological Sex|✨：@NyaCookieNeko|Discipline：PhysicalChemi/Quantum phy/Quantum/Neurophysi/M-theory|* What went wrong:Who care.|crush:@kurosabikuna",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 27,
+                "username": "NyaCookieNeko"
+              },
+              {
+                "end": 154,
+                "start": 141,
+                "username": "kurosabikuna"
+              }
+            ]
+          }
+        },
+        "id": "1959422320491347968",
+        "name": "Mon5🍥",
+        "pinned_tweet_id": "2023363419693552122",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023347910138900480/MX5ULQRh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 27,
+          "like_count": 919,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 227
+        },
+        "username": "Meow5tr",
+        "verified": false
+      }
+    ]
+  }
+}

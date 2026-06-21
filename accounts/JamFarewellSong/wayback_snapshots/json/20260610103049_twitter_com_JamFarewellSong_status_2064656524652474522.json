@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2064037890490057182",
+    "created_at": "2026-06-10T10:30:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T11:30:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064656524652474522"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1908630026012004353",
+          "start": 0,
+          "username": "Oscxiar_0716"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064656524652474522",
+    "in_reply_to_user_id": "1908630026012004353",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064038112108667288",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Oscxiar_0716 也可以考虑试试“猫”卖的霜尘😇和雪尘是同样的物质，但价格更实惠，且目前有在做活动。实际使用后感觉它俩没差，所以霜尘更有性价比些"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2064037890490057182",
+        "created_at": "2026-06-10T10:30:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T11:30:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064656524652474522"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1908630026012004353",
+              "start": 0,
+              "username": "Oscxiar_0716"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064656524652474522",
+        "in_reply_to_user_id": "1908630026012004353",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064038112108667288",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Oscxiar_0716 也可以考虑试试“猫”卖的霜尘😇和雪尘是同样的物质，但价格更实惠，且目前有在做活动。实际使用后感觉它俩没差，所以霜尘更有性价比些"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1908630026012004353",
+        "conversation_id": "2064037890490057182",
+        "created_at": "2026-06-08T17:33:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T18:33:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064038112108667288"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064038112108667288",
+        "in_reply_to_user_id": "1908630026012004353",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 84,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064037890490057182",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "补药啊买不到了吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX（断糖中）&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od&自伤新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 317,
+          "following_count": 1105,
+          "like_count": 4548,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 1096
+        },
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-05T21:17:39.000Z",
+        "description": "蓝调，衰弱的人生，宽恕人类三秒钟 ✝️「我灵歌唱，赞美救主我神」「若不计较，就一次痛快燃烧」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Oscxiaremax",
+                "end": 23,
+                "expanded_url": "https://t.me/Oscxiaremax",
+                "start": 0,
+                "url": "https://t.co/ArtAUcmE5i"
+              }
+            ]
+          }
+        },
+        "id": "1908630026012004353",
+        "location": "法兰西第五共和国",
+        "name": "玛非斯🦋",
+        "pinned_tweet_id": "1915064949577334911",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908630471770091521/VfJHXLVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 443,
+          "like_count": 2323,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 1326
+        },
+        "url": "https://t.co/ArtAUcmE5i",
+        "username": "Oscxiar_0716",
+        "verified": false
+      }
+    ]
+  }
+}

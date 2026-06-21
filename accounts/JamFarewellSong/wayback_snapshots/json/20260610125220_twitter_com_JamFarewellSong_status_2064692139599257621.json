@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2064692139599257621",
+    "created_at": "2026-06-10T12:52:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T13:52:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064692139599257621"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2046283772455485440",
+          "start": 3,
+          "username": "AubreyCamilleuu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064692139599257621",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064600620905173390",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AubreyCamilleuu: 你回答我，被家人辱骂、殴打，被送入扭转机构人身拘禁的性少数群体；青春期得不到性别肯定医疗资源的，因不符合规范的性别表达而被学校休学、退学的，做了性别肯定手术导致难以使用自己学历证书的，成年后因性别表达而在找工作中屡屡碰壁的跨性别者们，他…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2064692139599257621",
+        "created_at": "2026-06-10T12:52:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T13:52:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064692139599257621"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2046283772455485440",
+              "start": 3,
+              "username": "AubreyCamilleuu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064692139599257621",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064600620905173390",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AubreyCamilleuu: 你回答我，被家人辱骂、殴打，被送入扭转机构人身拘禁的性少数群体；青春期得不到性别肯定医疗资源的，因不符合规范的性别表达而被学校休学、退学的，做了性别肯定手术导致难以使用自己学历证书的，成年后因性别表达而在找工作中屡屡碰壁的跨性别者们，他…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046283772455485440",
+        "conversation_id": "2064600620905173390",
+        "created_at": "2026-06-10T06:48:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T07:48:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064600620905173390"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Taoist_mark/st…",
+              "end": 159,
+              "expanded_url": "https://twitter.com/Taoist_mark/status/2064220344677011747",
+              "start": 136,
+              "url": "https://t.co/YxlLL3qwmj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064600620905173390",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 2872,
+          "like_count": 93,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064220344677011747",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你回答我，被家人辱骂、殴打，被送入扭转机构人身拘禁的性少数群体；青春期得不到性别肯定医疗资源的，因不符合规范的性别表达而被学校休学、退学的，做了性别肯定手术导致难以使用自己学历证书的，成年后因性别表达而在找工作中屡屡碰壁的跨性别者们，他们受到的是不是系统性的歧视和失权？ https://t.co/YxlLL3qwmj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX（断糖中）&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od&自伤新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 317,
+          "following_count": 1107,
+          "like_count": 4578,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 1106
+        },
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-20T17:44:16.000Z",
+        "description": "💜🤍💚/💛🤍💜🖤/🩵🤍🩷",
+        "id": "2046283772455485440",
+        "name": "沅子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058491039305084928/dJpjJwl0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 146,
+          "like_count": 903,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 226
+        },
+        "username": "AubreyCamilleuu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,344 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067974266356977664"
+      ],
+      "media_source_tweet_id": [
+        "2067974578090148175"
+      ]
+    },
+    "author_id": "1907414826101669888",
+    "conversation_id": "2068202735028384080",
+    "created_at": "2026-06-20T05:22:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T06:22:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068202735028384080"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 51,
+          "start": 48,
+          "tag": "男娘"
+        },
+        {
+          "end": 55,
+          "start": 52,
+          "tag": "伪娘"
+        },
+        {
+          "end": 59,
+          "start": 56,
+          "tag": "四爱"
+        },
+        {
+          "end": 65,
+          "start": 60,
+          "tag": "晓山瑞希"
+        },
+        {
+          "end": 71,
+          "start": 66,
+          "tag": "东云绘名"
+        },
+        {
+          "end": 77,
+          "start": 72,
+          "tag": "世界计划"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "572223752",
+          "start": 3,
+          "username": "DanMoooi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1iQJkUCREL",
+          "end": 101,
+          "expanded_url": "https://x.com/DanMoooi/status/2067974578090148175/photo/1",
+          "media_key": "3_2067974266356977664",
+          "start": 78,
+          "url": "https://t.co/1iQJkUCREL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068202735028384080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067974578090148175",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DanMoooi: 画糖四爱后续\n我说瑞希这种可爱男孩被操得小唧唧乱甩很可爱有人懂吗？\n#男娘 #伪娘 #四爱 #晓山瑞希 #东云绘名 #世界计划 https://t.co/1iQJkUCREL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3857,
+        "media_key": "3_2067974266356977664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLLro37bUAAK6hh.jpg",
+        "width": 2682
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067974266356977664"
+          ],
+          "media_source_tweet_id": [
+            "2067974578090148175"
+          ]
+        },
+        "author_id": "1907414826101669888",
+        "conversation_id": "2068202735028384080",
+        "created_at": "2026-06-20T05:22:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T06:22:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068202735028384080"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 51,
+              "start": 48,
+              "tag": "男娘"
+            },
+            {
+              "end": 55,
+              "start": 52,
+              "tag": "伪娘"
+            },
+            {
+              "end": 59,
+              "start": 56,
+              "tag": "四爱"
+            },
+            {
+              "end": 65,
+              "start": 60,
+              "tag": "晓山瑞希"
+            },
+            {
+              "end": 71,
+              "start": 66,
+              "tag": "东云绘名"
+            },
+            {
+              "end": 77,
+              "start": 72,
+              "tag": "世界计划"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "572223752",
+              "start": 3,
+              "username": "DanMoooi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1iQJkUCREL",
+              "end": 101,
+              "expanded_url": "https://x.com/DanMoooi/status/2067974578090148175/photo/1",
+              "media_key": "3_2067974266356977664",
+              "start": 78,
+              "url": "https://t.co/1iQJkUCREL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068202735028384080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067974578090148175",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DanMoooi: 画糖四爱后续\n我说瑞希这种可爱男孩被操得小唧唧乱甩很可爱有人懂吗？\n#男娘 #伪娘 #四爱 #晓山瑞希 #东云绘名 #世界计划 https://t.co/1iQJkUCREL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067974266356977664"
+          ]
+        },
+        "author_id": "572223752",
+        "conversation_id": "2067974578090148175",
+        "created_at": "2026-06-19T14:15:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T15:15:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067974578090148175"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 37,
+              "start": 34,
+              "tag": "男娘"
+            },
+            {
+              "end": 41,
+              "start": 38,
+              "tag": "伪娘"
+            },
+            {
+              "end": 45,
+              "start": 42,
+              "tag": "四爱"
+            },
+            {
+              "end": 51,
+              "start": 46,
+              "tag": "晓山瑞希"
+            },
+            {
+              "end": 57,
+              "start": 52,
+              "tag": "东云绘名"
+            },
+            {
+              "end": 63,
+              "start": 58,
+              "tag": "世界计划"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1iQJkUCREL",
+              "end": 87,
+              "expanded_url": "https://x.com/DanMoooi/status/2067974578090148175/photo/1",
+              "media_key": "3_2067974266356977664",
+              "start": 64,
+              "url": "https://t.co/1iQJkUCREL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067974578090148175",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 3277,
+          "like_count": 62,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "画糖四爱后续\n我说瑞希这种可爱男孩被操得小唧唧乱甩很可爱有人懂吗？\n#男娘 #伪娘 #四爱 #晓山瑞希 #东云绘名 #世界计划 https://t.co/1iQJkUCREL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX（断糖中）&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od&自伤新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 335,
+          "following_count": 1137,
+          "like_count": 4722,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 1153
+        },
+        "url": "",
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2012-05-06T01:55:18.000Z",
+        "description": "R18G 插画师 漫画师｜含糖MTX🍥｜病弱体质｜\nP站:https://t.co/sv2tI9aNbK  四月恢复接稿…会慢更小说和插画漫画 ｜\n这里主要日常碎碎念+自拍+同步p站更新插画漫画｜Q：1551247028",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/98687985",
+                "end": 52,
+                "expanded_url": "https://www.pixiv.net/users/98687985",
+                "start": 29,
+                "url": "https://t.co/sv2tI9aNbK"
+              }
+            ]
+          }
+        },
+        "id": "572223752",
+        "name": "丹墨离",
+        "pinned_tweet_id": "2060323568093949989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942255962624262144/np4f2PQj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2451,
+          "following_count": 151,
+          "like_count": 437,
+          "listed_count": 7,
+          "media_count": 180,
+          "tweet_count": 664
+        },
+        "url": "",
+        "username": "DanMoooi",
+        "verified": false
+      }
+    ]
+  }
+}

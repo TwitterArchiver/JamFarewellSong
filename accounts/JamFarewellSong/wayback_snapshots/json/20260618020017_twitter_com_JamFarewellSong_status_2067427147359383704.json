@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2067427147359383704",
+    "created_at": "2026-06-18T02:00:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T03:00:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067427147359383704"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2048693394226974720",
+          "start": 3,
+          "username": "CCA8798suki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067427147359383704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066737563558432829",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CCA8798suki: 我：我担心色普龙的脑膜瘤风险，所以来这接受正规的青春期阻滞治疗...\n我妈：我看你就是被圈子的人影响，想女装上网拍给人看...(一堆大道理)\n高绿芬：不不不你看我觉得这孩子挺有条理的，反倒是你在这稀里糊涂的呢\n高：(开出诺雷得处方单) http…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2066737548115025920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK6G2ZdboAAzU9j.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2067427147359383704",
+        "created_at": "2026-06-18T02:00:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T03:00:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067427147359383704"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2048693394226974720",
+              "start": 3,
+              "username": "CCA8798suki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067427147359383704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066737563558432829",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CCA8798suki: 我：我担心色普龙的脑膜瘤风险，所以来这接受正规的青春期阻滞治疗...\n我妈：我看你就是被圈子的人影响，想女装上网拍给人看...(一堆大道理)\n高绿芬：不不不你看我觉得这孩子挺有条理的，反倒是你在这稀里糊涂的呢\n高：(开出诺雷得处方单) http…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066737548115025920"
+          ]
+        },
+        "author_id": "2048693394226974720",
+        "conversation_id": "2066737563558432829",
+        "created_at": "2026-06-16T04:20:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T05:20:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066737563558432829"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GONbuqsZQS",
+              "end": 141,
+              "expanded_url": "https://x.com/CCA8798suki/status/2066737563558432829/photo/1",
+              "media_key": "3_2066737548115025920",
+              "start": 118,
+              "url": "https://t.co/GONbuqsZQS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066737563558432829",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 34,
+          "impression_count": 17940,
+          "like_count": 206,
+          "quote_count": 2,
+          "reply_count": 64,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "我：我担心色普龙的脑膜瘤风险，所以来这接受正规的青春期阻滞治疗...\n我妈：我看你就是被圈子的人影响，想女装上网拍给人看...(一堆大道理)\n高绿芬：不不不你看我觉得这孩子挺有条理的，反倒是你在这稀里糊涂的呢\n高：(开出诺雷得处方单) https://t.co/GONbuqsZQS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX（断糖中）&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od&自伤新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 331,
+          "following_count": 1133,
+          "like_count": 4708,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 1140
+        },
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-27T09:19:12.000Z",
+        "description": "MTF/X🍥 | 含糖 | 年龄党+家长党 出柜2026.05.05 出厂:壹贰.零壹.零叁 | 166cm/41kg | 佛山 |  偏内向 玻璃心 双相中焦 ED GD OD | 雷伪娘、艹、Dick字眼 | 交通 科学 医学 杂圈迷 | Cpp Coder | 寻回前世互fo | 恨MSK\n前世@CCA8798",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 159,
+                "start": 151,
+                "username": "CCA8798"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cca8798.com/about/",
+                "end": 23,
+                "expanded_url": "http://cca8798.com/about/",
+                "start": 0,
+                "url": "https://t.co/0gMYiKoF6B"
+              }
+            ]
+          }
+        },
+        "id": "2048693394226974720",
+        "location": "安东星蜗牛第一票常交易矿业太空旅行无限Co., Ltd",
+        "name": "不会起名の捌拐玖捌🍥(二代目互fo寻回中)",
+        "pinned_tweet_id": "2059398080643190943",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059761684500336640/bvv_7t16_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 714,
+          "following_count": 703,
+          "like_count": 1403,
+          "listed_count": 3,
+          "media_count": 39,
+          "tweet_count": 268
+        },
+        "url": "https://t.co/0gMYiKoF6B",
+        "username": "CCA8798suki",
+        "verified": false
+      }
+    ]
+  }
+}
