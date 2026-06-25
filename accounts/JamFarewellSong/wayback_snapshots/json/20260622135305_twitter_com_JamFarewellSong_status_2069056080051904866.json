@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2069033932474163628",
+    "created_at": "2026-06-22T13:53:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T14:53:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069056080051904866"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2045224199120191488",
+          "start": 0,
+          "username": "nagis1a"
+        },
+        {
+          "end": 21,
+          "id": "1761282483834998784",
+          "start": 9,
+          "username": "qiancongxyn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069056080051904866",
+    "in_reply_to_user_id": "2045224199120191488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069033932474163628",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nagis1a @qiancongxyn 居然刷到了新号😇，已严肃关注"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [qiancongxyn].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "qiancongxyn",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "qiancongxyn"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1612,
+        "media_key": "3_2069033843848556544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLavUZrasAAf24i.jpg",
+        "width": 720
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2069033843861196800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLavUZubkAACn3W.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2069033932474163628",
+        "created_at": "2026-06-22T13:53:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T14:53:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069056080051904866"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2045224199120191488",
+              "start": 0,
+              "username": "nagis1a"
+            },
+            {
+              "end": 21,
+              "id": "1761282483834998784",
+              "start": 9,
+              "username": "qiancongxyn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069056080051904866",
+        "in_reply_to_user_id": "2045224199120191488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069033932474163628",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nagis1a @qiancongxyn 居然刷到了新号😇，已严肃关注"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069033843848556544",
+            "3_2069033843861196800"
+          ]
+        },
+        "author_id": "2045224199120191488",
+        "conversation_id": "2069033932474163628",
+        "created_at": "2026-06-22T12:25:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T13:25:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069033932474163628"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 25,
+              "id": "1761282483834998784",
+              "start": 13,
+              "username": "qiancongxyn"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AjVCK0KBlO",
+              "end": 132,
+              "expanded_url": "https://x.com/nagis1a/status/2069033932474163628/photo/1",
+              "media_key": "3_2069033843848556544",
+              "start": 109,
+              "url": "https://t.co/AjVCK0KBlO"
+            },
+            {
+              "display_url": "pic.x.com/AjVCK0KBlO",
+              "end": 132,
+              "expanded_url": "https://x.com/nagis1a/status/2069033932474163628/photo/1",
+              "media_key": "3_2069033843861196800",
+              "start": 109,
+              "url": "https://t.co/AjVCK0KBlO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069033932474163628",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 377,
+          "like_count": 18,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "大家好😭我是浅葱🍥，原号\n@qiancongxyn遭遇马斯克和剑人迫害导致永久封号\n这里是二代目\n\n==求原互fo宝宝们帮转帮回fo==\n\n本号会慢慢回关(三无除外)\n在账号成功找回前所有日常内容都会在该账号继续发布 https://t.co/AjVCK0KBlO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX（断糖中）&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od&自伤新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 335,
+          "following_count": 1151,
+          "like_count": 4805,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 1165
+        },
+        "url": "",
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-17T19:34:04.000Z",
+        "description": "MtF || 2009 ||  广东 || 糖商\n原号浅葱🍥@qiancongxyn\n二代目互fo巡回中…\n联系方式QQ，tg，xchat\n\n愿以温柔为骨，活成一束柔光",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 30,
+                "username": "qiancongxyn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/qiancong1",
+                "end": 23,
+                "expanded_url": "http://t.me/qiancong1",
+                "start": 0,
+                "url": "https://t.co/Ds2IoXcHq1"
+              }
+            ]
+          }
+        },
+        "id": "2045224199120191488",
+        "name": "芊小丛🍥（糖商）",
+        "pinned_tweet_id": "2069033932474163628",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068938612213989376/ZDOr5smz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 64,
+          "like_count": 405,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 36
+        },
+        "url": "https://t.co/Ds2IoXcHq1",
+        "username": "nagis1a",
+        "verified": false
+      }
+    ]
+  }
+}

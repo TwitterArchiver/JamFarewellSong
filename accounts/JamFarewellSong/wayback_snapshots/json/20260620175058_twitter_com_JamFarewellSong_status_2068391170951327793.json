@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068034664061661185",
+        "3_2068034664032350208"
+      ],
+      "media_source_tweet_id": [
+        "2068034680327180536",
+        "2068034680327180536"
+      ]
+    },
+    "author_id": "1907414826101669888",
+    "conversation_id": "2068391170951327793",
+    "created_at": "2026-06-20T17:50:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T18:50:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068391170951327793"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1389055305527414784",
+          "start": 3,
+          "username": "chun_baii"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DWXjsivds2",
+          "end": 42,
+          "expanded_url": "https://x.com/chun_baii/status/2068034680327180536/photo/1",
+          "media_key": "3_2068034664061661185",
+          "start": 19,
+          "url": "https://t.co/DWXjsivds2"
+        },
+        {
+          "display_url": "pic.x.com/DWXjsivds2",
+          "end": 42,
+          "expanded_url": "https://x.com/chun_baii/status/2068034680327180536/photo/1",
+          "media_key": "3_2068034664032350208",
+          "start": 19,
+          "url": "https://t.co/DWXjsivds2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068391170951327793",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 192
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068034680327180536",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chun_baii: 三创之 https://t.co/DWXjsivds2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1479,
+        "media_key": "3_2068034664061661185",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLMike6W8AEFJcI.jpg",
+        "width": 1095
+      },
+      {
+        "height": 1555,
+        "media_key": "3_2068034664032350208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLMikezXsAAvXms.jpg",
+        "width": 1353
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068034664061661185",
+            "3_2068034664032350208"
+          ],
+          "media_source_tweet_id": [
+            "2068034680327180536",
+            "2068034680327180536"
+          ]
+        },
+        "author_id": "1907414826101669888",
+        "conversation_id": "2068391170951327793",
+        "created_at": "2026-06-20T17:50:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T18:50:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068391170951327793"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1389055305527414784",
+              "start": 3,
+              "username": "chun_baii"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DWXjsivds2",
+              "end": 42,
+              "expanded_url": "https://x.com/chun_baii/status/2068034680327180536/photo/1",
+              "media_key": "3_2068034664061661185",
+              "start": 19,
+              "url": "https://t.co/DWXjsivds2"
+            },
+            {
+              "display_url": "pic.x.com/DWXjsivds2",
+              "end": 42,
+              "expanded_url": "https://x.com/chun_baii/status/2068034680327180536/photo/1",
+              "media_key": "3_2068034664032350208",
+              "start": 19,
+              "url": "https://t.co/DWXjsivds2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068391170951327793",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 192
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068034680327180536",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chun_baii: 三创之 https://t.co/DWXjsivds2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068034664061661185",
+            "3_2068034664032350208"
+          ]
+        },
+        "author_id": "1389055305527414784",
+        "conversation_id": "2068034680327180536",
+        "created_at": "2026-06-19T18:14:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T19:14:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068034680327180536"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DWXjsivds2",
+              "end": 27,
+              "expanded_url": "https://x.com/chun_baii/status/2068034680327180536/photo/1",
+              "media_key": "3_2068034664061661185",
+              "start": 4,
+              "url": "https://t.co/DWXjsivds2"
+            },
+            {
+              "display_url": "pic.x.com/DWXjsivds2",
+              "end": 27,
+              "expanded_url": "https://x.com/chun_baii/status/2068034680327180536/photo/1",
+              "media_key": "3_2068034664032350208",
+              "start": 4,
+              "url": "https://t.co/DWXjsivds2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068034680327180536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 395,
+          "impression_count": 27644,
+          "like_count": 2478,
+          "quote_count": 0,
+          "reply_count": 21,
+          "retweet_count": 192
+        },
+        "reply_settings": "everyone",
+        "text": "三创之 https://t.co/DWXjsivds2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX（断糖中）&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od&自伤新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 335,
+          "following_count": 1148,
+          "like_count": 4767,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 1158
+        },
+        "url": "",
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-03T03:14:18.000Z",
+        "description": "=醇柏 18↑ | 中文 | 什么都吃一口 | 请不要把我画的CP图当做你们现实生活中的任何一个人，更不要代入你们自己，我会拉黑💀",
+        "id": "1389055305527414784",
+        "name": "醇柏_",
+        "pinned_tweet_id": "1921616582637228090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031402027801260032/dI3eaFx__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17940,
+          "following_count": 649,
+          "like_count": 6315,
+          "listed_count": 72,
+          "media_count": 613,
+          "tweet_count": 3078
+        },
+        "url": "",
+        "username": "chun_baii",
+        "verified": false
+      }
+    ]
+  }
+}

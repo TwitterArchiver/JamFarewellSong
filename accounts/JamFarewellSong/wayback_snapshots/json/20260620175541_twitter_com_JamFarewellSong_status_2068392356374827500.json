@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068018457564823552"
+      ],
+      "media_source_tweet_id": [
+        "2068018465349460058"
+      ]
+    },
+    "author_id": "1907414826101669888",
+    "conversation_id": "2068392356374827500",
+    "created_at": "2026-06-20T17:55:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T18:55:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068392356374827500"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1510601261019631618",
+          "start": 3,
+          "username": "kujirarara_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/faPByK4ZZU",
+          "end": 105,
+          "expanded_url": "https://x.com/kujirarara_/status/2068018465349460058/photo/1",
+          "media_key": "3_2068018457564823552",
+          "start": 82,
+          "url": "https://t.co/faPByK4ZZU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068392356374827500",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068018465349460058",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kujirarara_: 出柜了🥲\n\n暂时不知道他们会作何反应，之后可能会谈判很久，或者就没什么好谈的了\n\n也许要变成没有爸爸妈妈的孩子了\n\n像做梦了一样 https://t.co/faPByK4ZZU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2068018457564823552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLMT1JAaQAAyhJe.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068018457564823552"
+          ],
+          "media_source_tweet_id": [
+            "2068018465349460058"
+          ]
+        },
+        "author_id": "1907414826101669888",
+        "conversation_id": "2068392356374827500",
+        "created_at": "2026-06-20T17:55:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T18:55:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068392356374827500"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1510601261019631618",
+              "start": 3,
+              "username": "kujirarara_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/faPByK4ZZU",
+              "end": 105,
+              "expanded_url": "https://x.com/kujirarara_/status/2068018465349460058/photo/1",
+              "media_key": "3_2068018457564823552",
+              "start": 82,
+              "url": "https://t.co/faPByK4ZZU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068392356374827500",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068018465349460058",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kujirarara_: 出柜了🥲\n\n暂时不知道他们会作何反应，之后可能会谈判很久，或者就没什么好谈的了\n\n也许要变成没有爸爸妈妈的孩子了\n\n像做梦了一样 https://t.co/faPByK4ZZU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068018457564823552"
+          ]
+        },
+        "author_id": "1510601261019631618",
+        "conversation_id": "2068018465349460058",
+        "created_at": "2026-06-19T17:09:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T18:09:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068018465349460058"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/faPByK4ZZU",
+              "end": 88,
+              "expanded_url": "https://x.com/kujirarara_/status/2068018465349460058/photo/1",
+              "media_key": "3_2068018457564823552",
+              "start": 65,
+              "url": "https://t.co/faPByK4ZZU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068018465349460058",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 11483,
+          "like_count": 227,
+          "quote_count": 1,
+          "reply_count": 68,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "出柜了🥲\n\n暂时不知道他们会作何反应，之后可能会谈判很久，或者就没什么好谈的了\n\n也许要变成没有爸爸妈妈的孩子了\n\n像做梦了一样 https://t.co/faPByK4ZZU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX（断糖中）&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od&自伤新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 335,
+          "following_count": 1150,
+          "like_count": 4768,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 1159
+        },
+        "url": "",
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-03T12:53:09.000Z",
+        "description": "可以叫我蓝鲸喵🐳 | Social Democracy | She/Her | MtF | Trans-les | CN/EN/JP | 轨道交通/城市规划/历史研究/日常 | 🩵🩷🤍🩷🩵",
+        "id": "1510601261019631618",
+        "location": "すみだ水族館",
+        "name": "くじら",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053860270225895424/t-qcmhuB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2811,
+          "following_count": 588,
+          "like_count": 111339,
+          "listed_count": 20,
+          "media_count": 1432,
+          "tweet_count": 7250
+        },
+        "url": "",
+        "username": "kujirarara_",
+        "verified": false
+      }
+    ]
+  }
+}
