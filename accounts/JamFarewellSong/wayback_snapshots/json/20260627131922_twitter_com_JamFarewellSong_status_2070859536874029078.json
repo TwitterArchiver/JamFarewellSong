@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070712996557705216"
+      ],
+      "media_source_tweet_id": [
+        "2070713000458412210"
+      ]
+    },
+    "author_id": "1907414826101669888",
+    "conversation_id": "2070859536874029078",
+    "created_at": "2026-06-27T13:19:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T14:19:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070859536874029078"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1863031017063538688",
+          "start": 3,
+          "username": "saki_778"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ODNrgsSUEv",
+          "end": 67,
+          "expanded_url": "https://x.com/saki_778/status/2070713000458412210/photo/1",
+          "media_key": "3_2070712996557705216",
+          "start": 44,
+          "url": "https://t.co/ODNrgsSUEv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070859536874029078",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070713000458412210",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @saki_778: 「ココロっていうのはね、悲しい事があるとチクチク痛むんだ」 https://t.co/ODNrgsSUEv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1232,
+        "media_key": "3_2070712996557705216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLymf8-bUAAzO3x.jpg",
+        "width": 928
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070712996557705216"
+          ],
+          "media_source_tweet_id": [
+            "2070713000458412210"
+          ]
+        },
+        "author_id": "1907414826101669888",
+        "conversation_id": "2070859536874029078",
+        "created_at": "2026-06-27T13:19:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T14:19:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070859536874029078"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1863031017063538688",
+              "start": 3,
+              "username": "saki_778"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ODNrgsSUEv",
+              "end": 67,
+              "expanded_url": "https://x.com/saki_778/status/2070713000458412210/photo/1",
+              "media_key": "3_2070712996557705216",
+              "start": 44,
+              "url": "https://t.co/ODNrgsSUEv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070859536874029078",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070713000458412210",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @saki_778: 「ココロっていうのはね、悲しい事があるとチクチク痛むんだ」 https://t.co/ODNrgsSUEv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070712996557705216"
+          ]
+        },
+        "author_id": "1863031017063538688",
+        "conversation_id": "2070713000458412210",
+        "created_at": "2026-06-27T03:37:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T04:37:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070713000458412210"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ODNrgsSUEv",
+              "end": 53,
+              "expanded_url": "https://x.com/saki_778/status/2070713000458412210/photo/1",
+              "media_key": "3_2070712996557705216",
+              "start": 30,
+              "url": "https://t.co/ODNrgsSUEv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070713000458412210",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 584,
+          "like_count": 84,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "「ココロっていうのはね、悲しい事があるとチクチク痛むんだ」 https://t.co/ODNrgsSUEv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX（断糖中）&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od&自伤新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 347,
+          "following_count": 1171,
+          "like_count": 4973,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 1191
+        },
+        "url": "",
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-01T01:23:27.000Z",
+        "description": "AI creator | Python engineer | webdirector |  writer | Pythonと画像生成は楽しい✨ 2025.02から生成AIを学んでます|コラム連載中 https://t.co/sQS1gwInMF",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pythonic-exam.com/archives/10072",
+                "end": 122,
+                "expanded_url": "https://www.pythonic-exam.com/archives/10072",
+                "start": 99,
+                "url": "https://t.co/sQS1gwInMF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "saki2025.stars.ne.jp/saki_bleue/",
+                "end": 23,
+                "expanded_url": "https://saki2025.stars.ne.jp/saki_bleue/",
+                "start": 0,
+                "url": "https://t.co/0V5Q2yIepY"
+              }
+            ]
+          }
+        },
+        "id": "1863031017063538688",
+        "name": "砂葵saki☆AI",
+        "pinned_tweet_id": "2063772715094610303",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051629312093356032/X4lNFC9L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 498,
+          "following_count": 469,
+          "like_count": 9114,
+          "listed_count": 3,
+          "media_count": 1015,
+          "tweet_count": 1832
+        },
+        "url": "https://t.co/0V5Q2yIepY",
+        "username": "saki_778",
+        "verified": true
+      }
+    ]
+  }
+}

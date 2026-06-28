@@ -1,0 +1,501 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596706635776",
+          "name": "Retail industry"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "783350882985385984",
+          "name": "Home - Retail"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026951194",
+          "name": "IKEA"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Home and garden",
+          "id": "864911475436957696",
+          "name": "Home and garden"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026951194",
+          "name": "IKEA"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "781974596706635776",
+          "name": "Retail industry"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1407811550987972617",
+          "name": "Industries"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1416062557706588160",
+          "name": "Superstores"
+        }
+      }
+    ],
+    "conversation_id": "2070791992276287513",
+    "created_at": "2026-06-27T08:50:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T09:50:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070791992276287513"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "104842204",
+          "start": 3,
+          "username": "IKEASpain"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070791992276287513",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 797
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070428607252512951",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @IKEASpain: BLÅHAJ se cuela por aquí para daros las gracias por todo el cariño que está recibiendo y para compartir el Manual de empatía…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596706635776",
+              "name": "Retail industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "783350882985385984",
+              "name": "Home - Retail"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026951194",
+              "name": "IKEA"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Home and garden",
+              "id": "864911475436957696",
+              "name": "Home and garden"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026951194",
+              "name": "IKEA"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "781974596706635776",
+              "name": "Retail industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407811550987972617",
+              "name": "Industries"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1416062557706588160",
+              "name": "Superstores"
+            }
+          }
+        ],
+        "conversation_id": "2070791992276287513",
+        "created_at": "2026-06-27T08:50:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T09:50:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070791992276287513"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "104842204",
+              "start": 3,
+              "username": "IKEASpain"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070791992276287513",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 797
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070428607252512951",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @IKEASpain: BLÅHAJ se cuela por aquí para daros las gracias por todo el cariño que está recibiendo y para compartir el Manual de empatía…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "104842204",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596706635776",
+              "name": "Retail industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "783350882985385984",
+              "name": "Home - Retail"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026951194",
+              "name": "IKEA"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Home and garden",
+              "id": "864911475436957696",
+              "name": "Home and garden"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026951194",
+              "name": "IKEA"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "781974596706635776",
+              "name": "Retail industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407811550987972617",
+              "name": "Industries"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1416062557706588160",
+              "name": "Superstores"
+            }
+          }
+        ],
+        "conversation_id": "2070428607252512951",
+        "created_at": "2026-06-26T08:47:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T09:47:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070428607252512951"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Creemos en una cultura de diversidad e inclusión, clientes y las comunidades en las que operamos, da igual su orientación sexual o identidad de género.",
+              "display_url": "ikea.com/es/es/this-is-…",
+              "end": 150,
+              "expanded_url": "https://www.ikea.com/es/es/this-is-ikea/community-engagement/haz-que-la-comunidad-lgbt-se-sienta-en-casa-pub9eaedea0/",
+              "images": [
+                {
+                  "height": 1599,
+                  "url": "https://pbs.twimg.com/news_img/2070428613137018880/JxsAZ76k?format=png&name=orig",
+                  "width": 900
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2070428613137018880/JxsAZ76k?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 127,
+              "status": 200,
+              "title": "Inclusión LGTBI+ | Aliados, igualdad y diversidad",
+              "unwound_url": "https://www.ikea.com/es/es/this-is-ikea/community-engagement/haz-que-la-comunidad-lgbt-se-sienta-en-casa-pub9eaedea0/",
+              "url": "https://t.co/LvUOiiYe9p"
+            },
+            {
+              "display_url": "x.com/__BumbleBea/st…",
+              "end": 174,
+              "expanded_url": "https://twitter.com/__BumbleBea/status/2070235480960934173",
+              "start": 151,
+              "url": "https://t.co/X3BC5WR7KS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070428607252512951",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 816,
+          "impression_count": 111130,
+          "like_count": 4932,
+          "quote_count": 12,
+          "reply_count": 16,
+          "retweet_count": 797
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070235480960934173",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "BLÅHAJ se cuela por aquí para daros las gracias por todo el cariño que está recibiendo y para compartir el Manual de empatía 🦈\nhttps://t.co/LvUOiiYe9p https://t.co/X3BC5WR7KS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX（断糖中）&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od&自伤新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 344,
+          "following_count": 1166,
+          "like_count": 4917,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 1179
+        },
+        "url": "",
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2010-01-14T15:31:03.000Z",
+        "description": "Inspiración para tu hogar a precios asequibles.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ikea.com/es/es/",
+                "end": 23,
+                "expanded_url": "https://www.ikea.com/es/es/",
+                "start": 0,
+                "url": "https://t.co/kMatTGwy1k"
+              }
+            ]
+          }
+        },
+        "id": "104842204",
+        "location": "Spain",
+        "name": "IKEA España",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1106241189735473153/3rgMnSKT_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144300,
+          "following_count": 1136,
+          "like_count": 5419,
+          "listed_count": 865,
+          "media_count": 3693,
+          "tweet_count": 47425
+        },
+        "url": "https://t.co/kMatTGwy1k",
+        "username": "IKEASpain",
+        "verified": false
+      }
+    ]
+  }
+}

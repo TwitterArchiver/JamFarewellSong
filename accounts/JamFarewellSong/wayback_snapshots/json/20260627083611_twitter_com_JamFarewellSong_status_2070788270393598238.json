@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2070788270393598238",
+    "created_at": "2026-06-27T08:36:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T09:36:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070788270393598238"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2067083791060082688",
+          "start": 3,
+          "username": "IkVJgfTe7N"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070788270393598238",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070726994153922601",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @IkVJgfTe7N: 死后的世界究竟长什么样呢🤔🤔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2070788270393598238",
+        "created_at": "2026-06-27T08:36:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T09:36:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070788270393598238"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2067083791060082688",
+              "start": 3,
+              "username": "IkVJgfTe7N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070788270393598238",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070726994153922601",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @IkVJgfTe7N: 死后的世界究竟长什么样呢🤔🤔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2067083791060082688",
+        "conversation_id": "2070726994153922601",
+        "created_at": "2026-06-27T04:32:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T05:32:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070726994153922601"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/RainEngine_202…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/RainEngine_2024/status/2070548493035565370",
+              "start": 15,
+              "url": "https://t.co/xQIlxj0bzu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070726994153922601",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 284,
+          "like_count": 10,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070548493035565370",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "死后的世界究竟长什么样呢🤔🤔 https://t.co/xQIlxj0bzu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX（断糖中）&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od&自伤新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 344,
+          "following_count": 1162,
+          "like_count": 4891,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 1175
+        },
+        "url": "",
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-17T03:16:40.000Z",
+        "description": "这里是Unk4.0🍥\n三代目也没了😭😭😭\n怀念@UnkMtX\n先用个黑白头像24h吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 23,
+                "username": "UnkMtX"
+              }
+            ]
+          }
+        },
+        "id": "2067083791060082688",
+        "name": "Unk4.0🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070485483919147008/S4OayoUg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 135,
+          "like_count": 54,
+          "listed_count": 9,
+          "media_count": 3,
+          "tweet_count": 25
+        },
+        "url": "",
+        "username": "IkVJgfTe7N",
+        "verified": false
+      }
+    ]
+  }
+}
