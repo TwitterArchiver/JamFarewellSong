@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2071417065081327835",
+    "created_at": "2026-06-29T05:53:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T06:53:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071472085676003646"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1684269091849404416",
+          "start": 0,
+          "username": "1212s1212bs1242"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071472085676003646",
+    "in_reply_to_user_id": "1684269091849404416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071417065081327835",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1212s1212bs1242 一眼注意到第三张图里的润滑液😈"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2071417057091145728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL8m1q2aUAAzRIj.jpg",
+        "width": 964
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2071417061075755008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL8m15saoAABYKO.jpg",
+        "width": 1542
+      },
+      {
+        "height": 964,
+        "media_key": "3_2071417056852119552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL8m1p9bEAA5loB.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2071417065081327835",
+        "created_at": "2026-06-29T05:53:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T06:53:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071472085676003646"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1684269091849404416",
+              "start": 0,
+              "username": "1212s1212bs1242"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071472085676003646",
+        "in_reply_to_user_id": "1684269091849404416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071417065081327835",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1212s1212bs1242 一眼注意到第三张图里的润滑液😈"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071417057091145728",
+            "3_2071417061075755008",
+            "3_2071417056852119552"
+          ]
+        },
+        "author_id": "1684269091849404416",
+        "conversation_id": "2071417065081327835",
+        "created_at": "2026-06-29T02:14:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T03:14:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071417065081327835"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cnLI4utFE7",
+              "end": 29,
+              "expanded_url": "https://x.com/1212s1212bs1242/status/2071417065081327835/photo/1",
+              "media_key": "3_2071417057091145728",
+              "start": 6,
+              "url": "https://t.co/cnLI4utFE7"
+            },
+            {
+              "display_url": "pic.x.com/cnLI4utFE7",
+              "end": 29,
+              "expanded_url": "https://x.com/1212s1212bs1242/status/2071417065081327835/photo/1",
+              "media_key": "3_2071417061075755008",
+              "start": 6,
+              "url": "https://t.co/cnLI4utFE7"
+            },
+            {
+              "display_url": "pic.x.com/cnLI4utFE7",
+              "end": 29,
+              "expanded_url": "https://x.com/1212s1212bs1242/status/2071417065081327835/photo/1",
+              "media_key": "3_2071417056852119552",
+              "start": 6,
+              "url": "https://t.co/cnLI4utFE7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071417065081327835",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 108,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "还他妈挺骚 https://t.co/cnLI4utFE7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX（断糖中）&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od&自伤新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 349,
+          "following_count": 1183,
+          "like_count": 5129,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 1206
+        },
+        "url": "",
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-26T18:27:14.000Z",
+        "description": "12是12/没消息就是进牢了/单机/我只是一个缺爱的抽烟大丑b",
+        "id": "1684269091849404416",
+        "location": "我爱你",
+        "name": "12",
+        "pinned_tweet_id": "2068905914640585131",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069708575530700800/awHm2N_j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 945,
+          "following_count": 941,
+          "like_count": 17224,
+          "listed_count": 1,
+          "media_count": 970,
+          "tweet_count": 10240
+        },
+        "url": "",
+        "username": "1212s1212bs1242",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072557430949724160"
+      ],
+      "media_source_tweet_id": [
+        "2072557567017148837"
+      ]
+    },
+    "author_id": "1907414826101669888",
+    "conversation_id": "2073032664668655923",
+    "created_at": "2026-07-03T13:14:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T14:14:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073032664668655923"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1754774517594181632",
+          "start": 3,
+          "username": "ValenceLab"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7SkdnLsp14",
+          "end": 57,
+          "expanded_url": "https://x.com/ValenceLab/status/2072557567017148837/photo/1",
+          "media_key": "3_2072557430949724160",
+          "start": 34,
+          "url": "https://t.co/7SkdnLsp14"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073032664668655923",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072557567017148837",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ValenceLab: 成都的小伙伴可以去找云齐哥拿小红包 https://t.co/7SkdnLsp14"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1034,
+        "media_key": "3_2072557430949724160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMM0AKhawAAzOzg.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072557430949724160"
+          ],
+          "media_source_tweet_id": [
+            "2072557567017148837"
+          ]
+        },
+        "author_id": "1907414826101669888",
+        "conversation_id": "2073032664668655923",
+        "created_at": "2026-07-03T13:14:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T14:14:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073032664668655923"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1754774517594181632",
+              "start": 3,
+              "username": "ValenceLab"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7SkdnLsp14",
+              "end": 57,
+              "expanded_url": "https://x.com/ValenceLab/status/2072557567017148837/photo/1",
+              "media_key": "3_2072557430949724160",
+              "start": 34,
+              "url": "https://t.co/7SkdnLsp14"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073032664668655923",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072557567017148837",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ValenceLab: 成都的小伙伴可以去找云齐哥拿小红包 https://t.co/7SkdnLsp14"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072557430949724160"
+          ]
+        },
+        "author_id": "1754774517594181632",
+        "conversation_id": "2072557567017148837",
+        "created_at": "2026-07-02T05:46:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T06:46:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072557567017148837"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7SkdnLsp14",
+              "end": 41,
+              "expanded_url": "https://x.com/ValenceLab/status/2072557567017148837/photo/1",
+              "media_key": "3_2072557430949724160",
+              "start": 18,
+              "url": "https://t.co/7SkdnLsp14"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072557567017148837",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 9050,
+          "like_count": 87,
+          "quote_count": 3,
+          "reply_count": 43,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "成都的小伙伴可以去找云齐哥拿小红包 https://t.co/7SkdnLsp14"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX（断糖中）&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od&自伤新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 353,
+          "following_count": 1186,
+          "like_count": 5190,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 1222
+        },
+        "url": "",
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-06T07:50:34.000Z",
+        "description": "我只是一只野生瓦楞斯∥在深山模仿古猿的神秘露营爱好者⛺∥神厨小瓦楞斯∥新群组链接↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/ValenceLab_Gro…",
+                "end": 23,
+                "expanded_url": "https://t.me/ValenceLab_Groups",
+                "start": 0,
+                "url": "https://t.co/TG4Kxegueg"
+              }
+            ]
+          }
+        },
+        "id": "1754774517594181632",
+        "location": "本栖湖",
+        "name": "𝗩𝗮𝗹𝗲𝗻𝗰𝗲🆁🅲 瓦楞斯",
+        "pinned_tweet_id": "2054393417166434678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033925913575100419/x5z1bNHB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 855,
+          "following_count": 209,
+          "like_count": 433,
+          "listed_count": 1,
+          "media_count": 44,
+          "tweet_count": 419
+        },
+        "url": "https://t.co/TG4Kxegueg",
+        "username": "ValenceLab",
+        "verified": false
+      }
+    ]
+  }
+}
