@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2074496343943614636",
+    "created_at": "2026-07-07T14:10:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T15:10:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074496343943614636"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1557846379736666113",
+          "start": 3,
+          "username": "Meguminsama2009"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074496343943614636",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074476767755260064",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Meguminsama2009: 好想被戴着巨大外骨骼的地雷妹和巨根雌小鬼男娘前后夹击"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2074496343943614636",
+        "created_at": "2026-07-07T14:10:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T15:10:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074496343943614636"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1557846379736666113",
+              "start": 3,
+              "username": "Meguminsama2009"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074496343943614636",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074476767755260064",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Meguminsama2009: 好想被戴着巨大外骨骼的地雷妹和巨根雌小鬼男娘前后夹击"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557846379736666113",
+        "conversation_id": "2074467257464524954",
+        "created_at": "2026-07-07T12:52:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T13:52:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074476767755260064"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074476767755260064",
+        "in_reply_to_user_id": "1557846379736666113",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 125,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074467257464524954",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好想被戴着巨大外骨骼的地雷妹和巨根雌小鬼男娘前后夹击"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX（断糖中）&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od&自伤新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 350,
+          "following_count": 1192,
+          "like_count": 5210,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 1226
+        },
+        "url": "",
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-11T21:48:42.000Z",
+        "description": "我是MeguminSAMA\n大家可以叫我惠惠\n小号：@meguminsuki2009",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 26,
+                "username": "meguminsuki2009"
+              }
+            ]
+          }
+        },
+        "id": "1557846379736666113",
+        "location": "永雏塔菲",
+        "name": "Megumin_SAMA",
+        "pinned_tweet_id": "2067940468667580679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052330873241194496/M9AbHVhu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1723,
+          "following_count": 1961,
+          "like_count": 3340,
+          "listed_count": 2,
+          "media_count": 692,
+          "tweet_count": 7622
+        },
+        "url": "",
+        "username": "Meguminsama2009",
+        "verified": true
+      }
+    ]
+  }
+}

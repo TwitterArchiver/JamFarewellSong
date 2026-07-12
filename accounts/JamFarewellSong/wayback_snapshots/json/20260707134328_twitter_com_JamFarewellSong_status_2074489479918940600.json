@@ -1,0 +1,337 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2074489479918940600",
+    "created_at": "2026-07-07T13:43:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T14:43:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074489479918940600"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "563843707",
+          "start": 3,
+          "username": "shouldersato"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074489479918940600",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2333
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073227223113609396",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shouldersato: 渋谷PARCOで開催中の「SHUWATCH with U」で展示されている\n中村哲也さんの《The Radiant Descent（時空光臨）》\n\n土を踏むための足がない。 人のかたちをしているようで、たまたま人型に見えているだけのもっと別の…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3075,
+        "media_key": "3_2073227207531716608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMWVKSuaYAAmq1E.jpg",
+        "width": 1907
+      },
+      {
+        "height": 4032,
+        "media_key": "3_2073227209507258368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMWVKaFawAADk8x.jpg",
+        "width": 1908
+      },
+      {
+        "height": 3740,
+        "media_key": "3_2073227214116782080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMWVKrQagAAIf8H.jpg",
+        "width": 1908
+      },
+      {
+        "height": 3784,
+        "media_key": "3_2073227219380617216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMWVK-3aQAAB6d_.jpg",
+        "width": 1890
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2074489479918940600",
+        "created_at": "2026-07-07T13:43:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T14:43:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074489479918940600"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "563843707",
+              "start": 3,
+              "username": "shouldersato"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074489479918940600",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2333
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073227223113609396",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shouldersato: 渋谷PARCOで開催中の「SHUWATCH with U」で展示されている\n中村哲也さんの《The Radiant Descent（時空光臨）》\n\n土を踏むための足がない。 人のかたちをしているようで、たまたま人型に見えているだけのもっと別の…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073227207531716608",
+            "3_2073227209507258368",
+            "3_2073227214116782080",
+            "3_2073227219380617216"
+          ]
+        },
+        "author_id": "563843707",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1105166418675294208",
+              "name": "Ultraman"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1105166418675294208",
+              "name": "Ultraman"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1248370550247849988",
+              "name": "Tokusatsu"
+            }
+          }
+        ],
+        "conversation_id": "2073227223113609396",
+        "created_at": "2026-07-04T02:07:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T03:07:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073227223113609396"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/W2fmm7HlTG",
+              "end": 185,
+              "expanded_url": "https://x.com/shouldersato/status/2073227223113609396/photo/1",
+              "media_key": "3_2073227207531716608",
+              "start": 162,
+              "url": "https://t.co/W2fmm7HlTG"
+            },
+            {
+              "display_url": "pic.x.com/W2fmm7HlTG",
+              "end": 185,
+              "expanded_url": "https://x.com/shouldersato/status/2073227223113609396/photo/1",
+              "media_key": "3_2073227209507258368",
+              "start": 162,
+              "url": "https://t.co/W2fmm7HlTG"
+            },
+            {
+              "display_url": "pic.x.com/W2fmm7HlTG",
+              "end": 185,
+              "expanded_url": "https://x.com/shouldersato/status/2073227223113609396/photo/1",
+              "media_key": "3_2073227214116782080",
+              "start": 162,
+              "url": "https://t.co/W2fmm7HlTG"
+            },
+            {
+              "display_url": "pic.x.com/W2fmm7HlTG",
+              "end": 185,
+              "expanded_url": "https://x.com/shouldersato/status/2073227223113609396/photo/1",
+              "media_key": "3_2073227219380617216",
+              "start": 162,
+              "url": "https://t.co/W2fmm7HlTG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073227223113609396",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2166,
+          "impression_count": 1129359,
+          "like_count": 11911,
+          "quote_count": 119,
+          "reply_count": 55,
+          "retweet_count": 2333
+        },
+        "reply_settings": "everyone",
+        "text": "渋谷PARCOで開催中の「SHUWATCH with U」で展示されている\n中村哲也さんの《The Radiant Descent（時空光臨）》\n\n土を踏むための足がない。 人のかたちをしているようで、たまたま人型に見えているだけのもっと別の存在。神秘的！\nなめらかなウルトラマンのボディに偏光塗装がかっこよかったどす！！ https://t.co/W2fmm7HlTG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX（断糖中）&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od&自伤新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 350,
+          "following_count": 1191,
+          "like_count": 5201,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 1223
+        },
+        "url": "",
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2012-04-26T16:11:42.000Z",
+        "description": "粘土こねてフィギュアつくります。\n猫飼ってます。みけぽ\n\nガレージキットディーラー　大村ジュリエットカメラ\nYouTubeチャンネル　おおむらジュリエットカメラやってます。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@Ojuli_camera",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@Ojuli_camera",
+                "start": 0,
+                "url": "https://t.co/hlTWhcOJpc"
+              }
+            ]
+          }
+        },
+        "id": "563843707",
+        "location": "日本",
+        "name": "ショルダー佐藤",
+        "pinned_tweet_id": "1938552902303547791",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951579610967384064/ZwCgdmxL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3148,
+          "following_count": 1953,
+          "like_count": 37923,
+          "listed_count": 35,
+          "media_count": 1405,
+          "tweet_count": 23254
+        },
+        "url": "https://t.co/hlTWhcOJpc",
+        "username": "shouldersato",
+        "verified": false
+      }
+    ]
+  }
+}
