@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2076422293862183296",
+    "created_at": "2026-07-12T21:43:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T22:43:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076422293862183296"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2048693394226974720",
+          "start": 3,
+          "username": "CCA8798suki"
+        },
+        {
+          "end": 34,
+          "id": "1860552199585300482",
+          "start": 22,
+          "username": "Seven_Eraya"
+        },
+        {
+          "end": 71,
+          "id": "1860552199585300482",
+          "start": 59,
+          "username": "Seven_Eraya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076422293862183296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076269451138437530",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CCA8798suki: 致所有关心@Seven_Eraya的人们：\n据可靠信源(Eraya奶奶口述)，目前，@Seven_Eraya被其父母关进了精神卫生中心的全封闭院区，俗称全封闭精神病院，其具体情况不详，据说今年内放出来的概率较小，望各位知悉。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2076422293862183296",
+        "created_at": "2026-07-12T21:43:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T22:43:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076422293862183296"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2048693394226974720",
+              "start": 3,
+              "username": "CCA8798suki"
+            },
+            {
+              "end": 34,
+              "id": "1860552199585300482",
+              "start": 22,
+              "username": "Seven_Eraya"
+            },
+            {
+              "end": 71,
+              "id": "1860552199585300482",
+              "start": 59,
+              "username": "Seven_Eraya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076422293862183296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076269451138437530",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CCA8798suki: 致所有关心@Seven_Eraya的人们：\n据可靠信源(Eraya奶奶口述)，目前，@Seven_Eraya被其父母关进了精神卫生中心的全封闭院区，俗称全封闭精神病院，其具体情况不详，据说今年内放出来的概率较小，望各位知悉。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048693394226974720",
+        "conversation_id": "2076269451138437530",
+        "created_at": "2026-07-12T11:36:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T12:36:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076269451138437530"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1860552199585300482",
+              "start": 5,
+              "username": "Seven_Eraya"
+            },
+            {
+              "end": 54,
+              "id": "1860552199585300482",
+              "start": 42,
+              "username": "Seven_Eraya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076269451138437530",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 692,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "致所有关心@Seven_Eraya的人们：\n据可靠信源(Eraya奶奶口述)，目前，@Seven_Eraya被其父母关进了精神卫生中心的全封闭院区，俗称全封闭精神病院，其具体情况不详，据说今年内放出来的概率较小，望各位知悉。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX（断糖中）&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od&自伤新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 357,
+          "following_count": 1241,
+          "like_count": 5472,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 1252
+        },
+        "url": "",
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-27T09:19:12.000Z",
+        "description": "MTF/X🍥 | 含糖 | 年龄党+家长党? 出柜26.05.05 出厂:壹贰.零壹.零叁 | 166cm/42kg | 佛山 |  偏内向 玻璃心 双相中焦 ED GD OD | 雷伪娘、艹、Dick字眼 | 交通 科学 医学 杂圈迷 | Cpp Coder | 寻回前世互fo | 恨MSK\n前世@CCA8798",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 158,
+                "start": 150,
+                "username": "CCA8798"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cca8798.com/about/",
+                "end": 23,
+                "expanded_url": "https://cca8798.com/about/",
+                "start": 0,
+                "url": "https://t.co/XVFvMmA9Qt"
+              }
+            ]
+          }
+        },
+        "id": "2048693394226974720",
+        "location": "安东星蜗牛第一票常交易矿业太空旅行无限公司",
+        "name": "不会起名の捌拐玖捌🍥(二代目互fo寻回中)",
+        "pinned_tweet_id": "2073733681118847311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059761684500336640/bvv_7t16_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1106,
+          "following_count": 1326,
+          "like_count": 4699,
+          "listed_count": 3,
+          "media_count": 89,
+          "tweet_count": 666
+        },
+        "url": "https://t.co/XVFvMmA9Qt",
+        "username": "CCA8798suki",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-24T05:15:08.000Z",
+        "description": "疑似有证含糖🍥|边缘性人格特质|非典型强迫症|重度抑郁|疑似有证26.5.25|Hrt Start26.3.7|生产日期12.1.7|已炸柜26.5.9|",
+        "id": "1860552199585300482",
+        "name": "Eraya🍥_",
+        "pinned_tweet_id": "2065890411256914308",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000119531575095296/-lELMvd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 656,
+          "following_count": 266,
+          "like_count": 854,
+          "listed_count": 2,
+          "media_count": 93,
+          "tweet_count": 571
+        },
+        "url": "",
+        "username": "Seven_Eraya",
+        "verified": false
+      }
+    ]
+  }
+}

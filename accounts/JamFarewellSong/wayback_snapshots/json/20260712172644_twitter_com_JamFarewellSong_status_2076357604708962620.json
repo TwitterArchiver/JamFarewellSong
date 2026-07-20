@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2075771169576513610",
+    "created_at": "2026-07-12T17:26:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T18:26:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076357604708962620"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1649675831227326466",
+          "start": 0,
+          "username": "xiaohua1286232"
+        },
+        {
+          "end": 23,
+          "id": "1545050439049064450",
+          "start": 16,
+          "username": "xz8796"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076357604708962620",
+    "in_reply_to_user_id": "1649675831227326466",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075883832121971165",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaohua1286232 @xz8796 那是见得少了😇我已经记录下几十个发完遗言就永久静默的账号（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2075771169576513610",
+        "created_at": "2026-07-12T17:26:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T18:26:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076357604708962620"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1649675831227326466",
+              "start": 0,
+              "username": "xiaohua1286232"
+            },
+            {
+              "end": 23,
+              "id": "1545050439049064450",
+              "start": 16,
+              "username": "xz8796"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076357604708962620",
+        "in_reply_to_user_id": "1649675831227326466",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075883832121971165",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaohua1286232 @xz8796 那是见得少了😇我已经记录下几十个发完遗言就永久静默的账号（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649675831227326466",
+        "conversation_id": "2075771169576513610",
+        "created_at": "2026-07-11T10:04:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T11:04:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075883832121971165"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1545050439049064450",
+              "start": 0,
+              "username": "xz8796"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075883832121971165",
+        "in_reply_to_user_id": "1545050439049064450",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 232,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075771169576513610",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xz8796 说真的，在这上面发自杀的，第二天又会各种理由复活，我还真没见过哪个发完自杀x停止更新的…."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX（断糖中）&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od&自伤新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 355,
+          "following_count": 1224,
+          "like_count": 5346,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 1237
+        },
+        "url": "",
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-22T07:25:50.000Z",
+        "description": "努力证明自己还在活着…",
+        "id": "1649675831227326466",
+        "location": "安徽",
+        "name": "栩思楠",
+        "pinned_tweet_id": "2076313948618723353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075948640703852544/Pz_A8vzr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 2,
+          "like_count": 113,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 273
+        },
+        "url": "",
+        "username": "xiaohua1286232",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-07T14:21:54.000Z",
+        "description": "李帆还是太抽象了 用下原名\n@plane294 我的垃圾号专门发一些od等内容（内容仅供参考 不提倡不支持任何人诱导od）\n生活號 | 一天會發10+條推請見諒\nINTJ | 无所谓性别 | ed | BMI15.5 | 友跨\n有點陰暗 囤積癖",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 14,
+                "username": "plane294"
+              }
+            ]
+          }
+        },
+        "id": "1545050439049064450",
+        "location": "Republic of Korea",
+        "name": "辞落",
+        "pinned_tweet_id": "2076197204243742963",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073918997352042496/2Op7wLRU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 197,
+          "following_count": 227,
+          "like_count": 2379,
+          "listed_count": 0,
+          "media_count": 284,
+          "tweet_count": 1462
+        },
+        "url": "",
+        "username": "xz8796",
+        "verified": true
+      }
+    ]
+  }
+}

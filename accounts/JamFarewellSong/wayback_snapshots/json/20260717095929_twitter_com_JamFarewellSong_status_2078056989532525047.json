@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2078056989532525047",
+    "created_at": "2026-07-17T09:59:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T10:59:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078056989532525047"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1723047974677479424",
+          "start": 3,
+          "username": "ReedPascal"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078056989532525047",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075961765398225090",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ReedPascal: 读汪曾祺散文有感\n\n不只残疾人，感觉国内一向对于一切异于传统价值观但又出于人道或法律要关照的一切群体都是如此-如残疾、如跨性别、如精神疾病等等，每每有类似的情况被报道，就算没人跳出来说这是给他们特权，很多人的发言也都带着一些掩藏不住的高高在上感。…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3024,
+        "media_key": "3_2075961743340404737",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM9MNOcbAAEjslm.jpg",
+        "width": 3928
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2078056989532525047",
+        "created_at": "2026-07-17T09:59:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T10:59:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078056989532525047"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1723047974677479424",
+              "start": 3,
+              "username": "ReedPascal"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078056989532525047",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075961765398225090",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ReedPascal: 读汪曾祺散文有感\n\n不只残疾人，感觉国内一向对于一切异于传统价值观但又出于人道或法律要关照的一切群体都是如此-如残疾、如跨性别、如精神疾病等等，每每有类似的情况被报道，就算没人跳出来说这是给他们特权，很多人的发言也都带着一些掩藏不住的高高在上感。…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075961743340404737"
+          ]
+        },
+        "author_id": "1723047974677479424",
+        "conversation_id": "2075961765398225090",
+        "created_at": "2026-07-11T15:13:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T16:13:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075961765398225090"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ADEa5f1vJX",
+              "end": 147,
+              "expanded_url": "https://x.com/ReedPascal/status/2075961765398225090/photo/1",
+              "media_key": "3_2075961743340404737",
+              "start": 124,
+              "url": "https://t.co/ADEa5f1vJX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075961765398225090",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "读汪曾祺散文有感\n\n不只残疾人，感觉国内一向对于一切异于传统价值观但又出于人道或法律要关照的一切群体都是如此-如残疾、如跨性别、如精神疾病等等，每每有类似的情况被报道，就算没人跳出来说这是给他们特权，很多人的发言也都带着一些掩藏不住的高高在上感。\n\n究其根本，小帕认为还是国人对这些群体的看法从本质上不是横向的、当作一个特性看的，而是一种出发与儒家文化的、观念上的俯视-我不残疾但你残疾、我没精神病但你有精神病，所以对这些群体的照顾才会停留在“我大发慈悲的恻隐之心”\n\n媚上者必欺下，如果我们能以心平气和的心态面对所有人、对待弱者不是出于自上而下的怜悯而是真心的爱与尊重，真正的平等便不再会远❤️"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1150,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "读汪曾祺散文有感\n\n不只残疾人，感觉国内一向对于一切异于传统价值观但又出于人道或法律要关照的一切群体都是如此-如残疾、如跨性别、如精神疾病等等，每每有类似的情况被报道，就算没人跳出来说这是给他们特权，很多人的发言也都带着一些掩藏不住的高高在上感。 https://t.co/ADEa5f1vJX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX（断糖中）&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od&自伤新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 383,
+          "following_count": 1281,
+          "like_count": 5597,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 1262
+        },
+        "url": "",
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-10T18:40:48.000Z",
+        "description": "和平，自由，勇气与爱.",
+        "id": "1723047974677479424",
+        "location": "Yamanashi-ken, Japan",
+        "name": "Pascal Reed🕊️",
+        "pinned_tweet_id": "2006756660673720629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064403527422906368/4lVKqeOT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2149,
+          "following_count": 99,
+          "like_count": 103808,
+          "listed_count": 2,
+          "media_count": 2977,
+          "tweet_count": 9518
+        },
+        "url": "",
+        "username": "ReedPascal",
+        "verified": true
+      }
+    ]
+  }
+}

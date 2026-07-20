@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2078059075724816594",
+    "created_at": "2026-07-17T10:07:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T11:07:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078059075724816594"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1672822866986024961",
+          "start": 3,
+          "username": "Lycaropia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078059075724816594",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069613440700924034",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Lycaropia: 没关系。\n我是风暴与夜之魔女，记忆力很好。\n\n没错，所以我记得。\n记得这个孩子有过什么样的人生，\n会因何而欢喜，因何而悲伤。\n\n我会一直记住那些\n不会被铭刻于历史上的孩子们。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2078059075724816594",
+        "created_at": "2026-07-17T10:07:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T11:07:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078059075724816594"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1672822866986024961",
+              "start": 3,
+              "username": "Lycaropia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078059075724816594",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069613440700924034",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Lycaropia: 没关系。\n我是风暴与夜之魔女，记忆力很好。\n\n没错，所以我记得。\n记得这个孩子有过什么样的人生，\n会因何而欢喜，因何而悲伤。\n\n我会一直记住那些\n不会被铭刻于历史上的孩子们。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672822866986024961",
+        "conversation_id": "2069613440700924034",
+        "created_at": "2026-06-24T02:47:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T03:47:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069613440700924034"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069613440700924034",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 415,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "没关系。\n我是风暴与夜之魔女，记忆力很好。\n\n没错，所以我记得。\n记得这个孩子有过什么样的人生，\n会因何而欢喜，因何而悲伤。\n\n我会一直记住那些\n不会被铭刻于历史上的孩子们。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX（断糖中）&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od&自伤新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 383,
+          "following_count": 1281,
+          "like_count": 5598,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 1263
+        },
+        "url": "",
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-25T04:24:03.000Z",
+        "description": "但双角斧的具名者们守口如瓶的秘密是：刃并非只能匍匐于尘土。将其垂直转动，使其锋芒指向那不可言说的上方，让它锐利的尖端亲吻那十二道锁孔。唯有如此，那曾经撕裂我们的十二道耻辱的伤痕，方可依次洞开。",
+        "id": "1672822866986024961",
+        "location": "384,400km",
+        "name": "居眠姬",
+        "pinned_tweet_id": "1910250184527024612",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905253739625320448/sKopIlPH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1639,
+          "following_count": 1268,
+          "like_count": 108579,
+          "listed_count": 2,
+          "media_count": 268,
+          "tweet_count": 11830
+        },
+        "url": "",
+        "username": "Lycaropia",
+        "verified": false
+      }
+    ]
+  }
+}

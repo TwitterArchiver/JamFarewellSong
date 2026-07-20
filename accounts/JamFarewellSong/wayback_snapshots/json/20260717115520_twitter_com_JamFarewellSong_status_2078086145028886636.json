@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2077736889801736231",
+    "created_at": "2026-07-17T11:55:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T12:55:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078086145028886636"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2077732421488054272",
+          "start": 0,
+          "username": "FreePGBPlz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078086145028886636",
+    "in_reply_to_user_id": "2077732421488054272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077736889801736231",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FreePGBPlz 已剧烈私信😇希望消息顺利送达，这边显示得有点不太对劲（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 800,
+        "media_key": "3_2077736878330318848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNWarrmbkAAwu0r.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2077736889801736231",
+        "created_at": "2026-07-17T11:55:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T12:55:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078086145028886636"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2077732421488054272",
+              "start": 0,
+              "username": "FreePGBPlz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078086145028886636",
+        "in_reply_to_user_id": "2077732421488054272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077736889801736231",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FreePGBPlz 已剧烈私信😇希望消息顺利送达，这边显示得有点不太对劲（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077736878330318848"
+          ]
+        },
+        "author_id": "2077732421488054272",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2077736889801736231",
+        "created_at": "2026-07-16T12:47:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T13:47:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077736889801736231"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iodm0Zr4YR",
+              "end": 110,
+              "expanded_url": "https://x.com/FreePGBPlz/status/2077736889801736231/photo/1",
+              "media_key": "3_2077736878330318848",
+              "start": 87,
+              "url": "https://t.co/iodm0Zr4YR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077736889801736231",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 1304,
+          "like_count": 33,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "感谢圈内的先辈，我拿到了低价普瑞渠道……经过一段时间的讨论与权衡，我们最终决定的价格是**普瑞巴林原粉1.5元每克**！请各位oder们帮忙支持一下罢！感谢圈子里的大家了！ https://t.co/iodm0Zr4YR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX（断糖中）&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od&自伤新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 385,
+          "following_count": 1311,
+          "like_count": 5671,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 1273
+        },
+        "url": "",
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-16T12:36:56.000Z",
+        "description": "",
+        "id": "2077732421488054272",
+        "name": "PGB",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077734428705771520/g4X7GxyP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 9,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 5
+        },
+        "url": "",
+        "username": "FreePGBPlz",
+        "verified": false
+      }
+    ]
+  }
+}

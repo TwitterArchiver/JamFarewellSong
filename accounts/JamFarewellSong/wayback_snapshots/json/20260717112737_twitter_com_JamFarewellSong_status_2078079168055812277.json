@@ -1,0 +1,345 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076730138230972416",
+        "3_2076730138621063168",
+        "3_2076730138725908480",
+        "3_2076730139002703872"
+      ],
+      "media_source_tweet_id": [
+        "2076730141842248113",
+        "2076730141842248113",
+        "2076730141842248113",
+        "2076730141842248113"
+      ]
+    },
+    "author_id": "1907414826101669888",
+    "conversation_id": "2078079168055812277",
+    "created_at": "2026-07-17T11:27:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T12:27:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078079168055812277"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1566670035560513536",
+          "start": 3,
+          "username": "YoyouDiin"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ECVDQ56hlZ",
+          "end": 43,
+          "expanded_url": "https://x.com/YoyouDiin/status/2076730141842248113/photo/1",
+          "media_key": "3_2076730138230972416",
+          "start": 20,
+          "url": "https://t.co/ECVDQ56hlZ"
+        },
+        {
+          "display_url": "pic.x.com/ECVDQ56hlZ",
+          "end": 43,
+          "expanded_url": "https://x.com/YoyouDiin/status/2076730141842248113/photo/1",
+          "media_key": "3_2076730138621063168",
+          "start": 20,
+          "url": "https://t.co/ECVDQ56hlZ"
+        },
+        {
+          "display_url": "pic.x.com/ECVDQ56hlZ",
+          "end": 43,
+          "expanded_url": "https://x.com/YoyouDiin/status/2076730141842248113/photo/1",
+          "media_key": "3_2076730138725908480",
+          "start": 20,
+          "url": "https://t.co/ECVDQ56hlZ"
+        },
+        {
+          "display_url": "pic.x.com/ECVDQ56hlZ",
+          "end": 43,
+          "expanded_url": "https://x.com/YoyouDiin/status/2076730141842248113/photo/1",
+          "media_key": "3_2076730139002703872",
+          "start": 20,
+          "url": "https://t.co/ECVDQ56hlZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078079168055812277",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076730141842248113",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @YoyouDiin: 再见世界 https://t.co/ECVDQ56hlZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2076730138230972416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNIHDsea4AA1PHk.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2076730138621063168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNIHDt7bMAAJHax.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2076730138725908480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNIHDuUbAAAV-ME.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2076730139002703872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNIHDvWakAAB7cW.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076730138230972416",
+            "3_2076730138621063168",
+            "3_2076730138725908480",
+            "3_2076730139002703872"
+          ]
+        },
+        "author_id": "1566670035560513536",
+        "conversation_id": "2076730141842248113",
+        "created_at": "2026-07-13T18:07:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T19:07:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076730141842248113"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ECVDQ56hlZ",
+              "end": 28,
+              "expanded_url": "https://x.com/YoyouDiin/status/2076730141842248113/photo/1",
+              "media_key": "3_2076730138230972416",
+              "start": 5,
+              "url": "https://t.co/ECVDQ56hlZ"
+            },
+            {
+              "display_url": "pic.x.com/ECVDQ56hlZ",
+              "end": 28,
+              "expanded_url": "https://x.com/YoyouDiin/status/2076730141842248113/photo/1",
+              "media_key": "3_2076730138621063168",
+              "start": 5,
+              "url": "https://t.co/ECVDQ56hlZ"
+            },
+            {
+              "display_url": "pic.x.com/ECVDQ56hlZ",
+              "end": 28,
+              "expanded_url": "https://x.com/YoyouDiin/status/2076730141842248113/photo/1",
+              "media_key": "3_2076730138725908480",
+              "start": 5,
+              "url": "https://t.co/ECVDQ56hlZ"
+            },
+            {
+              "display_url": "pic.x.com/ECVDQ56hlZ",
+              "end": 28,
+              "expanded_url": "https://x.com/YoyouDiin/status/2076730141842248113/photo/1",
+              "media_key": "3_2076730139002703872",
+              "start": 5,
+              "url": "https://t.co/ECVDQ56hlZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076730141842248113",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 38,
+          "impression_count": 13026,
+          "like_count": 168,
+          "quote_count": 2,
+          "reply_count": 80,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "再见世界 https://t.co/ECVDQ56hlZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076730138230972416",
+            "3_2076730138621063168",
+            "3_2076730138725908480",
+            "3_2076730139002703872"
+          ],
+          "media_source_tweet_id": [
+            "2076730141842248113",
+            "2076730141842248113",
+            "2076730141842248113",
+            "2076730141842248113"
+          ]
+        },
+        "author_id": "1907414826101669888",
+        "conversation_id": "2078079168055812277",
+        "created_at": "2026-07-17T11:27:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T12:27:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078079168055812277"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1566670035560513536",
+              "start": 3,
+              "username": "YoyouDiin"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ECVDQ56hlZ",
+              "end": 43,
+              "expanded_url": "https://x.com/YoyouDiin/status/2076730141842248113/photo/1",
+              "media_key": "3_2076730138230972416",
+              "start": 20,
+              "url": "https://t.co/ECVDQ56hlZ"
+            },
+            {
+              "display_url": "pic.x.com/ECVDQ56hlZ",
+              "end": 43,
+              "expanded_url": "https://x.com/YoyouDiin/status/2076730141842248113/photo/1",
+              "media_key": "3_2076730138621063168",
+              "start": 20,
+              "url": "https://t.co/ECVDQ56hlZ"
+            },
+            {
+              "display_url": "pic.x.com/ECVDQ56hlZ",
+              "end": 43,
+              "expanded_url": "https://x.com/YoyouDiin/status/2076730141842248113/photo/1",
+              "media_key": "3_2076730138725908480",
+              "start": 20,
+              "url": "https://t.co/ECVDQ56hlZ"
+            },
+            {
+              "display_url": "pic.x.com/ECVDQ56hlZ",
+              "end": 43,
+              "expanded_url": "https://x.com/YoyouDiin/status/2076730141842248113/photo/1",
+              "media_key": "3_2076730139002703872",
+              "start": 20,
+              "url": "https://t.co/ECVDQ56hlZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078079168055812277",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076730141842248113",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @YoyouDiin: 再见世界 https://t.co/ECVDQ56hlZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX（断糖中）&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od&自伤新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 384,
+          "following_count": 1305,
+          "like_count": 5654,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 1268
+        },
+        "url": "",
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-05T06:10:55.000Z",
+        "description": "2005生|mtf|INFP|性别焦虑9年，弄清自己是mtf 从 4 月起|家长不管却反复阻挠党|性别烦躁致抑郁发作|抑郁发作导致炸柜|割手手 5 年|戒 o 戒割中|hrt",
+        "id": "1566670035560513536",
+        "name": "𝓨𝓸𝔂𝓸𝓾𝓓𝓲𝓲𝓷丁语瑶🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077626396386775040/0R8ITmho_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 378,
+          "following_count": 399,
+          "like_count": 340,
+          "listed_count": 4,
+          "media_count": 97,
+          "tweet_count": 775
+        },
+        "url": "",
+        "username": "YoyouDiin",
+        "verified": false
+      }
+    ]
+  }
+}

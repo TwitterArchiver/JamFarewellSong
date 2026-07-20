@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2076410128300224802",
+    "created_at": "2026-07-12T20:55:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T21:55:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076410128300224802"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1844926832967286785",
+          "start": 3,
+          "username": "ZX65535plus1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076410128300224802",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990844308094923044",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ZX65535plus1: 就这样一直摆着到明天睡醒吧\n刚刚盯着跃动的火苗想了很多\n魂与肉，痛苦与希望，活人与死人，忍受与解脱，追悼的意义，亚硝酸盐与自杀仪式，封建家长与窒息的孩子，向死而生与郁郁而终，幸运的少数与深柜的多数……\n说不上来很伤感，但是沉重的让人喘气\n倒是…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1990844297214935040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6DmVyKbwAAKaaP.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2076410128300224802",
+        "created_at": "2026-07-12T20:55:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T21:55:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076410128300224802"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1844926832967286785",
+              "start": 3,
+              "username": "ZX65535plus1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076410128300224802",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990844308094923044",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ZX65535plus1: 就这样一直摆着到明天睡醒吧\n刚刚盯着跃动的火苗想了很多\n魂与肉，痛苦与希望，活人与死人，忍受与解脱，追悼的意义，亚硝酸盐与自杀仪式，封建家长与窒息的孩子，向死而生与郁郁而终，幸运的少数与深柜的多数……\n说不上来很伤感，但是沉重的让人喘气\n倒是…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990844297214935040"
+          ]
+        },
+        "author_id": "1844926832967286785",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1990844308094923044",
+        "created_at": "2025-11-18T18:07:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T19:07:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990844308094923044"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HO08x634yO",
+              "end": 163,
+              "expanded_url": "https://x.com/orisam123/status/1990844308094923044/photo/1",
+              "media_key": "3_1990844297214935040",
+              "start": 140,
+              "url": "https://t.co/HO08x634yO"
+            },
+            {
+              "display_url": "x.com/orisam123/stat…",
+              "end": 187,
+              "expanded_url": "https://twitter.com/orisam123/status/1990826385053487503",
+              "start": 164,
+              "url": "https://t.co/iNC5DmV9Zm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990844308094923044",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 5208,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990826385053487503",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "就这样一直摆着到明天睡醒吧\n刚刚盯着跃动的火苗想了很多\n魂与肉，痛苦与希望，活人与死人，忍受与解脱，追悼的意义，亚硝酸盐与自杀仪式，封建家长与窒息的孩子，向死而生与郁郁而终，幸运的少数与深柜的多数……\n说不上来很伤感，但是沉重的让人喘气\n倒是很想找个人一起守在这里聊聊生死的话题 https://t.co/HO08x634yO https://t.co/iNC5DmV9Zm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX（断糖中）&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od&自伤新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 357,
+          "following_count": 1233,
+          "like_count": 5409,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 1244
+        },
+        "url": "",
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-12T02:23:45.000Z",
+        "description": "挨揍不如嘴贱 brat统治世界  |  \n只要不去就诊我就是健全B  |  \n一直试图在没有血缘关系的人身上找到家 | \n非计算机专业 | \n发现男的太傻逼但不太想否认自己历史，遂加入双性恋阵营",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/i/chat/group_j…",
+                "end": 23,
+                "expanded_url": "https://x.com/i/chat/group_join/g2043367970999832925/7jUBUlO2qh",
+                "start": 0,
+                "url": "https://t.co/pdJCzdgssh"
+              }
+            ]
+          }
+        },
+        "id": "1844926832967286785",
+        "location": "万达广场楼下",
+        "name": "小竹子一掰就断🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036702817168265216/LUEbpUzW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4688,
+          "following_count": 1451,
+          "like_count": 81894,
+          "listed_count": 11,
+          "media_count": 1181,
+          "tweet_count": 23914
+        },
+        "url": "https://t.co/pdJCzdgssh",
+        "username": "ZX65535plus1",
+        "verified": false
+      }
+    ]
+  }
+}

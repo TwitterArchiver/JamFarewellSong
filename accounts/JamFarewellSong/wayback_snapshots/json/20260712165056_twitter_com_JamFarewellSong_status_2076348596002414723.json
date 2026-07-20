@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1427352573401452555",
+          "name": "Crisis in Afghanistan"
+        }
+      }
+    ],
+    "conversation_id": "2076348596002414723",
+    "created_at": "2026-07-12T16:50:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T17:50:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076348596002414723"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1228385396679225352",
+          "start": 3,
+          "username": "prettierher"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076348596002414723",
+    "lang": "ar",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 785
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074814995150279132",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @prettierher: الرجل الأبيض كان بيمنع المياة والصابون عن العبيد وبعدها يقول السود مش نضاف\nالرجالة زمان ودلوقتي (افغانستان مثلا )بيمنعوا ا…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1427352573401452555",
+              "name": "Crisis in Afghanistan"
+            }
+          }
+        ],
+        "conversation_id": "2076348596002414723",
+        "created_at": "2026-07-12T16:50:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T17:50:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076348596002414723"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1228385396679225352",
+              "start": 3,
+              "username": "prettierher"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076348596002414723",
+        "lang": "ar",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 785
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074814995150279132",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @prettierher: الرجل الأبيض كان بيمنع المياة والصابون عن العبيد وبعدها يقول السود مش نضاف\nالرجالة زمان ودلوقتي (افغانستان مثلا )بيمنعوا ا…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1228385396679225352",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1427352573401452555",
+              "name": "Crisis in Afghanistan"
+            }
+          }
+        ],
+        "conversation_id": "2074814995150279132",
+        "created_at": "2026-07-08T11:16:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T12:16:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074814995150279132"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074814995150279132",
+        "lang": "ar",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 449,
+          "impression_count": 72420,
+          "like_count": 7068,
+          "quote_count": 15,
+          "reply_count": 12,
+          "retweet_count": 785
+        },
+        "reply_settings": "everyone",
+        "text": "الرجل الأبيض كان بيمنع المياة والصابون عن العبيد وبعدها يقول السود مش نضاف\nالرجالة زمان ودلوقتي (افغانستان مثلا )بيمنعوا الستات من التعليم ويقولوا انهم اغبياء  \nالنظام بيسرق عمرك وفلوسك وفرصك بعدين يقول انك فاشل وكسول \nالظالم مش بس بيقنعك انه العيب فيك لا دا عيب ف تكوينك نفسه"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX（断糖中）&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od&自伤新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 355,
+          "following_count": 1218,
+          "like_count": 5325,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 1231
+        },
+        "url": "",
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-14T18:28:16.000Z",
+        "description": "•looking as pretty as possible surviving the patriarchy \n• barbiest of Bratz \n• prettiest of princesses \nربي من أين للزمان صباه",
+        "id": "1228385396679225352",
+        "location": "eco-friendly doll house ",
+        "name": "pretty nourie",
+        "pinned_tweet_id": "2072317390038212777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074458633442623488/GpLhSaT9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 72,
+          "like_count": 25923,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 11380
+        },
+        "url": "",
+        "username": "prettierher",
+        "verified": false
+      }
+    ]
+  }
+}
