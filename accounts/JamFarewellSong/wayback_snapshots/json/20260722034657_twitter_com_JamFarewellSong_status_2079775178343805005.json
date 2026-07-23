@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2079775178343805005",
+    "created_at": "2026-07-22T03:46:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T04:46:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079775178343805005"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1544618251757539329",
+          "start": 3,
+          "username": "shangmei_Jioh"
+        },
+        {
+          "end": 28,
+          "id": "1497406985007939584",
+          "start": 19,
+          "username": "ElihusoQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079775178343805005",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1643507975448035328",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shangmei_Jioh: @ElihusoQ 哥哥姐姐，过得都很好吧，至少不用再受来自那些人的迫害"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2079775178343805005",
+        "created_at": "2026-07-22T03:46:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T04:46:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079775178343805005"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1544618251757539329",
+              "start": 3,
+              "username": "shangmei_Jioh"
+            },
+            {
+              "end": 28,
+              "id": "1497406985007939584",
+              "start": 19,
+              "username": "ElihusoQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079775178343805005",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1643507975448035328",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shangmei_Jioh: @ElihusoQ 哥哥姐姐，过得都很好吧，至少不用再受来自那些人的迫害"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1544618251757539329",
+        "conversation_id": "1643341320386412544",
+        "created_at": "2023-04-05T06:56:50.000Z",
+        "edit_controls": {
+          "editable_until": "2023-04-05T07:26:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1643507975448035328"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1497406985007939584",
+              "start": 0,
+              "username": "ElihusoQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1643507975448035328",
+        "in_reply_to_user_id": "1497406985007939584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 709,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1643341320386412544",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ElihusoQ 哥哥姐姐，过得都很好吧，至少不用再受来自那些人的迫害"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX（断糖中）&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od&自伤新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 419,
+          "following_count": 1414,
+          "like_count": 5947,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 1344
+        },
+        "url": "",
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-06T09:44:39.000Z",
+        "description": "❤️🍰🍬║❤️📸║❤️🎨║❤️🎮║❤️✍🏻📃║❤️🌧️🌨️\n\n我有两个名字，一个叫交河，一个叫上枚。上枚是个姐姐/哥哥，温柔的孩子。如果你们见了交河要让着点，交河还没长大。（中性）来自天津增二十五，姐姐是齐增五        我17岁了，永远17岁。E-mail：mi3636@dingtalk.com",
+        "id": "1544618251757539329",
+        "location": "象牙塔",
+        "name": "阿河&上枚",
+        "pinned_tweet_id": "1642235083229626369",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1544628638590439424/HukHb41z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 211,
+          "like_count": 173,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 1897
+        },
+        "url": "",
+        "username": "shangmei_Jioh",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-26T03:03:51.000Z",
+        "description": "喵呜？喵～nya？～喵呜。喵？nya？nya。喵呜~。喵~。喵？nya!喵呜.nya~喵!喵～nya？喵呜！？nya！喵呜～.喵呜？喵呜！喵!！.喵？喵呜？喵～喵!喵.喵.喵！喵？～喵。喵！_(:з」∠)_",
+        "id": "1497406985007939584",
+        "location": "距妳 316272897264118 km",
+        "name": "𝓔𝓵𝓲𝓱𝓾𝓼𝓸 𝓠𝓾𝓲𝓰𝓵𝓮𝔂 🏳️‍⚧️ 𝓐𝓷𝓽𝓪𝓻𝓮",
+        "pinned_tweet_id": "1656314354986553345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909835753229893632/GWa3C8V0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1184,
+          "following_count": 1093,
+          "like_count": 39959,
+          "listed_count": 10,
+          "media_count": 308,
+          "tweet_count": 11488
+        },
+        "url": "",
+        "username": "ElihusoQ",
+        "verified": false
+      }
+    ]
+  }
+}

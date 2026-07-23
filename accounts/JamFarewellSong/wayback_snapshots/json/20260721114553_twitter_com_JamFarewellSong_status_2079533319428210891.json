@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2079533319428210891",
+    "created_at": "2026-07-21T11:45:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T12:45:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079533319428210891"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1863319222765428736",
+          "start": 3,
+          "username": "Re_ZaoTon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079533319428210891",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079011165250953219",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Re_ZaoTon: 玩网时间稍微长一点就知道，每年从6月8号高考完之后一直到10月7日国庆节放假结束，都是国内互联网平台最恶臭的一段时间🤮"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2079533319428210891",
+        "created_at": "2026-07-21T11:45:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T12:45:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079533319428210891"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1863319222765428736",
+              "start": 3,
+              "username": "Re_ZaoTon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079533319428210891",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079011165250953219",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Re_ZaoTon: 玩网时间稍微长一点就知道，每年从6月8号高考完之后一直到10月7日国庆节放假结束，都是国内互联网平台最恶臭的一段时间🤮"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1863319222765428736",
+        "conversation_id": "2079011165250953219",
+        "created_at": "2026-07-20T01:11:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T02:11:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079011165250953219"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 83,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2078535269611978773",
+              "start": 60,
+              "url": "https://t.co/lHZGHH3exo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079011165250953219",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2266,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078535269611978773",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "玩网时间稍微长一点就知道，每年从6月8号高考完之后一直到10月7日国庆节放假结束，都是国内互联网平台最恶臭的一段时间🤮 https://t.co/lHZGHH3exo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX（断糖中）&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od&自伤新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 408,
+          "following_count": 1360,
+          "like_count": 5876,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 1322
+        },
+        "url": "",
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-01T20:28:37.000Z",
+        "description": "HRT2023.11.21 反跨跨女🍥｜小证含糖🤕｜脾气超好😊｜精神不稳定😖｜不可能自杀😇｜不od不割手🔪｜农村究极穷B❌｜牢保思想🤐｜账号用来当朋友圈使用，分享点有趣的东西，自我评价纯粹神人，受不了可以提前把我B掉😿",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "2345.lgbt",
+                "end": 23,
+                "expanded_url": "http://2345.lgbt",
+                "start": 0,
+                "url": "https://t.co/6l43xOCIK5"
+              }
+            ]
+          }
+        },
+        "id": "1863319222765428736",
+        "location": "埃迪卡拉纪",
+        "name": "枣桐酱🍥",
+        "pinned_tweet_id": "2073038385770565697",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058420873053577216/7R8Md9U5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 905,
+          "following_count": 281,
+          "like_count": 9797,
+          "listed_count": 5,
+          "media_count": 76,
+          "tweet_count": 776
+        },
+        "url": "https://t.co/6l43xOCIK5",
+        "username": "Re_ZaoTon",
+        "verified": false
+      }
+    ]
+  }
+}

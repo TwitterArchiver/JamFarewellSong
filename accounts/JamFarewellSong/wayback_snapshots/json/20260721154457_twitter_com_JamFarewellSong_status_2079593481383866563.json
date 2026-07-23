@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2079482380533010639",
+    "created_at": "2026-07-21T15:44:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T16:44:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079593481383866563"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2079481227560824832",
+          "start": 0,
+          "username": "orangetocat_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079593481383866563",
+    "in_reply_to_user_id": "2079481227560824832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079482380533010639",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@orangetocat_ 见证新店开业喵😋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 279,
+        "media_key": "3_2079482374421921792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNvOM7QawAADAPJ.jpg",
+        "width": 512
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2079482380533010639",
+        "created_at": "2026-07-21T15:44:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T16:44:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079593481383866563"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2079481227560824832",
+              "start": 0,
+              "username": "orangetocat_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079593481383866563",
+        "in_reply_to_user_id": "2079481227560824832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079482380533010639",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@orangetocat_ 见证新店开业喵😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079482374421921792"
+          ]
+        },
+        "author_id": "2079481227560824832",
+        "conversation_id": "2079482380533010639",
+        "created_at": "2026-07-21T08:23:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T09:23:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079482380533010639"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "橘猫RC",
+              "display_url": "t.me/orange_neko_rc",
+              "end": 41,
+              "expanded_url": "https://t.me/orange_neko_rc",
+              "images": [
+                {
+                  "height": 320,
+                  "url": "https://pbs.twimg.com/news_img/2079482386262401024/J9OtnBn1?format=jpg&name=orig",
+                  "width": 320
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2079482386262401024/J9OtnBn1?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 18,
+              "status": 200,
+              "title": "茶トラ猫RC",
+              "unwound_url": "https://t.me/orange_neko_rc",
+              "url": "https://t.co/LSf0r6Gxmd"
+            },
+            {
+              "display_url": "pic.x.com/JtiYc1OkBP",
+              "end": 65,
+              "expanded_url": "https://x.com/orangetocat_/status/2079482380533010639/photo/1",
+              "media_key": "3_2079482374421921792",
+              "start": 42,
+              "url": "https://t.co/JtiYc1OkBP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079482380533010639",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 221,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这里是茶トラ猫RC，欢迎进店看看呀\nhttps://t.co/LSf0r6Gxmd https://t.co/JtiYc1OkBP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX（断糖中）&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od&自伤新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 408,
+          "following_count": 1362,
+          "like_count": 5881,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 1323
+        },
+        "url": "",
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-21T08:20:05.000Z",
+        "description": "",
+        "id": "2079481227560824832",
+        "name": "茶トラ猫",
+        "pinned_tweet_id": "2079482380533010639",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079481814931181569/3-SZGhLX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 1,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 3
+        },
+        "url": "",
+        "username": "orangetocat_",
+        "verified": false
+      }
+    ]
+  }
+}

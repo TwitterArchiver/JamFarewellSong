@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2077260889955422289",
+    "created_at": "2026-07-15T05:16:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T06:16:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077260889955422289"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2076292469667532800",
+          "start": 3,
+          "username": "SankakuFuu3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077260889955422289",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076720144185991246",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SankakuFuu3: 因为那是幸福啊，幸福一点都不好戒"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2077260889955422289",
+        "created_at": "2026-07-15T05:16:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T06:16:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077260889955422289"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2076292469667532800",
+              "start": 3,
+              "username": "SankakuFuu3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077260889955422289",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076720144185991246",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SankakuFuu3: 因为那是幸福啊，幸福一点都不好戒"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076292469667532800",
+        "conversation_id": "2076720144185991246",
+        "created_at": "2026-07-13T17:27:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T18:27:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076720144185991246"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/0xjovexu/statu…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/0xjovexu/status/2076614376778600908",
+              "start": 17,
+              "url": "https://t.co/wOp6kcwKCQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076720144185991246",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 284,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076614376778600908",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "因为那是幸福啊，幸福一点都不好戒 https://t.co/wOp6kcwKCQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX（断糖中）&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od&自伤新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 371,
+          "following_count": 1268,
+          "like_count": 5582,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 1260
+        },
+        "url": "",
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-12T13:13:09.000Z",
+        "description": "（百八十无常 冰川枫）三角枫的第二人格 audhd enby oder / atmosPheRe is now available/ 我爱大家 想成为不极端的人",
+        "id": "2076292469667532800",
+        "location": "守恒与虚无之地",
+        "name": "三角　楓🍥#参宿七",
+        "pinned_tweet_id": "2076303353152438330",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076294275546148864/FANgAHlQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 132,
+          "like_count": 239,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 91
+        },
+        "url": "",
+        "username": "SankakuFuu3",
+        "verified": false
+      }
+    ]
+  }
+}
