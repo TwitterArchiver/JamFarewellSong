@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2084248218637136230",
+    "created_at": "2026-08-04T01:10:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T02:10:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084446914716848324"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2044496192734666752",
+          "start": 0,
+          "username": "UWATCHLIFE"
+        },
+        {
+          "end": 23,
+          "id": "2077732421488054272",
+          "start": 12,
+          "username": "FreePGBPlz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084446914716848324",
+    "in_reply_to_user_id": "2044496192734666752",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084248218637136230",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@UWATCHLIFE @FreePGBPlz 感谢🥰孩子吃了腰也不酸了腿也不疼了手也不想划了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 863,
+        "media_key": "3_2084248204057698305",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOy8suKa4AEiA3h.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2084248203667574784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOy8sstaEAAM9yP.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2084248218637136230",
+        "created_at": "2026-08-04T01:10:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T02:10:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084446914716848324"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2044496192734666752",
+              "start": 0,
+              "username": "UWATCHLIFE"
+            },
+            {
+              "end": 23,
+              "id": "2077732421488054272",
+              "start": 12,
+              "username": "FreePGBPlz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084446914716848324",
+        "in_reply_to_user_id": "2044496192734666752",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084248218637136230",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@UWATCHLIFE @FreePGBPlz 感谢🥰孩子吃了腰也不酸了腿也不疼了手也不想划了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084248204057698305",
+            "3_2084248203667574784"
+          ]
+        },
+        "author_id": "2044496192734666752",
+        "conversation_id": "2084248218637136230",
+        "created_at": "2026-08-03T12:01:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T13:01:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084248218637136230"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 151,
+              "id": "2077732421488054272",
+              "start": 140,
+              "username": "FreePGBPlz"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/X7cPZrTgHf",
+              "end": 184,
+              "expanded_url": "https://x.com/UWATCHLIFE/status/2084248218637136230/photo/1",
+              "media_key": "3_2084248204057698305",
+              "start": 161,
+              "url": "https://t.co/X7cPZrTgHf"
+            },
+            {
+              "display_url": "pic.x.com/X7cPZrTgHf",
+              "end": 184,
+              "expanded_url": "https://x.com/UWATCHLIFE/status/2084248218637136230/photo/1",
+              "media_key": "3_2084248203667574784",
+              "start": 161,
+              "url": "https://t.co/X7cPZrTgHf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084248218637136230",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 860,
+          "like_count": 43,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "本壬自7.11发起的普瑞团购，因缺少经验，延误下历经23日，终于在8.3告一段落。此次购入12kg普瑞，59位团员已全体到货。普瑞进价8毛克，为酬劳分发员涨至1元。目前因本壬的无能，亏损约五百元。感谢所有的团员，感谢分发员，并感谢提供渠道的先辈！\n至于本团多余的1.1kg，可私信@freepgbplz 以1.5/g购买 https://t.co/X7cPZrTgHf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX（断糖中）&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od&自伤新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 557,
+          "following_count": 1739,
+          "like_count": 6915,
+          "listed_count": 1,
+          "media_count": 18,
+          "tweet_count": 1661
+        },
+        "url": "",
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "location": "三浦海峡",
+        "name": "ominous",
+        "pinned_tweet_id": "2078365186466156746",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 315,
+          "following_count": 168,
+          "like_count": 1906,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 1206
+        },
+        "url": "",
+        "username": "UWATCHLIFE",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-16T12:36:56.000Z",
+        "description": "",
+        "id": "2077732421488054272",
+        "name": "PGB",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077734428705771520/g4X7GxyP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 9,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 8
+        },
+        "url": "",
+        "username": "FreePGBPlz",
+        "verified": false
+      }
+    ]
+  }
+}

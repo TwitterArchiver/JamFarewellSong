@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2084611353797648829",
+    "created_at": "2026-08-04T12:04:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T13:04:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084611353797648829"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2007104134466736129",
+          "start": 3,
+          "username": "peipeimao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084611353797648829",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067019975567839637",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @peipeimao: 因为我很圣母然后吃这个愚昧片会变得愚昧于是不再圣母解离解离解解解。这行字神秘地颤抖着，祈求分开。它们厌倦被这样排列在一起。掀解构，再诠释，生人说，活人死。圣母赐生人以悲悯，赐死亡以仁爱，赐人愚昧以暂留观众喝彩。于是我们吞再吞，饮再饮，胃酸融化了这个…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2084611353797648829",
+        "created_at": "2026-08-04T12:04:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T13:04:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084611353797648829"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2007104134466736129",
+              "start": 3,
+              "username": "peipeimao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084611353797648829",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067019975567839637",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @peipeimao: 因为我很圣母然后吃这个愚昧片会变得愚昧于是不再圣母解离解离解解解。这行字神秘地颤抖着，祈求分开。它们厌倦被这样排列在一起。掀解构，再诠释，生人说，活人死。圣母赐生人以悲悯，赐死亡以仁爱，赐人愚昧以暂留观众喝彩。于是我们吞再吞，饮再饮，胃酸融化了这个…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007104134466736129",
+        "conversation_id": "2067019975567839637",
+        "created_at": "2026-06-16T23:02:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T00:02:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067019975567839637"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067019975567839637",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 5677,
+          "like_count": 43,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "因为我很圣母然后吃这个愚昧片会变得愚昧于是不再圣母解离解离解解解。这行字神秘地颤抖着，祈求分开。它们厌倦被这样排列在一起。掀解构，再诠释，生人说，活人死。圣母赐生人以悲悯，赐死亡以仁爱，赐人愚昧以暂留观众喝彩。于是我们吞再吞，饮再饮，胃酸融化了这个世界，红黄蓝，倾斜而下，精品神药"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX（断糖中）&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od&自伤新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 556,
+          "following_count": 1740,
+          "like_count": 6920,
+          "listed_count": 1,
+          "media_count": 18,
+          "tweet_count": 1663
+        },
+        "url": "",
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-02T14:58:43.000Z",
+        "description": "纯绿只回复口令及同类\n我会去做我能做的一切吧\n🚪128好友位日常陪聊/520我爱你/其他定制过门详询",
+        "id": "2007104134466736129",
+        "location": "爱的中心",
+        "name": "林黛玉",
+        "pinned_tweet_id": "2040958169271455913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063325254924300288/ipnh_B0E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4596,
+          "following_count": 164,
+          "like_count": 674,
+          "listed_count": 11,
+          "media_count": 106,
+          "tweet_count": 1895
+        },
+        "url": "",
+        "username": "peipeimao",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2081920182365430008",
+    "created_at": "2026-07-28T01:50:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T02:50:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081920182365430008"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1600208165269741570",
+          "start": 3,
+          "username": "CatherinaMeow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081920182365430008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 22
+    },
+    "referenced_tweets": [
+      {
+        "id": "1726590939450523678",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CatherinaMeow: 希望每一个在参宿四的孩子们可以得到她们想要的吧…缺糖的话记得告诉奈酱，我再去准备…\n打印了安非他酮-右美沙芬抗抑郁药的说明书，你们是对的，它确实可以抗抑郁…\n这个药国内没有，就找了右美（本人依旧保持拒绝od）…\n希望 arts坊洛紫风紫壑巴…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1726590919150063616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/F_YVSwha0AA0gXh.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1690,
+        "media_key": "3_1726590919196258304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/F_YVSwsbsAAHxZA.jpg",
+        "width": 1169
+      },
+      {
+        "height": 1689,
+        "media_key": "3_1726590919166853120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/F_YVSwlbAAAQBpw.jpg",
+        "width": 1169
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2081920182365430008",
+        "created_at": "2026-07-28T01:50:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T02:50:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081920182365430008"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1600208165269741570",
+              "start": 3,
+              "username": "CatherinaMeow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081920182365430008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 22
+        },
+        "referenced_tweets": [
+          {
+            "id": "1726590939450523678",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CatherinaMeow: 希望每一个在参宿四的孩子们可以得到她们想要的吧…缺糖的话记得告诉奈酱，我再去准备…\n打印了安非他酮-右美沙芬抗抑郁药的说明书，你们是对的，它确实可以抗抑郁…\n这个药国内没有，就找了右美（本人依旧保持拒绝od）…\n希望 arts坊洛紫风紫壑巴…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1726590919150063616",
+            "3_1726590919196258304",
+            "3_1726590919166853120"
+          ]
+        },
+        "author_id": "1600208165269741570",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1726590939450523678",
+        "created_at": "2023-11-20T13:18:53.000Z",
+        "edit_controls": {
+          "editable_until": "2023-11-20T14:18:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1726590939450523678"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 150,
+              "id": "961552358906802176",
+              "start": 143,
+              "username": "dfdtc7"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/shTR6MppQK",
+              "end": 174,
+              "expanded_url": "https://x.com/CatherinaGrace0/status/1726590939450523678/photo/1",
+              "media_key": "3_1726590919150063616",
+              "start": 151,
+              "url": "https://t.co/shTR6MppQK"
+            },
+            {
+              "display_url": "pic.x.com/shTR6MppQK",
+              "end": 174,
+              "expanded_url": "https://x.com/CatherinaGrace0/status/1726590939450523678/photo/1",
+              "media_key": "3_1726590919196258304",
+              "start": 151,
+              "url": "https://t.co/shTR6MppQK"
+            },
+            {
+              "display_url": "pic.x.com/shTR6MppQK",
+              "end": 174,
+              "expanded_url": "https://x.com/CatherinaGrace0/status/1726590939450523678/photo/1",
+              "media_key": "3_1726590919166853120",
+              "start": 151,
+              "url": "https://t.co/shTR6MppQK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1726590939450523678",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 35590,
+          "like_count": 271,
+          "quote_count": 4,
+          "reply_count": 15,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "希望每一个在参宿四的孩子们可以得到她们想要的吧…缺糖的话记得告诉奈酱，我再去准备…\n打印了安非他酮-右美沙芬抗抑郁药的说明书，你们是对的，它确实可以抗抑郁…\n这个药国内没有，就找了右美（本人依旧保持拒绝od）…\n希望 arts坊洛紫风紫壑巴伦以及在参宿四ta们都能喜欢奈酱送的糖叭\n同行@dfdtc7 https://t.co/shTR6MppQK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX（断糖中）&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od&自伤新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 488,
+          "following_count": 1593,
+          "like_count": 6485,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 1474
+        },
+        "url": "",
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-06T19:19:05.000Z",
+        "description": "21 INTP｜Post-SRS Enby｜不会说话和社交的AuDHD黑猫｜🏫Monash | 🐈‍⬛/🏹/🚴/💻｜硅性恋｜AM&CS&EE｜某司高管(逃)｜意面神教牧师| BA4*** | GPG: C1D9 84F0 BBA1 B3B9 | 持证嗓音训练师｜云欣猫猫条 @rainchngshainn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 137,
+                "username": "rainchngshainn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "catherina.moe",
+                "end": 23,
+                "expanded_url": "https://catherina.moe",
+                "start": 0,
+                "url": "https://t.co/j331g3A54f"
+              }
+            ]
+          }
+        },
+        "id": "1600208165269741570",
+        "location": "猫猫澳洲窝",
+        "name": "Catherina（赛博咬人黑猫）",
+        "pinned_tweet_id": "1920559116499427820",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047968474602115072/iJ7hyYeK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7359,
+          "following_count": 1093,
+          "like_count": 91983,
+          "listed_count": 22,
+          "media_count": 2260,
+          "tweet_count": 27241
+        },
+        "url": "https://t.co/j331g3A54f",
+        "username": "CatherinaMeow",
+        "verified": true
+      }
+    ]
+  }
+}

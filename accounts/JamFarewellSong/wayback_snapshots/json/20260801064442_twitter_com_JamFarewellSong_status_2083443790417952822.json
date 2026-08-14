@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2083443790417952822",
+    "created_at": "2026-08-01T06:44:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T07:44:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083443790417952822"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1796067856142213120",
+          "start": 3,
+          "username": "realnmudml"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083443790417952822",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980643738281210365",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @realnmudml: 总是 很难过\n也很累 的时候\n会搜一下 “自杀” 的词条\n\n不为什么\n只是看看 有多少人\n此时 和我一样 痛苦的\n\n这样 能找到 一丝共鸣…\n就觉得 会好一点\n因为 什么都 改变不了\n于是呢 就想着 死亡逃避\n\n就想着 一觉睡到\n永远也 醒不过来…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1980643723680661504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3yo-QiXwAAAnfn.jpg",
+        "width": 949
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2083443790417952822",
+        "created_at": "2026-08-01T06:44:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T07:44:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083443790417952822"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1796067856142213120",
+              "start": 3,
+              "username": "realnmudml"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083443790417952822",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980643738281210365",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @realnmudml: 总是 很难过\n也很累 的时候\n会搜一下 “自杀” 的词条\n\n不为什么\n只是看看 有多少人\n此时 和我一样 痛苦的\n\n这样 能找到 一丝共鸣…\n就觉得 会好一点\n因为 什么都 改变不了\n于是呢 就想着 死亡逃避\n\n就想着 一觉睡到\n永远也 醒不过来…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980643723680661504"
+          ]
+        },
+        "author_id": "1796067856142213120",
+        "conversation_id": "1980643738281210365",
+        "created_at": "2025-10-21T14:34:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T15:34:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980643738281210365"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VncUFEpW9w",
+              "end": 184,
+              "expanded_url": "https://x.com/realnmudml/status/1980643738281210365/photo/1",
+              "media_key": "3_1980643723680661504",
+              "start": 161,
+              "url": "https://t.co/VncUFEpW9w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980643738281210365",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 4919,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "总是 很难过\n也很累 的时候\n会搜一下 “自杀” 的词条\n\n不为什么\n只是看看 有多少人\n此时 和我一样 痛苦的\n\n这样 能找到 一丝共鸣…\n就觉得 会好一点\n因为 什么都 改变不了\n于是呢 就想着 死亡逃避\n\n就想着 一觉睡到\n永远也 醒不过来\n然后 解脱吧\n\n本质 我只是想\n暂时地 躲进黑暗里\n让自己 不再被光刺痛 https://t.co/VncUFEpW9w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX（断糖中）&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od&自伤新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 526,
+          "following_count": 1703,
+          "like_count": 6810,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 1604
+        },
+        "url": "",
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-30T06:35:42.000Z",
+        "description": "只是期待…被爱着｜od日记｜生命记录",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/nmudmlclub",
+                "end": 23,
+                "expanded_url": "http://t.me/nmudmlclub",
+                "start": 0,
+                "url": "https://t.co/kJ98C5NRxK"
+              }
+            ]
+          }
+        },
+        "id": "1796067856142213120",
+        "name": "柠檬味的猫粮🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839570777202704384/2VoygNni_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 627,
+          "following_count": 11,
+          "like_count": 87,
+          "listed_count": 9,
+          "media_count": 74,
+          "tweet_count": 675
+        },
+        "url": "https://t.co/kJ98C5NRxK",
+        "username": "realnmudml",
+        "verified": false
+      }
+    ]
+  }
+}

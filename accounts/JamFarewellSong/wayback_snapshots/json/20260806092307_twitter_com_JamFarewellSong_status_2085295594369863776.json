@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2084932332767903904",
+    "created_at": "2026-08-06T09:23:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T10:23:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085295594369863776"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1952660732132425728",
+          "start": 0,
+          "username": "Dead8964line"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085295594369863776",
+    "in_reply_to_user_id": "1952660732132425728",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085270408316731735",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Dead8964line 好看的，金句频出"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2084932332767903904",
+        "created_at": "2026-08-06T09:23:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T10:23:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085295594369863776"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1952660732132425728",
+              "start": 0,
+              "username": "Dead8964line"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085295594369863776",
+        "in_reply_to_user_id": "1952660732132425728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085270408316731735",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dead8964line 好看的，金句频出"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1952660732132425728",
+        "conversation_id": "2084932332767903904",
+        "created_at": "2026-08-06T07:43:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T08:43:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085270408316731735"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1907414826101669888",
+              "start": 0,
+              "username": "JamFarewellSong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085270408316731735",
+        "in_reply_to_user_id": "1907414826101669888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084932332767903904",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JamFarewellSong 漫长的告别有品的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX（断糖中）&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od&自伤新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 565,
+          "following_count": 1737,
+          "like_count": 6958,
+          "listed_count": 1,
+          "media_count": 18,
+          "tweet_count": 1686
+        },
+        "url": "",
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-05T09:19:39.000Z",
+        "description": "=死线｜LGBTQ+友好｜💛🤍💜🖤｜thay/them｜直fo就是喜欢你｜同类互fo｜没回关可能是msk吞消息了",
+        "id": "1952660732132425728",
+        "location": "ᴡᴇᴇᴘ ᴀɴᴅ ɢʀᴏᴀɴ ᴡɪᴛʜ ᴍᴇ",
+        "name": "Deadline",
+        "pinned_tweet_id": "2074555042619953622",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057060785277542400/AxyLzl8w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 76,
+          "like_count": 1033,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 517
+        },
+        "url": "",
+        "username": "Dead8964line",
+        "verified": false
+      }
+    ]
+  }
+}

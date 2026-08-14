@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2081917585143320819",
+    "created_at": "2026-07-28T01:40:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T02:40:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081917585143320819"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1700865258150371328",
+          "start": 3,
+          "username": "star_tran30449"
+        },
+        {
+          "end": 31,
+          "id": "1647247348534489092",
+          "start": 24,
+          "username": "zzj876"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081917585143320819",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "1809536820075765774",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @star_tran30449: 是姬姬呀@zzj876\n已于昨日晚间服用药物自身，愿我的妹妹能在参宿四安好。\n她说，我恨这个世界。\n🕯️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2081917585143320819",
+        "created_at": "2026-07-28T01:40:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T02:40:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081917585143320819"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1700865258150371328",
+              "start": 3,
+              "username": "star_tran30449"
+            },
+            {
+              "end": 31,
+              "id": "1647247348534489092",
+              "start": 24,
+              "username": "zzj876"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081917585143320819",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "1809536820075765774",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @star_tran30449: 是姬姬呀@zzj876\n已于昨日晚间服用药物自身，愿我的妹妹能在参宿四安好。\n她说，我恨这个世界。\n🕯️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700865258150371328",
+        "conversation_id": "1809536820075765774",
+        "created_at": "2024-07-06T10:36:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-06T11:36:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1809536820075765774"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1647247348534489092",
+              "start": 4,
+              "username": "zzj876"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1809536820075765774",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 35650,
+          "like_count": 176,
+          "quote_count": 6,
+          "reply_count": 43,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "是姬姬呀@zzj876\n已于昨日晚间服用药物自身，愿我的妹妹能在参宿四安好。\n她说，我恨这个世界。\n🕯️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX（断糖中）&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od&自伤新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 487,
+          "following_count": 1586,
+          "like_count": 6472,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 1466
+        },
+        "url": "",
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-10T13:35:01.000Z",
+        "description": "她/他/祂们并未离开，只是去了一个遥远的地方。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "startransforeve.com",
+                "end": 23,
+                "expanded_url": "http://startransforeve.com",
+                "start": 0,
+                "url": "https://t.co/ZYDXKWLSZo"
+              }
+            ]
+          }
+        },
+        "id": "1700865258150371328",
+        "name": "StarTransForever",
+        "pinned_tweet_id": "1700873713980506292",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749459076587900928/V3XYOWRU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1271,
+          "following_count": 58,
+          "like_count": 1010,
+          "listed_count": 1,
+          "media_count": 72,
+          "tweet_count": 399
+        },
+        "url": "https://t.co/ZYDXKWLSZo",
+        "username": "star_tran30449",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-15T14:36:02.000Z",
+        "description": "这里是姬姬🏳️‍⚧️🍥 /不许叫我姬巴（气鼓鼓）/（07/11/02）/172、127/无证含糖mtf（HRT2023/5/7）深柜党/天残党/是鲨鲨剑士/无主/有老婆/备注：经常喝酒，可能会冒犯别人/自用VPN：https://t.co/HtrlAXfwUl",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skycloud.life/#/register?cod…",
+                "end": 130,
+                "expanded_url": "http://skycloud.life/#/register?code=PkXnDKfS",
+                "start": 107,
+                "url": "https://t.co/HtrlAXfwUl"
+              }
+            ]
+          }
+        },
+        "id": "1647247348534489092",
+        "location": "参宿四",
+        "name": "是姬姬呀🍥",
+        "pinned_tweet_id": "1798397026549547218",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1661268758730780672/yqx6IrMJ_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 7463,
+          "following_count": 795,
+          "like_count": 13316,
+          "listed_count": 23,
+          "media_count": 1611,
+          "tweet_count": 5282
+        },
+        "url": "",
+        "username": "zzj876",
+        "verified": false
+      }
+    ]
+  }
+}

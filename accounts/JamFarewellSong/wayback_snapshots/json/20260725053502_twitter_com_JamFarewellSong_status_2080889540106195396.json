@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2080889540106195396",
+    "created_at": "2026-07-25T05:35:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T06:35:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080889540106195396"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1887069376031182848",
+          "start": 3,
+          "username": "Mirro_zinuo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080889540106195396",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068226128146223518",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Mirro_zinuo: 接到镇镇的联系，虽然微信公众号被封，但目前团队成员平安，服务也仍在持续。\n愿中国彩虹平权第一线的同伴一切平安，也愿这盏灯，无论被吹熄多少次，都有人重新点亮。\n平台能封一个号，封不掉一群人继续站着做事的决心。\n愿我们早日在同一片彩虹下重逢——这一…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1620,
+        "media_key": "3_2068226125378002944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLPQs_5WoAAqbVH.jpg",
+        "width": 972
+      },
+      {
+        "height": 356,
+        "media_key": "3_2068226125399027713",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLPQs_-XcAEuX5d.jpg",
+        "width": 994
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2080889540106195396",
+        "created_at": "2026-07-25T05:35:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T06:35:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080889540106195396"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1887069376031182848",
+              "start": 3,
+              "username": "Mirro_zinuo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080889540106195396",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068226128146223518",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Mirro_zinuo: 接到镇镇的联系，虽然微信公众号被封，但目前团队成员平安，服务也仍在持续。\n愿中国彩虹平权第一线的同伴一切平安，也愿这盏灯，无论被吹熄多少次，都有人重新点亮。\n平台能封一个号，封不掉一群人继续站着做事的决心。\n愿我们早日在同一片彩虹下重逢——这一…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068226125378002944",
+            "3_2068226125399027713"
+          ]
+        },
+        "author_id": "1887069376031182848",
+        "conversation_id": "2068226128146223518",
+        "created_at": "2026-06-20T06:55:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T07:55:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068226128146223518"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mrKPcykP4a",
+              "end": 163,
+              "expanded_url": "https://x.com/Mirro_zinuo/status/2068226128146223518/photo/1",
+              "media_key": "3_2068226125378002944",
+              "start": 140,
+              "url": "https://t.co/mrKPcykP4a"
+            },
+            {
+              "display_url": "pic.x.com/mrKPcykP4a",
+              "end": 163,
+              "expanded_url": "https://x.com/Mirro_zinuo/status/2068226128146223518/photo/1",
+              "media_key": "3_2068226125399027713",
+              "start": 140,
+              "url": "https://t.co/mrKPcykP4a"
+            },
+            {
+              "display_url": "x.com/Mirro_zinuo/st…",
+              "end": 187,
+              "expanded_url": "https://twitter.com/Mirro_zinuo/status/2067811151069483106",
+              "start": 164,
+              "url": "https://t.co/1CCd1Np9Fq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068226128146223518",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3696,
+          "like_count": 44,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067811151069483106",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "接到镇镇的联系，虽然微信公众号被封，但目前团队成员平安，服务也仍在持续。\n愿中国彩虹平权第一线的同伴一切平安，也愿这盏灯，无论被吹熄多少次，都有人重新点亮。\n平台能封一个号，封不掉一群人继续站着做事的决心。\n愿我们早日在同一片彩虹下重逢——这一天，值得我们一起等，也值得一起争。 https://t.co/mrKPcykP4a https://t.co/1CCd1Np9Fq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX（断糖中）&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od&自伤新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 464,
+          "following_count": 1460,
+          "like_count": 6118,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 1397
+        },
+        "url": "",
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-05T09:23:14.000Z",
+        "description": "牢糯復活一年了🎉 /愛種哈密瓜🍈❓🇹🇼/永遠懷念舊號@fugu_JUN/脆和推同id/是以前叫源菌的生物/05年老阿姨離異帶倆娃❌/MtF🏳️‍⚧️/hrt 2019/退役oier/退役地偶/占卜神秘學🔮/日常發瘋/想要被世界喜歡/對異性戀我是不贊成也不反對的/焦慮型依戀",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "fugu_JUN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kamaboko.ngo",
+                "end": 23,
+                "expanded_url": "http://www.kamaboko.ngo",
+                "start": 0,
+                "url": "https://t.co/T24e8vg2iF"
+              }
+            ]
+          }
+        },
+        "id": "1887069376031182848",
+        "location": "@KamabokoNGO",
+        "name": "梓糯🏳️‍⚧️🇹🇼🇨🇦",
+        "pinned_tweet_id": "1961844598973567241",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887069534986924032/_g2-66nA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1630,
+          "following_count": 222,
+          "like_count": 5378,
+          "listed_count": 11,
+          "media_count": 282,
+          "tweet_count": 1633
+        },
+        "url": "https://t.co/T24e8vg2iF",
+        "username": "Mirro_zinuo",
+        "verified": true
+      }
+    ]
+  }
+}

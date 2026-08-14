@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2081917901418934507",
+    "created_at": "2026-07-28T01:41:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T02:41:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081917901418934507"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1700865258150371328",
+          "start": 3,
+          "username": "star_tran30449"
+        },
+        {
+          "end": 37,
+          "id": "1734758045262233600",
+          "start": 23,
+          "username": "shngfng297578"
+        },
+        {
+          "end": 120,
+          "id": "1649189323621941248",
+          "start": 110,
+          "username": "wuyue1123"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/8VkvW",
+          "end": 139,
+          "start": 121,
+          "url": "https://t.co/8VkvW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081917901418934507",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "1777589775085568455",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @star_tran30449: 讣告：@shngfng297578因长期遭到家暴并伴随性别焦虑造成严重抑郁症状，于2024年4月9日服用大剂量杀虫剂和亚硝酸钠去世。\n🕯️🕯️\n愿笙枫在参宿四安好。\n消息来源：雾月@wuyue1123 https://t.co/8VkvW…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1777589766944428032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GKtEeZcXkAAQxIy.jpg",
+        "width": 460
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2081917901418934507",
+        "created_at": "2026-07-28T01:41:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T02:41:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081917901418934507"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1700865258150371328",
+              "start": 3,
+              "username": "star_tran30449"
+            },
+            {
+              "end": 37,
+              "id": "1734758045262233600",
+              "start": 23,
+              "username": "shngfng297578"
+            },
+            {
+              "end": 120,
+              "id": "1649189323621941248",
+              "start": 110,
+              "username": "wuyue1123"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/8VkvW",
+              "end": 139,
+              "start": 121,
+              "url": "https://t.co/8VkvW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081917901418934507",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "1777589775085568455",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @star_tran30449: 讣告：@shngfng297578因长期遭到家暴并伴随性别焦虑造成严重抑郁症状，于2024年4月9日服用大剂量杀虫剂和亚硝酸钠去世。\n🕯️🕯️\n愿笙枫在参宿四安好。\n消息来源：雾月@wuyue1123 https://t.co/8VkvW…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1777589766944428032"
+          ]
+        },
+        "author_id": "1700865258150371328",
+        "conversation_id": "1777589775085568455",
+        "created_at": "2024-04-09T06:50:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-04-09T07:50:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1777589775085568455"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1734758045262233600",
+              "start": 3,
+              "username": "shngfng297578"
+            },
+            {
+              "end": 100,
+              "id": "1649189323621941248",
+              "start": 90,
+              "username": "wuyue1123"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8VkvWx6QO8",
+              "end": 124,
+              "expanded_url": "https://x.com/star_tran30449/status/1777589775085568455/photo/1",
+              "media_key": "3_1777589766944428032",
+              "start": 101,
+              "url": "https://t.co/8VkvWx6QO8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1777589775085568455",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 31679,
+          "like_count": 133,
+          "quote_count": 1,
+          "reply_count": 39,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "讣告：@shngfng297578因长期遭到家暴并伴随性别焦虑造成严重抑郁症状，于2024年4月9日服用大剂量杀虫剂和亚硝酸钠去世。\n🕯️🕯️\n愿笙枫在参宿四安好。\n消息来源：雾月@wuyue1123 https://t.co/8VkvWx6QO8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX（断糖中）&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od&自伤新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 487,
+          "following_count": 1587,
+          "like_count": 6475,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 1467
+        },
+        "url": "",
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-10T13:35:01.000Z",
+        "description": "她/他/祂们并未离开，只是去了一个遥远的地方。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "startransforeve.com",
+                "end": 23,
+                "expanded_url": "http://startransforeve.com",
+                "start": 0,
+                "url": "https://t.co/ZYDXKWLSZo"
+              }
+            ]
+          }
+        },
+        "id": "1700865258150371328",
+        "name": "StarTransForever",
+        "pinned_tweet_id": "1700873713980506292",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749459076587900928/V3XYOWRU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1271,
+          "following_count": 58,
+          "like_count": 1010,
+          "listed_count": 1,
+          "media_count": 72,
+          "tweet_count": 399
+        },
+        "url": "https://t.co/ZYDXKWLSZo",
+        "username": "star_tran30449",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-13T02:12:10.000Z",
+        "description": "04MTF/2023.10才开始hrt(◞‸◟ )/还在深柜/infp/目标是变得能pass一点❤️✨",
+        "id": "1734758045262233600",
+        "name": "笙枫🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1739227121460064256/_4Bnsd8V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 118,
+          "like_count": 92,
+          "listed_count": 4,
+          "media_count": 0,
+          "tweet_count": 26
+        },
+        "url": "",
+        "username": "shngfng297578",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-20T23:12:39.000Z",
+        "description": "是温柔的女孩子(MtF)/电气工程-自动化-电子信息/服务器爱好者/木桶饭级计算机精通/股市小韭菜/主玩AH股/轻度社恐/Lolita玩家/梦想今年染个白毛",
+        "id": "1649189323621941248",
+        "location": "白毛萝莉的小窝",
+        "name": "雾月🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1674067093703086083/14ysEln0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2227,
+          "following_count": 791,
+          "like_count": 1277,
+          "listed_count": 7,
+          "media_count": 33,
+          "tweet_count": 737
+        },
+        "url": "",
+        "username": "wuyue1123",
+        "verified": false
+      }
+    ]
+  }
+}

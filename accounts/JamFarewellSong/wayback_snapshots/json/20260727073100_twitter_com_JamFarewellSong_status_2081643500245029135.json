@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2081643500245029135",
+    "created_at": "2026-07-27T07:31:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T08:31:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081643500245029135"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "4586687358",
+          "start": 3,
+          "username": "Otakiom"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081643500245029135",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 32
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081195492613005404",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @Otakiom: To my mind as a Christian, venerating a shota is akin to venerating a saint.\n\nIn general, there is a taboo surrounding sexuali…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2081195481858719744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOHkQ5xWQAAisi4.jpg",
+        "width": 1642
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2081643500245029135",
+        "created_at": "2026-07-27T07:31:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T08:31:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081643500245029135"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "4586687358",
+              "start": 3,
+              "username": "Otakiom"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081643500245029135",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 32
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081195492613005404",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @Otakiom: To my mind as a Christian, venerating a shota is akin to venerating a saint.\n\nIn general, there is a taboo surrounding sexuali…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081195481858719744"
+          ]
+        },
+        "author_id": "4586687358",
+        "conversation_id": "2081195492613005404",
+        "created_at": "2026-07-26T01:50:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T02:50:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081195492613005404"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IXUvCyHyNp",
+              "end": 304,
+              "expanded_url": "https://x.com/Otakiom/status/2081195492613005404/photo/1",
+              "media_key": "3_2081195481858719744",
+              "start": 281,
+              "url": "https://t.co/IXUvCyHyNp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081195492613005404",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 1456,
+                "id": "1237047131212406786",
+                "start": 1442,
+                "username": "Adept_Pelinal"
+              }
+            ]
+          },
+          "text": "To my mind as a Christian, venerating a shota is akin to venerating a saint.\n\nIn general, there is a taboo surrounding sexuality and sex within Christian churches; however, the veneration and contemplation of saints is a clear manifestation of Eros love.\n\nContemplating the Divine through the persons of saints and martyrs is frequently associated with ecstasy and attraction—manifested in the desire to touch their bodies, believing holiness radiates from them—as well as acts of prostration before religious images and icons, a practice intimately linked to archetypal dynamics of submission and surrender.\n\nThere is a profound connection between eroticism and religious devotion, as both stem from the will and desire for union with the other—whom we ultimately divinize to a greater or lesser degree. It is no coincidence that most people who love someone are willing to sacrifice their own lives to protect their beloved. Such an act of sacrifice is no different from Christ’s surrender on the cross out of love for humanity—the ultimate fulfillment of Eros, Philia, Agape, and Storge love.\n\nI love shotas because I see in them the pinnacle of holiness and Christian virtues; this, in turn, awakens a sense of attraction within me. Note that my attraction to shotas arises precisely from a pre-existing religious devotion.\n\nDevotion, veneration, and attraction are separated by a fine line—one that easily blurs and intertwines.\n\nArt by @Adept_Pelinal"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 236,
+          "impression_count": 44642,
+          "like_count": 521,
+          "quote_count": 102,
+          "reply_count": 64,
+          "retweet_count": 32
+        },
+        "reply_settings": "following",
+        "text": "To my mind as a Christian, venerating a shota is akin to venerating a saint.\n\nIn general, there is a taboo surrounding sexuality and sex within Christian churches; however, the veneration and contemplation of saints is a clear manifestation of Eros love.\n\nContemplating the Divine https://t.co/IXUvCyHyNp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX（断糖中）&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od&自伤新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 479,
+          "following_count": 1556,
+          "like_count": 6364,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 1434
+        },
+        "url": "",
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2015-12-17T18:39:13.000Z",
+        "description": "Shotacon | A slave of shotas and shota lover | Christian | A defender of shota supreme authority over all of humanity.",
+        "id": "4586687358",
+        "name": "Otakion",
+        "pinned_tweet_id": "2081110744028885346",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069372189120344064/tZssFYFg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 911,
+          "following_count": 124,
+          "like_count": 1190,
+          "listed_count": 6,
+          "media_count": 88,
+          "tweet_count": 163
+        },
+        "url": "",
+        "username": "Otakiom",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2083391038648205638",
+    "created_at": "2026-08-01T05:57:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T06:57:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083431901516402893"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2019464858006351872",
+          "start": 0,
+          "username": "kuluoyiluo002"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083431901516402893",
+    "in_reply_to_user_id": "2019464858006351872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083391038648205638",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kuluoyiluo002 不要啊，伊洛😭😭😭去医院好吗？只要你活下来，我会去找你，大家一起生活，不会那么孤独和痛苦…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2083391029735223296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOmxGm-acAAtgV5.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2083391038648205638",
+        "created_at": "2026-08-01T05:57:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T06:57:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083431901516402893"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2019464858006351872",
+              "start": 0,
+              "username": "kuluoyiluo002"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083431901516402893",
+        "in_reply_to_user_id": "2019464858006351872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083391038648205638",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kuluoyiluo002 不要啊，伊洛😭😭😭去医院好吗？只要你活下来，我会去找你，大家一起生活，不会那么孤独和痛苦…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083391029735223296"
+          ]
+        },
+        "author_id": "2019464858006351872",
+        "conversation_id": "2083391038648205638",
+        "created_at": "2026-08-01T03:15:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T04:15:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083391038648205638"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zy7sRZfIrg",
+              "end": 87,
+              "expanded_url": "https://x.com/kuluoyiluo002/status/2083391038648205638/photo/1",
+              "media_key": "3_2083391029735223296",
+              "start": 64,
+              "url": "https://t.co/zy7sRZfIrg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083391038648205638",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 728,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "再见碎梦.. 再见伊洛.. 再见世界..\nUTC+8 11:15\n米氮平 1260mg (18t 30mg 48t 15mg) https://t.co/zy7sRZfIrg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX（断糖中）&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od&自伤新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 528,
+          "following_count": 1703,
+          "like_count": 6785,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 1587
+        },
+        "url": "",
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-05T17:35:26.000Z",
+        "description": "u/1f365*ｴｽﾄﾗｼﾞｵｰﾙ // 网瘾少女 / 常年性耳背 / 常年性过敏性鼻炎 / 主菜=上海全宇 / SSRI OD大师 / 血清素综合症爱好者 / 药源短缺 × 戒断战士 //《六⭐️干员伊洛为你所用～！》",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "isslivenow.com",
+                "end": 23,
+                "expanded_url": "https://isslivenow.com",
+                "start": 0,
+                "url": "https://t.co/UZqQzFC2yu"
+              }
+            ]
+          }
+        },
+        "id": "2019464858006351872",
+        "location": "International Space Station",
+        "name": "◈ 伊洛² ◈　🔪𓂸（六⭐️干员）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069822395335200770/529_1vlk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 94,
+          "like_count": 54,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 103
+        },
+        "url": "https://t.co/UZqQzFC2yu",
+        "username": "kuluoyiluo002",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "poll_ids": [
+        "1679437662493765633"
+      ]
+    },
+    "author_id": "1907414826101669888",
+    "conversation_id": "2081917989646139614",
+    "created_at": "2026-07-28T01:41:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T02:41:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081917989646139614"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1462419807173677059",
+          "start": 3,
+          "username": "Jane_S_Eye"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081917989646139614",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 64
+    },
+    "referenced_tweets": [
+      {
+        "id": "1679437664569917440",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Jane_S_Eye: MTF常说的参宿四，是什么？\n参（shēn）宿（xiù）四是一颗光谱类型M1-2的红超巨星，也是肉眼可见的最大恒星之一。它通常是夜空中第10亮的恒星，也是猎户座的第二亮星，仅次于参宿七。\n它已成为mtf群体的一个符号。\n就让我来介绍一下参宿四，…"
+  },
+  "includes": {
+    "polls": [
+      {
+        "duration_minutes": 10080,
+        "end_datetime": "2023-07-20T10:28:35.000Z",
+        "id": "1679437662493765633",
+        "options": [
+          {
+            "label": "🙏",
+            "position": 1,
+            "votes": 563
+          },
+          {
+            "label": "🏳️‍⚧️",
+            "position": 2,
+            "votes": 744
+          }
+        ],
+        "voting_status": "closed"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "1679437662493765633"
+          ]
+        },
+        "author_id": "1907414826101669888",
+        "conversation_id": "2081917989646139614",
+        "created_at": "2026-07-28T01:41:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T02:41:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081917989646139614"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1462419807173677059",
+              "start": 3,
+              "username": "Jane_S_Eye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081917989646139614",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 64
+        },
+        "referenced_tweets": [
+          {
+            "id": "1679437664569917440",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Jane_S_Eye: MTF常说的参宿四，是什么？\n参（shēn）宿（xiù）四是一颗光谱类型M1-2的红超巨星，也是肉眼可见的最大恒星之一。它通常是夜空中第10亮的恒星，也是猎户座的第二亮星，仅次于参宿七。\n它已成为mtf群体的一个符号。\n就让我来介绍一下参宿四，…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "1679437662493765633"
+          ]
+        },
+        "author_id": "1462419807173677059",
+        "conversation_id": "1679437664569917440",
+        "created_at": "2023-07-13T10:28:36.000Z",
+        "edit_controls": {
+          "editable_until": "2023-07-13T11:28:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1679437664569917440"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1679437664569917440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 102,
+          "impression_count": 55760,
+          "like_count": 315,
+          "quote_count": 5,
+          "reply_count": 20,
+          "retweet_count": 64
+        },
+        "reply_settings": "everyone",
+        "text": "MTF常说的参宿四，是什么？\n参（shēn）宿（xiù）四是一颗光谱类型M1-2的红超巨星，也是肉眼可见的最大恒星之一。它通常是夜空中第10亮的恒星，也是猎户座的第二亮星，仅次于参宿七。\n它已成为mtf群体的一个符号。\n就让我来介绍一下参宿四，\n以及它和跨性别者的故事。（1）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX（断糖中）&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od&自伤新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 487,
+          "following_count": 1587,
+          "like_count": 6476,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 1468
+        },
+        "url": "",
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-21T13:58:25.000Z",
+        "description": "Transgender women,Citizen.\nMajor in engineering,combine political science sparetime.",
+        "id": "1462419807173677059",
+        "location": "she/her",
+        "name": "Muriel",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075187599917113344/NtN1QB3i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11063,
+          "following_count": 3171,
+          "like_count": 13446,
+          "listed_count": 17,
+          "media_count": 469,
+          "tweet_count": 8563
+        },
+        "url": "",
+        "username": "Jane_S_Eye",
+        "verified": true
+      }
+    ]
+  }
+}

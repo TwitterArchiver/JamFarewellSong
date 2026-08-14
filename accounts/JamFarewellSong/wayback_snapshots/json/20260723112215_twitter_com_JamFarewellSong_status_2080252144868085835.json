@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2080252144868085835",
+    "created_at": "2026-07-23T11:22:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T12:22:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080252144868085835"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1907414826101669888",
+          "start": 3,
+          "username": "JamFarewellSong"
+        },
+        {
+          "end": 35,
+          "id": "1671372665402060801",
+          "start": 21,
+          "username": "HomerArcinoma"
+        },
+        {
+          "end": 49,
+          "id": "2079623281263706112",
+          "start": 36,
+          "username": "huaxiangdiea"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080252144868085835",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080252108637663512",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JamFarewellSong: @HomerArcinoma @huaxiangdiea 串得真心实意、胡言乱语，已然瑧至化境，不是自娱自乐的普通串子了，完全是黑红炒作🐶来的（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2080252144868085835",
+        "created_at": "2026-07-23T11:22:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T12:22:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080252144868085835"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1907414826101669888",
+              "start": 3,
+              "username": "JamFarewellSong"
+            },
+            {
+              "end": 35,
+              "id": "1671372665402060801",
+              "start": 21,
+              "username": "HomerArcinoma"
+            },
+            {
+              "end": 49,
+              "id": "2079623281263706112",
+              "start": 36,
+              "username": "huaxiangdiea"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080252144868085835",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080252108637663512",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @JamFarewellSong: @HomerArcinoma @huaxiangdiea 串得真心实意、胡言乱语，已然瑧至化境，不是自娱自乐的普通串子了，完全是黑红炒作🐶来的（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2079654074191163504",
+        "created_at": "2026-07-23T11:22:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T12:22:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080252108637663512"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1671372665402060801",
+              "start": 0,
+              "username": "HomerArcinoma"
+            },
+            {
+              "end": 28,
+              "id": "2079623281263706112",
+              "start": 15,
+              "username": "huaxiangdiea"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080252108637663512",
+        "in_reply_to_user_id": "1671372665402060801",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079848861489873084",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HomerArcinoma @huaxiangdiea 串得真心实意、胡言乱语，已然瑧至化境，不是自娱自乐的普通串子了，完全是黑红炒作🐶来的（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX（断糖中）&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od&自伤新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 455,
+          "following_count": 1450,
+          "like_count": 6059,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 1375
+        },
+        "url": "",
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-21T04:21:34.000Z",
+        "description": "I'm Homer, a Homo sapiens who is obsessed with BIOLOGY, paleontology, philosophy, psychology and psychoactive substance EXPERIMENT.\nLong Live FREEDOM",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/homerarcinoma",
+                "end": 23,
+                "expanded_url": "https://t.me/homerarcinoma",
+                "start": 0,
+                "url": "https://t.co/XbJ5nuJV6A"
+              }
+            ]
+          }
+        },
+        "id": "1671372665402060801",
+        "location": "Earth",
+        "name": "Homer Arcinoma",
+        "pinned_tweet_id": "2038192962186944535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004355049632284672/Aopr2_bC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 163,
+          "like_count": 14690,
+          "listed_count": 0,
+          "media_count": 206,
+          "tweet_count": 1443
+        },
+        "url": "https://t.co/XbJ5nuJV6A",
+        "username": "HomerArcinoma",
+        "verified": true
+      },
+      {
+        "created_at": "2026-07-21T17:44:21.000Z",
+        "description": "我和死亡处成了朋友 从地狱归来之人\n想知道我是谁吗？来了解我吧\n只是一只代表死亡的蝴蝶…\n药圈和平 减害主义 请爱我 永远",
+        "id": "2079623281263706112",
+        "location": "hell",
+        "name": "花乡蝶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079623941732331520/W9QuYVqi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 17,
+          "like_count": 19,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 35
+        },
+        "url": "",
+        "username": "huaxiangdiea",
+        "verified": false
+      }
+    ]
+  }
+}

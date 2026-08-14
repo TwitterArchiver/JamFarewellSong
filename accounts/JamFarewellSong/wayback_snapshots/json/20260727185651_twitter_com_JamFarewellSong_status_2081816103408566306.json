@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2081784500607193393",
+    "created_at": "2026-07-27T18:56:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T19:56:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081816103408566306"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1891722301584048128",
+          "start": 0,
+          "username": "8964shrimp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081816103408566306",
+    "in_reply_to_user_id": "1891722301584048128",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081784500607193393",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@8964shrimp 害怕喵😱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2081784490477940736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOP79t3a8AApWf3.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2081784500607193393",
+        "created_at": "2026-07-27T18:56:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T19:56:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081816103408566306"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1891722301584048128",
+              "start": 0,
+              "username": "8964shrimp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081816103408566306",
+        "in_reply_to_user_id": "1891722301584048128",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081784500607193393",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@8964shrimp 害怕喵😱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081784490477940736"
+          ]
+        },
+        "author_id": "1891722301584048128",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2081784500607193393",
+        "created_at": "2026-07-27T16:51:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T17:51:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081784500607193393"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8UQJKC3Gdg",
+              "end": 31,
+              "expanded_url": "https://x.com/8964shrimp/status/2081784500607193393/photo/1",
+              "media_key": "3_2081784490477940736",
+              "start": 8,
+              "url": "https://t.co/8UQJKC3Gdg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081784500607193393",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 55,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "蝦蝦牌亞硝酸鈉 https://t.co/8UQJKC3Gdg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX（断糖中）&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od&自伤新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 484,
+          "following_count": 1578,
+          "like_count": 6412,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 1452
+        },
+        "url": "",
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-18T05:32:05.000Z",
+        "description": "最愛的雨夏老婆：@xiyu86｜友順mtx/f？|自殺干預｜蝦的精神狀態基本穩定 難受了可以找我聊天｜持證含糖：2025.3.12｜單車佬｜雙向｜酸民退散｜政治立場❌政治迷因🉑選擇性互fo\n發癲帳號：@RainKawaii8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 8,
+                "username": "xiyu86"
+              },
+              {
+                "end": 115,
+                "start": 100,
+                "username": "RainKawaii8964"
+              }
+            ]
+          }
+        },
+        "id": "1891722301584048128",
+        "location": "月球",
+        "name": "蝦蝦醬🏳️‍⚧️",
+        "pinned_tweet_id": "2076900555994349722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062537785681362944/QpoDPa-s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1005,
+          "following_count": 661,
+          "like_count": 14054,
+          "listed_count": 2,
+          "media_count": 401,
+          "tweet_count": 2625
+        },
+        "url": "",
+        "username": "8964shrimp",
+        "verified": true
+      }
+    ]
+  }
+}

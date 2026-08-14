@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2077407759704916306",
+    "created_at": "2026-07-23T09:18:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T10:18:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080220879678832836"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "622036546",
+          "start": 0,
+          "username": "Overdose_Rx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080220879678832836",
+    "in_reply_to_user_id": "622036546",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077407759704916306",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Overdose_Rx 好结局（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2077407759704916306",
+        "created_at": "2026-07-23T09:18:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T10:18:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080220879678832836"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "622036546",
+              "start": 0,
+              "username": "Overdose_Rx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080220879678832836",
+        "in_reply_to_user_id": "622036546",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077407759704916306",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Overdose_Rx 好结局（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "622036546",
+        "conversation_id": "2077407759704916306",
+        "created_at": "2026-07-15T14:59:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T15:59:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077407759704916306"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077407759704916306",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1263,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "本人将暂时淡出药圈，但并非彻底离开。目前正努力戒除药物滥用（OD），并将生活重心转向学习。未来是否回归尚未可知，也可能就此淡出。感谢大家一路以来的陪伴与支持。愿各自前行，亦愿我们终会在下一处路口重逢。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX（断糖中）&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od&自伤新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 454,
+          "following_count": 1450,
+          "like_count": 6042,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 1370
+        },
+        "url": "",
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2012-06-29T16:18:50.000Z",
+        "description": "药物报告及相关投稿请私信 | 提供免费药物咨询 | 药物文化研究 | 成瘾问题咨询和支持 | 安全用药知识 · 减害信息 | 世另我 @sacred1124 | 提问账号 @Overdose_Rc | 官号 @Psycho_Wiki | 社群：https://t.co/uRB7PdGquY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 67,
+                "username": "sacred1124"
+              },
+              {
+                "end": 98,
+                "start": 86,
+                "username": "Overdose_Rc"
+              },
+              {
+                "end": 116,
+                "start": 104,
+                "username": "Psycho_Wiki"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/gfchxhnm",
+                "end": 145,
+                "expanded_url": "http://t.me/gfchxhnm",
+                "start": 122,
+                "url": "https://t.co/uRB7PdGquY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "psychoactive.day",
+                "end": 23,
+                "expanded_url": "http://psychoactive.day",
+                "start": 0,
+                "url": "https://t.co/726ooQNAiR"
+              }
+            ]
+          }
+        },
+        "id": "622036546",
+        "location": "伊甸园",
+        "name": "椎名Shiina",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004582178806693888/5V-kT5y0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3055,
+          "following_count": 122,
+          "like_count": 11651,
+          "listed_count": 8,
+          "media_count": 720,
+          "tweet_count": 4278
+        },
+        "url": "https://t.co/726ooQNAiR",
+        "username": "Overdose_Rx",
+        "verified": false
+      }
+    ]
+  }
+}

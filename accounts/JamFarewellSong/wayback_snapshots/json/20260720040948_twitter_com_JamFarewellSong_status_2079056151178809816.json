@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2078984515884917035",
+    "created_at": "2026-07-20T04:09:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T05:09:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079056151178809816"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2048693394226974720",
+          "start": 0,
+          "username": "CCA8798suki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079056151178809816",
+    "in_reply_to_user_id": "2048693394226974720",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078984515884917035",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CCA8798suki R.I.P😇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2078984515884917035",
+        "created_at": "2026-07-20T04:09:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T05:09:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079056151178809816"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2048693394226974720",
+              "start": 0,
+              "username": "CCA8798suki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079056151178809816",
+        "in_reply_to_user_id": "2048693394226974720",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078984515884917035",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CCA8798suki R.I.P😇"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048693394226974720",
+        "conversation_id": "2078984515884917035",
+        "created_at": "2026-07-19T23:25:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T00:25:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078984515884917035"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078984515884917035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "人终有一死，\n或重如泰山，\n或轻如鸿毛！\n\n雪风的死是大家有目共睹的\n在我看来\n雪风的死是有价值的，是高尚的！\n\n因为我从未看见过如此多的人\n在一位死去的同类身上\n付诸如此多心血\n\n制作蒸馏LLM\n团结起来整理聊天记录、历史帖子\n互相安慰、互相关怀\n甚至向天堂烧补佳乐盒子\n在线上举办追悼会\n\n这些难道还不足以说明什么吗！\n\n我也从未见到过\n一位如此善良的人\n会在家庭因素\n以及自身负面情绪的积累下\n选择结束自己的生命\n\n雪风的死\n绝不是值得一笔带过的事情\n因为我窥见雪风的死\n反映了危机干预工作者们\n在工作时自我情绪调节的重要性\n反映了进行危机干预工作时\n自己的负面情绪也应及早得到干预\n\n希望大家能够学习雪风的奉献精神\n但也同样能够明白\n——“人不是生来就是为了死的”\n遇到困难时，你不必独自面对"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 601,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "人终有一死，\n或重如泰山，\n或轻如鸿毛！\n\n雪风的死是大家有目共睹的\n在我看来\n雪风的死是有价值的，是高尚的！\n\n因为我从未看见过如此多的人\n在一位死去的同类身上\n付诸如此多心血\n\n制作蒸馏LLM\n团结起来整理聊天记录、历史帖子\n互相安慰、互相关怀\n甚至向天堂烧补佳乐盒子\n在线上举办追悼会"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX（断糖中）&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od&自伤新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 401,
+          "following_count": 1338,
+          "like_count": 5750,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 1290
+        },
+        "url": "",
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-27T09:19:12.000Z",
+        "description": "MTF/X🍥 | 小证正规含糖 | 年龄党+半家长党 出柜26.05.05 出厂:壹贰.零壹.零叁 | 166cm/43kg | 佛山 |  偏内向 玻璃心 双相中焦 ED GD OD(Once/Month) | 交通 科学 医学 杂圈迷 | Cpp Coder | 寻回前世互fo | 恨MSK\n前世@CCA8798",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 159,
+                "start": 151,
+                "username": "CCA8798"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cca8798.com/about/",
+                "end": 23,
+                "expanded_url": "https://cca8798.com/about/",
+                "start": 0,
+                "url": "https://t.co/XVFvMmA9Qt"
+              }
+            ]
+          }
+        },
+        "id": "2048693394226974720",
+        "location": "安东星蜗牛第一票常交易矿业太空旅行无限公司",
+        "name": "不会起名の捌拐玖捌🍥(二代目)",
+        "pinned_tweet_id": "2076708376483110961",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059761684500336640/bvv_7t16_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1237,
+          "following_count": 1389,
+          "like_count": 5727,
+          "listed_count": 5,
+          "media_count": 103,
+          "tweet_count": 750
+        },
+        "url": "https://t.co/XVFvMmA9Qt",
+        "username": "CCA8798suki",
+        "verified": true
+      }
+    ]
+  }
+}

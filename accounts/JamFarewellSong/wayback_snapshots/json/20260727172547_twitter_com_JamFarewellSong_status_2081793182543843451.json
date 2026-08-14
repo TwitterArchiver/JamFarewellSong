@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2081793182543843451",
+    "created_at": "2026-07-27T17:25:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T18:25:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081793182543843451"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2018710765327581184",
+          "start": 3,
+          "username": "piercedorganz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081793182543843451",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081315709792178210",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @piercedorganz: im so ugly its such a pain"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2081793182543843451",
+        "created_at": "2026-07-27T17:25:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T18:25:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081793182543843451"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2018710765327581184",
+              "start": 3,
+              "username": "piercedorganz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081793182543843451",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081315709792178210",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @piercedorganz: im so ugly its such a pain"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018710765327581184",
+        "conversation_id": "2081315709792178210",
+        "created_at": "2026-07-26T09:48:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T10:48:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081315709792178210"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081315709792178210",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 277,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "im so ugly its such a pain"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX（断糖中）&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od&自伤新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 483,
+          "following_count": 1568,
+          "like_count": 6384,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 1445
+        },
+        "url": "",
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-03T15:38:59.000Z",
+        "description": "sub acc @yuikadere\n@dbll_yuni 💙",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "yuikadere"
+              },
+              {
+                "end": 29,
+                "start": 19,
+                "username": "dbll_yuni"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "piercedorganz.carrd.co",
+                "end": 23,
+                "expanded_url": "https://piercedorganz.carrd.co",
+                "start": 0,
+                "url": "https://t.co/wfc5jLDeNT"
+              }
+            ]
+          }
+        },
+        "id": "2018710765327581184",
+        "location": "日本語/ENG",
+        "name": "ゆいか",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061401510009782273/--KhfucD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 491,
+          "following_count": 436,
+          "like_count": 15209,
+          "listed_count": 15,
+          "media_count": 502,
+          "tweet_count": 3278
+        },
+        "url": "https://t.co/wfc5jLDeNT",
+        "username": "piercedorganz",
+        "verified": false
+      }
+    ]
+  }
+}

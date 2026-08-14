@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2083915711177736547",
+    "created_at": "2026-08-02T13:59:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T14:59:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083915711177736547"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1830905641864708096",
+          "start": 3,
+          "username": "Aitori_Official"
+        },
+        {
+          "end": 37,
+          "id": "2055822314969665536",
+          "start": 21,
+          "username": "GrievousPotato1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083915711177736547",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080526526374887570",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Aitori_Official: @GrievousPotato1 滥用药物就是错误，尤其青少年，扔掉你手中的药，从此走上吸毒路，不要让你的美好在低谷上眼含泪水。这世界上还有很多的天堂等着你不要因为一时的爹妈就放弃自己"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2083915711177736547",
+        "created_at": "2026-08-02T13:59:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T14:59:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083915711177736547"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1830905641864708096",
+              "start": 3,
+              "username": "Aitori_Official"
+            },
+            {
+              "end": 37,
+              "id": "2055822314969665536",
+              "start": 21,
+              "username": "GrievousPotato1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083915711177736547",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080526526374887570",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Aitori_Official: @GrievousPotato1 滥用药物就是错误，尤其青少年，扔掉你手中的药，从此走上吸毒路，不要让你的美好在低谷上眼含泪水。这世界上还有很多的天堂等着你不要因为一时的爹妈就放弃自己"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1830905641864708096",
+        "conversation_id": "2079889068419084343",
+        "created_at": "2026-07-24T05:32:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T06:32:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080526526374887570"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2055822314969665536",
+              "start": 0,
+              "username": "GrievousPotato1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080526526374887570",
+        "in_reply_to_user_id": "2055822314969665536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079889068419084343",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GrievousPotato1 滥用药物就是错误，尤其青少年，扔掉你手中的药，从此走上吸毒路，不要让你的美好在低谷上眼含泪水。这世界上还有很多的天堂等着你不要因为一时的爹妈就放弃自己"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX（断糖中）&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od&自伤新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 550,
+          "following_count": 1734,
+          "like_count": 6901,
+          "listed_count": 1,
+          "media_count": 18,
+          "tweet_count": 1652
+        },
+        "url": "",
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-03T09:48:26.000Z",
+        "description": "如同在梦里一般度过每一刻，将世界当成一场游戏体验的迷茫灵魂\nMico/绘梨有爱｜吃糖🍥od💊地雷系🔪｜爱玩音游 maimai / Arcaea / 啤酒烧烤 都爱！｜电子、实验性音乐｜抽象艺术｜反共反支那  反人类主义",
+        "id": "1830905641864708096",
+        "location": "地獄",
+        "name": "Mico",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083527632868847616/e0U4WGJR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 104,
+          "like_count": 197,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 443
+        },
+        "url": "",
+        "username": "Aitori_Official",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/平时喜欢说怪话和发癫/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 54,
+                "start": 42,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 69,
+                "start": 57,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 99,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 76,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "⛄ALLice🌈赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 332,
+          "following_count": 402,
+          "like_count": 16881,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 1159
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false
+      }
+    ]
+  }
+}

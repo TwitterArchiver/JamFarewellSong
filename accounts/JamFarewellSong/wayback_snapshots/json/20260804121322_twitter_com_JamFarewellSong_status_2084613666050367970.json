@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2084613666050367970",
+    "created_at": "2026-08-04T12:13:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T13:13:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084613666050367970"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2047433069116719104",
+          "start": 3,
+          "username": "N552AA8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084613666050367970",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077221743870279800",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @N552AA8: 我爸吃喹硫平 帕罗西汀 奥沙西泮 \n我妈吃拉莫三嗪\n我吃氯丙嗪 丙戊酸钠 氯硝西泮还有苯海索\n​一家子凑不出一个健全人\n恶搞之家了属于是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2084613666050367970",
+        "created_at": "2026-08-04T12:13:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T13:13:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084613666050367970"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2047433069116719104",
+              "start": 3,
+              "username": "N552AA8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084613666050367970",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077221743870279800",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @N552AA8: 我爸吃喹硫平 帕罗西汀 奥沙西泮 \n我妈吃拉莫三嗪\n我吃氯丙嗪 丙戊酸钠 氯硝西泮还有苯海索\n​一家子凑不出一个健全人\n恶搞之家了属于是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047433069116719104",
+        "conversation_id": "2077221743870279800",
+        "created_at": "2026-07-15T02:40:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T03:40:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077221743870279800"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077221743870279800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 530,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我爸吃喹硫平 帕罗西汀 奥沙西泮 \n我妈吃拉莫三嗪\n我吃氯丙嗪 丙戊酸钠 氯硝西泮还有苯海索\n​一家子凑不出一个健全人\n恶搞之家了属于是"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX（断糖中）&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od&自伤新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 556,
+          "following_count": 1741,
+          "like_count": 6925,
+          "listed_count": 1,
+          "media_count": 18,
+          "tweet_count": 1669
+        },
+        "url": "",
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-23T21:51:07.000Z",
+        "description": "08/mtx（f？/ENTP-T/ASD/C-PTSD/ADHD/BPD/快速循环型双相/osdd-1a/重度焦虑/重度失眠/家长不稳定党/hrt：2024-8-25/ 小证：2025-11-14/坐标上海/oder/长在春风中，活在药效里。/上海市贴贴微信群群主/ 🚪25（同类免费，过门私信）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "n552aa.github.io",
+                "end": 23,
+                "expanded_url": "http://n552aa.github.io",
+                "start": 0,
+                "url": "https://t.co/ugd1wwbKjr"
+              }
+            ]
+          }
+        },
+        "id": "2047433069116719104",
+        "location": "宛平南路600号",
+        "name": "N552AA🍥🍜🍣🍕💊🍫（八代目）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047433261555576832/tJJpmxLi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 558,
+          "following_count": 106,
+          "like_count": 175,
+          "listed_count": 5,
+          "media_count": 24,
+          "tweet_count": 143
+        },
+        "url": "https://t.co/ugd1wwbKjr",
+        "username": "N552AA8",
+        "verified": false
+      }
+    ]
+  }
+}

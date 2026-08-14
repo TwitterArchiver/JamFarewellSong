@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2080218204891451397",
+    "created_at": "2026-07-23T09:07:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T10:07:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080218204891451397"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2079310623670976512",
+          "start": 3,
+          "username": "linshian2008"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080218204891451397",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080122863999500665",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @linshian2008: 突然意识到，讨论活着的意义是没有用的\n因为活着，这就已经是一个事实了\n当你快失去希望时，你不能去问活着的意义是什么\n而要问，离开的意义是什么"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2080218204891451397",
+        "created_at": "2026-07-23T09:07:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T10:07:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080218204891451397"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2079310623670976512",
+              "start": 3,
+              "username": "linshian2008"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080218204891451397",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080122863999500665",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @linshian2008: 突然意识到，讨论活着的意义是没有用的\n因为活着，这就已经是一个事实了\n当你快失去希望时，你不能去问活着的意义是什么\n而要问，离开的意义是什么"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2079310623670976512",
+        "conversation_id": "2080122863999500665",
+        "created_at": "2026-07-23T02:48:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T03:48:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080122863999500665"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080122863999500665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "突然意识到，讨论活着的意义是没有用的\n因为活着，这就已经是一个事实了\n当你快失去希望时，你不能去问活着的意义是什么\n而要问，离开的意义是什么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX（断糖中）&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od&自伤新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 454,
+          "following_count": 1447,
+          "like_count": 6033,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 1366
+        },
+        "url": "",
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-20T21:01:58.000Z",
+        "description": "🍥🏳️‍⚧️无证HRT:2025,01,20丨是尊贵的双相情感障碍患者丨常驻陕西西安丨死亡不是生命的终点，遗忘才是。那些离开了我们的人，或许正在某个地方对我们说：「请你们不要忘记我。」",
+        "id": "2079310623670976512",
+        "location": "西安",
+        "name": "诗岸🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079432554034364416/afG-l4mp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 28,
+          "like_count": 54,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 44
+        },
+        "url": "",
+        "username": "linshian2008",
+        "verified": false
+      }
+    ]
+  }
+}

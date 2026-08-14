@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081824905948225536"
+      ]
+    },
+    "author_id": "1907414826101669888",
+    "conversation_id": "2081817105985601721",
+    "created_at": "2026-07-27T19:32:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T20:32:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081825137083740318"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1883207896768651264",
+          "start": 0,
+          "username": "clem0216"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/IK5TeMcrjt",
+          "end": 119,
+          "expanded_url": "https://x.com/JamFarewellSong/status/2081825137083740318/photo/1",
+          "media_key": "3_2081824905948225536",
+          "start": 96,
+          "url": "https://t.co/IK5TeMcrjt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081825137083740318",
+    "in_reply_to_user_id": "1883207896768651264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081817105985601721",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@clem0216 我更希望春风那天下午没有服用含麻黄碱的药物——我相信死藤水无法毁灭他，但药片先行消磨了他的神志\n可惜没有如果，一个真诚且随性的人逝去了…我总是想起他生前看见过的最后一场雨 https://t.co/IK5TeMcrjt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 660,
+        "media_key": "3_2081824905948225536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOQguNOa4AAblDk.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081824905948225536"
+          ]
+        },
+        "author_id": "1907414826101669888",
+        "conversation_id": "2081817105985601721",
+        "created_at": "2026-07-27T19:32:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T20:32:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081825137083740318"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1883207896768651264",
+              "start": 0,
+              "username": "clem0216"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IK5TeMcrjt",
+              "end": 119,
+              "expanded_url": "https://x.com/JamFarewellSong/status/2081825137083740318/photo/1",
+              "media_key": "3_2081824905948225536",
+              "start": 96,
+              "url": "https://t.co/IK5TeMcrjt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081825137083740318",
+        "in_reply_to_user_id": "1883207896768651264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081817105985601721",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@clem0216 我更希望春风那天下午没有服用含麻黄碱的药物——我相信死藤水无法毁灭他，但药片先行消磨了他的神志\n可惜没有如果，一个真诚且随性的人逝去了…我总是想起他生前看见过的最后一场雨 https://t.co/IK5TeMcrjt"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883207896768651264",
+        "conversation_id": "2081817105985601721",
+        "created_at": "2026-07-27T19:00:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T20:00:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081817105985601721"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Spr1ngW1nd/sta…",
+              "end": 96,
+              "expanded_url": "https://twitter.com/Spr1ngW1nd/status/1612059448746602496",
+              "start": 73,
+              "url": "https://t.co/SJSO5xr7yf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081817105985601721",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 178,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1612059448746602496",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "睡不着，在想如果当初前辈没有喝下死藤水。在急时送医抢救成功，现在的他会成为什么样的人呢？如果早点进入od圈就好了，这样就可以o到小美了，晚安前辈 https://t.co/SJSO5xr7yf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX（断糖中）&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od&自伤新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 483,
+          "following_count": 1579,
+          "like_count": 6443,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 1458
+        },
+        "url": "",
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-25T17:39:01.000Z",
+        "description": "互fo / 09 / 重抑中焦 / od重度依赖 / oder / 偶尔👁️👁️一下fo / 准高三 / 休学中 / 查成分回fo / 没回fo请私 / 目标是成为1千fo的小v / 可以叫我小波奇或波奇酱，也可以叫我佳研.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/clem0216",
+                "end": 23,
+                "expanded_url": "https://ngl.link/clem0216",
+                "start": 0,
+                "url": "https://t.co/WPFwIPra7T"
+              }
+            ]
+          }
+        },
+        "id": "1883207896768651264",
+        "location": "在你心里",
+        "name": "波奇酱🍥.",
+        "pinned_tweet_id": "2081722256087199971",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059902463524888576/lFO39T_3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 780,
+          "following_count": 571,
+          "like_count": 12090,
+          "listed_count": 0,
+          "media_count": 141,
+          "tweet_count": 914
+        },
+        "url": "https://t.co/WPFwIPra7T",
+        "username": "clem0216",
+        "verified": true
+      }
+    ]
+  }
+}

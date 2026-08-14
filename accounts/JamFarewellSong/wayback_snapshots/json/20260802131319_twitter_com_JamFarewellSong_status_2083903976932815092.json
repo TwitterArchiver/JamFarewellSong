@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2083903976932815092",
+    "created_at": "2026-08-02T13:13:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T14:13:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083903976932815092"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1845076547197353984",
+          "start": 3,
+          "username": "jutangxiao1229"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083903976932815092",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083815842521690588",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jutangxiao1229: 年纪轻轻就一身的病\n\n患者：医生我神经痛\n医生：普瑞巴林\n\n患者：我还干咳\n医生：右美沙芬\n\n患者：医生我还入睡困难\n医生：唑吡坦\n\n患者：偶尔还焦虑\n医生：阿普唑仑\n\n患者：有点抑郁\n医生：噻奈普汀\n\n患者：医生我还慢性疼痛\n医生：羟考…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2083903976932815092",
+        "created_at": "2026-08-02T13:13:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T14:13:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083903976932815092"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1845076547197353984",
+              "start": 3,
+              "username": "jutangxiao1229"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083903976932815092",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083815842521690588",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jutangxiao1229: 年纪轻轻就一身的病\n\n患者：医生我神经痛\n医生：普瑞巴林\n\n患者：我还干咳\n医生：右美沙芬\n\n患者：医生我还入睡困难\n医生：唑吡坦\n\n患者：偶尔还焦虑\n医生：阿普唑仑\n\n患者：有点抑郁\n医生：噻奈普汀\n\n患者：医生我还慢性疼痛\n医生：羟考…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845076547197353984",
+        "conversation_id": "2083815842521690588",
+        "created_at": "2026-08-02T07:23:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T08:23:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083815842521690588"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083815842521690588",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 5833,
+          "like_count": 144,
+          "quote_count": 2,
+          "reply_count": 12,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "年纪轻轻就一身的病\n\n患者：医生我神经痛\n医生：普瑞巴林\n\n患者：我还干咳\n医生：右美沙芬\n\n患者：医生我还入睡困难\n医生：唑吡坦\n\n患者：偶尔还焦虑\n医生：阿普唑仑\n\n患者：有点抑郁\n医生：噻奈普汀\n\n患者：医生我还慢性疼痛\n医生：羟考酮\n\n◉‿◉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX（断糖中）&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od&自伤新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 548,
+          "following_count": 1728,
+          "like_count": 6876,
+          "listed_count": 1,
+          "media_count": 18,
+          "tweet_count": 1650
+        },
+        "url": "",
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-12T12:18:34.000Z",
+        "description": "含血腥负能量请不要看/infp/含糖2026.03.01/汉语🉑英语🉑日语🉑/小透明/胆小鬼/药学小小只/存在主义/可以来找我聊天但是回复很慢/当日记随时删/监护员暂无",
+        "id": "1845076547197353984",
+        "location": "🌑 The Moon 🌑",
+        "name": "棠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073992169661267968/ds1sTuCu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2694,
+          "following_count": 251,
+          "like_count": 12358,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 741
+        },
+        "url": "",
+        "username": "jutangxiao1229",
+        "verified": true
+      }
+    ]
+  }
+}

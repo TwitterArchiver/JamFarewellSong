@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1635282070015733765"
+      ],
+      "media_source_tweet_id": [
+        "1635283034013577216"
+      ]
+    },
+    "author_id": "1907414826101669888",
+    "conversation_id": "2081190024926925229",
+    "created_at": "2026-07-26T01:29:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T02:29:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081190024926925229"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1586332050528915457",
+          "start": 3,
+          "username": "lilaoshizuikeai"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wcVpDSbAI8",
+          "end": 81,
+          "expanded_url": "https://x.com/lilaoshizuikeai/status/1635283034013577216/photo/1",
+          "media_key": "3_1635282070015733765",
+          "start": 58,
+          "url": "https://t.co/wcVpDSbAI8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081190024926925229",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 20
+    },
+    "referenced_tweets": [
+      {
+        "id": "1635283034013577216",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lilaoshizuikeai: 一米\n\n1995年的某一天，北京东村的出租屋里，孔布的一天从这里开始。… https://t.co/wcVpDSbAI8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 494,
+        "media_key": "3_1635282070015733765",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FrGwYOracAUoEmj.png",
+        "width": 738
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1635282070015733765"
+          ]
+        },
+        "author_id": "1586332050528915457",
+        "conversation_id": "1635283034013577216",
+        "created_at": "2023-03-13T14:13:52.000Z",
+        "edit_controls": {
+          "editable_until": "2023-03-13T14:43:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1635283034013577216"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wcVpDSbAI8",
+              "end": 59,
+              "expanded_url": "https://x.com/lilaoshizuikeai/status/1635283034013577216/photo/1",
+              "media_key": "3_1635282070015733765",
+              "start": 36,
+              "url": "https://t.co/wcVpDSbAI8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1635283034013577216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 1975,
+                "start": 1971,
+                "tag": "迎仙店"
+              }
+            ]
+          },
+          "text": "一米\n\n1995年的某一天，北京东村的出租屋里，孔布的一天从这里开始。\n\n他像往常一样坐起来，呆滞地看着燃烬的炉子，今天和昨天没有区别，和明天应该也没有区别。那是一个旧的雕像崩塌，新的神迹初显的时代，东村的年轻人们坐着南下的火车，带着蛇皮袋和热水瓶开始了他们的淘金之旅，关于深圳的传说就像今天的比特币，每天都能诞生一卡车一夜暴富的人。\n\n然而东村并没有流失年轻劳动力，因为很快，全国各地的另一类年轻人来到了这里，不同的是，他们不干活。在很多年后，你很难分清北京东村的这些一腔热血跑来搞艺术的年轻人和当时看了《少林寺》之后连夜跑去嵩山要学武功的年轻人有什么区别，年轻人没有区别，大家只是兴趣不一样，未来太远，就容易幻想着一个宏大的希望。然而北京东村没有希望，这里已然枯萎，浅浅的河道里堆积着垃圾和塑料，但是这里又充满了希望，因为这是这群年轻人唯一的能用低廉的价格睡在艺术殿堂旁边的角落。\n\n孔布就是其中之一，那年他30岁，带着全家老小来到了北京东村，这里是伊甸园最后的一处角落，幻想着成为艺术家们的年轻人们流落在村子的各个角落里。对于这群年轻人，村里的人大都嗤之以鼻，稍有常识的便也知道，正儿八经搞画画的人都去了央美和中央工艺，这些个半吊子别说考美院，你让他给自己画张像都画不出来。每天只会在村子里装神弄鬼的搞些乱七八糟的东西，这让村民们很矛盾，一方面他们需要房租来维持生活，但是另一方面，这些另类怪胎每天都对他们的三观进行着全方位的折磨。\n\n警笛很快就划破了东村的宁静，这对东村的人们习以为常，今天抓走的是马六明，一个小时前他正在做行为艺术，他装扮成一个女性的裸体，把首饰和土豆一起煮熟埋进土里。\n\n巡逻队本不是找他，而是来找张洹的，前一天张洹躲在厕所里，把身上涂满了蜂蜜，吸引了满身的苍蝇和蜜蜂，前来上厕所的村民大受震撼，转身举报张洹在厕所耍流氓。同时被举报的还有张彬彬，因为他们怀疑这个赤身裸体的女人在拍摄黄色录像。但是张洹已经跑了，同时跑的还有几个人，没跑的全抓了，还有老外，除了张，张是北京户口。后来有公司去领人，有大使馆去领人，都领走了，只剩下马六明和朱冥没人领，被当做盲流真的抓了起来。\n\n这并不会停止艺术家们的创作，经此一役巡逻队也想明白了，对待艺术家最好的方式就是让他们尽可能集中在一个地方折腾，而不是分散出去扩大影响。因此后来尽管时不时有来自群众的举报，但是那几年东村里的每个人一直都持续的产出着作品，每个人都希望自己的作品一炮而红，可是外界看待他们就像是今天看待广场上摇着花手的少年，不懂不理解也不想了解并希望他们赶紧找个厂去上班。\n\n这次事件像往常一样平息下来，张洹回到东村，找到孔布，当时没有多想，只是要接着做下一个作品。这一次他们想做一座山，肉做的。\n\n此刻的孔布和张洹已经是完全不同的道路，孔布有家庭，他认为当务之急是要养家糊口，艺术是信仰，支撑他活着，但是活着就要吃饭，这不丢人。张洹不一样，张洹认为一定要成功，用自己喜欢的方式成功， 用自己的作品让所有人认识自己，这种急切的张扬与孔布压抑地沉稳有着鲜明的对比，但是这并不妨碍他们一起做一个作品。\n\n做作品是一件严肃的事情，他们设计好想法，便开始分头找人，期初他们自然想要搞些大的，光靠这帮挣扎在生命线边缘的盲流子显然不行，所以他们决定先从外面找人，然而在村外的人们看来，他们也是盲流，没有人对他们的作品感兴趣。\n\n最终他们回到东村，获得了意料之中的一呼百应。\n\n在敲定后，孔布、王世华、苍鑫、高炀、左小祖咒、马宗仁、张洹、马六明、张彬彬、朱冥、段英梅还有吕楠带着请来的记者和国家测绘局成员一起上山寻找拍摄场地，走累了，就近选择了一个无名的山头。\n\n表演开始，在摄像机的注视下，他们依次脱下衣服，在五月的初日下，按体重的顺序叠成了一座小山。经过国家测绘局人员的测定，高度一米。\n\n《为无名山增高一米》就这么诞生了。\n\n同行的法新社的女记者拍下了这张照片，第二天，照片传播了法国，成为了当年的十大新闻图片奖。\n\n那是六四巨浪褪去后的六年，对大陆的经济封锁还在进行，东方巨龙的神秘面纱刚刚被掀起一角，张洹心里知道这个作品注定伟大，它传递的信息就如同当年的那张照片，告诉这个世界，中国还有当代艺术家，中国的当代艺术是这样的。\n\n很快，中国的当代艺术就迎来了最好的时代，你知道的，所有关于当代艺术的神话和奇妙都从那一刻开始，无数的外国收藏家用三四百美金的价格购买这张照片，在当时孔布一个月的工资是七百块钱人民币。\n\n这样的好日子不长，很快，艺术家们的名字又如同迅速走红一样迅速地消散在了时代当中，却被历史记录下来。\n\n很多年后，当意大利教授绘声绘色的举着这张照片问台下的中国学生，你们知道这个吗的时候，所有人瞪着眼睛若有所思，有人说知道，这好像是一个歌手的专辑封面。\n\n#迎仙店"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 57,
+          "impression_count": 95159,
+          "like_count": 217,
+          "quote_count": 0,
+          "reply_count": 35,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "一米\n\n1995年的某一天，北京东村的出租屋里，孔布的一天从这里开始。 https://t.co/wcVpDSbAI8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1635282070015733765"
+          ],
+          "media_source_tweet_id": [
+            "1635283034013577216"
+          ]
+        },
+        "author_id": "1907414826101669888",
+        "conversation_id": "2081190024926925229",
+        "created_at": "2026-07-26T01:29:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T02:29:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081190024926925229"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1586332050528915457",
+              "start": 3,
+              "username": "lilaoshizuikeai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wcVpDSbAI8",
+              "end": 81,
+              "expanded_url": "https://x.com/lilaoshizuikeai/status/1635283034013577216/photo/1",
+              "media_key": "3_1635282070015733765",
+              "start": 58,
+              "url": "https://t.co/wcVpDSbAI8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081190024926925229",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "referenced_tweets": [
+          {
+            "id": "1635283034013577216",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lilaoshizuikeai: 一米\n\n1995年的某一天，北京东村的出租屋里，孔布的一天从这里开始。… https://t.co/wcVpDSbAI8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX（断糖中）&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od&自伤新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 467,
+          "following_count": 1488,
+          "like_count": 6197,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 1405
+        },
+        "url": "",
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-29T12:20:25.000Z",
+        "description": "与你进退也共鸣",
+        "id": "1586332050528915457",
+        "location": "猴管",
+        "name": "Lee1ng",
+        "pinned_tweet_id": "1657814793439289346",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004333954157989888/FRDtrJk8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 254289,
+          "following_count": 768,
+          "like_count": 6195,
+          "listed_count": 1376,
+          "media_count": 1437,
+          "tweet_count": 7485
+        },
+        "url": "",
+        "username": "lilaoshizuikeai",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2083445289013457243",
+    "created_at": "2026-08-01T06:50:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T07:50:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083445289013457243"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1724267127031672832",
+          "start": 3,
+          "username": "aliebwa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083445289013457243",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "1791115717347279245",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aliebwa: 讣告：\nkilly（小夏/貌似是颠颠王国第2任群主）于2024年3月30跳温州跨海大桥。4.28打捞确认死亡。火化带回安康。我现在赶往他老家送他最后一程。他朋友想送他最后一程私我可能跟killy做很多不好事情。我跟killy谈恋爱期间他真的对我很好拯救…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 612,
+        "media_key": "3_1791115707306090496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GNtSPv2aIAA4xK5.jpg",
+        "width": 681
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2083445289013457243",
+        "created_at": "2026-08-01T06:50:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T07:50:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083445289013457243"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1724267127031672832",
+              "start": 3,
+              "username": "aliebwa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083445289013457243",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "1791115717347279245",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aliebwa: 讣告：\nkilly（小夏/貌似是颠颠王国第2任群主）于2024年3月30跳温州跨海大桥。4.28打捞确认死亡。火化带回安康。我现在赶往他老家送他最后一程。他朋友想送他最后一程私我可能跟killy做很多不好事情。我跟killy谈恋爱期间他真的对我很好拯救…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1791115707306090496"
+          ]
+        },
+        "author_id": "1724267127031672832",
+        "conversation_id": "1791115717347279245",
+        "created_at": "2024-05-16T14:37:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-16T15:37:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1791115717347279245"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JFhGvzHZMY",
+              "end": 178,
+              "expanded_url": "https://x.com/idi88888/status/1791115717347279245/photo/1",
+              "media_key": "3_1791115707306090496",
+              "start": 155,
+              "url": "https://t.co/JFhGvzHZMY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1791115717347279245",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 242591,
+          "like_count": 132,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "讣告：\nkilly（小夏/貌似是颠颠王国第2任群主）于2024年3月30跳温州跨海大桥。4.28打捞确认死亡。火化带回安康。我现在赶往他老家送他最后一程。他朋友想送他最后一程私我可能跟killy做很多不好事情。我跟killy谈恋爱期间他真的对我很好拯救了我他任何资金纠纷可以私聊我替他还钱。再次感谢帮助他的人 https://t.co/JFhGvzHZMY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX（断糖中）&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od&自伤新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 526,
+          "following_count": 1704,
+          "like_count": 6813,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 1606
+        },
+        "url": "",
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-14T03:25:00.000Z",
+        "description": "",
+        "id": "1724267127031672832",
+        "name": "hy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005893629219627008/uLj6ERYb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1180,
+          "following_count": 1119,
+          "like_count": 1211,
+          "listed_count": 4,
+          "media_count": 88,
+          "tweet_count": 1749
+        },
+        "url": "",
+        "username": "aliebwa",
+        "verified": false
+      }
+    ]
+  }
+}

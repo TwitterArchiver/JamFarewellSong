@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2080829916590059946",
+    "created_at": "2026-07-25T01:38:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T02:38:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080829916590059946"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "850937205040087040",
+          "start": 3,
+          "username": "HarukawaSayaka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080829916590059946",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988149997750087716",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HarukawaSayaka: 你为啥直接跟我表白啊？！殷商礼制里不是这样的！你当先遣巫祝向我宗庙传达联姻之愿，待我祖灵示以吉兆，再奉玄鸟至我父祖阶前献贽。当问明我氏族徽号、母系血统、诞辰干支、外亲图腾，而后我族老设醴酒燔牲，在先祖神主前与你共饮兕觥，分食胙肉——更要献…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2080829916590059946",
+        "created_at": "2026-07-25T01:38:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T02:38:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080829916590059946"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "850937205040087040",
+              "start": 3,
+              "username": "HarukawaSayaka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080829916590059946",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988149997750087716",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HarukawaSayaka: 你为啥直接跟我表白啊？！殷商礼制里不是这样的！你当先遣巫祝向我宗庙传达联姻之愿，待我祖灵示以吉兆，再奉玄鸟至我父祖阶前献贽。当问明我氏族徽号、母系血统、诞辰干支、外亲图腾，而后我族老设醴酒燔牲，在先祖神主前与你共饮兕觥，分食胙肉——更要献…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "850937205040087040",
+        "conversation_id": "1988149997750087716",
+        "created_at": "2025-11-11T07:41:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T08:41:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988149997750087716"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1988149997750087716",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "你为啥直接跟我表白啊？！殷商礼制里不是这样的！你当先遣巫祝向我宗庙传达联姻之愿，待我祖灵示以吉兆，再奉玄鸟至我父祖阶前献贽。当问明我氏族徽号、母系血统、诞辰干支、外亲图腾，而后我族老设醴酒燔牲，在先祖神主前与你共饮兕觥，分食胙肉——更要献羌人牲于社稷，灼骨观兆，方得神允！ 接着你需赴洹水之滨灼龟占卜，得“不玄冥”之兆，方可使巫觋执璋珮来告。届时当以珪璋割牲血祭，悬胙于庙柱！ 再命使者携九鼎八簋、象箸玉瓒至我宗庙行聘礼，且需以戟斧贯耳，俘人殉葬，方显诚敬！ 待卜选仲春玄鸟至日，需由贞人与我族巫史共定婚期，必先燔燎人牲求祷于帝！ 届时你先要在殷社受祊祭之命，刳人性而衅鼓，剖白牲以涂阶，乘轩车饰朱旂，我当披翟衣戴琮璜，于宗庙东阶受你献琮之礼。我们共执黄琮祭地母，同饮秬鬯酒，合卺用双琖，饮馔依太牢之数，分炙必用鸾刀——末了还需磔人于禖宫，悬首于辕门，方成婚盟！ 你怎可径直表白？！殷商礼法岂容僭越！我不接受！"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 4006,
+          "like_count": 27,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "你为啥直接跟我表白啊？！殷商礼制里不是这样的！你当先遣巫祝向我宗庙传达联姻之愿，待我祖灵示以吉兆，再奉玄鸟至我父祖阶前献贽。当问明我氏族徽号、母系血统、诞辰干支、外亲图腾，而后我族老设醴酒燔牲，在先祖神主前与你共饮兕觥，分食胙肉——更要献羌人牲于社稷，灼骨观兆，方得神允！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX（断糖中）&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od&自伤新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 462,
+          "following_count": 1458,
+          "like_count": 6110,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 1394
+        },
+        "url": "",
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2017-04-09T05:03:34.000Z",
+        "description": "e/acc | harukawa.eth | sayaka.sol | 東方好き @touhou_works | 🦋https://t.co/2AAZSRcbGd",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 41,
+                "username": "touhou_works"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "harukawasayaka.bsky.social",
+                "end": 81,
+                "expanded_url": "http://harukawasayaka.bsky.social",
+                "start": 58,
+                "url": "https://t.co/2AAZSRcbGd"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "baka.studio",
+                "end": 23,
+                "expanded_url": "https://baka.studio",
+                "start": 0,
+                "url": "https://t.co/5cRUMpg22J"
+              }
+            ]
+          }
+        },
+        "id": "850937205040087040",
+        "location": "Machida-shi, Tokyo",
+        "name": "晴猫@幻夢結社",
+        "pinned_tweet_id": "1954584081175658619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004808436408832000/_O8KiHpR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21870,
+          "following_count": 11742,
+          "like_count": 50363,
+          "listed_count": 52,
+          "media_count": 2085,
+          "tweet_count": 13954
+        },
+        "url": "https://t.co/5cRUMpg22J",
+        "username": "HarukawaSayaka",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2083731938788233508",
+    "created_at": "2026-08-02T01:49:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T02:49:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083731938788233508"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1958048434021437440",
+          "start": 3,
+          "username": "baizhimengyao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083731938788233508",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081397182088057310",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @baizhimengyao: 据说截至2026年7月26日，大清国已经亡了114年5月14日了。是真的吗？\n\n可有些人心里的辫子还是剪不掉……这令人十分甚至有九分的悲痛！愿世界上没有劳保……以后我们的道路……是爱与和平，是尊重和平等"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2083731938788233508",
+        "created_at": "2026-08-02T01:49:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T02:49:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083731938788233508"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1958048434021437440",
+              "start": 3,
+              "username": "baizhimengyao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083731938788233508",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081397182088057310",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @baizhimengyao: 据说截至2026年7月26日，大清国已经亡了114年5月14日了。是真的吗？\n\n可有些人心里的辫子还是剪不掉……这令人十分甚至有九分的悲痛！愿世界上没有劳保……以后我们的道路……是爱与和平，是尊重和平等"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1958048434021437440",
+        "conversation_id": "2081397182088057310",
+        "created_at": "2026-07-26T15:12:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T16:12:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081397182088057310"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081397182088057310",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 297,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "据说截至2026年7月26日，大清国已经亡了114年5月14日了。是真的吗？\n\n可有些人心里的辫子还是剪不掉……这令人十分甚至有九分的悲痛！愿世界上没有劳保……以后我们的道路……是爱与和平，是尊重和平等"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX（断糖中）&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od&自伤新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 538,
+          "following_count": 1724,
+          "like_count": 6857,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 1636
+        },
+        "url": "",
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-20T06:08:29.000Z",
+        "description": "无证糖🍥/出厂日期2007.02.17/北京/爸妈严正反对/enfp/文学发烧友/@k66cheng 伪物空城我大姐头/紧急逃生舱：@wuheyuyang",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 41,
+                "username": "k66cheng"
+              },
+              {
+                "end": 77,
+                "start": 66,
+                "username": "wuheyuyang"
+              }
+            ]
+          }
+        },
+        "id": "1958048434021437440",
+        "location": "距你0.1km",
+        "name": "白芷梦瑶🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041418903319166976/IHr3Mv0I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 602,
+          "following_count": 36,
+          "like_count": 510,
+          "listed_count": 1,
+          "media_count": 44,
+          "tweet_count": 1839
+        },
+        "url": "",
+        "username": "baizhimengyao",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2084683172500127761",
+    "created_at": "2026-08-04T16:49:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T17:49:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084683172500127761"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1958564025727664128",
+          "start": 3,
+          "username": "SNS142148"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084683172500127761",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078184037353685040",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SNS142148: 很多国家后来发现，单纯严厉打击 + 举报文化，效果有限。像葡萄牙那样把吸毒“去罪化”+大力治疗的做法，反而在某些指标上做得更好。\n总结我的观点： 举报人在“零食时代”是个破坏气氛的家伙；在“毒品时代”，他可能是“好心办坏事”，也可能是真心想保护别人…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2084683172500127761",
+        "created_at": "2026-08-04T16:49:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T17:49:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084683172500127761"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1958564025727664128",
+              "start": 3,
+              "username": "SNS142148"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084683172500127761",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078184037353685040",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SNS142148: 很多国家后来发现，单纯严厉打击 + 举报文化，效果有限。像葡萄牙那样把吸毒“去罪化”+大力治疗的做法，反而在某些指标上做得更好。\n总结我的观点： 举报人在“零食时代”是个破坏气氛的家伙；在“毒品时代”，他可能是“好心办坏事”，也可能是真心想保护别人…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1958564025727664128",
+        "conversation_id": "2078184037353685040",
+        "created_at": "2026-07-17T18:24:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T19:24:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078184037353685040"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/SNS142148/stat…",
+              "end": 169,
+              "expanded_url": "https://twitter.com/SNS142148/status/2078183450641887614",
+              "start": 146,
+              "url": "https://t.co/rTNMB9wMp9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078184037353685040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 175,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078183450641887614",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "很多国家后来发现，单纯严厉打击 + 举报文化，效果有限。像葡萄牙那样把吸毒“去罪化”+大力治疗的做法，反而在某些指标上做得更好。\n总结我的观点： 举报人在“零食时代”是个破坏气氛的家伙；在“毒品时代”，他可能是“好心办坏事”，也可能是真心想保护别人，但只靠举报和禁止，往往解决不了根本问题。 https://t.co/rTNMB9wMp9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX（断糖中）&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od&自伤新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 560,
+          "following_count": 1744,
+          "like_count": 6924,
+          "listed_count": 1,
+          "media_count": 18,
+          "tweet_count": 1674
+        },
+        "url": "",
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-21T16:17:14.000Z",
+        "description": "可以叫我橙子喔！可互fo/偏执狂/INFP/OD💊/重度XP享受者/性别酷儿🏳️‍🌈/药理学习ins…/重度焦虑/双相/ADHD/日本語を学んでいます\n提问箱：https://t.co/VRLP0B0UmF\n不鼓励进行任何滥用行为！只做日常分享\n如果让你感到不适请私信我删除相关内容HRT：2023.5.31",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sns142148",
+                "end": 103,
+                "expanded_url": "https://ngl.link/sns142148",
+                "start": 80,
+                "url": "https://t.co/VRLP0B0UmF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LOVEsnsoverdose",
+                "end": 23,
+                "expanded_url": "https://t.me/LOVEsnsoverdose",
+                "start": 0,
+                "url": "https://t.co/XfQ0VJ1q30"
+              }
+            ]
+          }
+        },
+        "id": "1958564025727664128",
+        "location": "歌舞伎町",
+        "name": "賢妻良母橙味糖Pro",
+        "pinned_tweet_id": "2058670486503240005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958564147328901120/OGultXoy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 125,
+          "like_count": 1023,
+          "listed_count": 0,
+          "media_count": 131,
+          "tweet_count": 1071
+        },
+        "url": "https://t.co/XfQ0VJ1q30",
+        "username": "SNS142148",
+        "verified": false
+      }
+    ]
+  }
+}

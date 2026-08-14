@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2081174820226818222",
+    "created_at": "2026-07-26T00:28:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T01:28:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081174820226818222"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xiangcai_nya/s…",
+          "end": 55,
+          "expanded_url": "https://twitter.com/xiangcai_nya/status/2080912581003522369",
+          "start": 32,
+          "url": "https://t.co/6GtIrFABpm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081174820226818222",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080912581003522369",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "怎么最近这么多喝盐的，我也要喝（正好朋友也来问我上推买盐的事） https://t.co/6GtIrFABpm"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2081174820226818222",
+        "created_at": "2026-07-26T00:28:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T01:28:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081174820226818222"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xiangcai_nya/s…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/xiangcai_nya/status/2080912581003522369",
+              "start": 32,
+              "url": "https://t.co/6GtIrFABpm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081174820226818222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080912581003522369",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "怎么最近这么多喝盐的，我也要喝（正好朋友也来问我上推买盐的事） https://t.co/6GtIrFABpm"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1153430387504373764",
+        "conversation_id": "2080912581003522369",
+        "created_at": "2026-07-25T07:06:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T08:06:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080912581003522369"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yifu0753/statu…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/yifu0753/status/2080693281672089751",
+              "start": 16,
+              "url": "https://t.co/2FUFBDlRhG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080912581003522369",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 856,
+          "like_count": 14,
+          "quote_count": 3,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080693281672089751",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "怎么最近这么多喝盐的，我也要喝 https://t.co/2FUFBDlRhG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX（断糖中）&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od&自伤新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 466,
+          "following_count": 1473,
+          "like_count": 6130,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 1397
+        },
+        "url": "",
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-22T22:23:28.000Z",
+        "description": "mtf→mtx(ing)\n想要互fo",
+        "id": "1153430387504373764",
+        "location": "Archangel, Russia",
+        "name": "꧁ 葱花香菜重度依赖 ꧂🍥",
+        "pinned_tweet_id": "2080612731078787108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073611435129868288/Wr4hsJiq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 624,
+          "following_count": 395,
+          "like_count": 561,
+          "listed_count": 3,
+          "media_count": 59,
+          "tweet_count": 1428
+        },
+        "url": "",
+        "username": "xiangcai_nya",
+        "verified": true
+      }
+    ]
+  }
+}

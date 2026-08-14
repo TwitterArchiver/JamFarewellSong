@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2082147735642443800",
+    "created_at": "2026-07-28T16:54:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T17:54:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082147735642443800"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2055356059066466304",
+          "start": 3,
+          "username": "TransCircleOrg"
+        }
+      ],
+      "urls": [
+        {
+          "description": "跨环（TransCircle Project）官方博客：记录项目进展、社群知识与跨性别议题，涵盖跨性别医疗（HRT）、社群语言与档案、技术与设计实践，服务于中文 MtF 跨性别社群。内容遵循 CC BY-SA 4.0，代码遵循 AGPL-3.0。",
+          "display_url": "blog.transcircle.org",
+          "end": 53,
+          "expanded_url": "https://blog.transcircle.org",
+          "images": [
+            {
+              "height": 630,
+              "url": "https://pbs.twimg.com/news_img/2078154033718816771/M4VPyeJx?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2078154033718816771/M4VPyeJx?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 30,
+          "status": 200,
+          "title": "跨环博客",
+          "unwound_url": "https://blog.transcircle.org",
+          "url": "https://t.co/Ro22P6PrxA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082147735642443800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078154268335599735",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TransCircleOrg: 即日起，跨环博客（ https://t.co/Ro22P6PrxA ）所载全部文章均开放PDF格式下载。读者如需下载，请移步至文章末尾，点击”下载PDF”按钮即可获取\n敬请注意：所下载的PDF文件仍须在严格遵守相关文章许可协议的前提下合法…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2082147735642443800",
+        "created_at": "2026-07-28T16:54:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T17:54:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082147735642443800"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2055356059066466304",
+              "start": 3,
+              "username": "TransCircleOrg"
+            }
+          ],
+          "urls": [
+            {
+              "description": "跨环（TransCircle Project）官方博客：记录项目进展、社群知识与跨性别议题，涵盖跨性别医疗（HRT）、社群语言与档案、技术与设计实践，服务于中文 MtF 跨性别社群。内容遵循 CC BY-SA 4.0，代码遵循 AGPL-3.0。",
+              "display_url": "blog.transcircle.org",
+              "end": 53,
+              "expanded_url": "https://blog.transcircle.org",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2078154033718816771/M4VPyeJx?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2078154033718816771/M4VPyeJx?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 30,
+              "status": 200,
+              "title": "跨环博客",
+              "unwound_url": "https://blog.transcircle.org",
+              "url": "https://t.co/Ro22P6PrxA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082147735642443800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078154268335599735",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TransCircleOrg: 即日起，跨环博客（ https://t.co/Ro22P6PrxA ）所载全部文章均开放PDF格式下载。读者如需下载，请移步至文章末尾，点击”下载PDF”按钮即可获取\n敬请注意：所下载的PDF文件仍须在严格遵守相关文章许可协议的前提下合法…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055356059066466304",
+        "conversation_id": "2078154268335599735",
+        "created_at": "2026-07-17T16:26:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T17:25:05.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078154031424532922",
+          "2078154268335599735"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "跨环（TransCircle Project）官方博客：记录项目进展、社群知识与跨性别议题，涵盖跨性别医疗（HRT）、社群语言与档案、技术与设计实践，服务于中文 MtF 跨性别社群。内容遵循 CC BY-SA 4.0，代码遵循 AGPL-3.0。",
+              "display_url": "blog.transcircle.org",
+              "end": 33,
+              "expanded_url": "https://blog.transcircle.org",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2078154033718816771/M4VPyeJx?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2078154033718816771/M4VPyeJx?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 10,
+              "status": 200,
+              "title": "跨环博客",
+              "unwound_url": "https://blog.transcircle.org",
+              "url": "https://t.co/Ro22P6PrxA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078154268335599735",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 1366,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "即日起，跨环博客（ https://t.co/Ro22P6PrxA ）所载全部文章均开放PDF格式下载。读者如需下载，请移步至文章末尾，点击”下载PDF”按钮即可获取\n敬请注意：所下载的PDF文件仍须在严格遵守相关文章许可协议的前提下合法使用"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX（断糖中）&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od&自伤新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 494,
+          "following_count": 1613,
+          "like_count": 6548,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 1504
+        },
+        "url": "",
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-15T18:35:13.000Z",
+        "description": "中文推特女性倾向跨性别者社群史官项目\n我们深信历史终将向前。这份记录，就是我们走过长夜的铁证。\nGithub: https://t.co/8uXoPf6E7j",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/TransCircle",
+                "end": 79,
+                "expanded_url": "https://github.com/TransCircle",
+                "start": 56,
+                "url": "https://t.co/8uXoPf6E7j"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "transcircle.org",
+                "end": 23,
+                "expanded_url": "http://transcircle.org",
+                "start": 0,
+                "url": "https://t.co/r8ea82NCCb"
+              }
+            ]
+          }
+        },
+        "id": "2055356059066466304",
+        "name": "TransCircle 跨环",
+        "pinned_tweet_id": "2055975013145260489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076675773323464704/dWkZjC3w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 675,
+          "following_count": 36,
+          "like_count": 146,
+          "listed_count": 3,
+          "media_count": 6,
+          "tweet_count": 77
+        },
+        "url": "https://t.co/r8ea82NCCb",
+        "username": "TransCircleOrg",
+        "verified": true
+      }
+    ]
+  }
+}

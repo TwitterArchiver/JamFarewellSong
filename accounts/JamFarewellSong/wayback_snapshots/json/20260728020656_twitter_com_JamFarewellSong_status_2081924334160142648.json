@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2081924334160142648",
+    "created_at": "2026-07-28T02:06:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T03:06:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081924334160142648"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1547347619327774720",
+          "start": 3,
+          "username": "jishi88334078"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081924334160142648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 64
+    },
+    "referenced_tweets": [
+      {
+        "id": "1791477295288623169",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jishi88334078: 喝了25g亚硝酸钠 10：33分，我后悔了，但是没办法了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2081924334160142648",
+        "created_at": "2026-07-28T02:06:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T03:06:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081924334160142648"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1547347619327774720",
+              "start": 3,
+              "username": "jishi88334078"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081924334160142648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 64
+        },
+        "referenced_tweets": [
+          {
+            "id": "1791477295288623169",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jishi88334078: 喝了25g亚硝酸钠 10：33分，我后悔了，但是没办法了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547347619327774720",
+        "conversation_id": "1791477295288623169",
+        "created_at": "2024-05-17T14:34:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-17T15:34:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1791477295288623169"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1791477295288623169",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 177,
+          "impression_count": 394029,
+          "like_count": 693,
+          "quote_count": 13,
+          "reply_count": 326,
+          "retweet_count": 64
+        },
+        "reply_settings": "everyone",
+        "text": "喝了25g亚硝酸钠 10：33分，我后悔了，但是没办法了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX（断糖中）&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od&自伤新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 488,
+          "following_count": 1601,
+          "like_count": 6506,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 1485
+        },
+        "url": "",
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-13T22:30:10.000Z",
+        "description": "荒诞主义者/解构主义者/BPD患者，没有抑郁症也不是双向，不属于这个身体和这个世界而已/约死，是正常人，不是见面就砍你的精神病.....\n../私信请直接发自己的方法方式、地点、时间、自我介绍这些详细信息来咨询，会回复的，不要发在吗/丢失了钥匙的古老博物馆：@AccessibleEmula",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 145,
+                "start": 129,
+                "username": "AccessibleEmula"
+              }
+            ]
+          }
+        },
+        "id": "1547347619327774720",
+        "name": "8964protect",
+        "pinned_tweet_id": "1791477295288623169",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1790250020199178240/it47HVOS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1090,
+          "following_count": 760,
+          "like_count": 1423,
+          "listed_count": 9,
+          "media_count": 5,
+          "tweet_count": 146
+        },
+        "url": "",
+        "username": "jishi88334078",
+        "verified": false
+      }
+    ]
+  }
+}

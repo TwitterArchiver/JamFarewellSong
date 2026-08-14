@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1922579365847568385"
+      ],
+      "media_source_tweet_id": [
+        "1922654633417130258"
+      ]
+    },
+    "author_id": "1907414826101669888",
+    "conversation_id": "2083443841789755855",
+    "created_at": "2026-08-01T06:44:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T07:44:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083443841789755855"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1821004052395913219",
+          "start": 3,
+          "username": "0__11Xx"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EMsjpRjhFQ",
+          "end": 36,
+          "expanded_url": "https://x.com/0__11Xx/status/1922654633417130258/photo/1",
+          "media_key": "3_1922579365847568385",
+          "start": 13,
+          "url": "https://t.co/EMsjpRjhFQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083443841789755855",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 192
+    },
+    "referenced_tweets": [
+      {
+        "id": "1922654633417130258",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @0__11Xx: https://t.co/EMsjpRjhFQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1922579365847568385",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gq5fvznXEAEO5UJ.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1922579365847568385"
+          ]
+        },
+        "author_id": "1821004052395913219",
+        "conversation_id": "1922654633417130258",
+        "created_at": "2025-05-14T14:06:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-14T15:06:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1922654633417130258"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EMsjpRjhFQ",
+              "end": 23,
+              "expanded_url": "https://x.com/0__11Xx/status/1922654633417130258/photo/1",
+              "media_key": "3_1922579365847568385",
+              "start": 0,
+              "url": "https://t.co/EMsjpRjhFQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922654633417130258",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 173,
+          "impression_count": 41174,
+          "like_count": 2513,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 192
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/EMsjpRjhFQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1922579365847568385"
+          ],
+          "media_source_tweet_id": [
+            "1922654633417130258"
+          ]
+        },
+        "author_id": "1907414826101669888",
+        "conversation_id": "2083443841789755855",
+        "created_at": "2026-08-01T06:44:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T07:44:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083443841789755855"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1821004052395913219",
+              "start": 3,
+              "username": "0__11Xx"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EMsjpRjhFQ",
+              "end": 36,
+              "expanded_url": "https://x.com/0__11Xx/status/1922654633417130258/photo/1",
+              "media_key": "3_1922579365847568385",
+              "start": 13,
+              "url": "https://t.co/EMsjpRjhFQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083443841789755855",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 192
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922654633417130258",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @0__11Xx: https://t.co/EMsjpRjhFQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX（断糖中）&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od&自伤新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 526,
+          "following_count": 1703,
+          "like_count": 6811,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 1605
+        },
+        "url": "",
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-07T02:03:05.000Z",
+        "description": "夢と現の狭間で青に溺れる。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/011Xx",
+                "end": 23,
+                "expanded_url": "https://lit.link/011Xx",
+                "start": 0,
+                "url": "https://t.co/pydlonnJMB"
+              }
+            ]
+          }
+        },
+        "id": "1821004052395913219",
+        "location": "Gen Ai #niji journey",
+        "name": "夢鬱つ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1857265300506640384/R4AjuVu8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162394,
+          "following_count": 68,
+          "like_count": 675,
+          "listed_count": 931,
+          "media_count": 1625,
+          "tweet_count": 1835
+        },
+        "url": "https://t.co/pydlonnJMB",
+        "username": "0__11Xx",
+        "verified": true
+      }
+    ]
+  }
+}

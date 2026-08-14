@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2081179709665419370",
+    "created_at": "2026-07-26T00:48:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T01:48:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081179709665419370"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2004949131450867712",
+          "start": 3,
+          "username": "xersy37737"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081179709665419370",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081040465378631878",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xersy37737: 看了牢邓的事迹之后，我明白一个道理，人一定要能忍，在低谷的时候把那些豪情壮志先放一放，把那些觉得不公的怒火先放一放。\n属于我的时代还没到，但会有那一天的。能够隐忍这一切，能够耐心匍匐，何尝不是一种英雄好汉。…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2081179709665419370",
+        "created_at": "2026-07-26T00:48:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T01:48:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081179709665419370"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2004949131450867712",
+              "start": 3,
+              "username": "xersy37737"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081179709665419370",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081040465378631878",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xersy37737: 看了牢邓的事迹之后，我明白一个道理，人一定要能忍，在低谷的时候把那些豪情壮志先放一放，把那些觉得不公的怒火先放一放。\n属于我的时代还没到，但会有那一天的。能够隐忍这一切，能够耐心匍匐，何尝不是一种英雄好汉。…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004949131450867712",
+        "conversation_id": "2081040465378631878",
+        "created_at": "2026-07-25T15:34:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T16:34:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081040465378631878"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081040465378631878",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "看了牢邓的事迹之后，我明白一个道理，人一定要能忍，在低谷的时候把那些豪情壮志先放一放，把那些觉得不公的怒火先放一放。\n属于我的时代还没到，但会有那一天的。能够隐忍这一切，能够耐心匍匐，何尝不是一种英雄好汉。\n我现在是一文不值，但是英伟达股票在刚搞cuda的时候还一文不值呢，谁还没有一文不值的时候。\n如果现在强行燃烧自己，不过是消逝在寒夜中的一瞬火花。不如在暗处催生火苗，到最后一刻，一把火点燃整个旧世界。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 53,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "看了牢邓的事迹之后，我明白一个道理，人一定要能忍，在低谷的时候把那些豪情壮志先放一放，把那些觉得不公的怒火先放一放。\n属于我的时代还没到，但会有那一天的。能够隐忍这一切，能够耐心匍匐，何尝不是一种英雄好汉。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX（断糖中）&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od&自伤新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 467,
+          "following_count": 1480,
+          "like_count": 6148,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 1402
+        },
+        "url": "",
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-27T16:15:12.000Z",
+        "description": "I can't feel anything at all.",
+        "id": "2004949131450867712",
+        "location": "数据层",
+        "name": "Xersy​🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030668106528681985/cTBHzgLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 528,
+          "following_count": 42,
+          "like_count": 2742,
+          "listed_count": 3,
+          "media_count": 65,
+          "tweet_count": 1655
+        },
+        "url": "",
+        "username": "xersy37737",
+        "verified": true
+      }
+    ]
+  }
+}

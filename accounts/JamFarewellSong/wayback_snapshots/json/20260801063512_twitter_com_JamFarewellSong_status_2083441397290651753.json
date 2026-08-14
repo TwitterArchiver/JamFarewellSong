@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2083441397290651753",
+    "created_at": "2026-08-01T06:35:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T07:35:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083441397290651753"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1796067856142213120",
+          "start": 3,
+          "username": "realnmudml"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083441397290651753",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995297785143595205",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @realnmudml: 最后听的歌曲是命嫌"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2083441397290651753",
+        "created_at": "2026-08-01T06:35:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T07:35:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083441397290651753"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1796067856142213120",
+              "start": 3,
+              "username": "realnmudml"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083441397290651753",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995297785143595205",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @realnmudml: 最后听的歌曲是命嫌"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1796067856142213120",
+        "conversation_id": "1995297177313415671",
+        "created_at": "2025-12-01T01:03:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T02:03:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995297785143595205"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1995297785143595205",
+        "in_reply_to_user_id": "1796067856142213120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 62673,
+          "like_count": 26,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995297177313415671",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "最后听的歌曲是命嫌"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX（断糖中）&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od&自伤新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 526,
+          "following_count": 1701,
+          "like_count": 6800,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 1595
+        },
+        "url": "",
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-30T06:35:42.000Z",
+        "description": "只是期待…被爱着｜od日记｜生命记录",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/nmudmlclub",
+                "end": 23,
+                "expanded_url": "http://t.me/nmudmlclub",
+                "start": 0,
+                "url": "https://t.co/kJ98C5NRxK"
+              }
+            ]
+          }
+        },
+        "id": "1796067856142213120",
+        "name": "柠檬味的猫粮🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839570777202704384/2VoygNni_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 627,
+          "following_count": 11,
+          "like_count": 87,
+          "listed_count": 9,
+          "media_count": 74,
+          "tweet_count": 675
+        },
+        "url": "https://t.co/kJ98C5NRxK",
+        "username": "realnmudml",
+        "verified": false
+      }
+    ]
+  }
+}

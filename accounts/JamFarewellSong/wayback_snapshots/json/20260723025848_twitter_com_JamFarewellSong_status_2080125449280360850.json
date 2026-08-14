@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2080047735357813222",
+    "created_at": "2026-07-23T02:58:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T03:58:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080125449280360850"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2043952988557803520",
+          "start": 0,
+          "username": "tngxngxng13171"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080125449280360850",
+    "in_reply_to_user_id": "2043952988557803520",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080047735357813222",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tngxngxng13171 😢…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2080033156447801344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN3DIqMbEAAPcuJ.jpg",
+        "width": 2303
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2080047735357813222",
+        "created_at": "2026-07-23T02:58:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T03:58:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080125449280360850"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2043952988557803520",
+              "start": 0,
+              "username": "tngxngxng13171"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080125449280360850",
+        "in_reply_to_user_id": "2043952988557803520",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080047735357813222",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tngxngxng13171 😢…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080033156447801344"
+          ]
+        },
+        "author_id": "2043952988557803520",
+        "conversation_id": "2080047735357813222",
+        "created_at": "2026-07-22T21:50:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T22:50:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080047735357813222"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IYDq0mRDMp",
+              "end": 108,
+              "expanded_url": "https://x.com/tngxngxng13171/status/2080047735357813222/photo/1",
+              "media_key": "3_2080033156447801344",
+              "start": 85,
+              "url": "https://t.co/IYDq0mRDMp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080047735357813222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 66,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "當你們看到這條的時候\n可能液體已經全部進入我體內了\n高鉀血症+利多卡因中毒\n生or死？\n由命運決定\n當然，我已經請示過神明了\n我做這件事，投擲了3次聖杯，給了我兩個聖杯 https://t.co/IYDq0mRDMp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX（断糖中）&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od&自伤新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 443,
+          "following_count": 1444,
+          "like_count": 6028,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 1362
+        },
+        "url": "",
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-14T07:22:50.000Z",
+        "description": "ご指定のページはございません。\n\n主要遊玩prsk/推し💗宵崎奏、曉山瑞希、望月穗波、日野森志步/團體 推しLeoneed&25時/會進行一些相關角色的cosplay",
+        "id": "2043952988557803520",
+        "location": "Hong Kong",
+        "name": "ご指定のページはございません。",
+        "pinned_tweet_id": "2069928793444340078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048446214245691392/lQgtgY8z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 291,
+          "following_count": 235,
+          "like_count": 10093,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 605
+        },
+        "url": "",
+        "username": "tngxngxng13171",
+        "verified": false
+      }
+    ]
+  }
+}

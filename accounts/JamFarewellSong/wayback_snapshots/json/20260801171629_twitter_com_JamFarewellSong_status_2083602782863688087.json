@@ -1,0 +1,343 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1998813096605888512"
+      ],
+      "media_source_tweet_id": [
+        "1998813187462856819"
+      ]
+    },
+    "author_id": "1907414826101669888",
+    "conversation_id": "2083602782863688087",
+    "created_at": "2026-08-01T17:16:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T18:16:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083602782863688087"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1559491440115232768",
+          "start": 3,
+          "username": "shui3333"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RTJ5swmuxQ",
+          "end": 58,
+          "expanded_url": "https://x.com/OffWithHisCock/status/1998813187462856819/video/1",
+          "media_key": "13_1998813096605888512",
+          "start": 35,
+          "url": "https://t.co/RTJ5swmuxQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083602782863688087",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 306
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083222889000824913",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shui3333: 这种好玩，保持欲望无处发泄，比留鸡去蛋强 https://t.co/RTJ5swmuxQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 40091,
+        "height": 720,
+        "media_key": "13_1998813096605888512",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1998813096605888512/img/5a8q2mTc2CeRXxLd.jpg",
+        "public_metrics": {
+          "view_count": 5740117
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1998813096605888512/vid/avc1/480x270/D9ht9Y1Ge320RCyi.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1998813096605888512/vid/avc1/640x360/z1Lg1-UzLTU6dc3D.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1998813096605888512/vid/avc1/1280x720/051HAZE_jKq9i5eV.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1998813096605888512/pl/CBXiwbsJZrv1yn0g.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1998813096605888512"
+          ]
+        },
+        "author_id": "1854439416221069329",
+        "conversation_id": "1998813187462856819",
+        "created_at": "2025-12-10T17:52:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T18:52:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998813187462856819"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 127,
+              "start": 118,
+              "tag": "chastity"
+            },
+            {
+              "end": 168,
+              "start": 161,
+              "tag": "locked"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 210,
+              "id": "1080596509954138112",
+              "start": 195,
+              "username": "GayChastityRTs"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mBRHSvHwBl",
+              "end": 234,
+              "expanded_url": "https://x.com/OffWithHisCock/status/1998813187462856819/video/1",
+              "media_key": "13_1998813096605888512",
+              "start": 211,
+              "url": "https://t.co/mBRHSvHwBl"
+            },
+            {
+              "display_url": "x.com/OffWithHisCock…",
+              "end": 258,
+              "expanded_url": "https://twitter.com/OffWithHisCock/status/1985434847699997062",
+              "start": 235,
+              "url": "https://t.co/ZUAEw6PFoI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998813187462856819",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 13156,
+          "impression_count": 2609076,
+          "like_count": 22922,
+          "quote_count": 223,
+          "reply_count": 329,
+          "retweet_count": 2466
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985434847699997062",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Three months since I last cum 💦 \nI’m loving the constant fizz in my balls - and no cock to idly play with. \nPermanent #chastity is incredible! \n\nHow long do you #locked boys go without cumming? \n@GayChastityRTs https://t.co/mBRHSvHwBl https://t.co/ZUAEw6PFoI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1998813096605888512"
+          ],
+          "media_source_tweet_id": [
+            "1998813187462856819"
+          ]
+        },
+        "author_id": "1907414826101669888",
+        "conversation_id": "2083602782863688087",
+        "created_at": "2026-08-01T17:16:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T18:16:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083602782863688087"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1559491440115232768",
+              "start": 3,
+              "username": "shui3333"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RTJ5swmuxQ",
+              "end": 58,
+              "expanded_url": "https://x.com/OffWithHisCock/status/1998813187462856819/video/1",
+              "media_key": "13_1998813096605888512",
+              "start": 35,
+              "url": "https://t.co/RTJ5swmuxQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083602782863688087",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 306
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083222889000824913",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shui3333: 这种好玩，保持欲望无处发泄，比留鸡去蛋强 https://t.co/RTJ5swmuxQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1998813096605888512"
+          ],
+          "media_source_tweet_id": [
+            "1998813187462856819"
+          ]
+        },
+        "author_id": "1559491440115232768",
+        "conversation_id": "2083222889000824913",
+        "created_at": "2026-07-31T16:06:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T17:06:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083222889000824913"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RTJ5swmuxQ",
+              "end": 44,
+              "expanded_url": "https://x.com/OffWithHisCock/status/1998813187462856819/video/1",
+              "media_key": "13_1998813096605888512",
+              "start": 21,
+              "url": "https://t.co/RTJ5swmuxQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083222889000824913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 6488,
+          "impression_count": 838170,
+          "like_count": 9819,
+          "quote_count": 18,
+          "reply_count": 183,
+          "retweet_count": 308
+        },
+        "reply_settings": "everyone",
+        "text": "这种好玩，保持欲望无处发泄，比留鸡去蛋强 https://t.co/RTJ5swmuxQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX（断糖中）&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od&自伤新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 537,
+          "following_count": 1718,
+          "like_count": 6847,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 1633
+        },
+        "url": "",
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-16T10:45:24.000Z",
+        "description": "喜欢伪娘 熟女 📱Shui35353",
+        "id": "1559491440115232768",
+        "location": "山东",
+        "name": "纹所未纹 tattoo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1559495290104623104/9VFmWIMT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32885,
+          "following_count": 472,
+          "like_count": 61,
+          "listed_count": 159,
+          "media_count": 3717,
+          "tweet_count": 4003
+        },
+        "url": "",
+        "username": "shui3333",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081242334545444864"
+      ],
+      "media_source_tweet_id": [
+        "2081242343684841786"
+      ]
+    },
+    "author_id": "1907414826101669888",
+    "conversation_id": "2081793097625915422",
+    "created_at": "2026-07-27T17:25:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T18:25:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081793097625915422"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1882414942852349952",
+          "start": 3,
+          "username": "kunostia"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2gtDVHCOqT",
+          "end": 37,
+          "expanded_url": "https://x.com/kunostia/status/2081242343684841786/photo/1",
+          "media_key": "3_2081242334545444864",
+          "start": 14,
+          "url": "https://t.co/2gtDVHCOqT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081793097625915422",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1223
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081242343684841786",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kunostia: https://t.co/2gtDVHCOqT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1028,
+        "media_key": "3_2081242334545444864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOIO4FoWAAAhqvu.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081242334545444864"
+          ]
+        },
+        "author_id": "1882414942852349952",
+        "conversation_id": "2081242343684841786",
+        "created_at": "2026-07-26T04:56:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T05:56:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081242343684841786"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2gtDVHCOqT",
+              "end": 23,
+              "expanded_url": "https://x.com/kunostia/status/2081242343684841786/photo/1",
+              "media_key": "3_2081242334545444864",
+              "start": 0,
+              "url": "https://t.co/2gtDVHCOqT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081242343684841786",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 277,
+          "impression_count": 60606,
+          "like_count": 5427,
+          "quote_count": 22,
+          "reply_count": 5,
+          "retweet_count": 1223
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/2gtDVHCOqT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081242334545444864"
+          ],
+          "media_source_tweet_id": [
+            "2081242343684841786"
+          ]
+        },
+        "author_id": "1907414826101669888",
+        "conversation_id": "2081793097625915422",
+        "created_at": "2026-07-27T17:25:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T18:25:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081793097625915422"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1882414942852349952",
+              "start": 3,
+              "username": "kunostia"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2gtDVHCOqT",
+              "end": 37,
+              "expanded_url": "https://x.com/kunostia/status/2081242343684841786/photo/1",
+              "media_key": "3_2081242334545444864",
+              "start": 14,
+              "url": "https://t.co/2gtDVHCOqT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081793097625915422",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1223
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081242343684841786",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kunostia: https://t.co/2gtDVHCOqT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX（断糖中）&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od&自伤新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 483,
+          "following_count": 1568,
+          "like_count": 6383,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 1444
+        },
+        "url": "",
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-23T13:08:05.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "zyo.se/lit",
+                "end": 23,
+                "expanded_url": "http://zyo.se/lit",
+                "start": 0,
+                "url": "https://t.co/yeLwH9Zwvi"
+              }
+            ]
+          }
+        },
+        "id": "1882414942852349952",
+        "name": "kuno",
+        "pinned_tweet_id": "2028541054547362018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081521936870395904/STEnmTXX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12592,
+          "following_count": 257,
+          "like_count": 8553,
+          "listed_count": 20,
+          "media_count": 1185,
+          "tweet_count": 1850
+        },
+        "url": "https://t.co/yeLwH9Zwvi",
+        "username": "kunostia",
+        "verified": false
+      }
+    ]
+  }
+}

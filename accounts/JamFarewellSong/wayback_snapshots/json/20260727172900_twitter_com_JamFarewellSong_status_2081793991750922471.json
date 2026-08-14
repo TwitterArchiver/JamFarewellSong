@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2081793991750922471",
+    "created_at": "2026-07-27T17:29:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T18:29:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081793991750922471"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1580634879213318144",
+          "start": 3,
+          "username": "DevilsTrumpetVI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081793991750922471",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078845903742668902",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DevilsTrumpetVI: 大多数人会出于一种感同身受的同理心，而对动物的遭遇流露出一种同情。这种论述策略早在19-20世纪的动保运动中的就很常见，例如引用圣经“你不应当怜恤你的同伴，像我怜恤你吗？”（《马太福音》18：33） 之类的话语争取基督徒的支持，又或将动…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2081793991750922471",
+        "created_at": "2026-07-27T17:29:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T18:29:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081793991750922471"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1580634879213318144",
+              "start": 3,
+              "username": "DevilsTrumpetVI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081793991750922471",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078845903742668902",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DevilsTrumpetVI: 大多数人会出于一种感同身受的同理心，而对动物的遭遇流露出一种同情。这种论述策略早在19-20世纪的动保运动中的就很常见，例如引用圣经“你不应当怜恤你的同伴，像我怜恤你吗？”（《马太福音》18：33） 之类的话语争取基督徒的支持，又或将动…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1580634879213318144",
+        "conversation_id": "2078845903742668902",
+        "created_at": "2026-07-19T14:14:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T15:14:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078845903742668902"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bbcchinese/sta…",
+              "end": 165,
+              "expanded_url": "https://twitter.com/bbcchinese/status/2078744221717008418",
+              "start": 142,
+              "url": "https://t.co/0aodiHY9Z6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078845903742668902",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "大多数人会出于一种感同身受的同理心，而对动物的遭遇流露出一种同情。这种论述策略早在19-20世纪的动保运动中的就很常见，例如引用圣经“你不应当怜恤你的同伴，像我怜恤你吗？”（《马太福音》18：33） 之类的话语争取基督徒的支持，又或将动物称为共同受压迫的受造物争取劳动者及市民的支持\n\n动物与人的关系其实是很漫长的话题了，不仅是以人类中心为视角的亲疏关系等等，动物作为非政治主体，也深刻影响了政治。例如《为动物而战》考察了动保对于政治传统的挪用(appropriation )，以及其与文学的长期亲缘关系等等。在20世纪Brown Dog affair中，动保则与工会组织、妇女参政运动等团体结成同盟而作为激进政治的一种象征\n\n我觉得这里有趣且值得一提的是，人与动物的关系性，在阿甘本的人类学机器(Anthropological Machine)中呈现为“人/动物”，不断制造否定性的斜杠不断定义着人/非人。而在德勒兹的生成中呈现为“人-动物”，差异并不以否定和界限的方式运作，在《字母表》访谈中谈到了维持的是一种“动物性的关系”\n\n虽然并非一切都是政治性的，但政治无处不在，这或许就是动保议题作为言不尽的剩余总会被一遍遍争论甚至不断尝试立法，因为政治在遭遇非人的存在时暴露了统治型权力自身的无力。非人的存在无法被人类政治所占有，而其作为异物不断在揭示政治的局限，迫使政治承认需要以对称人类学(Symmetric anthropology)的拉图尔视角去重新思考——我们需要一种去中心的非垂直性政治，或许是宇宙政治(cosmopolitics)之类的"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 9050,
+          "like_count": 100,
+          "quote_count": 6,
+          "reply_count": 41,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078744221717008418",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "大多数人会出于一种感同身受的同理心，而对动物的遭遇流露出一种同情。这种论述策略早在19-20世纪的动保运动中的就很常见，例如引用圣经“你不应当怜恤你的同伴，像我怜恤你吗？”（《马太福音》18：33） 之类的话语争取基督徒的支持，又或将动物称为共同受压迫的受造物争取劳动者及市民的支持 https://t.co/0aodiHY9Z6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX（断糖中）&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od&自伤新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 483,
+          "following_count": 1570,
+          "like_count": 6388,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 1446
+        },
+        "url": "",
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-13T19:02:28.000Z",
+        "description": "And all lost beauty is borne upon the wind; in its vanishing wake, white blossoms drift like snow, mourning a world unborn\n\n想互fo可以直接跟我私信的呀~",
+        "id": "1580634879213318144",
+        "location": "Erewhon",
+        "name": "Phlonika🏴🚩🌹🍉🌻",
+        "pinned_tweet_id": "2078845903742668902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077515587325227008/AaUEe0BX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2217,
+          "following_count": 441,
+          "like_count": 25540,
+          "listed_count": 16,
+          "media_count": 401,
+          "tweet_count": 8007
+        },
+        "url": "",
+        "username": "DevilsTrumpetVI",
+        "verified": false
+      }
+    ]
+  }
+}

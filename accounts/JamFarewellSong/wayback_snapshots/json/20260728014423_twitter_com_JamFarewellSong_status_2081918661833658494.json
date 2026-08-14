@@ -1,0 +1,421 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1787462732830388224",
+        "3_1787462732977156096",
+        "3_1787462733157523457"
+      ],
+      "media_source_tweet_id": [
+        "1787462744700260779",
+        "1787462744700260779",
+        "1787462744700260779"
+      ]
+    },
+    "author_id": "1907414826101669888",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2081918661833658494",
+    "created_at": "2026-07-28T01:44:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T02:44:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081918661833658494"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1700865258150371328",
+          "start": 3,
+          "username": "star_tran30449"
+        },
+        {
+          "end": 34,
+          "id": "1676900141754720256",
+          "start": 23,
+          "username": "hulicaijia"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Mtcltj0EEE",
+          "end": 98,
+          "expanded_url": "https://x.com/star_tran30449/status/1787462744700260779/photo/1",
+          "media_key": "3_1787462732830388224",
+          "start": 75,
+          "url": "https://t.co/Mtcltj0EEE"
+        },
+        {
+          "display_url": "pic.x.com/Mtcltj0EEE",
+          "end": 98,
+          "expanded_url": "https://x.com/star_tran30449/status/1787462744700260779/photo/1",
+          "media_key": "3_1787462732977156096",
+          "start": 75,
+          "url": "https://t.co/Mtcltj0EEE"
+        },
+        {
+          "display_url": "pic.x.com/Mtcltj0EEE",
+          "end": 98,
+          "expanded_url": "https://x.com/star_tran30449/status/1787462744700260779/photo/1",
+          "media_key": "3_1787462733157523457",
+          "start": 75,
+          "url": "https://t.co/Mtcltj0EEE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081918661833658494",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1787462744700260779",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @star_tran30449: 讣告：@hulicaijia桜崎彩加\n于2024年五月五日坠楼身亡\n愿在参宿四安息🕯️\n//图二图三消息来源 https://t.co/Mtcltj0EEE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1787462732830388224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GM5X4peasAA8qiT.jpg",
+        "width": 921
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1787462732977156096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GM5X4qBaMAAyZhj.jpg",
+        "width": 921
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1787462733157523457",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GM5X4qsaYAEnZjn.jpg",
+        "width": 926
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1787462732830388224",
+            "3_1787462732977156096",
+            "3_1787462733157523457"
+          ]
+        },
+        "author_id": "1700865258150371328",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1787462744700260779",
+        "created_at": "2024-05-06T12:41:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-06T13:41:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1787462744700260779"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1676900141754720256",
+              "start": 3,
+              "username": "hulicaijia"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Mtcltj0EEE",
+              "end": 78,
+              "expanded_url": "https://x.com/star_tran30449/status/1787462744700260779/photo/1",
+              "media_key": "3_1787462732830388224",
+              "start": 55,
+              "url": "https://t.co/Mtcltj0EEE"
+            },
+            {
+              "display_url": "pic.x.com/Mtcltj0EEE",
+              "end": 78,
+              "expanded_url": "https://x.com/star_tran30449/status/1787462744700260779/photo/1",
+              "media_key": "3_1787462732977156096",
+              "start": 55,
+              "url": "https://t.co/Mtcltj0EEE"
+            },
+            {
+              "display_url": "pic.x.com/Mtcltj0EEE",
+              "end": 78,
+              "expanded_url": "https://x.com/star_tran30449/status/1787462744700260779/photo/1",
+              "media_key": "3_1787462733157523457",
+              "start": 55,
+              "url": "https://t.co/Mtcltj0EEE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1787462744700260779",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 11941,
+          "like_count": 64,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "讣告：@hulicaijia桜崎彩加\n于2024年五月五日坠楼身亡\n愿在参宿四安息🕯️\n//图二图三消息来源 https://t.co/Mtcltj0EEE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1787462732830388224",
+            "3_1787462732977156096",
+            "3_1787462733157523457"
+          ],
+          "media_source_tweet_id": [
+            "1787462744700260779",
+            "1787462744700260779",
+            "1787462744700260779"
+          ]
+        },
+        "author_id": "1907414826101669888",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2081918661833658494",
+        "created_at": "2026-07-28T01:44:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T02:44:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081918661833658494"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1700865258150371328",
+              "start": 3,
+              "username": "star_tran30449"
+            },
+            {
+              "end": 34,
+              "id": "1676900141754720256",
+              "start": 23,
+              "username": "hulicaijia"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Mtcltj0EEE",
+              "end": 98,
+              "expanded_url": "https://x.com/star_tran30449/status/1787462744700260779/photo/1",
+              "media_key": "3_1787462732830388224",
+              "start": 75,
+              "url": "https://t.co/Mtcltj0EEE"
+            },
+            {
+              "display_url": "pic.x.com/Mtcltj0EEE",
+              "end": 98,
+              "expanded_url": "https://x.com/star_tran30449/status/1787462744700260779/photo/1",
+              "media_key": "3_1787462732977156096",
+              "start": 75,
+              "url": "https://t.co/Mtcltj0EEE"
+            },
+            {
+              "display_url": "pic.x.com/Mtcltj0EEE",
+              "end": 98,
+              "expanded_url": "https://x.com/star_tran30449/status/1787462744700260779/photo/1",
+              "media_key": "3_1787462733157523457",
+              "start": 75,
+              "url": "https://t.co/Mtcltj0EEE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081918661833658494",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1787462744700260779",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @star_tran30449: 讣告：@hulicaijia桜崎彩加\n于2024年五月五日坠楼身亡\n愿在参宿四安息🕯️\n//图二图三消息来源 https://t.co/Mtcltj0EEE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX（断糖中）&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od&自伤新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 487,
+          "following_count": 1589,
+          "like_count": 6480,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 1471
+        },
+        "url": "",
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-10T13:35:01.000Z",
+        "description": "她/他/祂们并未离开，只是去了一个遥远的地方。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "startransforeve.com",
+                "end": 23,
+                "expanded_url": "http://startransforeve.com",
+                "start": 0,
+                "url": "https://t.co/ZYDXKWLSZo"
+              }
+            ]
+          }
+        },
+        "id": "1700865258150371328",
+        "name": "StarTransForever",
+        "pinned_tweet_id": "1700873713980506292",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749459076587900928/V3XYOWRU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1271,
+          "following_count": 58,
+          "like_count": 1010,
+          "listed_count": 1,
+          "media_count": 72,
+          "tweet_count": 399
+        },
+        "url": "https://t.co/ZYDXKWLSZo",
+        "username": "star_tran30449",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-06T10:25:43.000Z",
+        "description": "自宅警备员|同类互fo|喜欢磕右美笨蛋|术力口|坐标湖南|修眉刀爱好者 |173cm60kg|詩月撒嘛 @Poetry_Luna |逸子姐姐 @Jiangyineko |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 52,
+                "username": "Poetry_Luna"
+              },
+              {
+                "end": 83,
+                "start": 71,
+                "username": "Jiangyineko"
+              }
+            ]
+          }
+        },
+        "id": "1676900141754720256",
+        "location": "第四高原",
+        "name": "桜崎彩加🍥（右美贩售版）",
+        "pinned_tweet_id": "1785309643373514830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1758593905459855360/ZLZ-KAhI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 600,
+          "following_count": 239,
+          "like_count": 889,
+          "listed_count": 8,
+          "media_count": 69,
+          "tweet_count": 343
+        },
+        "url": "",
+        "username": "hulicaijia",
+        "verified": false
+      }
+    ]
+  }
+}

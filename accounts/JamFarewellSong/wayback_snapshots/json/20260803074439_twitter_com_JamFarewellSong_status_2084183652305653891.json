@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2084183652305653891",
+    "created_at": "2026-08-03T07:44:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T08:44:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084183652305653891"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2076280150044610560",
+          "start": 3,
+          "username": "Antares04_8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084183652305653891",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083950935563489667",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Antares04_8964: 各位自己做普瑞赛斯胶囊的一定要加辅料。辅料是崩解剂和润滑剂，不加的话，药效会大打折扣！\n\n辅料配方如下：\n(当然，如果没有微晶纤维素，可以直接用淀粉和滑石粉。如果连滑石粉都没有，直接用淀粉也可以 不过效果会差一些。)\n\n(根据处方用药，拒…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1936,
+        "media_key": "3_2083950914654900224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOuuUM1bEAAYiSH.jpg",
+        "width": 3700
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2084183652305653891",
+        "created_at": "2026-08-03T07:44:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T08:44:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084183652305653891"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2076280150044610560",
+              "start": 3,
+              "username": "Antares04_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084183652305653891",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083950935563489667",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Antares04_8964: 各位自己做普瑞赛斯胶囊的一定要加辅料。辅料是崩解剂和润滑剂，不加的话，药效会大打折扣！\n\n辅料配方如下：\n(当然，如果没有微晶纤维素，可以直接用淀粉和滑石粉。如果连滑石粉都没有，直接用淀粉也可以 不过效果会差一些。)\n\n(根据处方用药，拒…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083950914654900224"
+          ]
+        },
+        "author_id": "2076280150044610560",
+        "conversation_id": "2083950935563489667",
+        "created_at": "2026-08-02T16:19:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T17:19:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083950935563489667"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dBvPblXYEA",
+              "end": 149,
+              "expanded_url": "https://x.com/Antares04_8964/status/2083950935563489667/photo/1",
+              "media_key": "3_2083950914654900224",
+              "start": 126,
+              "url": "https://t.co/dBvPblXYEA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083950935563489667",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 658,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "各位自己做普瑞赛斯胶囊的一定要加辅料。辅料是崩解剂和润滑剂，不加的话，药效会大打折扣！\n\n辅料配方如下：\n(当然，如果没有微晶纤维素，可以直接用淀粉和滑石粉。如果连滑石粉都没有，直接用淀粉也可以 不过效果会差一些。)\n\n(根据处方用药，拒绝药物滥用) https://t.co/dBvPblXYEA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX（断糖中）&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od&自伤新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 552,
+          "following_count": 1735,
+          "like_count": 6918,
+          "listed_count": 1,
+          "media_count": 18,
+          "tweet_count": 1659
+        },
+        "url": "",
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-12T12:19:52.000Z",
+        "description": "你好,你可以叫我煜或者04/ODer💊/双相/记忆力很差/自伤/生产日期：2010.9.8♂/正在学习药理学🧬/非必要不建证🏳️/喜欢同类看见会直接回/不支持引导自残嗑药❗/欢迎私信互fo喵    /    /(这里是煜3.0)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/antares04_8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/antares04_8964",
+                "start": 0,
+                "url": "https://t.co/7kJ3zIrxwy"
+              }
+            ]
+          }
+        },
+        "id": "2076280150044610560",
+        "location": "＃心宿二",
+        "name": "煜",
+        "pinned_tweet_id": "2083950935563489667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076581989763932160/cA0oli6i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 42,
+          "like_count": 253,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 181
+        },
+        "url": "https://t.co/7kJ3zIrxwy",
+        "username": "Antares04_8964",
+        "verified": false
+      }
+    ]
+  }
+}

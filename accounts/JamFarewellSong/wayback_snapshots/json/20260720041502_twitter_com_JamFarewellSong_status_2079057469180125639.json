@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2079057469180125639",
+    "created_at": "2026-07-20T04:15:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T05:15:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079057469180125639"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2037909112055300096",
+          "start": 3,
+          "username": "QueerLawWatchCN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079057469180125639",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078964417845154093",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @QueerLawWatchCN: 联合国儿童权利委员会将审议中国，民间社会替代报告8月1日截止 🇨🇳🏳️‍🌈\n\n联合国儿童权利委员会（Committee on the Rights of the Child, CRC）已确认，将在2026年9月29日至10月2日的第10…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2079057469180125639",
+        "created_at": "2026-07-20T04:15:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T05:15:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079057469180125639"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2037909112055300096",
+              "start": 3,
+              "username": "QueerLawWatchCN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079057469180125639",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078964417845154093",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @QueerLawWatchCN: 联合国儿童权利委员会将审议中国，民间社会替代报告8月1日截止 🇨🇳🏳️‍🌈\n\n联合国儿童权利委员会（Committee on the Rights of the Child, CRC）已确认，将在2026年9月29日至10月2日的第10…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2037909112055300096",
+        "conversation_id": "2078964417845154093",
+        "created_at": "2026-07-19T22:05:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T23:05:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078964417845154093"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078964417845154093",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "childrightsconnect.org/upload-session…",
+                "end": 406,
+                "expanded_url": "https://childrightsconnect.org/upload-session-reports/",
+                "start": 383,
+                "url": "https://t.co/zSRpq23LDN"
+              }
+            ]
+          },
+          "text": "联合国儿童权利委员会将审议中国，民间社会替代报告8月1日截止 🇨🇳🏳️‍🌈\n\n联合国儿童权利委员会（Committee on the Rights of the Child, CRC）已确认，将在2026年9月29日至10月2日的第103次会前工作组（Pre-Sessional Working Group）上，为中国（含香港、澳门）通过”问题清单”（List of Issues），为新一轮正式审议做准备。\n\n在这个阶段，民间社会组织可以提交替代报告（alternative report），把官方报告不会呈现的现实——包括性少数儿童与青少年在教育、健康和家庭中的真实处境——直接送到委员会手里，影响它接下来向中国提出的问题。\n\n提交截止时间是2026年8月1日，只剩不到两周。欢迎关注这一议题的伙伴一起准备、一起提交，让更多真实处境被记录、被看见。\n\n提交平台🔗https://t.co/zSRpq23LDN"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 819,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "联合国儿童权利委员会将审议中国，民间社会替代报告8月1日截止 🇨🇳🏳️‍🌈\n\n联合国儿童权利委员会（Committee on the Rights of the Child, CRC）已确认，将在2026年9月29日至10月2日的第103次会前工作组（Pre-Sessional Working Group）上，为中国（含香港、澳门）通过”问题清单”（List of"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX（断糖中）&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od&自伤新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 401,
+          "following_count": 1340,
+          "like_count": 5760,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 1294
+        },
+        "url": "",
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-28T15:08:39.000Z",
+        "description": "这里是阿冬。\n联系请私信或邮箱📮queerlawwatchcn@gmail.com\n关注全球LGBTQ运动经验和法律实践🏳️‍🌈🏳️‍⚧️，为关注中国的LGBTQ行动者提供他山之石。\ntracking queer law & policy globally | personal",
+        "id": "2037909112055300096",
+        "name": "阿冬的酷儿法律观察",
+        "pinned_tweet_id": "2068670204628910335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047360437906182144/TuWas3GX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1802,
+          "following_count": 1292,
+          "like_count": 1100,
+          "listed_count": 5,
+          "media_count": 35,
+          "tweet_count": 355
+        },
+        "url": "",
+        "username": "QueerLawWatchCN",
+        "verified": true
+      }
+    ]
+  }
+}

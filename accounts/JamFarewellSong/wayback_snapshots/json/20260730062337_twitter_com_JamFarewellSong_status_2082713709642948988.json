@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2082713709642948988",
+    "created_at": "2026-07-30T06:23:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T07:23:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082713709642948988"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1907414826101669888",
+          "start": 3,
+          "username": "JamFarewellSong"
+        },
+        {
+          "end": 32,
+          "id": "2043167754954420224",
+          "start": 21,
+          "username": "Fudewdrops"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082713709642948988",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082713679112663179",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JamFarewellSong: @Fudewdrops 一般来讲，鼻吸比口服的生物利用率更高，生效更快，更省药，例如dpt鼻吸仅需60mg，口服达到相同效果需要160mg＋。但也有例外，比如iso鼻吸基本不生效。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2082713709642948988",
+        "created_at": "2026-07-30T06:23:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T07:23:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082713709642948988"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1907414826101669888",
+              "start": 3,
+              "username": "JamFarewellSong"
+            },
+            {
+              "end": 32,
+              "id": "2043167754954420224",
+              "start": 21,
+              "username": "Fudewdrops"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082713709642948988",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082713679112663179",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @JamFarewellSong: @Fudewdrops 一般来讲，鼻吸比口服的生物利用率更高，生效更快，更省药，例如dpt鼻吸仅需60mg，口服达到相同效果需要160mg＋。但也有例外，比如iso鼻吸基本不生效。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2081930107653144895",
+        "created_at": "2026-07-30T06:23:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T07:23:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082713679112663179"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2043167754954420224",
+              "start": 0,
+              "username": "Fudewdrops"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082713679112663179",
+        "in_reply_to_user_id": "2043167754954420224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081930107653144895",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fudewdrops 一般来讲，鼻吸比口服的生物利用率更高，生效更快，更省药，例如dpt鼻吸仅需60mg，口服达到相同效果需要160mg＋。但也有例外，比如iso鼻吸基本不生效。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX（断糖中）&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od&自伤新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 503,
+          "following_count": 1643,
+          "like_count": 6641,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 1529
+        },
+        "url": "",
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-12T03:23:05.000Z",
+        "description": "非二元\n18+oder\n寻找南京furry求互fo",
+        "id": "2043167754954420224",
+        "location": "六朝古都",
+        "name": "Fu-苍露🏳️‍⚧️🍥🏳️‍🌈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057834823834804224/c8vIZo7a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 81,
+          "like_count": 854,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 136
+        },
+        "url": "",
+        "username": "Fudewdrops",
+        "verified": false
+      }
+    ]
+  }
+}

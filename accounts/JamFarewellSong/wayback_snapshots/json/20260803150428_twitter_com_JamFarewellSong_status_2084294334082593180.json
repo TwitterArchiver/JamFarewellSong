@@ -1,0 +1,331 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063943613000884224"
+      ],
+      "media_source_tweet_id": [
+        "2063943616960372822"
+      ]
+    },
+    "author_id": "1907414826101669888",
+    "conversation_id": "2084294334082593180",
+    "created_at": "2026-08-03T15:04:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T16:04:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084294334082593180"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 59,
+          "start": 55,
+          "tag": "自撮り"
+        },
+        {
+          "end": 66,
+          "start": 60,
+          "tag": "自撮り界隈"
+        },
+        {
+          "end": 71,
+          "start": 67,
+          "tag": "雰囲気"
+        },
+        {
+          "end": 77,
+          "start": 72,
+          "tag": "サブカル"
+        },
+        {
+          "end": 89,
+          "start": 78,
+          "tag": "雰囲気好きな人いいね"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1966125907602743296",
+          "start": 3,
+          "username": "0amiqe"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hKpm0C4bwy",
+          "end": 113,
+          "expanded_url": "https://x.com/0amiqe/status/2063943616960372822/photo/1",
+          "media_key": "3_2063943613000884224",
+          "start": 90,
+          "url": "https://t.co/hKpm0C4bwy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084294334082593180",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063943616960372822",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @0amiqe: パフし過ぎて溶けてこの目\nアウトじゃないけど完全にアウトです\nコンビニいけません🏪\n\n#自撮り #自撮り界隈 #雰囲気 #サブカル #雰囲気好きな人いいね https://t.co/hKpm0C4bwy"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "自撮り, ベイプ, 煙, 舌ピアス, チョーカー, 紫メッシュ, 退廃的, アンニュイ, サブカル, 地雷系, ストーン, ストリートファッション, 病みかわいい\n\nSelfie, vape, vapor, tongue piercing, choker, purple highlights, moody, dark aesthetic, subculture, stoned, streetwear, dark kawaii\n\n셀카, 베이프, 연기, 혀 피어싱, 초커, 보라색 브릿지, 퇴폐적, 몽환적, 서브컬처, 지뢰계, 스톤, 스트릿패션, 병맛카와이\n\n自拍, 电子烟, 烟雾, 舌钉, 项圈, 紫色挑染, 颓废, 慵懒, 亚文化, 地雷系, 迷幻, 街头潮流, 病娇可爱\n自撮り, ベイプ, 煙, 舌ピアス, チョーカー, 紫メッシュ, 退廃的, アンニュイ, サブカル, 地雷系, ストーン\n\n\nSelfie, vape, vapor, tongue piercing, choker, purple highlights, moody, dark aesthetic, subculture, stoned\n\n\n셀카, 베이프, 연기, 혀 피어싱, 초커, 보라색 브릿지, 퇴폐적, 몽환적, 서브컬처, 지뢰계, 스톤\n\n\n自拍, 电子烟, 烟雾, 舌钉, 项圈, 紫色挑染, 颓废, 慵懒, 亚文化, 地雷系, 迷幻",
+        "height": 1376,
+        "media_key": "3_2063943613000884224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKSZx-FaoAAXMVU.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063943613000884224"
+          ]
+        },
+        "author_id": "1966125907602743296",
+        "conversation_id": "2063943616960372822",
+        "created_at": "2026-06-08T11:17:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T12:17:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063943616960372822"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 47,
+              "start": 43,
+              "tag": "自撮り"
+            },
+            {
+              "end": 54,
+              "start": 48,
+              "tag": "自撮り界隈"
+            },
+            {
+              "end": 59,
+              "start": 55,
+              "tag": "雰囲気"
+            },
+            {
+              "end": 65,
+              "start": 60,
+              "tag": "サブカル"
+            },
+            {
+              "end": 77,
+              "start": 66,
+              "tag": "雰囲気好きな人いいね"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hKpm0C4bwy",
+              "end": 101,
+              "expanded_url": "https://x.com/0amiqe/status/2063943616960372822/photo/1",
+              "media_key": "3_2063943613000884224",
+              "start": 78,
+              "url": "https://t.co/hKpm0C4bwy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063943616960372822",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2936,
+          "like_count": 77,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "パフし過ぎて溶けてこの目\nアウトじゃないけど完全にアウトです\nコンビニいけません🏪\n\n#自撮り #自撮り界隈 #雰囲気 #サブカル #雰囲気好きな人いいね https://t.co/hKpm0C4bwy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063943613000884224"
+          ],
+          "media_source_tweet_id": [
+            "2063943616960372822"
+          ]
+        },
+        "author_id": "1907414826101669888",
+        "conversation_id": "2084294334082593180",
+        "created_at": "2026-08-03T15:04:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T16:04:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084294334082593180"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 59,
+              "start": 55,
+              "tag": "自撮り"
+            },
+            {
+              "end": 66,
+              "start": 60,
+              "tag": "自撮り界隈"
+            },
+            {
+              "end": 71,
+              "start": 67,
+              "tag": "雰囲気"
+            },
+            {
+              "end": 77,
+              "start": 72,
+              "tag": "サブカル"
+            },
+            {
+              "end": 89,
+              "start": 78,
+              "tag": "雰囲気好きな人いいね"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1966125907602743296",
+              "start": 3,
+              "username": "0amiqe"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hKpm0C4bwy",
+              "end": 113,
+              "expanded_url": "https://x.com/0amiqe/status/2063943616960372822/photo/1",
+              "media_key": "3_2063943613000884224",
+              "start": 90,
+              "url": "https://t.co/hKpm0C4bwy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084294334082593180",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063943616960372822",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @0amiqe: パフし過ぎて溶けてこの目\nアウトじゃないけど完全にアウトです\nコンビニいけません🏪\n\n#自撮り #自撮り界隈 #雰囲気 #サブカル #雰囲気好きな人いいね https://t.co/hKpm0C4bwy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX（断糖中）&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od&自伤新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 554,
+          "following_count": 1737,
+          "like_count": 6914,
+          "listed_count": 1,
+          "media_count": 18,
+          "tweet_count": 1659
+        },
+        "url": "",
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-11T13:06:24.000Z",
+        "description": "バーンアウトした眠れない夜の住人\n音楽とODで延命中\n※自撮りはアバターで実在しないよ！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "dxm.tripsit.me",
+                "end": 23,
+                "expanded_url": "https://dxm.tripsit.me/",
+                "start": 0,
+                "url": "https://t.co/utLffhhy4y"
+              }
+            ]
+          }
+        },
+        "id": "1966125907602743296",
+        "location": "Shinjuku-ku, Tokyo",
+        "name": "ゆる",
+        "pinned_tweet_id": "2063943616960372822",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067933684691529728/HB-cQfuf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 125,
+          "like_count": 1399,
+          "listed_count": 0,
+          "media_count": 109,
+          "tweet_count": 842
+        },
+        "url": "https://t.co/utLffhhy4y",
+        "username": "0amiqe",
+        "verified": false
+      }
+    ]
+  }
+}

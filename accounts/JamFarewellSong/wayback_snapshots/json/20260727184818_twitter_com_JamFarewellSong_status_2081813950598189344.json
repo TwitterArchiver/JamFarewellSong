@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2081813950598189344",
+    "created_at": "2026-07-27T18:48:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T19:48:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081813950598189344"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1748064252521545731",
+          "start": 3,
+          "username": "mihuanhuanhuan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081813950598189344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081151720080678958",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mihuanhuanhuan: 我大概前前后后花了超过一万块钱防止我和另一个人因为某个事件自杀，生气的是他说这些钱能买他的命，但实际上没有买到，也没有用这些钱去买沙发，也没有很大的地方可以放一个可以控制角度的皮制防水宜家沙发，也没有人会在皮制防水宜家沙发上草我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2081813950598189344",
+        "created_at": "2026-07-27T18:48:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T19:48:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081813950598189344"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1748064252521545731",
+              "start": 3,
+              "username": "mihuanhuanhuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081813950598189344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081151720080678958",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mihuanhuanhuan: 我大概前前后后花了超过一万块钱防止我和另一个人因为某个事件自杀，生气的是他说这些钱能买他的命，但实际上没有买到，也没有用这些钱去买沙发，也没有很大的地方可以放一个可以控制角度的皮制防水宜家沙发，也没有人会在皮制防水宜家沙发上草我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748064252521545731",
+        "conversation_id": "2081151720080678958",
+        "created_at": "2026-07-25T22:56:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T23:56:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081151720080678958"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hoshinofujivy/…",
+              "end": 138,
+              "expanded_url": "https://twitter.com/hoshinofujivy/status/2080829361478123666",
+              "start": 115,
+              "url": "https://t.co/BbqStR9QgM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081151720080678958",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 53,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080829361478123666",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我大概前前后后花了超过一万块钱防止我和另一个人因为某个事件自杀，生气的是他说这些钱能买他的命，但实际上没有买到，也没有用这些钱去买沙发，也没有很大的地方可以放一个可以控制角度的皮制防水宜家沙发，也没有人会在皮制防水宜家沙发上草我 https://t.co/BbqStR9QgM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX（断糖中）&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od&自伤新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 484,
+          "following_count": 1574,
+          "like_count": 6404,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 1449
+        },
+        "url": "",
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-18T19:26:25.000Z",
+        "description": "杭州拍摄剪辑/mtx/intp\n懂一点点心理学和商业 目前宅家度过抑郁期\n蓝标互关 我需要钱 但目前没精力\n如果你有自杀风险或者od失控风险请远离我",
+        "id": "1748064252521545731",
+        "location": "杭州",
+        "name": "迷幻章鱼🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756361529560064000/cWcrXvVc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 640,
+          "following_count": 538,
+          "like_count": 3662,
+          "listed_count": 3,
+          "media_count": 557,
+          "tweet_count": 4013
+        },
+        "url": "",
+        "username": "mihuanhuanhuan",
+        "verified": true
+      }
+    ]
+  }
+}

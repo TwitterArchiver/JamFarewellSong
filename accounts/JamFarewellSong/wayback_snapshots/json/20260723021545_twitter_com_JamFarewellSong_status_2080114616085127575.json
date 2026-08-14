@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2080114616085127575",
+    "created_at": "2026-07-23T02:15:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T03:15:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080114616085127575"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2048537365275422720",
+          "start": 3,
+          "username": "cmqxccc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080114616085127575",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064718668995706928",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cmqxccc: 承认反解离苏镁的错误也无法抹去你过去的罪行，那么多小白鼠受害者们曾经都听你的胡言乱语服下一堆乱七八糟的药物和原粉,还有那些奇奇怪怪的什么吃特辣辣椒反解离，干嚼茶叶咽下灌水催吐法,od促智药等等，谁知道这些东西对身体会造成什么的影响，你从未对这些小白鼠受…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 975,
+        "media_key": "3_2064718643272065024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKdaqq1boAAIXbs.jpg",
+        "width": 1122
+      },
+      {
+        "height": 240,
+        "media_key": "16_2064718643276255233",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HKdaqq2bkAEqP30.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HKdaqq2bkAEqP30.mp4"
+          }
+        ],
+        "width": 240
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2080114616085127575",
+        "created_at": "2026-07-23T02:15:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T03:15:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080114616085127575"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2048537365275422720",
+              "start": 3,
+              "username": "cmqxccc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080114616085127575",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064718668995706928",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cmqxccc: 承认反解离苏镁的错误也无法抹去你过去的罪行，那么多小白鼠受害者们曾经都听你的胡言乱语服下一堆乱七八糟的药物和原粉,还有那些奇奇怪怪的什么吃特辣辣椒反解离，干嚼茶叶咽下灌水催吐法,od促智药等等，谁知道这些东西对身体会造成什么的影响，你从未对这些小白鼠受…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064718643272065024",
+            "16_2064718643276255233"
+          ]
+        },
+        "author_id": "2048537365275422720",
+        "conversation_id": "2064718668995706928",
+        "created_at": "2026-06-10T14:37:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T15:37:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064718668995706928"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tttYZulLqt",
+              "end": 166,
+              "expanded_url": "https://x.com/cmqxccc/status/2064718668995706928/photo/1",
+              "media_key": "3_2064718643272065024",
+              "start": 143,
+              "url": "https://t.co/tttYZulLqt"
+            },
+            {
+              "display_url": "pic.x.com/tttYZulLqt",
+              "end": 166,
+              "expanded_url": "https://x.com/cmqxccc/status/2064718668995706928/photo/1",
+              "media_key": "16_2064718643276255233",
+              "start": 143,
+              "url": "https://t.co/tttYZulLqt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064718668995706928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1032,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "承认反解离苏镁的错误也无法抹去你过去的罪行，那么多小白鼠受害者们曾经都听你的胡言乱语服下一堆乱七八糟的药物和原粉,还有那些奇奇怪怪的什么吃特辣辣椒反解离，干嚼茶叶咽下灌水催吐法,od促智药等等，谁知道这些东西对身体会造成什么的影响，你从未对这些小白鼠受害者们有过一分歉意，真是虚伪啊。 https://t.co/tttYZulLqt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX（断糖中）&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od&自伤新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 440,
+          "following_count": 1427,
+          "like_count": 5999,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 1353
+        },
+        "url": "",
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-26T23:00:42.000Z",
+        "description": "/mtf hrt：22.12.8/欢迎大家和我互关互赞/前身@know_hhh51945/前前身@linghuajingming/@Masterlatos/\n人间没有伊甸园",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 30,
+                "username": "know_hhh51945"
+              },
+              {
+                "end": 64,
+                "start": 48,
+                "username": "linghuajingming"
+              },
+              {
+                "end": 77,
+                "start": 65,
+                "username": "Masterlatos"
+              }
+            ]
+          }
+        },
+        "id": "2048537365275422720",
+        "name": "彼岸境",
+        "pinned_tweet_id": "2053137254504443959",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071874760183533568/XNicnYIZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 206,
+          "like_count": 282,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 79
+        },
+        "url": "",
+        "username": "cmqxccc",
+        "verified": false
+      }
+    ]
+  }
+}

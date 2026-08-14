@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2083061349232586760",
+    "created_at": "2026-07-31T05:25:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T06:25:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083061349232586760"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2063957681984225280",
+          "start": 3,
+          "username": "YuwenMewo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083061349232586760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082383173154115978",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @YuwenMewo: 真正的问题并不是炫不炫耀\n这个圈子里面的人缺爱，我们都可以理解 你没有傻逼过吗？你没有缺爱过吗？\n真正重要的问题是\n我们中推跨圈一直是一个高压锅环境，一代人一代人的压，一代人一代人的提纯和影响\n你现在发出的盐，可能不会杀死你\n但真的会杀死未来的小女孩"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2083061349232586760",
+        "created_at": "2026-07-31T05:25:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T06:25:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083061349232586760"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2063957681984225280",
+              "start": 3,
+              "username": "YuwenMewo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083061349232586760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082383173154115978",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @YuwenMewo: 真正的问题并不是炫不炫耀\n这个圈子里面的人缺爱，我们都可以理解 你没有傻逼过吗？你没有缺爱过吗？\n真正重要的问题是\n我们中推跨圈一直是一个高压锅环境，一代人一代人的压，一代人一代人的提纯和影响\n你现在发出的盐，可能不会杀死你\n但真的会杀死未来的小女孩"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063957681984225280",
+        "conversation_id": "2082383173154115978",
+        "created_at": "2026-07-29T08:30:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T09:30:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082383173154115978"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Sorcerer1311/s…",
+              "end": 149,
+              "expanded_url": "https://twitter.com/Sorcerer1311/status/2081978717971312899",
+              "start": 126,
+              "url": "https://t.co/P9GOglGk0L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082383173154115978",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1498,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081978717971312899",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "真正的问题并不是炫不炫耀\n这个圈子里面的人缺爱，我们都可以理解 你没有傻逼过吗？你没有缺爱过吗？\n真正重要的问题是\n我们中推跨圈一直是一个高压锅环境，一代人一代人的压，一代人一代人的提纯和影响\n你现在发出的盐，可能不会杀死你\n但真的会杀死未来的小女孩 https://t.co/P9GOglGk0L"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX（断糖中）&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od&自伤新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 519,
+          "following_count": 1683,
+          "like_count": 6720,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 1555
+        },
+        "url": "",
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-08T12:21:21.000Z",
+        "description": "🏳️‍⚧️ MTF ♀\n🎂 10.19\n💉 HRT 2025.06.30\n🍥  持证含糖\n💻 科技宅一只\n✨ 努力长成理想中的自己",
+        "id": "2063957681984225280",
+        "name": "唐毓文",
+        "pinned_tweet_id": "2081227156424962265",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063959820148064256/gZr_9bTC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1437,
+          "following_count": 92,
+          "like_count": 182,
+          "listed_count": 5,
+          "media_count": 608,
+          "tweet_count": 1938
+        },
+        "url": "",
+        "username": "YuwenMewo",
+        "verified": true
+      }
+    ]
+  }
+}

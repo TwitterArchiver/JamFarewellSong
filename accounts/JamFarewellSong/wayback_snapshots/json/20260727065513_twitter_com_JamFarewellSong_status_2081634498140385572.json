@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2081634498140385572",
+    "created_at": "2026-07-27T06:55:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T07:55:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081634498140385572"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2037909112055300096",
+          "start": 3,
+          "username": "QueerLawWatchCN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081634498140385572",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080309677699543256",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @QueerLawWatchCN: 荷兰“零旗帜计划”将反同刑法带入公共空间🇳🇱🏳️‍🌈\n\n2026年7月7日至8月9日，荷兰公共艺术装置“零旗帜计划”（Zero Flags Project）正在阿姆斯特丹博物馆广场随世界骄傲节展出。同时，其为格拉斯哥2026年英联邦运动…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 512,
+        "media_key": "3_2080309151268311040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN6-JrBXkAAIKk9.png",
+        "width": 768
+      },
+      {
+        "height": 576,
+        "media_key": "3_2080309200454860800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN6-MiQWwAAJAHi.png",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2081634498140385572",
+        "created_at": "2026-07-27T06:55:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T07:55:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081634498140385572"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2037909112055300096",
+              "start": 3,
+              "username": "QueerLawWatchCN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081634498140385572",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080309677699543256",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @QueerLawWatchCN: 荷兰“零旗帜计划”将反同刑法带入公共空间🇳🇱🏳️‍🌈\n\n2026年7月7日至8月9日，荷兰公共艺术装置“零旗帜计划”（Zero Flags Project）正在阿姆斯特丹博物馆广场随世界骄傲节展出。同时，其为格拉斯哥2026年英联邦运动…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080309151268311040",
+            "3_2080309200454860800"
+          ]
+        },
+        "author_id": "2037909112055300096",
+        "conversation_id": "2080309677699543256",
+        "created_at": "2026-07-23T15:10:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T16:10:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080309677699543256"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0wdeQWBs7V",
+              "end": 204,
+              "expanded_url": "https://x.com/QueerLawWatchCN/status/2080309677699543256/photo/1",
+              "media_key": "3_2080309151268311040",
+              "start": 181,
+              "url": "https://t.co/0wdeQWBs7V"
+            },
+            {
+              "display_url": "pic.x.com/0wdeQWBs7V",
+              "end": 204,
+              "expanded_url": "https://x.com/QueerLawWatchCN/status/2080309677699543256/photo/1",
+              "media_key": "3_2080309200454860800",
+              "start": 181,
+              "url": "https://t.co/0wdeQWBs7V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080309677699543256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "zeroflagsproject.nl",
+                "end": 879,
+                "expanded_url": "https://www.zeroflagsproject.nl/",
+                "start": 856,
+                "url": "https://t.co/snRNv0xGXM"
+              },
+              {
+                "display_url": "database.ilga.org/criminalisatio…",
+                "end": 903,
+                "expanded_url": "https://database.ilga.org/criminalisation-consensual-same-sex-sexual-acts",
+                "start": 880,
+                "url": "https://t.co/Q6wOhoRHTj"
+              }
+            ]
+          },
+          "text": "荷兰“零旗帜计划”将反同刑法带入公共空间🇳🇱🏳️‍🌈\n\n2026年7月7日至8月9日，荷兰公共艺术装置“零旗帜计划”（Zero Flags Project）正在阿姆斯特丹博物馆广场随世界骄傲节展出。同时，其为格拉斯哥2026年英联邦运动会制作的特别版本“Zero Flags Commonwealth”，于7月22日至8月2日在苏格兰格拉斯哥 Merchant City 的 Candleriggs 展出，作为 Pride House Glasgow 2026 的一部分，免费向公众开放。\n\n荷兰非营利组织零旗帜计划基金会（Zero Flags Project Foundation）把一面面国旗置于城市广场、街道与 Pride 活动现场。它们并非庆典装饰，而是该组织所称的“羞耻旗帜”：代表至今仍以法律惩罚同性亲密关系或性别多元的国家和地区。项目目前列出63面旗帜，目标是让这个数字归零。\n\n展览最具辨识度的形式，是将国旗升上高杆、系上黑色哀悼缎带，并配合各地法律与惩罚信息。观众不是隔着展板阅读统计数字，而是在旗帜之间穿行，直面监禁、体罚乃至死刑仍可能施加于 LGBTQ+ 人群的现实。这件公共艺术作品因此被命名为“可见性纪念碑”（Monument of Visibility）。\n\n2025年7月18日至8月4日，项目曾在阿姆斯特丹博物馆广场（Museumplein）展出。7月29日，圣卢西亚最高法院裁定将同性关系入罪的法律违宪，现场随即撤下圣卢西亚国旗，换上彩虹旗，并向参观者说明这一法律进展。展览的“倒数”由此不只是象征，而成为可被看见的即时变化。\n\n零旗帜计划的核心不是把国旗或国家本身污名化，而是把国家仍在执行或保留的刑罚法律带入公共空间，并追问一件极其具体的事：当法律仍可因一个人的爱与身份而予以惩罚，“平等”究竟是否已经到来。该组织同时以“关注地区”（Area of Concern）标注一些未明文刑事化、却以反“宣传”、审查或集会限制压缩 LGBTQ+ 可见性与安全的地方。\n\n参考来源：\nhttps://t.co/snRNv0xGXM\nhttps://t.co/Q6wOhoRHTj"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 4208,
+          "like_count": 147,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "荷兰“零旗帜计划”将反同刑法带入公共空间🇳🇱🏳️‍🌈\n\n2026年7月7日至8月9日，荷兰公共艺术装置“零旗帜计划”（Zero Flags Project）正在阿姆斯特丹博物馆广场随世界骄傲节展出。同时，其为格拉斯哥2026年英联邦运动会制作的特别版本“Zero Flags Commonwealth”，于7月22日至8月2日在苏格兰格拉斯哥 Merchant https://t.co/0wdeQWBs7V"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX（断糖中）&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od&自伤新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 480,
+          "following_count": 1539,
+          "like_count": 6343,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 1430
+        },
+        "url": "",
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-28T15:08:39.000Z",
+        "description": "这里是阿冬。\n联系/投稿请私信或邮箱📮queerlawwatchcn@gmail.com\n关注全球LGBTQ运动经验和法律实践🏳️‍🌈🏳️‍⚧️，为关注中国的LGBTQ行动者提供他山之石。\ntracking queer law & policy globally | personal",
+        "id": "2037909112055300096",
+        "name": "阿冬的酷儿法律观察",
+        "pinned_tweet_id": "2068670204628910335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047360437906182144/TuWas3GX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1849,
+          "following_count": 1300,
+          "like_count": 1143,
+          "listed_count": 5,
+          "media_count": 36,
+          "tweet_count": 371
+        },
+        "url": "",
+        "username": "QueerLawWatchCN",
+        "verified": true
+      }
+    ]
+  }
+}

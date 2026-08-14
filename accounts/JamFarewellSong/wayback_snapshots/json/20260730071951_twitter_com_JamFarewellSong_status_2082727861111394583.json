@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2082727861111394583",
+    "created_at": "2026-07-30T07:19:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T08:19:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082727861111394583"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1299233902066692097",
+          "start": 3,
+          "username": "NekoSukiXoX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082727861111394583",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079529791074767240",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NekoSukiXoX: 閱讀書籍和抽大麻本質上沒有區別…都是捧著死去的植物產生幻覺…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2082727861111394583",
+        "created_at": "2026-07-30T07:19:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T08:19:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082727861111394583"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1299233902066692097",
+              "start": 3,
+              "username": "NekoSukiXoX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082727861111394583",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079529791074767240",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NekoSukiXoX: 閱讀書籍和抽大麻本質上沒有區別…都是捧著死去的植物產生幻覺…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1299233902066692097",
+        "conversation_id": "2079529791074767240",
+        "created_at": "2026-07-21T11:31:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T12:31:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079529791074767240"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079529791074767240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 606,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "閱讀書籍和抽大麻本質上沒有區別…都是捧著死去的植物產生幻覺…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX（断糖中）&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od&自伤新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 508,
+          "following_count": 1663,
+          "like_count": 6677,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 1546
+        },
+        "url": "",
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-28T06:34:47.000Z",
+        "description": "キモいの雑魚変態バカ一只/中英日はOK/喜欢碎碎念/2010.11出厂/初三在读/想要变成可爱的女孩子/水仙/深柜/MTF/酒蒙子/偶尔自残(确信)/不太敢鉴证/已累似/希望25岁前似掉/可互fo喔/匿名提问箱https://t.co/bEwcPWTArv\n恋人@Muchun_offical @NekoSukiXoX",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 146,
+                "start": 131,
+                "username": "Muchun_offical"
+              },
+              {
+                "end": 159,
+                "start": 147,
+                "username": "NekoSukiXoX"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/naizinaizinai",
+                "end": 128,
+                "expanded_url": "https://ngl.link/naizinaizinai",
+                "start": 105,
+                "url": "https://t.co/bEwcPWTArv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/naizinaizinai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/naizinaizinai",
+                "start": 0,
+                "url": "https://t.co/bEwcPWU8h3"
+              }
+            ]
+          }
+        },
+        "id": "1299233902066692097",
+        "location": "NightCity",
+        "name": "𝓝𝓪𝓲𝔃𝓲𝓝𝓪𝓲𝔃𝓲𝓝𝓪𝓲🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059999535716544513/0EsfSBv5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 410,
+          "following_count": 414,
+          "like_count": 480,
+          "listed_count": 1,
+          "media_count": 117,
+          "tweet_count": 443
+        },
+        "url": "https://t.co/bEwcPWU8h3",
+        "username": "NekoSukiXoX",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2083550574075867406",
+    "created_at": "2026-08-05T09:24:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T10:24:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084933627868229842"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2036760454178193408",
+          "start": 0,
+          "username": "yijianmei155"
+        },
+        {
+          "end": 30,
+          "id": "1499703566654607362",
+          "start": 14,
+          "username": "chenyil40891153"
+        },
+        {
+          "end": 40,
+          "id": "1883207896768651264",
+          "start": 31,
+          "username": "clem0216"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084933627868229842",
+    "in_reply_to_user_id": "2036760454178193408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083941237392916587",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yijianmei155 @chenyil40891153 @clem0216 ta在改编郭沫若的诗😆"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2083550574075867406",
+        "created_at": "2026-08-05T09:24:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T10:24:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084933627868229842"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2036760454178193408",
+              "start": 0,
+              "username": "yijianmei155"
+            },
+            {
+              "end": 30,
+              "id": "1499703566654607362",
+              "start": 14,
+              "username": "chenyil40891153"
+            },
+            {
+              "end": 40,
+              "id": "1883207896768651264",
+              "start": 31,
+              "username": "clem0216"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084933627868229842",
+        "in_reply_to_user_id": "2036760454178193408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083941237392916587",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yijianmei155 @chenyil40891153 @clem0216 ta在改编郭沫若的诗😆"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2036760454178193408",
+        "conversation_id": "2083550574075867406",
+        "created_at": "2026-08-02T15:41:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T16:41:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083941237392916587"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1499703566654607362",
+              "start": 0,
+              "username": "chenyil40891153"
+            },
+            {
+              "end": 26,
+              "id": "1883207896768651264",
+              "start": 17,
+              "username": "clem0216"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083941237392916587",
+        "in_reply_to_user_id": "1499703566654607362",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083724435769716902",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chenyil40891153 @clem0216 这家伙在说什么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX（断糖中）&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od&自伤新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 563,
+          "following_count": 1743,
+          "like_count": 6951,
+          "listed_count": 1,
+          "media_count": 18,
+          "tweet_count": 1680
+        },
+        "url": "",
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-25T11:01:55.000Z",
+        "description": "其实我本来没有政治倾向的，只不过长大之后你们都说不种族歧视不歧视lgbtqia+保护女性权力保护动物关爱大自然这些普世价值观叫白左。我也这样稀里糊涂地成左人了\n我的小头会控制大头别拷打我😭😭😭",
+        "id": "2036760454178193408",
+        "name": "一剪梅",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036760546217967616/o5uRArVC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 163,
+          "like_count": 21,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 215
+        },
+        "url": "",
+        "username": "yijianmei155",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-04T11:09:52.000Z",
+        "description": "",
+        "id": "1499703566654607362",
+        "name": "貓兒衝鋒",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682956452137406464/yurlTMLd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 16,
+          "like_count": 11,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 98
+        },
+        "url": "",
+        "username": "chenyil40891153",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-25T17:39:01.000Z",
+        "description": "🚪52 / 同类互fo / 09 / 重抑中焦 / od重度依赖 / oder / 偶尔👁️👁️一下fo / 准高三 / 休学中 / 查成分回fo / 没回fo请私 / 目标是成为1千五百fo的小v / 可以叫我小波奇或波奇酱，也可以叫我佳研.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/clem0216",
+                "end": 23,
+                "expanded_url": "https://ngl.link/clem0216",
+                "start": 0,
+                "url": "https://t.co/WPFwIPqCil"
+              }
+            ]
+          }
+        },
+        "id": "1883207896768651264",
+        "location": "在你心里",
+        "name": "波奇酱🍥.(药代版)",
+        "pinned_tweet_id": "2081722256087199971",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059902463524888576/lFO39T_3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1464,
+          "following_count": 806,
+          "like_count": 13750,
+          "listed_count": 2,
+          "media_count": 200,
+          "tweet_count": 1172
+        },
+        "url": "https://t.co/WPFwIPqCil",
+        "username": "clem0216",
+        "verified": true
+      }
+    ]
+  }
+}

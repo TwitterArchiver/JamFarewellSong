@@ -1,0 +1,333 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2083391038648205638",
+    "created_at": "2026-08-01T08:25:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T09:25:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083469254155026600"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2019464858006351872",
+          "start": 0,
+          "username": "kuluoyiluo002"
+        },
+        {
+          "end": 27,
+          "id": "1585145286598483968",
+          "start": 15,
+          "username": "lianyiganyu"
+        },
+        {
+          "end": 41,
+          "id": "1300828282061877249",
+          "start": 28,
+          "username": "HANLIANYI331"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083469254155026600",
+    "in_reply_to_user_id": "2019464858006351872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083391038648205638",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kuluoyiluo002 @lianyiganyu @HANLIANYI331 \n有人吞服了超过医疗剂量数十倍的米氮平，请求帮助😭😭😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2083391029735223296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOmxGm-acAAtgV5.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2083391038648205638",
+        "created_at": "2026-08-01T08:25:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T09:25:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083469254155026600"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2019464858006351872",
+              "start": 0,
+              "username": "kuluoyiluo002"
+            },
+            {
+              "end": 27,
+              "id": "1585145286598483968",
+              "start": 15,
+              "username": "lianyiganyu"
+            },
+            {
+              "end": 41,
+              "id": "1300828282061877249",
+              "start": 28,
+              "username": "HANLIANYI331"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083469254155026600",
+        "in_reply_to_user_id": "2019464858006351872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083391038648205638",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kuluoyiluo002 @lianyiganyu @HANLIANYI331 \n有人吞服了超过医疗剂量数十倍的米氮平，请求帮助😭😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083391029735223296"
+          ]
+        },
+        "author_id": "2019464858006351872",
+        "conversation_id": "2083391038648205638",
+        "created_at": "2026-08-01T03:15:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T04:15:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083391038648205638"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zy7sRZfIrg",
+              "end": 87,
+              "expanded_url": "https://x.com/kuluoyiluo002/status/2083391038648205638/photo/1",
+              "media_key": "3_2083391029735223296",
+              "start": 64,
+              "url": "https://t.co/zy7sRZfIrg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083391038648205638",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1610,
+          "like_count": 21,
+          "quote_count": 1,
+          "reply_count": 16,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "再见碎梦.. 再见伊洛.. 再见世界..\nUTC+8 11:15\n米氮平 1260mg (18t 30mg 48t 15mg) https://t.co/zy7sRZfIrg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX（断糖中）&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od&自伤新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 527,
+          "following_count": 1707,
+          "like_count": 6819,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 1614
+        },
+        "url": "",
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-05T17:35:26.000Z",
+        "description": "u/1f365*ｴｽﾄﾗｼﾞｵｰﾙ // 网瘾少女 / 常年性耳背 / 常年性过敏性鼻炎 / 主菜=上海全宇 / SSRI OD大师 / 血清素综合症爱好者 / 药源短缺 × 戒断战士 //《六⭐️干员伊洛为你所用～！》",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "isslivenow.com",
+                "end": 23,
+                "expanded_url": "https://isslivenow.com",
+                "start": 0,
+                "url": "https://t.co/UZqQzFC2yu"
+              }
+            ]
+          }
+        },
+        "id": "2019464858006351872",
+        "location": "International Space Station",
+        "name": "◈ 伊洛² ◈　🔪𓂸（六⭐️干员）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069822395335200770/529_1vlk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 94,
+          "like_count": 54,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 103
+        },
+        "url": "https://t.co/UZqQzFC2yu",
+        "username": "kuluoyiluo002",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-26T05:44:48.000Z",
+        "description": "本号为多人操作账号｜自杀报警求助、救助合作、提供资源（如工作岗位、住处)，申请成为危机干预志愿者（需要相关专业或经历，若无，可先看《助人技术》等书籍），可直接私信本号，或私信小组telegram账号https://t.co/qgwRSeN56m｜小组telegram频道https://t.co/BKQPZ0tsSi",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/lianyiganyu",
+                "end": 122,
+                "expanded_url": "http://t.me/lianyiganyu",
+                "start": 99,
+                "url": "https://t.co/qgwRSeN56m"
+              },
+              {
+                "display_url": "t.me/lianyixiaozu",
+                "end": 158,
+                "expanded_url": "https://t.me/lianyixiaozu",
+                "start": 135,
+                "url": "https://t.co/BKQPZ0tsSi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zhuanlan.zhihu.com/p/12543045359?…",
+                "end": 23,
+                "expanded_url": "https://zhuanlan.zhihu.com/p/12543045359?utm_psn=1855828674772881408",
+                "start": 0,
+                "url": "https://t.co/zkUVQf7Yqi"
+              }
+            ]
+          }
+        },
+        "id": "1585145286598483968",
+        "location": "武汉",
+        "name": "涟漪危机干预小组",
+        "pinned_tweet_id": "1883892557207470495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1732688890908307456/9XC7jh08_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4027,
+          "following_count": 6,
+          "like_count": 62,
+          "listed_count": 7,
+          "media_count": 38,
+          "tweet_count": 294
+        },
+        "url": "https://t.co/zkUVQf7Yqi",
+        "username": "lianyiganyu",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "ASD｜ADHD｜如有危机干预信息请私信X账号@lianyiganyu｜咨询复杂问题可以向我预约时间付费咨询，如需联系我本人请私信telegram账号https://t.co/DPmfCokcD1｜因为消息繁多，如遇不回复消息的情况请重复向我发送信息｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 23,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 98,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 75,
+                "url": "https://t.co/DPmfCokcD1"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "涟漪危机干预小组",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42082,
+          "following_count": 3952,
+          "like_count": 1943,
+          "listed_count": 4,
+          "media_count": 410,
+          "tweet_count": 3098
+        },
+        "url": "",
+        "username": "HANLIANYI331",
+        "verified": true
+      }
+    ]
+  }
+}

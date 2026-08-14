@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081687988900446209"
+      ],
+      "media_source_tweet_id": [
+        "2081688280765276287"
+      ]
+    },
+    "author_id": "1907414826101669888",
+    "conversation_id": "2083732111694147686",
+    "created_at": "2026-08-02T01:50:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T02:50:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083732111694147686"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2060679315126439936",
+          "start": 3,
+          "username": "KitsuMio7"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/youSKuXlFe",
+          "end": 53,
+          "expanded_url": "https://x.com/KitsuMio7/status/2081688280765276287/photo/1",
+          "media_key": "3_2081687988900446209",
+          "start": 30,
+          "url": "https://t.co/youSKuXlFe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083732111694147686",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081688280765276287",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KitsuMio7: “喂！女士！你有付钱吗？！” https://t.co/youSKuXlFe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1254,
+        "media_key": "3_2081687988900446209",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOOkMlebwAEX4aV.jpg",
+        "width": 1254
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081687988900446209"
+          ]
+        },
+        "author_id": "2060679315126439936",
+        "conversation_id": "2081688280765276287",
+        "created_at": "2026-07-27T10:28:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T11:28:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081688280765276287"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/youSKuXlFe",
+              "end": 38,
+              "expanded_url": "https://x.com/KitsuMio7/status/2081688280765276287/photo/1",
+              "media_key": "3_2081687988900446209",
+              "start": 15,
+              "url": "https://t.co/youSKuXlFe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081688280765276287",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 8005,
+          "like_count": 218,
+          "quote_count": 2,
+          "reply_count": 44,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "“喂！女士！你有付钱吗？！” https://t.co/youSKuXlFe"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081687988900446209"
+          ],
+          "media_source_tweet_id": [
+            "2081688280765276287"
+          ]
+        },
+        "author_id": "1907414826101669888",
+        "conversation_id": "2083732111694147686",
+        "created_at": "2026-08-02T01:50:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T02:50:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083732111694147686"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2060679315126439936",
+              "start": 3,
+              "username": "KitsuMio7"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/youSKuXlFe",
+              "end": 53,
+              "expanded_url": "https://x.com/KitsuMio7/status/2081688280765276287/photo/1",
+              "media_key": "3_2081687988900446209",
+              "start": 30,
+              "url": "https://t.co/youSKuXlFe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083732111694147686",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081688280765276287",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KitsuMio7: “喂！女士！你有付钱吗？！” https://t.co/youSKuXlFe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX（断糖中）&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od&自伤新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 538,
+          "following_count": 1724,
+          "like_count": 6858,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 1637
+        },
+        "url": "",
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-30T11:13:54.000Z",
+        "description": "MtF | HRT 2023 | ENTP | ASD | ADHD | DID | 早发性性别不一致 | 声音女性化 | MioMtFWiki 创建&维护者 | 激进形式平权主义 | 激进性别自决主义 | 反性别权利分化 | 反性别认同解构 | 碎碎念@KitsuMio7b | 同类互fo喵～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 138,
+                "start": 127,
+                "username": "KitsuMio7b"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kitsumio.github.io/MioMtFWiki",
+                "end": 23,
+                "expanded_url": "https://kitsumio.github.io/MioMtFWiki",
+                "start": 0,
+                "url": "https://t.co/Rw9ougFO2F"
+              }
+            ]
+          }
+        },
+        "id": "2060679315126439936",
+        "location": "距离你 325m",
+        "name": "橘川澪KitsuMio🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2067490830429118730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082448349387763712/cKmd-wgx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1812,
+          "following_count": 1236,
+          "like_count": 2469,
+          "listed_count": 5,
+          "media_count": 198,
+          "tweet_count": 1473
+        },
+        "url": "https://t.co/Rw9ougFO2F",
+        "username": "KitsuMio7",
+        "verified": true
+      }
+    ]
+  }
+}

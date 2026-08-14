@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2082558364836639148",
+    "created_at": "2026-07-30T02:05:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T03:05:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082648655530725558"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2062730121853992960",
+          "start": 0,
+          "username": "ZaKosauce"
+        },
+        {
+          "end": 25,
+          "id": "1598557374046179328",
+          "start": 11,
+          "username": "huihui_mikumi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082648655530725558",
+    "in_reply_to_user_id": "2062730121853992960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082621567738216603",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZaKosauce @huihui_mikumi 接脏水打可不比吞盐或者吞药死得轻松；另外谁家学校公司随便能找到危化品，你是学什么专业干什么工作的这么想当然，一堆人也没能活到上大学或者出去公司工作的年纪"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2082558364836639148",
+        "created_at": "2026-07-30T02:05:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T03:05:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082648655530725558"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2062730121853992960",
+              "start": 0,
+              "username": "ZaKosauce"
+            },
+            {
+              "end": 25,
+              "id": "1598557374046179328",
+              "start": 11,
+              "username": "huihui_mikumi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082648655530725558",
+        "in_reply_to_user_id": "2062730121853992960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082621567738216603",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZaKosauce @huihui_mikumi 接脏水打可不比吞盐或者吞药死得轻松；另外谁家学校公司随便能找到危化品，你是学什么专业干什么工作的这么想当然，一堆人也没能活到上大学或者出去公司工作的年纪"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2062730121853992960",
+        "conversation_id": "2082558364836639148",
+        "created_at": "2026-07-30T00:17:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T01:17:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082621567738216603"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1598557374046179328",
+              "start": 0,
+              "username": "huihui_mikumi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082621567738216603",
+        "in_reply_to_user_id": "1598557374046179328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082558364836639148",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huihui_mikumi 因为她们根本就是作秀，本质是渴求认同符号或者吸引关注(吞药死不了，大概率救活)所以才敢吞，想死还不简单？接管脏水往血管一打，或者学校公司实验室随便找个危化品一喝不就行了？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX（断糖中）&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od&自伤新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 502,
+          "following_count": 1631,
+          "like_count": 6594,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 1513
+        },
+        "url": "",
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-05T03:00:56.000Z",
+        "description": "数字绘画新手 | 重度动漫爱好者 丨172 54kg\n🏳️‍⚧️ HRT2023.12.17 | 欢迎聊天/留言 | 过程分享为主| 健身减脂 | COS准备ing\n 风格及穿搭探索中丨自然记录向",
+        "id": "2062730121853992960",
+        "name": "text",
+        "pinned_tweet_id": "2079069900040232969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062731870522200064/XHWoeTrD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 91,
+          "like_count": 238,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 244
+        },
+        "url": "",
+        "username": "ZaKosauce",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-02T05:59:21.000Z",
+        "description": "买糖🍬/危机干预/扩列/药物咨询🍥\nqq1621320515 微信admin22334\n\n21|心理委员|依存症|mtf|xyn|二次元|特别粘人|不可以欺负我|特别害羞|杂鱼|腹黑|病娇|缺爱|抖M/S|重抑|同类互fo\n\n 姐姐@Air_Yukiha 小贱狗 @yuerQwQ 小号@mikumi_huihui",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 127,
+                "start": 116,
+                "username": "Air_Yukiha"
+              },
+              {
+                "end": 140,
+                "start": 132,
+                "username": "yuerQwQ"
+              },
+              {
+                "end": 157,
+                "start": 143,
+                "username": "mikumi_huihui"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/mikumi_huihui",
+                "end": 23,
+                "expanded_url": "http://t.me/mikumi_huihui",
+                "start": 0,
+                "url": "https://t.co/OxJDjmVvNJ"
+              }
+            ]
+          }
+        },
+        "id": "1598557374046179328",
+        "name": "惠惠🍥🏳️‍⚧️（中二病也要mtf）(糖商)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038850222680633345/r8zG5Gc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2374,
+          "following_count": 1111,
+          "like_count": 1335,
+          "listed_count": 2,
+          "media_count": 276,
+          "tweet_count": 2815
+        },
+        "url": "https://t.co/OxJDjmVvNJ",
+        "username": "huihui_mikumi",
+        "verified": true
+      }
+    ]
+  }
+}

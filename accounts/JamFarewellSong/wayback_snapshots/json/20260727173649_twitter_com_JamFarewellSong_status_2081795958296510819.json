@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2081795958296510819",
+    "created_at": "2026-07-27T17:36:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T18:36:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081795958296510819"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2069160672672546816",
+          "start": 3,
+          "username": "BlackCrow1966"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081795958296510819",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081018578674090087",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BlackCrow1966: 煎熬地活下去 说不定希望就在前面了 没有也要活下去 为什么周遭这么混乱 我无能为力 可怕 什么做不到都 为什么不能学我像个鬼一样烂不拉几咕噜咕噜得活 我小学用头撞墙撞水池边初中就规划各种紫砂手段写遗书了  结果搞到最后又懦弱死不掉划手都不敢…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2081795958296510819",
+        "created_at": "2026-07-27T17:36:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T18:36:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081795958296510819"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2069160672672546816",
+              "start": 3,
+              "username": "BlackCrow1966"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081795958296510819",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081018578674090087",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BlackCrow1966: 煎熬地活下去 说不定希望就在前面了 没有也要活下去 为什么周遭这么混乱 我无能为力 可怕 什么做不到都 为什么不能学我像个鬼一样烂不拉几咕噜咕噜得活 我小学用头撞墙撞水池边初中就规划各种紫砂手段写遗书了  结果搞到最后又懦弱死不掉划手都不敢…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2069160672672546816",
+        "conversation_id": "2081018578674090087",
+        "created_at": "2026-07-25T14:07:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T15:07:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081018578674090087"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081018578674090087",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 190,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "煎熬地活下去 说不定希望就在前面了 没有也要活下去 为什么周遭这么混乱 我无能为力 可怕 什么做不到都 为什么不能学我像个鬼一样烂不拉几咕噜咕噜得活 我小学用头撞墙撞水池边初中就规划各种紫砂手段写遗书了  结果搞到最后又懦弱死不掉划手都不敢又觉得自己该死 如果什么都不知道就好了傻乎乎开开心"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX（断糖中）&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od&自伤新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 484,
+          "following_count": 1572,
+          "like_count": 6399,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 1447
+        },
+        "url": "",
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-22T20:50:56.000Z",
+        "description": "MTF/电影/文学/近现代史/ACG/音乐/摄影/交通/七大基础学科/社会主义宪政\n沉默之前，为我生命作永远的追逐",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "docuchina.cn",
+                "end": 23,
+                "expanded_url": "http://www.docuchina.cn/",
+                "start": 0,
+                "url": "https://t.co/xIdrdm9T1G"
+              }
+            ]
+          }
+        },
+        "id": "2069160672672546816",
+        "location": "沙坪坝",
+        "name": "胃烧书🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079296225107718144/1QX1LcKs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 508,
+          "like_count": 2530,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 652
+        },
+        "url": "https://t.co/xIdrdm9T1G",
+        "username": "BlackCrow1966",
+        "verified": false
+      }
+    ]
+  }
+}

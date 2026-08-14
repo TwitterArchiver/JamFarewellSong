@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2081444671646241064",
+    "created_at": "2026-07-31T12:49:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T13:49:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083173117686661148"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2080653636418326528",
+          "start": 0,
+          "username": "sanyueqiuqoji"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083173117686661148",
+    "in_reply_to_user_id": "2080653636418326528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081444671646241064",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sanyueqiuqoji “让我再拥抱一次你们，借着这份体温，死亡也不再冰冷”"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2081444671646241064",
+        "created_at": "2026-07-31T12:49:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T13:49:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083173117686661148"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2080653636418326528",
+              "start": 0,
+              "username": "sanyueqiuqoji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083173117686661148",
+        "in_reply_to_user_id": "2080653636418326528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081444671646241064",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sanyueqiuqoji “让我再拥抱一次你们，借着这份体温，死亡也不再冰冷”"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2080653636418326528",
+        "conversation_id": "2081444671646241064",
+        "created_at": "2026-07-26T18:20:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T19:20:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081444671646241064"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081444671646241064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 5083,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "人们死后会去哪里，我害怕孤独害怕冷，直至此刻身边任然空无一人，让我再拥抱一次你们，借着这份体温死亡也不在冰冷"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX（断糖中）&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od&自伤新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 522,
+          "following_count": 1686,
+          "like_count": 6729,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 1563
+        },
+        "url": "",
+        "username": "JamFarewellSong",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-24T14:05:53.000Z",
+        "description": "一只三秋，天然呆反应慢/社恐但是努力交友喵/终会和所有喜欢的人相见喵",
+        "id": "2080653636418326528",
+        "name": "三月秋🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080657562261663744/vzc9ZCOA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 16,
+          "like_count": 7,
+          "listed_count": 3,
+          "media_count": 0,
+          "tweet_count": 7
+        },
+        "url": "",
+        "username": "sanyueqiuqoji",
+        "verified": false
+      }
+    ]
+  }
+}
