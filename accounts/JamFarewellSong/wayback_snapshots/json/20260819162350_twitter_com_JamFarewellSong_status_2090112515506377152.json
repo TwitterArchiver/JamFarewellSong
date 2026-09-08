@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2090112515506377152",
+    "created_at": "2026-08-19T16:23:50.000Z",
+    "display_text_range": [
+      0,
+      30
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T17:23:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090112515506377152"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2034604809354137600",
+          "start": 3,
+          "username": "EmoVoooooo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090112515506377152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038227832766402692",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @EmoVoooooo: 20:12我的頭暈暈的好舒服"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2090112515506377152",
+        "created_at": "2026-08-19T16:23:50.000Z",
+        "display_text_range": [
+          0,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T17:23:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090112515506377152"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2034604809354137600",
+              "start": 3,
+              "username": "EmoVoooooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090112515506377152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038227832766402692",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @EmoVoooooo: 20:12我的頭暈暈的好舒服"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034604809354137600",
+        "conversation_id": "2038227832766402692",
+        "created_at": "2026-03-29T12:12:38.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-03-29T13:12:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038227832766402692"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038227832766402692",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2339,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "20:12我的頭暈暈的好舒服"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX（断糖中）&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od&自伤新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090112515506377152",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1907414826101669888/1775085260",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 567,
+          "following_count": 1728,
+          "like_count": 7082,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 1738
+        },
+        "url": "",
+        "username": "JamFarewellSong",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-19T12:16:33.000Z",
+        "description": "跨圈新晋神/出厂日期8.29.2011/hrt9.3.2022/自杀干预者/可以回fo私信就行/友亚文化/友lgbt/反神人/药物请转接@Noverdose_DBD",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 68,
+                "username": "Noverdose_DBD"
+              }
+            ]
+          }
+        },
+        "id": "2034604809354137600",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2038227832766402692",
+        "name": "Emo🏳️‍⚧️（二代目（黄推版",
+        "pinned_tweet_id": "2034606923224609012",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2034604809354137600/1773922709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034605077659602944/cbFqxSrQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 21,
+          "like_count": 13,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 56
+        },
+        "url": "",
+        "username": "EmoVoooooo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

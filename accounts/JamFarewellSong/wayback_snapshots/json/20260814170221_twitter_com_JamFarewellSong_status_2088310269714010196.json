@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2088310269714010196",
+    "created_at": "2026-08-14T17:02:21.000Z",
+    "display_text_range": [
+      0,
+      80
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T18:02:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088310269714010196"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1907414826101669888",
+          "start": 3,
+          "username": "JamFarewellSong"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088310269714010196",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088309887822651712",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JamFarewellSong: 你要是觉得不解气，非得以牙还牙以血偿血，可以来找我，免费给你捅几刀更狠的，我绝对一声不吭，也不会报警搞你，消消气行吧。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2088310269714010196",
+        "created_at": "2026-08-14T17:02:21.000Z",
+        "display_text_range": [
+          0,
+          80
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T18:02:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088310269714010196"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1907414826101669888",
+              "start": 3,
+              "username": "JamFarewellSong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088310269714010196",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088309887822651712",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @JamFarewellSong: 你要是觉得不解气，非得以牙还牙以血偿血，可以来找我，免费给你捅几刀更狠的，我绝对一声不吭，也不会报警搞你，消消气行吧。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2088309887822651712",
+        "created_at": "2026-08-14T17:00:50.000Z",
+        "display_text_range": [
+          0,
+          59
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T18:00:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088309887822651712"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/JamFarewellSon…",
+              "end": 83,
+              "expanded_url": "https://twitter.com/JamFarewellSong/status/2088309324359827507",
+              "start": 60,
+              "url": "https://t.co/2iIgopt2hg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088309887822651712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088309324359827507",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你要是觉得不解气，非得以牙还牙以血偿血，可以来找我，免费给你捅几刀更狠的，我绝对一声不吭，也不会报警搞你，消消气行吧。 https://t.co/2iIgopt2hg"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX（断糖中）&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od&自伤新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088310269714010196",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1907414826101669888/1775085260",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 572,
+          "following_count": 1746,
+          "like_count": 7057,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 1728
+        },
+        "url": "",
+        "username": "JamFarewellSong",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

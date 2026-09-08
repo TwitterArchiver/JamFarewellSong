@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2093986289578344585",
+    "created_at": "2026-08-30T08:56:50.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T09:56:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093986289578344585"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 24,
+          "start": 17,
+          "tag": "推友情況通報"
+        },
+        {
+          "end": 31,
+          "start": 25,
+          "tag": "中推讣告栏"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1663066129923981312",
+          "start": 3,
+          "username": "Ak1raQ_love"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093986289578344585",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093952105510048212",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ak1raQ_love: #推友情況通報 #中推讣告栏 封号/账号被冻结\nIrosas🍥🏳️‍⚧️3.0 [@]Irosas_MtF\nReiOᴗoಣ零酱🍥 [@]2020520Rei\n🍥爱晔🚀 [@]ye_and_yae\n酱葱🌱 [@]mio_negimeow\nlove…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1140,
+        "media_key": "3_2093952102678806528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ82V9jaQAAbFRO.jpg",
+        "width": 840
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2093986289578344585",
+        "created_at": "2026-08-30T08:56:50.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T09:56:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093986289578344585"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 24,
+              "start": 17,
+              "tag": "推友情況通報"
+            },
+            {
+              "end": 31,
+              "start": 25,
+              "tag": "中推讣告栏"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1663066129923981312",
+              "start": 3,
+              "username": "Ak1raQ_love"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093986289578344585",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093952105510048212",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ak1raQ_love: #推友情況通報 #中推讣告栏 封号/账号被冻结\nIrosas🍥🏳️‍⚧️3.0 [@]Irosas_MtF\nReiOᴗoಣ零酱🍥 [@]2020520Rei\n🍥爱晔🚀 [@]ye_and_yae\n酱葱🌱 [@]mio_negimeow\nlove…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093952102678806528"
+          ]
+        },
+        "author_id": "1663066129923981312",
+        "conversation_id": "2093952105510048212",
+        "created_at": "2026-08-30T06:41:00.000Z",
+        "display_text_range": [
+          0,
+          167
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T07:41:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093952105510048212"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "推友情況通報"
+            },
+            {
+              "end": 14,
+              "start": 8,
+              "tag": "中推讣告栏"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GjbkdszW68",
+              "end": 191,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/2093952105510048212/photo/1",
+              "media_key": "3_2093952102678806528",
+              "start": 168,
+              "url": "https://t.co/GjbkdszW68"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093952105510048212",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093952102678806528"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2669,
+          "like_count": 54,
+          "quote_count": 2,
+          "reply_count": 26,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "#推友情況通報 #中推讣告栏 封号/账号被冻结\nIrosas🍥🏳️‍⚧️3.0 [@]Irosas_MtF\nReiOᴗoಣ零酱🍥 [@]2020520Rei\n🍥爱晔🚀 [@]ye_and_yae\n酱葱🌱 [@]mio_negimeow\nlovely水 [@]lovelyshuimao\nSepMiao(二代目) [@]SepMiao2 https://t.co/GjbkdszW68"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX（断糖中）&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od&自伤新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093986289578344585",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1907414826101669888/1775085260",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 581,
+          "following_count": 1747,
+          "like_count": 7211,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 1793
+        },
+        "url": "",
+        "username": "JamFarewellSong",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/什么都不会/向往自由/#推友情況通報/原创meme/香香软软 @zhwevea/秋月喵 @qiuylove/日常 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 23,
+                "start": 16,
+                "tag": "推友情況通報"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 44,
+                "start": 36,
+                "username": "zhwevea"
+              },
+              {
+                "end": 58,
+                "start": 49,
+                "username": "qiuylove"
+              },
+              {
+                "end": 76,
+                "start": 62,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "is_identity_verified": true,
+        "location": "鹭岛",
+        "most_recent_tweet_id": "2093980408409145427",
+        "name": "🩷Akiramenai💫",
+        "pinned_tweet_id": "2092116629694058989",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1663066129923981312/1783771654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8837,
+          "following_count": 1282,
+          "like_count": 222568,
+          "listed_count": 6,
+          "media_count": 1278,
+          "tweet_count": 9326
+        },
+        "url": "",
+        "username": "Ak1raQ_love",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

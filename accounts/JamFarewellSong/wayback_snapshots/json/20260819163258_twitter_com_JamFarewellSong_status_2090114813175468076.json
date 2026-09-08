@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      }
+    ],
+    "conversation_id": "2090114813175468076",
+    "created_at": "2026-08-19T16:32:58.000Z",
+    "display_text_range": [
+      0,
+      139
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T17:32:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090114813175468076"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1512976991976402949",
+          "start": 3,
+          "username": "bghtnya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090114813175468076",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090008496783659075",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bghtnya: （修复版）《别惹小药娘》\n男怕变成娘 女怕变成郎😋\n我是跨圈第一药娘 冰棍特别烫🧊🔥\n拿出折叠刀🔪 像松坂砂糖🍬\n穿着水色经典套装空手打mai忙🧤\n药效春风常在 普瑞吃万两💊\n没钱去买补佳乐 打工又圆角🍥\n跨圈皇帝唐毓文 有话跟你讲📢\n药娘猫娘一声叫…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          }
+        ],
+        "conversation_id": "2090114813175468076",
+        "created_at": "2026-08-19T16:32:58.000Z",
+        "display_text_range": [
+          0,
+          139
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T17:32:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090114813175468076"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1512976991976402949",
+              "start": 3,
+              "username": "bghtnya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090114813175468076",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090008496783659075",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bghtnya: （修复版）《别惹小药娘》\n男怕变成娘 女怕变成郎😋\n我是跨圈第一药娘 冰棍特别烫🧊🔥\n拿出折叠刀🔪 像松坂砂糖🍬\n穿着水色经典套装空手打mai忙🧤\n药效春风常在 普瑞吃万两💊\n没钱去买补佳乐 打工又圆角🍥\n跨圈皇帝唐毓文 有话跟你讲📢\n药娘猫娘一声叫…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          }
+        ],
+        "conversation_id": "2090008496783659075",
+        "created_at": "2026-08-19T09:30:30.000Z",
+        "display_text_range": [
+          0,
+          148
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T10:30:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090008496783659075"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bghtnya/status…",
+              "end": 172,
+              "expanded_url": "https://twitter.com/bghtnya/status/2089972564881989924",
+              "start": 149,
+              "url": "https://t.co/70GoyZMvNu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090008496783659075",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "（修复版）《别惹小药娘》\n男怕变成娘 女怕变成郎😋\n我是跨圈第一药娘 冰棍特别烫🧊🔥\n拿出折叠刀🔪 像松坂砂糖🍬\n穿着水色经典套装空手打mai忙🧤\n药效春风常在 普瑞吃万两💊\n没钱去买补佳乐 打工又圆角🍥\n跨圈皇帝唐毓文 有话跟你讲📢\n药娘猫娘一声叫 直接喵喵响😺\n \n别惹木桶饭🚫 别惹小药娘😾\n别惹别惹满天星⭐️ 别惹小楠娘🔥\n别惹飞天猫🔊 别惹超天酱🌈\n别惹别惹N55🌪️ 别惹小姑娘💥"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1159,
+          "like_count": 12,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089972564881989924",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "（修复版）《别惹小药娘》\n男怕变成娘 女怕变成郎😋\n我是跨圈第一药娘 冰棍特别烫🧊🔥\n拿出折叠刀🔪 像松坂砂糖🍬\n穿着水色经典套装空手打mai忙🧤\n药效春风常在 普瑞吃万两💊\n没钱去买补佳乐 打工又圆角🍥\n跨圈皇帝唐毓文 有话跟你讲📢\n药娘猫娘一声叫 直接喵喵响😺\n \n别惹木桶饭🚫 别惹小药娘😾 https://t.co/70GoyZMvNu"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX（断糖中）&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od&自伤新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090114813175468076",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1907414826101669888/1775085260",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 567,
+          "following_count": 1730,
+          "like_count": 7093,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 1743
+        },
+        "url": "",
+        "username": "JamFarewellSong",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖🖥 大一计算机 /  🍰1989.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈  MTFTX.TransLes / 🦋 INFP-A  /   Ⓐ☭ 无政府共产主义   /   🪨登越无人见闻顶，重置五岳三山名",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mfuns.net/member/4328",
+                "end": 23,
+                "expanded_url": "https://mfuns.net/member/4328",
+                "start": 0,
+                "url": "https://t.co/o4J1P8mtmq"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "is_identity_verified": false,
+        "location": "https://github.com/bghtnya",
+        "most_recent_tweet_id": "2090085785072750657",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "2056035833543815506",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1512976991976402949/1688735742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055187971880759296/_-CqoRg3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10493,
+          "following_count": 2317,
+          "like_count": 181965,
+          "listed_count": 20,
+          "media_count": 4069,
+          "tweet_count": 49806
+        },
+        "url": "https://t.co/o4J1P8mtmq",
+        "username": "bghtnya",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

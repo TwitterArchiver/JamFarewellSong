@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2095160142476259328"
+      ],
+      "media_source_tweet_id": [
+        "2095160148486754712"
+      ]
+    },
+    "author_id": "1907414826101669888",
+    "conversation_id": "2096292418312392926",
+    "created_at": "2026-09-05T17:40:34.000Z",
+    "display_text_range": [
+      0,
+      47
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T18:40:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096292418312392926"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1846188581905485828",
+          "start": 3,
+          "username": "aaaa____dry"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OSe3Rvoq9g",
+          "end": 47,
+          "expanded_url": "https://x.com/aaaa____dry/status/2095160148486754712/photo/1",
+          "media_key": "3_2095160142476259328",
+          "start": 24,
+          "url": "https://t.co/OSe3Rvoq9g"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096292418312392926",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2095160142476259328"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 76
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095160148486754712",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @aaaa____dry: 脳まで浸って https://t.co/OSe3Rvoq9g"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2095160142476259328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HROBDIfasAA7m5K.jpg",
+        "width": 1547
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095160142476259328"
+          ],
+          "media_source_tweet_id": [
+            "2095160148486754712"
+          ]
+        },
+        "author_id": "1907414826101669888",
+        "conversation_id": "2096292418312392926",
+        "created_at": "2026-09-05T17:40:34.000Z",
+        "display_text_range": [
+          0,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T18:40:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096292418312392926"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1846188581905485828",
+              "start": 3,
+              "username": "aaaa____dry"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OSe3Rvoq9g",
+              "end": 47,
+              "expanded_url": "https://x.com/aaaa____dry/status/2095160148486754712/photo/1",
+              "media_key": "3_2095160142476259328",
+              "start": 24,
+              "url": "https://t.co/OSe3Rvoq9g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096292418312392926",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2095160142476259328"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 76
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095160148486754712",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @aaaa____dry: 脳まで浸って https://t.co/OSe3Rvoq9g"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095160142476259328"
+          ]
+        },
+        "author_id": "1846188581905485828",
+        "conversation_id": "2095160148486754712",
+        "created_at": "2026-09-02T14:41:20.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T15:41:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095160148486754712"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OSe3Rvoq9g",
+              "end": 30,
+              "expanded_url": "https://x.com/aaaa____dry/status/2095160148486754712/photo/1",
+              "media_key": "3_2095160142476259328",
+              "start": 7,
+              "url": "https://t.co/OSe3Rvoq9g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095160148486754712",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2095160142476259328"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 47,
+          "impression_count": 6340,
+          "like_count": 831,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 76
+        },
+        "reply_settings": "following",
+        "text": "脳まで浸って https://t.co/OSe3Rvoq9g"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX（断糖中）&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od&自伤新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096292418312392926",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1907414826101669888/1775085260",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 585,
+          "following_count": 1763,
+          "like_count": 7211,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 1802
+        },
+        "url": "",
+        "username": "JamFarewellSong",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-15T13:57:35.000Z",
+        "description": "無断転載❌\n⋆✴︎˚｡⋆感情と子供たちの絵*･ﾟ❤︎\nサブ垢→@mosohk_sub\nsuzuri→ https://t.co/wFxm2RRLUR",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 31,
+                "username": "mosohk_sub"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "suzuri.jp/Aaaadry",
+                "end": 74,
+                "expanded_url": "https://suzuri.jp/Aaaadry",
+                "start": 51,
+                "url": "https://t.co/wFxm2RRLUR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/aaaa_dry",
+                "end": 23,
+                "expanded_url": "https://lit.link/aaaa_dry",
+                "start": 0,
+                "url": "https://t.co/t6kH1MBSF1"
+              }
+            ]
+          }
+        },
+        "id": "1846188581905485828",
+        "is_identity_verified": false,
+        "location": " 𝐡_ @9_Un_ya__ ",
+        "most_recent_tweet_id": "2096250927883976805",
+        "name": "妄想癖",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1846188581905485828/1755557259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928593953114435584/vsRqgJsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15031,
+          "following_count": 157,
+          "like_count": 14300,
+          "listed_count": 47,
+          "media_count": 1907,
+          "tweet_count": 4321
+        },
+        "url": "https://t.co/t6kH1MBSF1",
+        "username": "aaaa____dry",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

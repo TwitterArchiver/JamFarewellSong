@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2092964943637479548",
+    "created_at": "2026-08-27T13:18:22.000Z",
+    "display_text_range": [
+      0,
+      79
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T14:18:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092964943637479548"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "4904324209",
+          "start": 3,
+          "username": "seikainobaka"
+        },
+        {
+          "end": 28,
+          "id": "1163460719465025536",
+          "start": 18,
+          "username": "SS3B_0016"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092964943637479548",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1745875614291427531",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @seikainobaka: @SS3B_0016 陌生人，\n夜已深\n记得拉紧手刹\n把车停好。\n\n然后坐进\n你朝思暮想的驾驶室，\n正牵位发车\n直至天堂。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2092964943637479548",
+        "created_at": "2026-08-27T13:18:22.000Z",
+        "display_text_range": [
+          0,
+          79
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T14:18:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092964943637479548"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "4904324209",
+              "start": 3,
+              "username": "seikainobaka"
+            },
+            {
+              "end": 28,
+              "id": "1163460719465025536",
+              "start": 18,
+              "username": "SS3B_0016"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092964943637479548",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1745875614291427531",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @seikainobaka: @SS3B_0016 陌生人，\n夜已深\n记得拉紧手刹\n把车停好。\n\n然后坐进\n你朝思暮想的驾驶室，\n正牵位发车\n直至天堂。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4904324209",
+        "conversation_id": "1745757685574947138",
+        "created_at": "2024-01-12T18:29:17.000Z",
+        "display_text_range": [
+          11,
+          61
+        ],
+        "edit_controls": {
+          "editable_until": "2024-01-12T19:29:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1745875614291427531"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1163460719465025536",
+              "start": 0,
+              "username": "SS3B_0016"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1745875614291427531",
+        "in_reply_to_user_id": "1163460719465025536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 10756,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1745757685574947138",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SS3B_0016 陌生人，\n夜已深\n记得拉紧手刹\n把车停好。\n\n然后坐进\n你朝思暮想的驾驶室，\n正牵位发车\n直至天堂。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX（断糖中）&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od&自伤新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092964943637479548",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1907414826101669888/1775085260",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 583,
+          "following_count": 1742,
+          "like_count": 7183,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 1774
+        },
+        "url": "",
+        "username": "JamFarewellSong",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-02-14T01:00:51.000Z",
+        "description": "CN：栀茗，但没整过正片（太懒）\n沉默的观测者，很少参与互动。\n沉迷sbeam🔥\n总是转推可爱小动物、二次元插画和沙雕视频，并且会写奇怪小作文，主页污染注意😇⚠\n看“黄”，但是河坝老哥，所以不看黄🥰\n温和的安社人，但谁要拿乱七八糟的牛马理论扰我雅兴，那我就是超级大献忠！🪓/⁠ᐠ⁠｡⁠ꞈ⁠｡⁠ᐟ⁠\\",
+        "id": "4904324209",
+        "is_identity_verified": false,
+        "location": "Titanic",
+        "most_recent_tweet_id": "2089391687546405279",
+        "name": "栀茗",
+        "pinned_tweet_id": "1746405571543351777",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4904324209/1686933665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1462844019634225152/D0YkMg2k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 526,
+          "like_count": 11490,
+          "listed_count": 1,
+          "media_count": 110,
+          "tweet_count": 1703
+        },
+        "url": "",
+        "username": "seikainobaka",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-08-19T14:40:38.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/SS3B_0016",
+                "end": 23,
+                "expanded_url": "https://t.me/SS3B_0016",
+                "start": 0,
+                "url": "https://t.co/LsBy1P83gG"
+              }
+            ]
+          }
+        },
+        "id": "1163460719465025536",
+        "is_identity_verified": false,
+        "location": "盐田港",
+        "most_recent_tweet_id": "1755610161975263353",
+        "name": "地铁八号线",
+        "pinned_tweet_id": "1687009418410688512",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1163460719465025536/1633704998",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1702202591646547969/Egfoodhs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14390,
+          "following_count": 739,
+          "like_count": 9805,
+          "listed_count": 58,
+          "media_count": 1066,
+          "tweet_count": 6828
+        },
+        "url": "https://t.co/LsBy1P83gG",
+        "username": "SS3B_0016",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

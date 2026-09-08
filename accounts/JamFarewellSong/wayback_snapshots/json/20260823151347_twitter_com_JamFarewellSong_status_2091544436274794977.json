@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2090416357045408140",
+    "created_at": "2026-08-23T15:13:47.000Z",
+    "display_text_range": [
+      36,
+      112
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T16:13:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091544436274794977"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1434540167344185344",
+          "start": 0,
+          "username": "LuoMaXiaozhang"
+        },
+        {
+          "end": 27,
+          "id": "2021385985612001280",
+          "start": 16,
+          "username": "msksml8964"
+        },
+        {
+          "end": 35,
+          "id": "2086286552595132416",
+          "start": 28,
+          "username": "lmdsf6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091544436274794977",
+    "in_reply_to_user_id": "1434540167344185344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090789067311186370",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LuoMaXiaozhang @msksml8964 @lmdsf6 不懂可以多看点正规医学科普，在医生的指导下使用雌激素进行治疗，不会对寿命有显著的负面影响，反而可能延寿，因为男性的平均寿命低于女性的原因之一就是睾酮伤身"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2090416357045408140",
+        "created_at": "2026-08-23T15:13:47.000Z",
+        "display_text_range": [
+          36,
+          112
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T16:13:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091544436274794977"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1434540167344185344",
+              "start": 0,
+              "username": "LuoMaXiaozhang"
+            },
+            {
+              "end": 27,
+              "id": "2021385985612001280",
+              "start": 16,
+              "username": "msksml8964"
+            },
+            {
+              "end": 35,
+              "id": "2086286552595132416",
+              "start": 28,
+              "username": "lmdsf6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091544436274794977",
+        "in_reply_to_user_id": "1434540167344185344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090789067311186370",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LuoMaXiaozhang @msksml8964 @lmdsf6 不懂可以多看点正规医学科普，在医生的指导下使用雌激素进行治疗，不会对寿命有显著的负面影响，反而可能延寿，因为男性的平均寿命低于女性的原因之一就是睾酮伤身"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1434540167344185344",
+        "conversation_id": "2090416357045408140",
+        "created_at": "2026-08-21T13:12:13.000Z",
+        "display_text_range": [
+          20,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T14:12:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090789067311186370"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2021385985612001280",
+              "start": 0,
+              "username": "msksml8964"
+            },
+            {
+              "end": 19,
+              "id": "2086286552595132416",
+              "start": 12,
+              "username": "lmdsf6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090789067311186370",
+        "in_reply_to_user_id": "2021385985612001280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090782869111423356",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@msksml8964 @lmdsf6 但现有手段都是折寿伤身的啊"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX（断糖中）&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od&自伤新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091544436274794977",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1907414826101669888/1775085260",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 574,
+          "following_count": 1736,
+          "like_count": 7153,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 1764
+        },
+        "url": "",
+        "username": "JamFarewellSong",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-09-05T15:33:35.000Z",
+        "description": "知识的芬芳，温柔的力量，我都有",
+        "id": "1434540167344185344",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091037082454266149",
+        "name": "校长 王",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1434540167344185344/1786451045",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087152657442156544/K8IXfrMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 274,
+          "like_count": 69,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 487
+        },
+        "url": "",
+        "username": "LuoMaXiaozhang",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-11T00:49:25.000Z",
+        "description": "非礼勿视，非礼勿听。在下东方彧卿，无心唐突，若有冒犯还请见谅。",
+        "id": "2021385985612001280",
+        "is_identity_verified": false,
+        "location": "0.1km",
+        "most_recent_tweet_id": "2091491274218209592",
+        "name": "东方彧卿",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2021385985612001280/1770771337",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062087359597056000/pUtBVXRM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 410,
+          "like_count": 3382,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 960
+        },
+        "url": "",
+        "username": "msksml8964",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-09T03:01:55.000Z",
+        "description": "🏳️‍⚧️18岁·mtf高三女生+业余作者 |CPTSD MDD GAD 患者 | 相信故事里的温柔也能照进现实 | 希望每个迷路的女孩都能被看见～（如果有最近去世的同类，可以联系我，我可以帮她做祷告，写讣告和悼文）",
+        "id": "2086286552595132416",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091461100978221471",
+        "name": "橘猫小支～🍥🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2086286552595132416/1786610127",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086287305321705474/yKuTR7rp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 321,
+          "following_count": 156,
+          "like_count": 27,
+          "listed_count": 3,
+          "media_count": 30,
+          "tweet_count": 114
+        },
+        "url": "",
+        "username": "lmdsf6",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

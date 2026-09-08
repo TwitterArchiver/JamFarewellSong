@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2090299135119478886",
+    "created_at": "2026-08-20T04:45:24.000Z",
+    "display_text_range": [
+      0,
+      99
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T05:45:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090299135119478886"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1868438397083410432",
+          "start": 3,
+          "username": "2020520Rei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090299135119478886",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090040621830672649",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @2020520Rei: 陪推友试车，店员问：呃……你们这边的话有证吗？有驾龄一年以上吗？\n        我：“呃……我们有精神病证，无证驾驶一年以上。”\n         店员：？？？？？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2090299135119478886",
+        "created_at": "2026-08-20T04:45:24.000Z",
+        "display_text_range": [
+          0,
+          99
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T05:45:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090299135119478886"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1868438397083410432",
+              "start": 3,
+              "username": "2020520Rei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090299135119478886",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090040621830672649",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @2020520Rei: 陪推友试车，店员问：呃……你们这边的话有证吗？有驾龄一年以上吗？\n        我：“呃……我们有精神病证，无证驾驶一年以上。”\n         店员：？？？？？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868438397083410432",
+        "conversation_id": "2090040621830672649",
+        "created_at": "2026-08-19T11:38:09.000Z",
+        "display_text_range": [
+          0,
+          83
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T12:38:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090040621830672649"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2090040621830672649",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 5806,
+          "like_count": 93,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "陪推友试车，店员问：呃……你们这边的话有证吗？有驾龄一年以上吗？\n        我：“呃……我们有精神病证，无证驾驶一年以上。”\n         店员：？？？？？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX（断糖中）&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od&自伤新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090299135119478886",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1907414826101669888/1775085260",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 570,
+          "following_count": 1732,
+          "like_count": 7116,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 1750
+        },
+        "url": "",
+        "username": "JamFarewellSong",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-12-15T23:30:20.000Z",
+        "description": "账号重生×3 | 重度抑郁 | 有认知障碍 |体弱多病 | MTF🏳️‍⚧️ | 只想做好自己 |  人美心善😘～| 163cm  45kg（小小只）              \nsteam好友代码——1129943180欢迎大家来玩\n😼猫砂盘：聊天群921102646\n阿零的小信箱↓↓↓📬🥰（有什么都可以说哦）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/2020520rei",
+                "end": 23,
+                "expanded_url": "https://ngl.link/2020520rei",
+                "start": 0,
+                "url": "https://t.co/GffDnIhzS2"
+              }
+            ]
+          }
+        },
+        "id": "1868438397083410432",
+        "is_identity_verified": false,
+        "location": "0km",
+        "most_recent_tweet_id": "2090295239223447747",
+        "name": "ReiOᴗoಣ零酱🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2090018550975213867",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1868438397083410432/1781224550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088824617892999168/riCha-o8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1146,
+          "following_count": 691,
+          "like_count": 4763,
+          "listed_count": 2,
+          "media_count": 69,
+          "tweet_count": 2564
+        },
+        "url": "https://t.co/GffDnIhzS2",
+        "username": "2020520Rei",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

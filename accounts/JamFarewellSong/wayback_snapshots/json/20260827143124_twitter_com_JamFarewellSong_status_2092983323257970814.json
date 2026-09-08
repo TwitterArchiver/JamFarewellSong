@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2092983323257970814",
+    "created_at": "2026-08-27T14:31:24.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T15:31:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092983323257970814"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1487318664797831170",
+          "start": 3,
+          "username": "oneamong_us"
+        },
+        {
+          "end": 30,
+          "id": "1163460719465025536",
+          "start": 20,
+          "username": "SS3B_0016"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092983323257970814",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 85
+    },
+    "referenced_tweets": [
+      {
+        "id": "1746213568582914358",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @oneamong_us: 盐田 @SS3B_0016 已于 12 日夜因心脏骤停逝世。从那时起只过了一夜有余，线上已经出现了零散的悼念，承载着各种各样重要的回忆。\n为了尽可能为大家保留这些重要的回忆，One Among Us 在征得盐田生前亲友同意之上，建立了一个临时的…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2092983323257970814",
+        "created_at": "2026-08-27T14:31:24.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T15:31:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092983323257970814"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1487318664797831170",
+              "start": 3,
+              "username": "oneamong_us"
+            },
+            {
+              "end": 30,
+              "id": "1163460719465025536",
+              "start": 20,
+              "username": "SS3B_0016"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092983323257970814",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 85
+        },
+        "referenced_tweets": [
+          {
+            "id": "1746213568582914358",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @oneamong_us: 盐田 @SS3B_0016 已于 12 日夜因心脏骤停逝世。从那时起只过了一夜有余，线上已经出现了零散的悼念，承载着各种各样重要的回忆。\n为了尽可能为大家保留这些重要的回忆，One Among Us 在征得盐田生前亲友同意之上，建立了一个临时的…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1487318664797831170",
+        "conversation_id": "1746213568582914358",
+        "created_at": "2024-01-13T16:52:12.000Z",
+        "display_text_range": [
+          0,
+          169
+        ],
+        "edit_controls": {
+          "editable_until": "2024-01-13T17:52:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1746213568582914358"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1163460719465025536",
+              "start": 3,
+              "username": "SS3B_0016"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "one-among.us/profile/SS3B_0…",
+              "end": 169,
+              "expanded_url": "https://one-among.us/profile/SS3B_0016",
+              "start": 146,
+              "status": 200,
+              "unwound_url": "https://one-among.us/profile/SS3B_0016/",
+              "url": "https://t.co/g0ldvz3lPG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1746213568582914358",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 63286,
+          "like_count": 429,
+          "quote_count": 10,
+          "reply_count": 47,
+          "retweet_count": 85
+        },
+        "reply_settings": "everyone",
+        "text": "盐田 @SS3B_0016 已于 12 日夜因心脏骤停逝世。从那时起只过了一夜有余，线上已经出现了零散的悼念，承载着各种各样重要的回忆。\n为了尽可能为大家保留这些重要的回忆，One Among Us 在征得盐田生前亲友同意之上，建立了一个临时的纪念页面。\n请大家把与 ta 的回忆留在这里吧：https://t.co/g0ldvz3lPG"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX（断糖中）&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od&自伤新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092983323257970814",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1907414826101669888/1775085260",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 583,
+          "following_count": 1744,
+          "like_count": 7176,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 1776
+        },
+        "url": "",
+        "username": "JamFarewellSong",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-01-29T06:56:27.000Z",
+        "description": "A memorial website for transgender individuals and allies passed away.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "one-among.us",
+                "end": 23,
+                "expanded_url": "http://one-among.us",
+                "start": 0,
+                "url": "https://t.co/XJtgxbaPrH"
+              }
+            ]
+          }
+        },
+        "id": "1487318664797831170",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090464370060919190",
+        "name": "那些秋叶 One Among Us",
+        "pinned_tweet_id": "2049039749411721538",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1487318664797831170/1671914997",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1603840942682869771/hvXZoAeE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3835,
+          "following_count": 8,
+          "like_count": 58,
+          "listed_count": 15,
+          "media_count": 20,
+          "tweet_count": 120
+        },
+        "url": "https://t.co/XJtgxbaPrH",
+        "username": "oneamong_us",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-08-19T14:40:38.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/SS3B_0016",
+                "end": 23,
+                "expanded_url": "https://t.me/SS3B_0016",
+                "start": 0,
+                "url": "https://t.co/LsBy1P83gG"
+              }
+            ]
+          }
+        },
+        "id": "1163460719465025536",
+        "is_identity_verified": false,
+        "location": "盐田港",
+        "most_recent_tweet_id": "1755610161975263353",
+        "name": "地铁八号线",
+        "pinned_tweet_id": "1687009418410688512",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1163460719465025536/1633704998",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1702202591646547969/Egfoodhs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14390,
+          "following_count": 739,
+          "like_count": 9805,
+          "listed_count": 58,
+          "media_count": 1066,
+          "tweet_count": 6828
+        },
+        "url": "https://t.co/LsBy1P83gG",
+        "username": "SS3B_0016",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

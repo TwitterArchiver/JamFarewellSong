@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2093980432824168560",
+    "created_at": "2026-08-31T02:31:39.000Z",
+    "display_text_range": [
+      11,
+      49
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T03:31:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094251743265894747"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1649076733700882434",
+          "start": 0,
+          "username": "suyingQAQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094251743265894747",
+    "in_reply_to_user_id": "1649076733700882434",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094208019433488524",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@suyingQAQ 额啊，发癫现场被抓住力Σ( ° △ °|||)︴\n们重力系文艺青年是这样的😈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2093980432824168560",
+        "created_at": "2026-08-31T02:31:39.000Z",
+        "display_text_range": [
+          11,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T03:31:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094251743265894747"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1649076733700882434",
+              "start": 0,
+              "username": "suyingQAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094251743265894747",
+        "in_reply_to_user_id": "1649076733700882434",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094208019433488524",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suyingQAQ 额啊，发癫现场被抓住力Σ( ° △ °|||)︴\n们重力系文艺青年是这样的😈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649076733700882434",
+        "conversation_id": "2093980432824168560",
+        "created_at": "2026-08-30T23:37:54.000Z",
+        "display_text_range": [
+          17,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T00:37:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094208019433488524"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1907414826101669888",
+              "start": 0,
+              "username": "JamFarewellSong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094208019433488524",
+        "in_reply_to_user_id": "1907414826101669888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093980432824168560",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JamFarewellSong 吓哭了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX（断糖中）&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od&自伤新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094251743265894747",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1907414826101669888/1775085260",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 583,
+          "following_count": 1746,
+          "like_count": 7203,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 1797
+        },
+        "url": "",
+        "username": "JamFarewellSong",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-04-20T15:45:13.000Z",
+        "description": "一只流浪非洲大野猫\n😺❤️‍🩹👉@FANNUO520\n请勿相信23点后吃完思诺思后说的每一句话",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "FANNUO520"
+              }
+            ]
+          }
+        },
+        "id": "1649076733700882434",
+        "is_identity_verified": false,
+        "location": "猫窝",
+        "most_recent_tweet_id": "2094208019433488524",
+        "name": "肥肥苏😼🏳️‍⚧️思诺思重度依赖",
+        "pinned_tweet_id": "2054889271069483496",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1649076733700882434/1688687758",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1815137282757902336/BvCOxmjR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1581,
+          "following_count": 778,
+          "like_count": 12729,
+          "listed_count": 2,
+          "media_count": 1242,
+          "tweet_count": 7824
+        },
+        "url": "",
+        "username": "suyingQAQ",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

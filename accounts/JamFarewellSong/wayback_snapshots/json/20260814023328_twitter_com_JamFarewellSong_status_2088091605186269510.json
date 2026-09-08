@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2088091605186269510",
+    "created_at": "2026-08-14T02:33:28.000Z",
+    "display_text_range": [
+      0,
+      46
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T03:33:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088091605186269510"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2087791968541929472",
+          "start": 3,
+          "username": "hamisa414"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088091605186269510",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087794414701978057",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hamisa414: 我又他妈转生了。。这次已经累了\n能认出我的熟人转一下吧\n淡推了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2088091605186269510",
+        "created_at": "2026-08-14T02:33:28.000Z",
+        "display_text_range": [
+          0,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T03:33:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088091605186269510"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2087791968541929472",
+              "start": 3,
+              "username": "hamisa414"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088091605186269510",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087794414701978057",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hamisa414: 我又他妈转生了。。这次已经累了\n能认出我的熟人转一下吧\n淡推了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2087791968541929472",
+        "conversation_id": "2087794414701978057",
+        "created_at": "2026-08-13T06:52:32.000Z",
+        "display_text_range": [
+          0,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T07:52:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087794414701978057"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2087794414701978057",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 672,
+          "like_count": 15,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "我又他妈转生了。。这次已经累了\n能认出我的熟人转一下吧\n淡推了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX（断糖中）&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od&自伤新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088091605186269510",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1907414826101669888/1775085260",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 575,
+          "following_count": 1741,
+          "like_count": 7017,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 1720
+        },
+        "url": "",
+        "username": "JamFarewellSong",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-13T06:49:42.000Z",
+        "description": "前世@ANDEL0426 @adCa00414\n不o不割专心经营自己的尼古喵生活\n友跨｜烟鬼｜斑海豹厨｜4i\n精神不太好喜欢碎碎念\n请多多互fo…",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "ANDEL0426"
+              },
+              {
+                "end": 23,
+                "start": 13,
+                "username": "adCa00414"
+              }
+            ]
+          }
+        },
+        "id": "2087791968541929472",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088086997793710415",
+        "name": "AD钙milk",
+        "pinned_tweet_id": "2087794414701978057",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2087791968541929472/1786629120",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087794196644241409/i3jYf97r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 87,
+          "like_count": 33,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 25
+        },
+        "url": "",
+        "username": "hamisa414",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

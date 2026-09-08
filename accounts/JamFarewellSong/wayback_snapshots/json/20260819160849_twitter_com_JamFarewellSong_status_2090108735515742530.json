@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2090108735515742530",
+    "created_at": "2026-08-19T16:08:49.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T17:08:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090108735515742530"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1886054681635704832",
+          "start": 3,
+          "username": "Manglesuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090108735515742530",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044031280673894425",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Manglesuki: 讣告\n药物百科继沐雨死亡后第二位去世的 wiki 主凌雪\n真名 郭婧文\n因将曲马多缓释片嚼碎服用联用普瑞巴林和愈美片导致呼吸抑制死亡\n按医生原话 120 到场的时候 人就已经没了 他们只是照例抢救半个小时 现在尸体已经安放在太平间 等待家属到场开…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2090108735515742530",
+        "created_at": "2026-08-19T16:08:49.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T17:08:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090108735515742530"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1886054681635704832",
+              "start": 3,
+              "username": "Manglesuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090108735515742530",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044031280673894425",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Manglesuki: 讣告\n药物百科继沐雨死亡后第二位去世的 wiki 主凌雪\n真名 郭婧文\n因将曲马多缓释片嚼碎服用联用普瑞巴林和愈美片导致呼吸抑制死亡\n按医生原话 120 到场的时候 人就已经没了 他们只是照例抢救半个小时 现在尸体已经安放在太平间 等待家属到场开…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886054681635704832",
+        "conversation_id": "2044031280673894425",
+        "created_at": "2026-04-14T12:33:28.000Z",
+        "display_text_range": [
+          0,
+          133
+        ],
+        "edit_controls": {
+          "editable_until": "2026-04-14T13:33:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044031280673894425"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044031280673894425",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 39,
+          "impression_count": 39605,
+          "like_count": 232,
+          "quote_count": 6,
+          "reply_count": 26,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "讣告\n药物百科继沐雨死亡后第二位去世的 wiki 主凌雪\n真名 郭婧文\n因将曲马多缓释片嚼碎服用联用普瑞巴林和愈美片导致呼吸抑制死亡\n按医生原话 120 到场的时候 人就已经没了 他们只是照例抢救半个小时 现在尸体已经安放在太平间 等待家属到场开具死亡证明\n沉重悼念"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX（断糖中）&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od&自伤新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090108735515742530",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1907414826101669888/1775085260",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 567,
+          "following_count": 1724,
+          "like_count": 7065,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 1731
+        },
+        "url": "",
+        "username": "JamFarewellSong",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-02-02T14:11:02.000Z",
+        "description": "我是Onyxx/小鸮｜爱人@TUTU16016｜ENTP｜女生｜泛性恋｜药物百科wiki主@yaowubaike｜鸦鸦叫Gavin｜边缘型BPD｜DJ/调酒师/王者代练/底层画画的/coser/🏍️凯越525X｜171cm/51kg｜请找我玩！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 13,
+                "username": "TUTU16016"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "yaowubaike"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "https://yaowubaike.ca/",
+                "start": 0,
+                "url": "https://t.co/iv2t87QHvr"
+              }
+            ]
+          }
+        },
+        "id": "1886054681635704832",
+        "is_identity_verified": false,
+        "location": "Night city",
+        "most_recent_tweet_id": "2089597288620634363",
+        "name": "OnyxxOwl",
+        "pinned_tweet_id": "2024365569395642508",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1886054681635704832/1784149743",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077495322423738368/CahYMGJX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 820,
+          "following_count": 109,
+          "like_count": 613,
+          "listed_count": 0,
+          "media_count": 133,
+          "tweet_count": 546
+        },
+        "url": "https://t.co/iv2t87QHvr",
+        "username": "Manglesuki",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

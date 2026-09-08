@@ -1,0 +1,477 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1771906031184203776",
+        "3_1771906077837455360"
+      ],
+      "media_source_tweet_id": [
+        "1774466689633001855",
+        "1774466689633001855"
+      ]
+    },
+    "author_id": "1907414826101669888",
+    "conversation_id": "2092990453960634879",
+    "created_at": "2026-08-27T14:59:44.000Z",
+    "display_text_range": [
+      0,
+      130
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T15:59:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092990453960634879"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1368897611672018953",
+          "start": 3,
+          "username": "XUEQIUxka"
+        },
+        {
+          "end": 42,
+          "id": "1368897611672018953",
+          "start": 32,
+          "username": "XUEQIUxka"
+        },
+        {
+          "end": 58,
+          "id": "1647066084640722946",
+          "start": 44,
+          "username": "Nekohamoukyuu"
+        },
+        {
+          "end": 106,
+          "id": "942009203094315008",
+          "start": 93,
+          "username": "shi_Yumiaoya"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4tJGWxVCuY",
+          "end": 130,
+          "expanded_url": "https://x.com/XUEQIUxka/status/1774466689633001855/photo/1",
+          "media_key": "3_1771906031184203776",
+          "start": 107,
+          "url": "https://t.co/4tJGWxVCuY"
+        },
+        {
+          "display_url": "pic.x.com/4tJGWxVCuY",
+          "end": 130,
+          "expanded_url": "https://x.com/XUEQIUxka/status/1774466689633001855/photo/1",
+          "media_key": "3_1771906077837455360",
+          "start": 107,
+          "url": "https://t.co/4tJGWxVCuY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092990453960634879",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_1771906031184203776"
+      },
+      {
+        "media_key": "3_1771906077837455360"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1774466689633001855",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @XUEQIUxka: 尸体派对\n贴贴\n幸子小姐拜托了\n\n@XUEQIUxka \n@Nekohamoukyuu \n@JoseToYuToMiao \n@kokowamakotsu \n@shi_Yumiaoya https://t.co/4tJGWxVCuY"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [Nekohamoukyuu].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "Nekohamoukyuu",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.x.com/2/problems/resource-not-found",
+      "value": "Nekohamoukyuu"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_1771906031184203776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GJcTJbwbUAA3KSZ.jpg",
+        "width": 4096
+      },
+      {
+        "height": 3072,
+        "media_key": "3_1771906077837455360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GJcTMJjbcAAN7Tg.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1771906031184203776",
+            "3_1771906077837455360"
+          ],
+          "media_source_tweet_id": [
+            "1774466689633001855",
+            "1774466689633001855"
+          ]
+        },
+        "author_id": "1907414826101669888",
+        "conversation_id": "2092990453960634879",
+        "created_at": "2026-08-27T14:59:44.000Z",
+        "display_text_range": [
+          0,
+          130
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T15:59:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092990453960634879"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1368897611672018953",
+              "start": 3,
+              "username": "XUEQIUxka"
+            },
+            {
+              "end": 42,
+              "id": "1368897611672018953",
+              "start": 32,
+              "username": "XUEQIUxka"
+            },
+            {
+              "end": 58,
+              "id": "1647066084640722946",
+              "start": 44,
+              "username": "Nekohamoukyuu"
+            },
+            {
+              "end": 106,
+              "id": "942009203094315008",
+              "start": 93,
+              "username": "shi_Yumiaoya"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4tJGWxVCuY",
+              "end": 130,
+              "expanded_url": "https://x.com/XUEQIUxka/status/1774466689633001855/photo/1",
+              "media_key": "3_1771906031184203776",
+              "start": 107,
+              "url": "https://t.co/4tJGWxVCuY"
+            },
+            {
+              "display_url": "pic.x.com/4tJGWxVCuY",
+              "end": 130,
+              "expanded_url": "https://x.com/XUEQIUxka/status/1774466689633001855/photo/1",
+              "media_key": "3_1771906077837455360",
+              "start": 107,
+              "url": "https://t.co/4tJGWxVCuY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092990453960634879",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_1771906031184203776"
+          },
+          {
+            "media_key": "3_1771906077837455360"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1774466689633001855",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @XUEQIUxka: 尸体派对\n贴贴\n幸子小姐拜托了\n\n@XUEQIUxka \n@Nekohamoukyuu \n@JoseToYuToMiao \n@kokowamakotsu \n@shi_Yumiaoya https://t.co/4tJGWxVCuY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1771906031184203776",
+            "3_1771906077837455360"
+          ]
+        },
+        "author_id": "1368897611672018953",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1774466689633001855",
+        "created_at": "2024-03-31T16:00:01.000Z",
+        "display_text_range": [
+          0,
+          91
+        ],
+        "edit_controls": {
+          "editable_until": "2024-03-31T17:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1774466689633001855"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 27,
+              "id": "1368897611672018953",
+              "start": 17,
+              "username": "XUEQIUxka"
+            },
+            {
+              "end": 43,
+              "id": "1647066084640722946",
+              "start": 29,
+              "username": "Nekohamoukyuu"
+            },
+            {
+              "end": 91,
+              "id": "942009203094315008",
+              "start": 78,
+              "username": "shi_Yumiaoya"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4tJGWxVCuY",
+              "end": 115,
+              "expanded_url": "https://x.com/XUEQIUxka/status/1774466689633001855/photo/1",
+              "media_key": "3_1771906031184203776",
+              "start": 92,
+              "url": "https://t.co/4tJGWxVCuY"
+            },
+            {
+              "display_url": "pic.x.com/4tJGWxVCuY",
+              "end": 115,
+              "expanded_url": "https://x.com/XUEQIUxka/status/1774466689633001855/photo/1",
+              "media_key": "3_1771906077837455360",
+              "start": 92,
+              "url": "https://t.co/4tJGWxVCuY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1774466689633001855",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_1771906031184203776"
+          },
+          {
+            "media_key": "3_1771906077837455360"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 11341,
+          "like_count": 42,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "尸体派对\n贴贴\n幸子小姐拜托了\n\n@XUEQIUxka \n@Nekohamoukyuu \n@JoseToYuToMiao \n@kokowamakotsu \n@shi_Yumiaoya https://t.co/4tJGWxVCuY"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX（断糖中）&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od&自伤新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092990453960634879",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1907414826101669888/1775085260",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 583,
+          "following_count": 1746,
+          "like_count": 7186,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 1781
+        },
+        "url": "",
+        "username": "JamFarewellSong",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "原：雪秋小可爱，看简介&日常@Xyliaxka\n爱人：@yongquan\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 14,
+                "username": "Xyliaxka"
+              },
+              {
+                "end": 36,
+                "start": 27,
+                "username": "yongquan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "is_identity_verified": false,
+        "location": "雪球工业园",
+        "most_recent_tweet_id": "2092553389095723347",
+        "name": "雪秋",
+        "pinned_tweet_id": "2086069162305335385",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1368897611672018953/1774177998",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054858765954850816/zwnegy8n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9749,
+          "following_count": 2338,
+          "like_count": 33632,
+          "listed_count": 25,
+          "media_count": 1681,
+          "tweet_count": 6045
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-12-16T12:31:10.000Z",
+        "description": "为什么一个可爱的女生的灵魂会被限制在这具丑陋的男性躯体里呢。喜欢可爱的男孩子，最喜欢连连还有鲨鲨 ，想变成女孩子，mtx猫性别，日常焦虑抑郁，可能喜欢割手，不od。持证含糖，出柜失败，纯家暴党，2023/7/5第一次女装出街。老公@panpkin0973老婆@kashubosan1\n最后时陪伴的对象@XUEQIUxka",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 127,
+                "start": 115,
+                "username": "panpkin0973"
+              },
+              {
+                "end": 141,
+                "start": 129,
+                "username": "kashubosan1"
+              },
+              {
+                "end": 160,
+                "start": 150,
+                "username": "XUEQIUxka"
+              }
+            ]
+          }
+        },
+        "id": "942009203094315008",
+        "is_identity_verified": false,
+        "location": "江苏",
+        "most_recent_tweet_id": "1989582857086652804",
+        "name": "鱼喵（太宰喵版）",
+        "pinned_tweet_id": "1750211353472860546",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/942009203094315008/1681647015",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1678973215383879680/TJCnWz_6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1689,
+          "following_count": 631,
+          "like_count": 8217,
+          "listed_count": 17,
+          "media_count": 461,
+          "tweet_count": 1854
+        },
+        "url": "",
+        "username": "shi_Yumiaoya",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

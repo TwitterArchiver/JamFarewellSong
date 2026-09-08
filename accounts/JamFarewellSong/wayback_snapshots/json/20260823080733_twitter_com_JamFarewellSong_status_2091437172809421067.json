@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2091437172809421067",
+    "created_at": "2026-08-23T08:07:33.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T09:07:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091437172809421067"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1150753335881826305",
+          "start": 3,
+          "username": "acacia038"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091437172809421067",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091390965307076677",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @acacia038: “跨性别医疗”是顺性别者的特权。\n因意外失去生殖器的顺男可以做阴茎成型，切除乳房的顺女可以要求乳房再造，性早熟的顺性别儿童可以名正言顺使用青春期阻滞剂，连激素药物都是为顺性别的需求开发的。\n而顺性别者不需要和家庭和精神科和守门人医疗体系反复漫长的拉…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2091437172809421067",
+        "created_at": "2026-08-23T08:07:33.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T09:07:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091437172809421067"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1150753335881826305",
+              "start": 3,
+              "username": "acacia038"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091437172809421067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091390965307076677",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @acacia038: “跨性别医疗”是顺性别者的特权。\n因意外失去生殖器的顺男可以做阴茎成型，切除乳房的顺女可以要求乳房再造，性早熟的顺性别儿童可以名正言顺使用青春期阻滞剂，连激素药物都是为顺性别的需求开发的。\n而顺性别者不需要和家庭和精神科和守门人医疗体系反复漫长的拉…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1150753335881826305",
+        "conversation_id": "2091390965307076677",
+        "created_at": "2026-08-23T05:03:56.000Z",
+        "display_text_range": [
+          0,
+          142
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T06:03:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091390965307076677"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2091390965307076677",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 1529,
+          "like_count": 59,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "“跨性别医疗”是顺性别者的特权。\n因意外失去生殖器的顺男可以做阴茎成型，切除乳房的顺女可以要求乳房再造，性早熟的顺性别儿童可以名正言顺使用青春期阻滞剂，连激素药物都是为顺性别的需求开发的。\n而顺性别者不需要和家庭和精神科和守门人医疗体系反复漫长的拉锯战，只要有医疗需求，就能享有这一切"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX（断糖中）&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od&自伤新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091437172809421067",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1907414826101669888/1775085260",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 574,
+          "following_count": 1734,
+          "like_count": 7123,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 1752
+        },
+        "url": "",
+        "username": "JamFarewellSong",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-07-15T13:05:50.000Z",
+        "description": "飼い殺してくれますか",
+        "id": "1150753335881826305",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091397402766766223",
+        "name": "Charlotte",
+        "pinned_tweet_id": "2084147417440547047",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1150753335881826305/1784478996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077063532315619328/MwXmHmj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 708,
+          "following_count": 329,
+          "like_count": 4930,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 2192
+        },
+        "url": "",
+        "username": "acacia038",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

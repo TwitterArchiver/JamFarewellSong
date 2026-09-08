@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1733646359323086848"
+      ],
+      "media_source_tweet_id": [
+        "1733646362603065538"
+      ]
+    },
+    "author_id": "1907414826101669888",
+    "conversation_id": "2093721345725202778",
+    "created_at": "2026-08-29T15:24:02.000Z",
+    "display_text_range": [
+      0,
+      88
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-29T16:24:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093721345725202778"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1163460719465025536",
+          "start": 3,
+          "username": "SS3B_0016"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lSPHdhgjhM",
+          "end": 88,
+          "expanded_url": "https://x.com/SS3B_0016/status/1733646362603065538/photo/1",
+          "media_key": "3_1733646359323086848",
+          "start": 65,
+          "url": "https://t.co/lSPHdhgjhM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093721345725202778",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_1733646359323086848"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "1733646362603065538",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SS3B_0016: 蘑菇父亲的话。\n很悲哀。\n但我进去过，我戴过小手镯，我蹲过号子。事情还得继续，盐田从来不是老实人。 https://t.co/lSPHdhgjhM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 494,
+        "media_key": "3_1733646359323086848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GA8mLbWaEAAilHY.jpg",
+        "width": 1220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1733646359323086848"
+          ],
+          "media_source_tweet_id": [
+            "1733646362603065538"
+          ]
+        },
+        "author_id": "1907414826101669888",
+        "conversation_id": "2093721345725202778",
+        "created_at": "2026-08-29T15:24:02.000Z",
+        "display_text_range": [
+          0,
+          88
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T16:24:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093721345725202778"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1163460719465025536",
+              "start": 3,
+              "username": "SS3B_0016"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lSPHdhgjhM",
+              "end": 88,
+              "expanded_url": "https://x.com/SS3B_0016/status/1733646362603065538/photo/1",
+              "media_key": "3_1733646359323086848",
+              "start": 65,
+              "url": "https://t.co/lSPHdhgjhM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093721345725202778",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_1733646359323086848"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "1733646362603065538",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SS3B_0016: 蘑菇父亲的话。\n很悲哀。\n但我进去过，我戴过小手镯，我蹲过号子。事情还得继续，盐田从来不是老实人。 https://t.co/lSPHdhgjhM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1733646359323086848"
+          ]
+        },
+        "author_id": "1163460719465025536",
+        "conversation_id": "1733646362603065538",
+        "created_at": "2023-12-10T00:34:37.000Z",
+        "display_text_range": [
+          0,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2023-12-10T01:34:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1733646362603065538"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lSPHdhgjhM",
+              "end": 73,
+              "expanded_url": "https://x.com/SS3B_0016/status/1733646362603065538/photo/1",
+              "media_key": "3_1733646359323086848",
+              "start": 50,
+              "url": "https://t.co/lSPHdhgjhM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1733646362603065538",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_1733646359323086848"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 47070,
+          "like_count": 249,
+          "quote_count": 2,
+          "reply_count": 16,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "蘑菇父亲的话。\n很悲哀。\n但我进去过，我戴过小手镯，我蹲过号子。事情还得继续，盐田从来不是老实人。 https://t.co/lSPHdhgjhM"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX（断糖中）&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od&自伤新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093721345725202778",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1907414826101669888/1775085260",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 583,
+          "following_count": 1748,
+          "like_count": 7196,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 1786
+        },
+        "url": "",
+        "username": "JamFarewellSong",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-08-19T14:40:38.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/SS3B_0016",
+                "end": 23,
+                "expanded_url": "https://t.me/SS3B_0016",
+                "start": 0,
+                "url": "https://t.co/LsBy1P83gG"
+              }
+            ]
+          }
+        },
+        "id": "1163460719465025536",
+        "is_identity_verified": false,
+        "location": "盐田港",
+        "most_recent_tweet_id": "1755610161975263353",
+        "name": "地铁八号线",
+        "pinned_tweet_id": "1687009418410688512",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1163460719465025536/1633704998",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1702202591646547969/Egfoodhs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14382,
+          "following_count": 739,
+          "like_count": 9802,
+          "listed_count": 57,
+          "media_count": 1066,
+          "tweet_count": 6828
+        },
+        "url": "https://t.co/LsBy1P83gG",
+        "username": "SS3B_0016",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2096742537314873770",
+    "created_at": "2026-09-06T23:29:11.000Z",
+    "display_text_range": [
+      0,
+      78
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T00:29:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096742537314873770"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1775688932203626497",
+          "start": 3,
+          "username": "Cici060611"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096742537314873770",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 221
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088272703316988410",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Cici060611: 这个世界可以给内向的人多一点生存空间吗。小时候丢手绢，击鼓传花，讲台上的自我介绍，每一项被冠以活跃气氛的游戏都感觉在霸凌我。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2096742537314873770",
+        "created_at": "2026-09-06T23:29:11.000Z",
+        "display_text_range": [
+          0,
+          78
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T00:29:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096742537314873770"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1775688932203626497",
+              "start": 3,
+              "username": "Cici060611"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096742537314873770",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 221
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088272703316988410",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Cici060611: 这个世界可以给内向的人多一点生存空间吗。小时候丢手绢，击鼓传花，讲台上的自我介绍，每一项被冠以活跃气氛的游戏都感觉在霸凌我。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775688932203626497",
+        "conversation_id": "2088272703316988410",
+        "created_at": "2026-08-14T14:33:05.000Z",
+        "display_text_range": [
+          0,
+          62
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T15:33:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088272703316988410"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2088272703316988410",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 39,
+          "impression_count": 81302,
+          "like_count": 2892,
+          "quote_count": 25,
+          "reply_count": 218,
+          "retweet_count": 221
+        },
+        "reply_settings": "everyone",
+        "text": "这个世界可以给内向的人多一点生存空间吗。小时候丢手绢，击鼓传花，讲台上的自我介绍，每一项被冠以活跃气氛的游戏都感觉在霸凌我。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX（断糖中）&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od&自伤新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096742537314873770",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1907414826101669888/1775085260",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 589,
+          "following_count": 1765,
+          "like_count": 7210,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 1803
+        },
+        "url": "",
+        "username": "JamFarewellSong",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-04-04T00:57:03.000Z",
+        "description": "meitiandouhenfan",
+        "id": "1775688932203626497",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095941651915247924",
+        "name": "ra1ny_",
+        "pinned_tweet_id": "1959928354288587104",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1775688932203626497/1765944041",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095946425251307522/pJku0aqa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1241,
+          "following_count": 56,
+          "like_count": 561,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 1874
+        },
+        "url": "",
+        "username": "Cici060611",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

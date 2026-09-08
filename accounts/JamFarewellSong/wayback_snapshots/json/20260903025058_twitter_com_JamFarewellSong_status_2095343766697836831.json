@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2095343766697836831",
+    "created_at": "2026-09-03T02:50:58.000Z",
+    "display_text_range": [
+      0,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T03:50:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095343766697836831"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1953533344400195584",
+          "start": 3,
+          "username": "CeladonTwT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095343766697836831",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095084488401494254",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CeladonTwT: 致敬药圈传奇爱德华"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2095343766697836831",
+        "created_at": "2026-09-03T02:50:58.000Z",
+        "display_text_range": [
+          0,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T03:50:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095343766697836831"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1953533344400195584",
+              "start": 3,
+              "username": "CeladonTwT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095343766697836831",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095084488401494254",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CeladonTwT: 致敬药圈传奇爱德华"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1953533344400195584",
+        "conversation_id": "2095084417953964222",
+        "created_at": "2026-09-02T09:40:41.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T10:40:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095084488401494254"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2095084488401494254",
+        "in_reply_to_user_id": "1953533344400195584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 73,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095084417953964222",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "致敬药圈传奇爱德华"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX（断糖中）&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od&自伤新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095343766697836831",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1907414826101669888/1775085260",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 589,
+          "following_count": 1759,
+          "like_count": 7206,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 1798
+        },
+        "url": "",
+        "username": "JamFarewellSong",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-07T19:07:29.000Z",
+        "description": "林思鹤 | 道教皈依居士 | AuDHD | 去性别 | 药理学/神经科学/精神分析/哲学相关",
+        "id": "1953533344400195584",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095084488401494254",
+        "name": "思鹤",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1953533344400195584/1755789183",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958547513167998976/CVFnaE5f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 30,
+          "like_count": 946,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 171
+        },
+        "url": "",
+        "username": "CeladonTwT",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

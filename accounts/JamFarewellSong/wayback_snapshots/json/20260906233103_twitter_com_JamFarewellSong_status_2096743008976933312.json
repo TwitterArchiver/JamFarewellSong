@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2096743008976933312",
+    "created_at": "2026-09-06T23:31:03.000Z",
+    "display_text_range": [
+      0,
+      55
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T00:31:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096743008976933312"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1987402138667130881",
+          "start": 3,
+          "username": "jkiesoft"
+        },
+        {
+          "end": 29,
+          "id": "1933855083634286592",
+          "start": 14,
+          "username": "kurokisama_TvT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096743008976933312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096729316818292795",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jkiesoft: @kurokisama_TvT 如果是重要的人，那么可以不顾一切的去找她……去吧。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2096743008976933312",
+        "created_at": "2026-09-06T23:31:03.000Z",
+        "display_text_range": [
+          0,
+          55
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T00:31:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096743008976933312"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1987402138667130881",
+              "start": 3,
+              "username": "jkiesoft"
+            },
+            {
+              "end": 29,
+              "id": "1933855083634286592",
+              "start": 14,
+              "username": "kurokisama_TvT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096743008976933312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096729316818292795",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jkiesoft: @kurokisama_TvT 如果是重要的人，那么可以不顾一切的去找她……去吧。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987402138667130881",
+        "conversation_id": "2096716933899182357",
+        "created_at": "2026-09-06T22:36:39.000Z",
+        "display_text_range": [
+          16,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T23:36:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096729316818292795"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1933855083634286592",
+              "start": 0,
+              "username": "kurokisama_TvT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096729316818292795",
+        "in_reply_to_user_id": "1933855083634286592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096716933899182357",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kurokisama_TvT 如果是重要的人，那么可以不顾一切的去找她……去吧。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX（断糖中）&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od&自伤新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096743008976933312",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1907414826101669888/1775085260",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 589,
+          "following_count": 1765,
+          "like_count": 7211,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 1804
+        },
+        "url": "",
+        "username": "JamFarewellSong",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-09T06:10:21.000Z",
+        "description": "二号机:@koysov2022\n非人哉",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 4,
+                "username": "koysov2022"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120069949",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120069949",
+                "start": 0,
+                "url": "https://t.co/MYZgVAViyV"
+              }
+            ]
+          }
+        },
+        "id": "1987402138667130881",
+        "is_identity_verified": false,
+        "location": "电波研究所",
+        "most_recent_tweet_id": "2096740306855313618",
+        "name": "kia",
+        "pinned_tweet_id": "2040333516790243786",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1987402138667130881/1784604220",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043260826774392832/Mu52LJKL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 263,
+          "following_count": 684,
+          "like_count": 16305,
+          "listed_count": 0,
+          "media_count": 529,
+          "tweet_count": 7613
+        },
+        "url": "https://t.co/MYZgVAViyV",
+        "username": "jkiesoft",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-14T11:52:45.000Z",
+        "description": "💊🔪🩸\n前世\n@kuroki___tomoko\n @nanahime1cpc",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 7,
+                "username": "kuroki___tomoko"
+              },
+              {
+                "end": 38,
+                "start": 25,
+                "username": "nanahime1cpc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurokisama",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kurokisama",
+                "start": 0,
+                "url": "https://t.co/VwLQTEXSp3"
+              }
+            ]
+          }
+        },
+        "id": "1933855083634286592",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096716933899182357",
+        "name": "黒木トモコ",
+        "pinned_tweet_id": "2095266325837041997",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1933855083634286592/1787231913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095266495253344256/FpcU34yk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 396,
+          "following_count": 572,
+          "like_count": 814,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 43
+        },
+        "url": "https://t.co/VwLQTEXSp3",
+        "username": "kurokisama_TvT",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
