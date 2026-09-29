@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-09-29T08:35:37",
+  "last_updated": "2026-09-29T08:36:20",
   "html": {
     "https://web.archive.org/web/20251022170627if_/https://twitter.com/JamFarewellSong/status/1981044493173608808": {
       "status": "done",
@@ -17119,7 +17119,7 @@
       "referenced_by": [
         "20260329204207_twitter_com_JamFarewellSong_status_2038356048973861270.json"
       ],
-      "last_updated": "2026-09-08T07:24:43"
+      "last_updated": "2026-09-29T08:36:19"
     },
     "https://video.twimg.com/ext_tw_video/2038886797082787840/pu/vid/avc1/720x1280/MGzBxk7yqmbMXAn2.mp4?tag=12": {
       "status": "failed_all",
@@ -17152,7 +17152,7 @@
         "20260410073050_twitter_com_JamFarewellSong_status_2042505569710621051.json",
         "20260410073102_twitter_com_JamFarewellSong_status_2042505622231638125.json"
       ],
-      "last_updated": "2026-09-08T07:24:43"
+      "last_updated": "2026-09-29T08:36:19"
     },
     "https://video.twimg.com/amplify_video/1934801998270091264/vid/avc1/544x720/8mUPDlWiu7ZpGa1I.mp4": {
       "status": "done",
@@ -17326,16 +17326,18 @@
       "last_updated": "2026-09-08T07:24:44"
     },
     "https://video.twimg.com/amplify_video/2097571831515627520/vid/avc1/720x1280/CmaZYze0cZJMf4bi.mp4": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260911014153_twitter_com_JamFarewellSong_status_2098225483586675075.json"
-      ]
+      ],
+      "last_updated": "2026-09-29T08:36:20"
     },
     "https://video.twimg.com/amplify_video/2102963703058739200/vid/avc1/1280x590/Ed5Nmhdi6Rnc9Yzl.mp4": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260924142559_twitter_com_JamFarewellSong_status_2103128821386162608.json"
-      ]
+      ],
+      "last_updated": "2026-09-29T08:36:20"
     }
   },
   "avatars": {
@@ -29231,8 +29233,8 @@
           "https://pbs.twimg.com/profile_images/1963871523082735616/Bl-ILJS5_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:41",
-      "miss_count": 35
+      "last_updated": "2026-09-29T08:36:19",
+      "miss_count": 36
     },
     "20251022171405_twitter_com_JamFarewellSong_status_1981046410889089053.json": {
       "status": "done",
@@ -29291,8 +29293,8 @@
           "https://pbs.twimg.com/profile_images/1963871523082735616/Bl-ILJS5_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:49",
-      "miss_count": 35
+      "last_updated": "2026-09-29T08:36:19",
+      "miss_count": 36
     },
     "20251023072535_twitter_com_JamFarewellSong_status_1981260698350211132.json": {
       "status": "done",
@@ -29321,8 +29323,8 @@
           "https://pbs.twimg.com/profile_images/1859532769594048512/bwdC5h00_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:35",
-      "miss_count": 35
+      "last_updated": "2026-09-29T08:36:19",
+      "miss_count": 36
     },
     "20251023073311_twitter_com_JamFarewellSong_status_1981262612840243484.json": {
       "status": "failed",
@@ -29337,8 +29339,8 @@
           "https://pbs.twimg.com/profile_images/1859532769594048512/bwdC5h00_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:36",
-      "miss_count": 35
+      "last_updated": "2026-09-29T08:36:19",
+      "miss_count": 36
     },
     "20251023073445_twitter_com_JamFarewellSong_status_1981263006765109267.json": {
       "status": "done",
@@ -29398,8 +29400,8 @@
           "https://pbs.twimg.com/profile_images/1909400417718697984/MZ6HHcVe_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:36",
-      "miss_count": 35
+      "last_updated": "2026-09-29T08:36:19",
+      "miss_count": 36
     },
     "20251024041947_twitter_com_JamFarewellSong_status_1981576330295775671.json": {
       "status": "failed",
@@ -29413,8 +29415,8 @@
           "https://pbs.twimg.com/profile_images/1909400417718697984/MZ6HHcVe_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:36",
-      "miss_count": 35
+      "last_updated": "2026-09-29T08:36:19",
+      "miss_count": 36
     },
     "20251101185921_twitter_com_JamFarewellSong_status_1984696783935885731.json": {
       "status": "done",
@@ -29460,8 +29462,8 @@
           "https://pbs.twimg.com/profile_images/1984290837677965312/pwoAuV9f_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:45",
-      "miss_count": 35
+      "last_updated": "2026-09-29T08:36:19",
+      "miss_count": 36
     },
     "20251106193111_twitter_com_JamFarewellSong_status_1986516731263918530.json": {
       "status": "done",
@@ -29524,8 +29526,8 @@
           "https://pbs.twimg.com/profile_images/1948968254443323393/ZIfIv4ZA_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:39",
-      "miss_count": 35
+      "last_updated": "2026-09-29T08:36:19",
+      "miss_count": 36
     },
     "20251209191434_twitter_com_JamFarewellSong_status_1998471349795479716.json": {
       "status": "done",
@@ -29552,8 +29554,8 @@
           "https://pbs.twimg.com/profile_images/1997302037944627200/F4mGNbtC_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:36",
-      "miss_count": 35
+      "last_updated": "2026-09-29T08:36:19",
+      "miss_count": 36
     },
     "20251215145755_twitter_com_JamFarewellSong_status_2000581088368853323.json": {
       "status": "failed",
@@ -29571,8 +29573,8 @@
           "https://pbs.twimg.com/profile_images/1989137189947510784/PVNYflHA_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:47",
-      "miss_count": 35
+      "last_updated": "2026-09-29T08:36:19",
+      "miss_count": 36
     },
     "20251217121205_twitter_com_JamFarewellSong_status_2001264131580838062.json": {
       "status": "failed",
@@ -29590,8 +29592,8 @@
           "https://pbs.twimg.com/profile_images/1970416869896265733/EPXCdoOg_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:47",
-      "miss_count": 35
+      "last_updated": "2026-09-29T08:36:19",
+      "miss_count": 36
     },
     "20260104170254_twitter_com_JamFarewellSong_status_2007860300012470649.json": {
       "status": "done",
@@ -29888,8 +29890,8 @@
           "https://pbs.twimg.com/profile_images/2009203275032350726/PGYv_RPG_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:32",
-      "miss_count": 35
+      "last_updated": "2026-09-29T08:36:19",
+      "miss_count": 36
     },
     "20260202235949_twitter_com_JamFarewellSong_status_2018474467895443893.json": {
       "status": "done",
@@ -29928,8 +29930,8 @@
           "https://pbs.twimg.com/profile_images/2017618397626871808/E9Ovv9d7_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:32",
-      "miss_count": 35
+      "last_updated": "2026-09-29T08:36:19",
+      "miss_count": 36
     },
     "20260210064101_twitter_com_JamFarewellSong_status_2021112149243052208.json": {
       "status": "done",
@@ -30095,8 +30097,8 @@
           "https://pbs.twimg.com/profile_images/2010705759475208194/F3qst3e9_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:32",
-      "miss_count": 35
+      "last_updated": "2026-09-29T08:36:19",
+      "miss_count": 36
     },
     "20260329203127_twitter_com_JamFarewellSong_status_2038353365005164749.json": {
       "status": "done",
@@ -30145,8 +30147,8 @@
           "https://pbs.twimg.com/profile_images/1783511007530491904/MO5W_MTf_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:32",
-      "miss_count": 35
+      "last_updated": "2026-09-29T08:36:19",
+      "miss_count": 36
     },
     "20260329205017_twitter_com_JamFarewellSong_status_2038358105076232546.json": {
       "status": "done",
@@ -30218,8 +30220,8 @@
           "https://pbs.twimg.com/profile_images/2005944188467306496/Nc0fJRQL_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:32",
-      "miss_count": 35
+      "last_updated": "2026-09-29T08:36:19",
+      "miss_count": 36
     },
     "20260331070119_twitter_com_JamFarewellSong_status_2038874261952287221.json": {
       "status": "done",
@@ -30279,8 +30281,8 @@
           "https://pbs.twimg.com/profile_images/1805344123525709824/8PQieLkR_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:42",
-      "miss_count": 35
+      "last_updated": "2026-09-29T08:36:19",
+      "miss_count": 36
     },
     "20260331184828_twitter_com_JamFarewellSong_status_2039052223351763354.json": {
       "status": "done",
@@ -30307,8 +30309,8 @@
           "https://pbs.twimg.com/profile_images/2038287122256302080/T-kolqI2_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:32",
-      "miss_count": 35
+      "last_updated": "2026-09-29T08:36:19",
+      "miss_count": 36
     },
     "20260331185545_twitter_com_JamFarewellSong_status_2039054056262672715.json": {
       "status": "done",
@@ -30422,8 +30424,8 @@
           "https://pbs.twimg.com/profile_images/2032645675612254208/588yugtP_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:32",
-      "miss_count": 35
+      "last_updated": "2026-09-29T08:36:19",
+      "miss_count": 36
     },
     "20260401215630_twitter_com_JamFarewellSong_status_2039461931384541362.json": {
       "status": "done",
@@ -30490,8 +30492,8 @@
           "https://pbs.twimg.com/profile_images/1983881937166159872/yEeUDUOU_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:32",
-      "miss_count": 35
+      "last_updated": "2026-09-29T08:36:19",
+      "miss_count": 36
     },
     "20260401234110_twitter_com_JamFarewellSong_status_2039488270736961731.json": {
       "status": "done",
@@ -30601,8 +30603,8 @@
           "https://pbs.twimg.com/profile_images/2035670602305122304/zXiLibal_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:32",
-      "miss_count": 35
+      "last_updated": "2026-09-29T08:36:19",
+      "miss_count": 36
     },
     "20260402161553_twitter_com_JamFarewellSong_status_2039738599252632030.json": {
       "status": "done",
@@ -30654,8 +30656,8 @@
           "https://pbs.twimg.com/profile_images/2010937703144230912/txSDt6ky_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:36",
-      "miss_count": 35
+      "last_updated": "2026-09-29T08:36:19",
+      "miss_count": 36
     },
     "20260402162539_twitter_com_JamFarewellSong_status_2039741058125574233.json": {
       "status": "done",
@@ -30960,8 +30962,8 @@
           "https://pbs.twimg.com/profile_images/2016575350965510144/2XNPGmpU_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:32",
-      "miss_count": 35
+      "last_updated": "2026-09-29T08:36:19",
+      "miss_count": 36
     },
     "20260405192438_twitter_com_JamFarewellSong_status_2040873265951097229.json": {
       "status": "failed",
@@ -30975,8 +30977,8 @@
           "https://pbs.twimg.com/profile_images/2040630513514549248/XfKNnj1m_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:32",
-      "miss_count": 35
+      "last_updated": "2026-09-29T08:36:19",
+      "miss_count": 36
     },
     "20260405195555_twitter_com_JamFarewellSong_status_2040881136143139278.json": {
       "status": "done",
@@ -31018,8 +31020,8 @@
           "https://pbs.twimg.com/profile_images/2039023815087566850/NH31PKtP_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:32",
-      "miss_count": 35
+      "last_updated": "2026-09-29T08:36:19",
+      "miss_count": 36
     },
     "20260405202708_twitter_com_JamFarewellSong_status_2040888993894785175.json": {
       "status": "done",
@@ -31121,8 +31123,8 @@
           "https://pbs.twimg.com/profile_images/2040872378071465984/qFyYn5RC_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:32",
-      "miss_count": 35
+      "last_updated": "2026-09-29T08:36:19",
+      "miss_count": 36
     },
     "20260405210947_twitter_com_JamFarewellSong_status_2040899726460227738.json": {
       "status": "done",
@@ -31219,8 +31221,8 @@
           "https://pbs.twimg.com/profile_images/1908782550824476675/HMvPdSuq_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:32",
-      "miss_count": 35
+      "last_updated": "2026-09-29T08:36:19",
+      "miss_count": 36
     },
     "20260405233616_twitter_com_JamFarewellSong_status_2040936590688858364.json": {
       "status": "done",
@@ -31360,8 +31362,8 @@
           "https://pbs.twimg.com/profile_images/1678973215383879680/TJCnWz_6_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:32",
-      "miss_count": 35
+      "last_updated": "2026-09-29T08:36:19",
+      "miss_count": 36
     },
     "20260406065028_twitter_com_JamFarewellSong_status_2041045860130467948.json": {
       "status": "done",
@@ -31386,8 +31388,8 @@
           "https://pbs.twimg.com/profile_images/2040049209597153280/GDAWZlX4_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:32",
-      "miss_count": 35
+      "last_updated": "2026-09-29T08:36:19",
+      "miss_count": 36
     },
     "20260406081452_twitter_com_JamFarewellSong_status_2041067099314143409.json": {
       "status": "done",
@@ -31478,8 +31480,8 @@
           "https://pbs.twimg.com/profile_images/1931327319425323008/TqukvQod_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:32",
-      "miss_count": 35
+      "last_updated": "2026-09-29T08:36:19",
+      "miss_count": 36
     },
     "20260406083408_twitter_com_JamFarewellSong_status_2041071947434676272.json": {
       "status": "done",
@@ -31559,8 +31561,8 @@
           "https://pbs.twimg.com/profile_images/2031760424920883200/DV4uG4Xo_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:32",
-      "miss_count": 35
+      "last_updated": "2026-09-29T08:36:19",
+      "miss_count": 36
     },
     "20260406093737_twitter_com_JamFarewellSong_status_2041087926491386072.json": {
       "status": "done",
@@ -31751,8 +31753,8 @@
           "https://pbs.twimg.com/profile_images/2040562202382618624/-GjJAhPc_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:44",
-      "miss_count": 35
+      "last_updated": "2026-09-29T08:36:19",
+      "miss_count": 36
     },
     "20260406111428_twitter_com_JamFarewellSong_status_2041112298597867646.json": {
       "status": "done",
@@ -31858,8 +31860,8 @@
           "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:36",
-      "miss_count": 35
+      "last_updated": "2026-09-29T08:36:19",
+      "miss_count": 36
     },
     "20260406162836_twitter_com_JamFarewellSong_status_2041191353242300858.json": {
       "status": "done",
@@ -31955,8 +31957,8 @@
           "https://pbs.twimg.com/profile_images/2039052513966800896/uHTGw-bW_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:32",
-      "miss_count": 35
+      "last_updated": "2026-09-29T08:36:19",
+      "miss_count": 36
     },
     "20260406180723_twitter_com_JamFarewellSong_status_2041216212726943908.json": {
       "status": "done",
@@ -31982,8 +31984,8 @@
           "https://pbs.twimg.com/profile_images/1831679763368353792/JCLSUlMG_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:32",
-      "miss_count": 35
+      "last_updated": "2026-09-29T08:36:19",
+      "miss_count": 36
     },
     "20260406181607_twitter_com_JamFarewellSong_status_2041218407962673576.json": {
       "status": "done",
@@ -32150,8 +32152,8 @@
           "https://pbs.twimg.com/profile_images/2041129916411101184/L2KSZRQK_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:32",
-      "miss_count": 35
+      "last_updated": "2026-09-29T08:36:19",
+      "miss_count": 36
     },
     "20260406195406_twitter_com_JamFarewellSong_status_2041243068381516006.json": {
       "status": "failed",
@@ -32165,8 +32167,8 @@
           "https://pbs.twimg.com/profile_images/2039688223329566720/RJXo5Ejr_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:32",
-      "miss_count": 35
+      "last_updated": "2026-09-29T08:36:19",
+      "miss_count": 36
     },
     "20260406195509_twitter_com_JamFarewellSong_status_2041243333633478983.json": {
       "status": "done",
@@ -32193,8 +32195,8 @@
           "https://pbs.twimg.com/profile_images/2036538174407602176/f3gEBOjw_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:32",
-      "miss_count": 35
+      "last_updated": "2026-09-29T08:36:19",
+      "miss_count": 36
     },
     "20260406202347_twitter_com_JamFarewellSong_status_2041250539527340255.json": {
       "status": "done",
@@ -32235,8 +32237,8 @@
           "https://pbs.twimg.com/profile_images/2040152875402448896/Y4juXxgn_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:32",
-      "miss_count": 35
+      "last_updated": "2026-09-29T08:36:19",
+      "miss_count": 36
     },
     "20260406211930_twitter_com_JamFarewellSong_status_2041264559697338679.json": {
       "status": "done",
@@ -32748,8 +32750,8 @@
           "https://pbs.twimg.com/profile_images/2008943119623188480/vmd2MtXn_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:32",
-      "miss_count": 35
+      "last_updated": "2026-09-29T08:36:19",
+      "miss_count": 36
     },
     "20260407203800_twitter_com_JamFarewellSong_status_2041616503997673769.json": {
       "status": "failed",
@@ -32762,8 +32764,8 @@
           "https://pbs.twimg.com/profile_images/2008943119623188480/vmd2MtXn_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:32",
-      "miss_count": 35
+      "last_updated": "2026-09-29T08:36:19",
+      "miss_count": 36
     },
     "20260407203934_twitter_com_JamFarewellSong_status_2041616895967998167.json": {
       "status": "failed",
@@ -32780,8 +32782,8 @@
           "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:45",
-      "miss_count": 35
+      "last_updated": "2026-09-29T08:36:19",
+      "miss_count": 36
     },
     "20260407204052_twitter_com_JamFarewellSong_status_2041617224088351219.json": {
       "status": "done",
@@ -32918,8 +32920,8 @@
           "https://pbs.twimg.com/profile_images/2036726953869549568/CsU2778i_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:36",
-      "miss_count": 35
+      "last_updated": "2026-09-29T08:36:19",
+      "miss_count": 36
     },
     "20260407210747_twitter_com_JamFarewellSong_status_2041623999441178673.json": {
       "status": "done",
@@ -32946,8 +32948,8 @@
           "https://pbs.twimg.com/profile_images/2037149597009928198/mPcUl3UR_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:32",
-      "miss_count": 35
+      "last_updated": "2026-09-29T08:36:19",
+      "miss_count": 36
     },
     "20260407213846_twitter_com_JamFarewellSong_status_2041631794190282795.json": {
       "status": "done",
@@ -33259,8 +33261,8 @@
           "https://pbs.twimg.com/profile_images/2041570538485956609/QSk4pqeb_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:36",
-      "miss_count": 35
+      "last_updated": "2026-09-29T08:36:19",
+      "miss_count": 36
     },
     "20260408115702_twitter_com_JamFarewellSong_status_2041847785977475284.json": {
       "status": "done",
@@ -33339,8 +33341,8 @@
           "https://pbs.twimg.com/profile_images/2041245441946513408/rP371w0K_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:36",
-      "miss_count": 35
+      "last_updated": "2026-09-29T08:36:19",
+      "miss_count": 36
     },
     "20260408134228_twitter_com_JamFarewellSong_status_2041874320713249011.json": {
       "status": "done",
@@ -33554,8 +33556,8 @@
           "https://pbs.twimg.com/profile_images/1850416286641315840/E0cnZUTW_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:36",
-      "miss_count": 35
+      "last_updated": "2026-09-29T08:36:19",
+      "miss_count": 36
     },
     "20260408200413_twitter_com_JamFarewellSong_status_2041970389035970877.json": {
       "status": "done",
@@ -33615,8 +33617,8 @@
           "https://pbs.twimg.com/profile_images/2041570538485956609/QSk4pqeb_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:40",
-      "miss_count": 35
+      "last_updated": "2026-09-29T08:36:19",
+      "miss_count": 36
     },
     "20260408202424_twitter_com_JamFarewellSong_status_2041975467058856032.json": {
       "status": "failed",
@@ -33631,8 +33633,8 @@
           "https://pbs.twimg.com/profile_images/2041570538485956609/QSk4pqeb_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:40",
-      "miss_count": 35
+      "last_updated": "2026-09-29T08:36:19",
+      "miss_count": 36
     },
     "20260409063902_twitter_com_JamFarewellSong_status_2042130145776169228.json": {
       "status": "failed",
@@ -33644,8 +33646,8 @@
           "https://pbs.twimg.com/profile_images/2041570538485956609/QSk4pqeb_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:32",
-      "miss_count": 35
+      "last_updated": "2026-09-29T08:36:19",
+      "miss_count": 36
     },
     "20260409063932_twitter_com_JamFarewellSong_status_2042130272863527146.json": {
       "status": "failed",
@@ -33657,8 +33659,8 @@
           "https://pbs.twimg.com/profile_images/2041570538485956609/QSk4pqeb_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:32",
-      "miss_count": 35
+      "last_updated": "2026-09-29T08:36:19",
+      "miss_count": 36
     },
     "20260409064530_twitter_com_JamFarewellSong_status_2042131772465672374.json": {
       "status": "failed",
@@ -33670,8 +33672,8 @@
           "https://pbs.twimg.com/profile_images/2041570538485956609/QSk4pqeb_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:32",
-      "miss_count": 35
+      "last_updated": "2026-09-29T08:36:19",
+      "miss_count": 36
     },
     "20260409065015_twitter_com_JamFarewellSong_status_2042132970946113815.json": {
       "status": "failed",
@@ -33683,8 +33685,8 @@
           "https://pbs.twimg.com/profile_images/2041570538485956609/QSk4pqeb_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:32",
-      "miss_count": 35
+      "last_updated": "2026-09-29T08:36:19",
+      "miss_count": 36
     },
     "20260409065028_twitter_com_JamFarewellSong_status_2042133023785935023.json": {
       "status": "failed",
@@ -33696,8 +33698,8 @@
           "https://pbs.twimg.com/profile_images/2041570538485956609/QSk4pqeb_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:32",
-      "miss_count": 35
+      "last_updated": "2026-09-29T08:36:19",
+      "miss_count": 36
     },
     "20260409152126_twitter_com_JamFarewellSong_status_2042261614368637265.json": {
       "status": "done",
@@ -33934,8 +33936,8 @@
           "https://pbs.twimg.com/profile_images/2008231012783067136/2V8VLIlL_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:36",
-      "miss_count": 35
+      "last_updated": "2026-09-29T08:36:19",
+      "miss_count": 36
     },
     "20260410051840_twitter_com_JamFarewellSong_status_2042472307290227158.json": {
       "status": "done",
@@ -34115,8 +34117,8 @@
           "https://pbs.twimg.com/profile_images/2009266813008531462/vUT2WQ8H_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:33",
-      "miss_count": 35
+      "last_updated": "2026-09-29T08:36:19",
+      "miss_count": 36
     },
     "20260410054929_twitter_com_JamFarewellSong_status_2042480064991048036.json": {
       "status": "done",
@@ -34143,8 +34145,8 @@
           "https://pbs.twimg.com/profile_images/2033925913575100419/x5z1bNHB_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:36",
-      "miss_count": 35
+      "last_updated": "2026-09-29T08:36:19",
+      "miss_count": 36
     },
     "20260410055548_twitter_com_JamFarewellSong_status_2042481653034205359.json": {
       "status": "failed",
@@ -34159,8 +34161,8 @@
           "https://pbs.twimg.com/profile_images/2033925913575100419/x5z1bNHB_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:37",
-      "miss_count": 35
+      "last_updated": "2026-09-29T08:36:19",
+      "miss_count": 36
     },
     "20260410055829_twitter_com_JamFarewellSong_status_2042482330598842555.json": {
       "status": "done",
@@ -34255,8 +34257,8 @@
           "https://pbs.twimg.com/profile_images/2041751501471961088/9Z6qcf2Q_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:36",
-      "miss_count": 35
+      "last_updated": "2026-09-29T08:36:19",
+      "miss_count": 36
     },
     "20260410072854_twitter_com_JamFarewellSong_status_2042505082537988553.json": {
       "status": "done",
@@ -34301,8 +34303,8 @@
           "https://pbs.twimg.com/profile_images/2035716012918886400/w1JKUgDd_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:45",
-      "miss_count": 35
+      "last_updated": "2026-09-29T08:36:19",
+      "miss_count": 36
     },
     "20260410073102_twitter_com_JamFarewellSong_status_2042505622231638125.json": {
       "status": "failed",
@@ -34320,8 +34322,8 @@
           "https://pbs.twimg.com/profile_images/2035716012918886400/w1JKUgDd_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:45",
-      "miss_count": 35
+      "last_updated": "2026-09-29T08:36:19",
+      "miss_count": 36
     },
     "20260410073142_twitter_com_JamFarewellSong_status_2042505790314156152.json": {
       "status": "done",
@@ -34431,8 +34433,8 @@
           "https://pbs.twimg.com/profile_images/2040947920967753728/65O8YdJu_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:42",
-      "miss_count": 35
+      "last_updated": "2026-09-29T08:36:19",
+      "miss_count": 36
     },
     "20260410074142_twitter_com_JamFarewellSong_status_2042508305583767658.json": {
       "status": "done",
@@ -34604,8 +34606,8 @@
           "https://pbs.twimg.com/profile_images/2040947920967753728/65O8YdJu_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:42",
-      "miss_count": 35
+      "last_updated": "2026-09-29T08:36:19",
+      "miss_count": 36
     },
     "20260410075404_twitter_com_JamFarewellSong_status_2042511418143182972.json": {
       "status": "done",
@@ -34676,8 +34678,8 @@
           "https://pbs.twimg.com/profile_images/2022474411425910784/CCV0vKhw_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:50",
-      "miss_count": 35
+      "last_updated": "2026-09-29T08:36:19",
+      "miss_count": 36
     },
     "20260410080505_twitter_com_JamFarewellSong_status_2042514190720733303.json": {
       "status": "failed",
@@ -34694,8 +34696,8 @@
           "https://pbs.twimg.com/profile_images/2022474411425910784/CCV0vKhw_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:50",
-      "miss_count": 35
+      "last_updated": "2026-09-29T08:36:19",
+      "miss_count": 36
     },
     "20260410080707_twitter_com_JamFarewellSong_status_2042514700437766476.json": {
       "status": "done",
@@ -34771,8 +34773,8 @@
           "https://pbs.twimg.com/profile_images/2041570538485956609/QSk4pqeb_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:36",
-      "miss_count": 35
+      "last_updated": "2026-09-29T08:36:19",
+      "miss_count": 36
     },
     "20260410081140_twitter_com_JamFarewellSong_status_2042515846178967810.json": {
       "status": "done",
@@ -34816,8 +34818,8 @@
           "https://pbs.twimg.com/profile_images/2041391782861434882/pkljq0Fd_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:36",
-      "miss_count": 35
+      "last_updated": "2026-09-29T08:36:19",
+      "miss_count": 36
     },
     "20260410082030_twitter_com_JamFarewellSong_status_2042518070636483032.json": {
       "status": "done",
@@ -34979,8 +34981,8 @@
           "https://pbs.twimg.com/profile_images/2035909538168328193/rP91M_1J_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:40",
-      "miss_count": 35
+      "last_updated": "2026-09-29T08:36:19",
+      "miss_count": 36
     },
     "20260411170726_twitter_com_JamFarewellSong_status_2043013062618419669.json": {
       "status": "done",
@@ -35058,8 +35060,8 @@
           "https://pbs.twimg.com/profile_images/2041391782861434882/pkljq0Fd_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:36",
-      "miss_count": 35
+      "last_updated": "2026-09-29T08:36:19",
+      "miss_count": 36
     },
     "20260411174102_twitter_com_JamFarewellSong_status_2043021521590063111.json": {
       "status": "failed",
@@ -35071,8 +35073,8 @@
           "https://pbs.twimg.com/profile_images/2041391782861434882/pkljq0Fd_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:36",
-      "miss_count": 35
+      "last_updated": "2026-09-29T08:36:19",
+      "miss_count": 36
     },
     "20260411174237_twitter_com_JamFarewellSong_status_2043021920153854246.json": {
       "status": "failed",
@@ -35086,8 +35088,8 @@
           "https://pbs.twimg.com/profile_images/2035449774409961472/2LF4vjk__normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:37",
-      "miss_count": 35
+      "last_updated": "2026-09-29T08:36:19",
+      "miss_count": 36
     },
     "20260411174910_twitter_com_JamFarewellSong_status_2043023565587648951.json": {
       "status": "failed",
@@ -35101,8 +35103,8 @@
           "https://pbs.twimg.com/profile_images/2035449774409961472/2LF4vjk__normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:37",
-      "miss_count": 35
+      "last_updated": "2026-09-29T08:36:19",
+      "miss_count": 36
     },
     "20260411174946_twitter_com_JamFarewellSong_status_2043023716607758635.json": {
       "status": "failed",
@@ -35116,8 +35118,8 @@
           "https://pbs.twimg.com/profile_images/2035449774409961472/2LF4vjk__normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:37",
-      "miss_count": 35
+      "last_updated": "2026-09-29T08:36:19",
+      "miss_count": 36
     },
     "20260411175154_twitter_com_JamFarewellSong_status_2043024253117960547.json": {
       "status": "failed",
@@ -35131,8 +35133,8 @@
           "https://pbs.twimg.com/profile_images/2035449774409961472/2LF4vjk__normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:37",
-      "miss_count": 35
+      "last_updated": "2026-09-29T08:36:19",
+      "miss_count": 36
     },
     "20260411175242_twitter_com_JamFarewellSong_status_2043024455648317692.json": {
       "status": "done",
@@ -35234,8 +35236,8 @@
           "https://pbs.twimg.com/profile_images/2014003117520748544/Yng-qPnv_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:43",
-      "miss_count": 35
+      "last_updated": "2026-09-29T08:36:19",
+      "miss_count": 36
     },
     "20260411180254_twitter_com_JamFarewellSong_status_2043027021580898767.json": {
       "status": "done",
@@ -36049,8 +36051,8 @@
           "https://pbs.twimg.com/profile_images/2014003117520748544/Yng-qPnv_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:36",
-      "miss_count": 35
+      "last_updated": "2026-09-29T08:36:19",
+      "miss_count": 36
     },
     "20260413151146_twitter_com_JamFarewellSong_status_2043708729842180307.json": {
       "status": "failed",
@@ -36063,8 +36065,8 @@
           "https://pbs.twimg.com/profile_images/2014003117520748544/Yng-qPnv_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:36",
-      "miss_count": 35
+      "last_updated": "2026-09-29T08:36:19",
+      "miss_count": 36
     },
     "20260413155548_twitter_com_JamFarewellSong_status_2043719811805708671.json": {
       "status": "done",
@@ -36214,8 +36216,8 @@
           "https://pbs.twimg.com/profile_images/2032774748237869062/3VRs-T0m_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:37",
-      "miss_count": 35
+      "last_updated": "2026-09-29T08:36:19",
+      "miss_count": 36
     },
     "20260414142635_twitter_com_JamFarewellSong_status_2044059749633929629.json": {
       "status": "done",
@@ -36380,8 +36382,8 @@
           "https://pbs.twimg.com/profile_images/2043360211638104064/3rfknD6o_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:37",
-      "miss_count": 35
+      "last_updated": "2026-09-29T08:36:19",
+      "miss_count": 36
     },
     "20260414190828_twitter_com_JamFarewellSong_status_2044130686483968413.json": {
       "status": "failed",
@@ -36395,8 +36397,8 @@
           "https://pbs.twimg.com/profile_images/2039184890097467392/dbO1I6P9_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:37",
-      "miss_count": 35
+      "last_updated": "2026-09-29T08:36:19",
+      "miss_count": 36
     },
     "20260414191037_twitter_com_JamFarewellSong_status_2044131226517454882.json": {
       "status": "done",
@@ -36749,8 +36751,8 @@
           "https://pbs.twimg.com/profile_images/2041239223823695872/oskidzdg_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:37",
-      "miss_count": 35
+      "last_updated": "2026-09-29T08:36:19",
+      "miss_count": 36
     },
     "20260416010321_twitter_com_JamFarewellSong_status_2044582383861780855.json": {
       "status": "done",
@@ -36944,8 +36946,8 @@
           "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:37",
-      "miss_count": 35
+      "last_updated": "2026-09-29T08:36:19",
+      "miss_count": 36
     },
     "20260416113004_twitter_com_JamFarewellSong_status_2044740101289496592.json": {
       "status": "done",
@@ -36999,8 +37001,8 @@
           "https://pbs.twimg.com/profile_images/2040973681523097600/jukOikL6_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:37",
-      "miss_count": 35
+      "last_updated": "2026-09-29T08:36:19",
+      "miss_count": 36
     },
     "20260416113903_twitter_com_JamFarewellSong_status_2044742362942046517.json": {
       "status": "done",
@@ -37042,8 +37044,8 @@
           "https://pbs.twimg.com/profile_images/2017461086367223808/CwfFSNvD_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:40",
-      "miss_count": 35
+      "last_updated": "2026-09-29T08:36:19",
+      "miss_count": 36
     },
     "20260416141305_twitter_com_JamFarewellSong_status_2044781125504299488.json": {
       "status": "done",
@@ -37079,8 +37081,8 @@
           "https://pbs.twimg.com/profile_images/1992931054592897024/ljyA04jN_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:37",
-      "miss_count": 35
+      "last_updated": "2026-09-29T08:36:19",
+      "miss_count": 36
     },
     "20260416153744_twitter_com_JamFarewellSong_status_2044802428437164245.json": {
       "status": "done",
@@ -37140,8 +37142,8 @@
           "https://pbs.twimg.com/profile_images/2014974017019535361/pXcdgBH7_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:37",
-      "miss_count": 35
+      "last_updated": "2026-09-29T08:36:19",
+      "miss_count": 36
     },
     "20260416183639_twitter_com_JamFarewellSong_status_2044847456786215199.json": {
       "status": "done",
@@ -37172,8 +37174,8 @@
           "https://pbs.twimg.com/profile_images/2032117812551159808/-D5q3EOm_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:44",
-      "miss_count": 35
+      "last_updated": "2026-09-29T08:36:19",
+      "miss_count": 36
     },
     "20260416223959_twitter_com_JamFarewellSong_status_2044908691003220475.json": {
       "status": "done",
@@ -37242,8 +37244,8 @@
           "https://pbs.twimg.com/profile_images/1850538881437040640/2bT56gc9_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:37",
-      "miss_count": 35
+      "last_updated": "2026-09-29T08:36:19",
+      "miss_count": 36
     },
     "20260417040519_twitter_com_JamFarewellSong_status_2044990565922844955.json": {
       "status": "done",
@@ -37311,8 +37313,8 @@
           "https://pbs.twimg.com/profile_images/2040973681523097600/jukOikL6_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:37",
-      "miss_count": 35
+      "last_updated": "2026-09-29T08:36:19",
+      "miss_count": 36
     },
     "20260419132637_twitter_com_JamFarewellSong_status_2045856597298335799.json": {
       "status": "done",
@@ -37343,8 +37345,8 @@
           "https://pbs.twimg.com/profile_images/1347848931569410048/g0f_H-vW_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:37",
-      "miss_count": 35
+      "last_updated": "2026-09-29T08:36:19",
+      "miss_count": 36
     },
     "20260419133656_twitter_com_JamFarewellSong_status_2045859193098543383.json": {
       "status": "done",
@@ -37520,8 +37522,8 @@
           "https://pbs.twimg.com/profile_images/2040513387734712320/nXeN_voK_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:37",
-      "miss_count": 35
+      "last_updated": "2026-09-29T08:36:19",
+      "miss_count": 36
     },
     "20260419144937_twitter_com_JamFarewellSong_status_2045877484588286346.json": {
       "status": "done",
@@ -37587,8 +37589,8 @@
           "https://pbs.twimg.com/profile_images/2035909538168328193/rP91M_1J_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:46",
-      "miss_count": 35
+      "last_updated": "2026-09-29T08:36:19",
+      "miss_count": 36
     },
     "20260419145857_twitter_com_JamFarewellSong_status_2045879832538710048.json": {
       "status": "done",
@@ -37749,8 +37751,8 @@
           "https://pbs.twimg.com/profile_images/1948958533245927424/MTLhcmzd_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:37",
-      "miss_count": 35
+      "last_updated": "2026-09-29T08:36:19",
+      "miss_count": 36
     },
     "20260419214806_twitter_com_JamFarewellSong_status_2045982798910292137.json": {
       "status": "done",
@@ -37800,8 +37802,8 @@
           "https://pbs.twimg.com/profile_images/2043341760320139265/yVb3k51a_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:37",
-      "miss_count": 35
+      "last_updated": "2026-09-29T08:36:19",
+      "miss_count": 36
     },
     "20260420073006_twitter_com_JamFarewellSong_status_2046129262198182290.json": {
       "status": "failed",
@@ -37813,8 +37815,8 @@
           "https://pbs.twimg.com/profile_images/2043341760320139265/yVb3k51a_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:37",
-      "miss_count": 35
+      "last_updated": "2026-09-29T08:36:19",
+      "miss_count": 36
     },
     "20260420073356_twitter_com_JamFarewellSong_status_2046130230084166050.json": {
       "status": "failed",
@@ -37826,8 +37828,8 @@
           "https://pbs.twimg.com/profile_images/2044960713345818624/eNV6jb0O_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:37",
-      "miss_count": 35
+      "last_updated": "2026-09-29T08:36:19",
+      "miss_count": 36
     },
     "20260420074044_twitter_com_JamFarewellSong_status_2046131938675802244.json": {
       "status": "done",
@@ -37989,8 +37991,8 @@
           "https://pbs.twimg.com/profile_images/2040999312478621696/QZAhsYwI_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:37",
-      "miss_count": 35
+      "last_updated": "2026-09-29T08:36:19",
+      "miss_count": 36
     },
     "20260421174201_twitter_com_JamFarewellSong_status_2046645648045519159.json": {
       "status": "done",
@@ -38250,8 +38252,8 @@
           "https://pbs.twimg.com/profile_images/2020935964366077953/cAB_m43L_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:37",
-      "miss_count": 35
+      "last_updated": "2026-09-29T08:36:19",
+      "miss_count": 36
     },
     "20260421185608_twitter_com_JamFarewellSong_status_2046664299335307646.json": {
       "status": "failed",
@@ -38265,8 +38267,8 @@
           "https://pbs.twimg.com/profile_images/2020935964366077953/cAB_m43L_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:37",
-      "miss_count": 35
+      "last_updated": "2026-09-29T08:36:19",
+      "miss_count": 36
     },
     "20260421185618_twitter_com_JamFarewellSong_status_2046664341295083706.json": {
       "status": "failed",
@@ -38278,8 +38280,8 @@
           "https://pbs.twimg.com/profile_images/2020935964366077953/cAB_m43L_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:37",
-      "miss_count": 35
+      "last_updated": "2026-09-29T08:36:19",
+      "miss_count": 36
     },
     "20260421185726_twitter_com_JamFarewellSong_status_2046664623798309364.json": {
       "status": "done",
@@ -38477,8 +38479,8 @@
           "https://pbs.twimg.com/profile_images/1762302331314667520/gTSuaeNo_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:37",
-      "miss_count": 35
+      "last_updated": "2026-09-29T08:36:19",
+      "miss_count": 36
     },
     "20260422043059_twitter_com_JamFarewellSong_status_2046808964315382156.json": {
       "status": "failed",
@@ -38490,8 +38492,8 @@
           "https://pbs.twimg.com/profile_images/2020935964366077953/cAB_m43L_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:37",
-      "miss_count": 35
+      "last_updated": "2026-09-29T08:36:19",
+      "miss_count": 36
     },
     "20260422070950_twitter_com_JamFarewellSong_status_2046848940704956484.json": {
       "status": "done",
@@ -38549,8 +38551,8 @@
           "https://pbs.twimg.com/profile_images/2044807398196690944/WJaDIheb_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:41",
-      "miss_count": 35
+      "last_updated": "2026-09-29T08:36:19",
+      "miss_count": 36
     },
     "20260422071720_twitter_com_JamFarewellSong_status_2046850826153705811.json": {
       "status": "done",
@@ -38601,8 +38603,8 @@
           "https://pbs.twimg.com/profile_images/1995015582014738436/pqwajC9S_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:37",
-      "miss_count": 35
+      "last_updated": "2026-09-29T08:36:19",
+      "miss_count": 36
     },
     "20260422073123_twitter_com_JamFarewellSong_status_2046854362098807283.json": {
       "status": "done",
@@ -38696,8 +38698,8 @@
           "https://pbs.twimg.com/profile_images/2044807398196690944/WJaDIheb_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:38",
-      "miss_count": 35
+      "last_updated": "2026-09-29T08:36:19",
+      "miss_count": 36
     },
     "20260422074654_twitter_com_JamFarewellSong_status_2046858267062866379.json": {
       "status": "done",
@@ -38722,8 +38724,8 @@
           "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:41",
-      "miss_count": 35
+      "last_updated": "2026-09-29T08:36:19",
+      "miss_count": 36
     },
     "20260422080352_twitter_com_JamFarewellSong_status_2046862538416234750.json": {
       "status": "done",
@@ -38877,8 +38879,8 @@
           "https://pbs.twimg.com/profile_images/2045361501431885824/EeWkmGro_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:38",
-      "miss_count": 35
+      "last_updated": "2026-09-29T08:36:19",
+      "miss_count": 36
     },
     "20260423191258_twitter_com_JamFarewellSong_status_2047393310101405930.json": {
       "status": "done",
@@ -38905,8 +38907,8 @@
           "https://pbs.twimg.com/profile_images/2028890906003386369/wL8jZ7_r_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:38",
-      "miss_count": 35
+      "last_updated": "2026-09-29T08:36:19",
+      "miss_count": 36
     },
     "20260423192612_twitter_com_JamFarewellSong_status_2047396641867808996.json": {
       "status": "failed",
@@ -38920,8 +38922,8 @@
           "https://pbs.twimg.com/profile_images/2043066409954217985/F_FxYsLC_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:41",
-      "miss_count": 35
+      "last_updated": "2026-09-29T08:36:19",
+      "miss_count": 36
     },
     "20260423192616_twitter_com_JamFarewellSong_status_2047396656971436524.json": {
       "status": "done",
@@ -38948,8 +38950,8 @@
           "https://pbs.twimg.com/profile_images/2023354415944495104/Uixnel15_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:42",
-      "miss_count": 35
+      "last_updated": "2026-09-29T08:36:19",
+      "miss_count": 36
     },
     "20260423193450_twitter_com_JamFarewellSong_status_2047398812256506349.json": {
       "status": "done",
@@ -39041,8 +39043,8 @@
           "https://pbs.twimg.com/profile_images/2000591343983157257/YxhjLO8M_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:43",
-      "miss_count": 35
+      "last_updated": "2026-09-29T08:36:19",
+      "miss_count": 36
     },
     "20260424054616_twitter_com_JamFarewellSong_status_2047552685906469247.json": {
       "status": "done",
@@ -39108,8 +39110,8 @@
           "https://pbs.twimg.com/profile_images/1984618810679443462/FncYHIaD_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:43",
-      "miss_count": 35
+      "last_updated": "2026-09-29T08:36:19",
+      "miss_count": 36
     },
     "20260424060227_twitter_com_JamFarewellSong_status_2047556759716557080.json": {
       "status": "done",
@@ -39236,8 +39238,8 @@
           "https://pbs.twimg.com/profile_images/2044731822681346048/foRzz0vt_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:43",
-      "miss_count": 35
+      "last_updated": "2026-09-29T08:36:19",
+      "miss_count": 36
     },
     "20260424063828_twitter_com_JamFarewellSong_status_2047565820990296193.json": {
       "status": "done",
@@ -39263,8 +39265,8 @@
           "https://pbs.twimg.com/profile_images/2045004879303958528/xNxtLn0S_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:41",
-      "miss_count": 35
+      "last_updated": "2026-09-29T08:36:19",
+      "miss_count": 36
     },
     "20260424064355_twitter_com_JamFarewellSong_status_2047567193140064413.json": {
       "status": "done",
@@ -39366,8 +39368,8 @@
           "https://pbs.twimg.com/profile_images/2048356974254071809/sJTTXsVq_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:41",
-      "miss_count": 35
+      "last_updated": "2026-09-29T08:36:19",
+      "miss_count": 36
     },
     "20260426112325_twitter_com_JamFarewellSong_status_2048362309123522630.json": {
       "status": "failed",
@@ -39382,8 +39384,8 @@
           "https://pbs.twimg.com/profile_images/1759984206468222976/03bgRFtY_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:44",
-      "miss_count": 34
+      "last_updated": "2026-09-29T08:36:19",
+      "miss_count": 35
     },
     "20260426112402_twitter_com_JamFarewellSong_status_2048362462895050849.json": {
       "status": "done",
@@ -39449,8 +39451,8 @@
           "https://pbs.twimg.com/profile_images/2002781704680030208/O0cqzBz3_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:41",
-      "miss_count": 35
+      "last_updated": "2026-09-29T08:36:19",
+      "miss_count": 36
     },
     "20260426113416_twitter_com_JamFarewellSong_status_2048365038034145732.json": {
       "status": "done",
@@ -39581,8 +39583,8 @@
           "https://pbs.twimg.com/profile_images/2023354415944495104/Uixnel15_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:44",
-      "miss_count": 35
+      "last_updated": "2026-09-29T08:36:19",
+      "miss_count": 36
     },
     "20260428075515_twitter_com_JamFarewellSong_status_2049034696206737432.json": {
       "status": "done",
@@ -41541,8 +41543,8 @@
           "https://pbs.twimg.com/profile_images/2023354415944495104/Uixnel15_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:45",
-      "miss_count": 35
+      "last_updated": "2026-09-29T08:36:19",
+      "miss_count": 36
     },
     "20260511150027_twitter_com_JamFarewellSong_status_2053852743664812304.json": {
       "status": "failed",
@@ -41556,8 +41558,8 @@
           "https://pbs.twimg.com/profile_images/2023354415944495104/Uixnel15_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:45",
-      "miss_count": 35
+      "last_updated": "2026-09-29T08:36:19",
+      "miss_count": 36
     },
     "20260511150243_twitter_com_JamFarewellSong_status_2053853313419051208.json": {
       "status": "done",
@@ -41612,8 +41614,8 @@
           "https://pbs.twimg.com/profile_images/2049449181509718016/yIWY1ons_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:45",
-      "miss_count": 35
+      "last_updated": "2026-09-29T08:36:19",
+      "miss_count": 36
     },
     "20260511150541_twitter_com_JamFarewellSong_status_2053854060714103256.json": {
       "status": "done",
@@ -41993,8 +41995,8 @@
           "https://pbs.twimg.com/profile_images/2033453812279918592/7rVzzZ4f_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:46",
-      "miss_count": 35
+      "last_updated": "2026-09-29T08:36:19",
+      "miss_count": 36
     },
     "20260512121322_twitter_com_JamFarewellSong_status_2054173084580770031.json": {
       "status": "done",
@@ -42067,8 +42069,8 @@
           "https://pbs.twimg.com/profile_images/2023354415944495104/Uixnel15_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:46",
-      "miss_count": 35
+      "last_updated": "2026-09-29T08:36:19",
+      "miss_count": 36
     },
     "20260512164350_twitter_com_JamFarewellSong_status_2054241149066563987.json": {
       "status": "done",
@@ -42438,8 +42440,8 @@
           "https://pbs.twimg.com/profile_images/2054258840385015808/jgmLq34C_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:44",
-      "miss_count": 35
+      "last_updated": "2026-09-29T08:36:19",
+      "miss_count": 36
     },
     "20260516141415_twitter_com_JamFarewellSong_status_2055653056453443995.json": {
       "status": "done",
@@ -45708,8 +45710,8 @@
           "https://pbs.twimg.com/profile_images/2062166605665062913/oGIOHGYN_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:43",
-      "miss_count": 21
+      "last_updated": "2026-09-29T08:36:19",
+      "miss_count": 22
     },
     "20260611150735_twitter_com_JamFarewellSong_status_2065088560739557582.json": {
       "status": "done",
@@ -47886,8 +47888,8 @@
           "https://pbs.twimg.com/profile_images/2066312345912233984/vlN26lx1_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:49",
-      "miss_count": 7
+      "last_updated": "2026-09-29T08:36:19",
+      "miss_count": 8
     },
     "20260715050818_twitter_com_JamFarewellSong_status_2077258934478680191.json": {
       "status": "done",
@@ -49448,8 +49450,8 @@
           "https://pbs.twimg.com/profile_images/2079829563555889152/ylITu3ib_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:54",
-      "miss_count": 3
+      "last_updated": "2026-09-29T08:36:19",
+      "miss_count": 4
     },
     "20260723024037_twitter_com_JamFarewellSong_status_2080120872845947250.json": {
       "status": "done",
@@ -49481,8 +49483,8 @@
           "https://pbs.twimg.com/profile_images/2048446214245691392/lQgtgY8z_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:47",
-      "miss_count": 3
+      "last_updated": "2026-09-29T08:36:19",
+      "miss_count": 4
     },
     "20260723025851_twitter_com_JamFarewellSong_status_2080125463088029749.json": {
       "status": "failed",
@@ -49496,8 +49498,8 @@
           "https://pbs.twimg.com/profile_images/2048446214245691392/lQgtgY8z_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:47",
-      "miss_count": 3
+      "last_updated": "2026-09-29T08:36:19",
+      "miss_count": 4
     },
     "20260723025958_twitter_com_JamFarewellSong_status_2080125742407671839.json": {
       "status": "done",
@@ -49549,8 +49551,8 @@
           "https://pbs.twimg.com/profile_images/2079432554034364416/afG-l4mp_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:44",
-      "miss_count": 3
+      "last_updated": "2026-09-29T08:36:19",
+      "miss_count": 4
     },
     "20260723090735_twitter_com_JamFarewellSong_status_2080218257160798655.json": {
       "status": "failed",
@@ -49564,8 +49566,8 @@
           "https://pbs.twimg.com/profile_images/2079432554034364416/afG-l4mp_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:47",
-      "miss_count": 3
+      "last_updated": "2026-09-29T08:36:19",
+      "miss_count": 4
     },
     "20260723091208_twitter_com_JamFarewellSong_status_2080219399743832307.json": {
       "status": "done",
@@ -49777,8 +49779,8 @@
           "https://pbs.twimg.com/profile_images/2048433578531557377/aCKL5-8-_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:47",
-      "miss_count": 3
+      "last_updated": "2026-09-29T08:36:19",
+      "miss_count": 4
     },
     "20260724151920_twitter_com_JamFarewellSong_status_2080674196338901490.json": {
       "status": "done",
@@ -50403,8 +50405,8 @@
           "https://pbs.twimg.com/profile_images/2057744621166628864/0Fz6K0Ld_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:47",
-      "miss_count": 3
+      "last_updated": "2026-09-29T08:36:19",
+      "miss_count": 4
     },
     "20260727063729_twitter_com_JamFarewellSong_status_2081630034331308101.json": {
       "status": "done",
@@ -50448,8 +50450,8 @@
           "https://pbs.twimg.com/profile_images/2080135043838816256/H8Ebl5jE_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:50",
-      "miss_count": 3
+      "last_updated": "2026-09-29T08:36:19",
+      "miss_count": 4
     },
     "20260727070155_twitter_com_JamFarewellSong_status_2081636181431984146.json": {
       "status": "done",
@@ -50491,8 +50493,8 @@
           "https://pbs.twimg.com/profile_images/2069372189120344064/tZssFYFg_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:48",
-      "miss_count": 3
+      "last_updated": "2026-09-29T08:36:19",
+      "miss_count": 4
     },
     "20260727093257_twitter_com_JamFarewellSong_status_2081674189833109726.json": {
       "status": "done",
@@ -50646,8 +50648,8 @@
           "https://pbs.twimg.com/profile_images/2081521936870395904/STEnmTXX_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:45",
-      "miss_count": 3
+      "last_updated": "2026-09-29T08:36:19",
+      "miss_count": 4
     },
     "20260727172547_twitter_com_JamFarewellSong_status_2081793182543843451.json": {
       "status": "done",
@@ -50698,8 +50700,8 @@
           "https://pbs.twimg.com/profile_images/2061329806676131840/dbADJoMO_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:52",
-      "miss_count": 5
+      "last_updated": "2026-09-29T08:36:19",
+      "miss_count": 6
     },
     "20260727184818_twitter_com_JamFarewellSong_status_2081813950598189344.json": {
       "status": "done",
@@ -51201,8 +51203,8 @@
           "https://pbs.twimg.com/profile_images/2065336327797866496/v59O1zZz_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:48",
-      "miss_count": 3
+      "last_updated": "2026-09-29T08:36:19",
+      "miss_count": 4
     },
     "20260728065503_twitter_com_JamFarewellSong_status_2081996843882586125.json": {
       "status": "done",
@@ -51491,8 +51493,8 @@
           "https://pbs.twimg.com/profile_images/1958564147328901120/OGultXoy_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:48",
-      "miss_count": 3
+      "last_updated": "2026-09-29T08:36:19",
+      "miss_count": 4
     },
     "20260729102016_twitter_com_JamFarewellSong_status_2082410874707591645.json": {
       "status": "done",
@@ -51558,8 +51560,8 @@
           "https://pbs.twimg.com/profile_images/2082407067441381376/qdkgUI2W_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:49",
-      "miss_count": 3
+      "last_updated": "2026-09-29T08:36:19",
+      "miss_count": 4
     },
     "20260730014618_twitter_com_JamFarewellSong_status_2082643917724651695.json": {
       "status": "failed",
@@ -51573,8 +51575,8 @@
           "https://pbs.twimg.com/profile_images/2082407067441381376/qdkgUI2W_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:49",
-      "miss_count": 3
+      "last_updated": "2026-09-29T08:36:19",
+      "miss_count": 4
     },
     "20260730015901_twitter_com_JamFarewellSong_status_2082647117672440282.json": {
       "status": "done",
@@ -52397,8 +52399,8 @@
           "https://pbs.twimg.com/profile_images/2062484635104526336/KyVfHSHR_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:49",
-      "miss_count": 3
+      "last_updated": "2026-09-29T08:36:19",
+      "miss_count": 4
     },
     "20260731154409_twitter_com_JamFarewellSong_status_2083217158344237488.json": {
       "status": "done",
@@ -52521,8 +52523,8 @@
           "https://pbs.twimg.com/profile_images/2063267130548908032/lNkisJk0_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:48",
-      "miss_count": 5
+      "last_updated": "2026-09-29T08:36:19",
+      "miss_count": 6
     },
     "20260731163051_twitter_com_JamFarewellSong_status_2083228909982933379.json": {
       "status": "done",
@@ -53151,8 +53153,8 @@
           "https://pbs.twimg.com/profile_images/2082718807173599232/iHJ1jUK8_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:51",
-      "miss_count": 3
+      "last_updated": "2026-09-29T08:36:19",
+      "miss_count": 4
     },
     "20260801123648_twitter_com_JamFarewellSong_status_2083532399842042261.json": {
       "status": "done",
@@ -53190,8 +53192,8 @@
           "https://pbs.twimg.com/profile_images/2083530016269516802/YkVotD8i_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:49",
-      "miss_count": 3
+      "last_updated": "2026-09-29T08:36:19",
+      "miss_count": 4
     },
     "20260801130709_twitter_com_JamFarewellSong_status_2083540037174771976.json": {
       "status": "done",
@@ -53421,8 +53423,8 @@
           "https://pbs.twimg.com/profile_images/2083456857591672833/BqnaG2AV_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:49",
-      "miss_count": 3
+      "last_updated": "2026-09-29T08:36:19",
+      "miss_count": 4
     },
     "20260802024857_twitter_com_JamFarewellSong_status_2083746848242901427.json": {
       "status": "done",
@@ -53554,8 +53556,8 @@
           "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:47",
-      "miss_count": 3
+      "last_updated": "2026-09-29T08:36:19",
+      "miss_count": 4
     },
     "20260802144731_twitter_com_JamFarewellSong_status_2083927683529081309.json": {
       "status": "done",
@@ -53728,8 +53730,8 @@
           "https://pbs.twimg.com/profile_images/1989627623304302594/iRhfipvR_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:56",
-      "miss_count": 5
+      "last_updated": "2026-09-29T08:36:19",
+      "miss_count": 6
     },
     "20260804120411_twitter_com_JamFarewellSong_status_2084611353797648829.json": {
       "status": "done",
@@ -54614,8 +54616,8 @@
           "https://pbs.twimg.com/profile_images/2086675062690807808/4roY9VYg_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:52",
-      "miss_count": 1
+      "last_updated": "2026-09-29T08:36:19",
+      "miss_count": 2
     },
     "20260819162127_twitter_com_JamFarewellSong_status_2090111913317577079.json": {
       "status": "done",
@@ -54891,8 +54893,8 @@
           "https://pbs.twimg.com/profile_images/2090614497706946560/z3GpSn9L_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:59",
-      "miss_count": 1
+      "last_updated": "2026-09-29T08:36:19",
+      "miss_count": 2
     },
     "20260823081321_twitter_com_JamFarewellSong_status_2091438630434959793.json": {
       "status": "failed",
@@ -54909,8 +54911,8 @@
           "https://pbs.twimg.com/profile_images/2090614497706946560/z3GpSn9L_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:59",
-      "miss_count": 1
+      "last_updated": "2026-09-29T08:36:19",
+      "miss_count": 2
     },
     "20260823081415_twitter_com_JamFarewellSong_status_2091438859481653527.json": {
       "status": "failed",
@@ -54925,8 +54927,8 @@
           "https://pbs.twimg.com/profile_images/2057058246888960000/PSLJHun5_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:50",
-      "miss_count": 1
+      "last_updated": "2026-09-29T08:36:19",
+      "miss_count": 2
     },
     "20260823081943_twitter_com_JamFarewellSong_status_2091440232566780157.json": {
       "status": "done",
@@ -55445,8 +55447,8 @@
           "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:51",
-      "miss_count": 3
+      "last_updated": "2026-09-29T08:36:19",
+      "miss_count": 4
     },
     "20260830083334_twitter_com_JamFarewellSong_status_2093980432824168560.json": {
       "status": "done",
@@ -55776,7 +55778,7 @@
           "https://pbs.twimg.com/profile_images/1920055699050221568/hsi-1UL4_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:47"
+      "last_updated": "2026-09-29T08:36:19"
     },
     "20260908170628_twitter_com_JamFarewellSong_status_2097371002217152820.json": {
       "status": "unknown",
@@ -55790,7 +55792,7 @@
           "https://pbs.twimg.com/profile_images/1920055699050221568/hsi-1UL4_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:48"
+      "last_updated": "2026-09-29T08:36:19"
     },
     "20260908172415_twitter_com_JamFarewellSong_status_2097375475324826102.json": {
       "status": "unknown",
@@ -55806,7 +55808,7 @@
           "https://pbs.twimg.com/profile_images/2059337950232825856/-b-SRyMD_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:49"
+      "last_updated": "2026-09-29T08:36:19"
     },
     "20260908172517_twitter_com_JamFarewellSong_status_2097375734650249400.json": {
       "status": "unknown",
@@ -55818,7 +55820,7 @@
           "https://pbs.twimg.com/profile_images/1911311192213106688/2wcaqE_q_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:48"
+      "last_updated": "2026-09-29T08:36:19"
     },
     "20260908172614_twitter_com_JamFarewellSong_status_2097375976401592672.json": {
       "status": "unknown",
@@ -55831,7 +55833,7 @@
           "https://pbs.twimg.com/profile_images/2075209933931638784/2JKouS7F_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:48"
+      "last_updated": "2026-09-29T08:36:19"
     },
     "20260908173207_twitter_com_JamFarewellSong_status_2097377454893736326.json": {
       "status": "unknown",
@@ -55844,7 +55846,7 @@
           "https://pbs.twimg.com/profile_images/2075209933931638784/2JKouS7F_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:48"
+      "last_updated": "2026-09-29T08:36:19"
     },
     "20260908173531_twitter_com_JamFarewellSong_status_2097378311450345692.json": {
       "status": "unknown",
@@ -55856,7 +55858,7 @@
           "https://pbs.twimg.com/profile_images/2077362587168354304/0b-zC7-e_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:48"
+      "last_updated": "2026-09-29T08:36:19"
     },
     "20260911013947_twitter_com_JamFarewellSong_status_2098224955574153711.json": {
       "status": "unknown",
@@ -55873,7 +55875,7 @@
           "https://pbs.twimg.com/profile_images/2004331795907858435/5VhSsPmz_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:50"
+      "last_updated": "2026-09-29T08:36:19"
     },
     "20260911014153_twitter_com_JamFarewellSong_status_2098225483586675075.json": {
       "status": "unknown",
@@ -55887,7 +55889,7 @@
           "https://pbs.twimg.com/profile_images/1561189788929392640/5AHmgg_K_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:48"
+      "last_updated": "2026-09-29T08:36:20"
     },
     "20260911014548_twitter_com_JamFarewellSong_status_2098226472104362086.json": {
       "status": "done",
@@ -55911,7 +55913,7 @@
           "https://pbs.twimg.com/profile_images/2092188322512896000/m_DQ8lX6_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:48"
+      "last_updated": "2026-09-29T08:36:19"
     },
     "20260911014952_twitter_com_JamFarewellSong_status_2098227495120376161.json": {
       "status": "unknown",
@@ -55928,7 +55930,7 @@
           "https://pbs.twimg.com/profile_images/2022890661759062020/OwSmsAtH_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:29:00"
+      "last_updated": "2026-09-29T08:36:19"
     },
     "20260911015358_twitter_com_JamFarewellSong_status_2098228526562603124.json": {
       "status": "unknown",
@@ -55940,7 +55942,7 @@
           "https://pbs.twimg.com/profile_images/1948856216882741248/3ixfj3g2_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:48"
+      "last_updated": "2026-09-29T08:36:19"
     },
     "20260911015737_twitter_com_JamFarewellSong_status_2098229445782020562.json": {
       "status": "unknown",
@@ -55954,7 +55956,7 @@
           "https://pbs.twimg.com/profile_images/2022890661759062020/OwSmsAtH_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:51"
+      "last_updated": "2026-09-29T08:36:19"
     },
     "20260911020045_twitter_com_JamFarewellSong_status_2098230234936230227.json": {
       "status": "unknown",
@@ -55968,7 +55970,7 @@
           "https://pbs.twimg.com/profile_images/2022890661759062020/OwSmsAtH_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:51"
+      "last_updated": "2026-09-29T08:36:19"
     },
     "20260911020050_twitter_com_JamFarewellSong_status_2098230253630153125.json": {
       "status": "unknown",
@@ -55980,7 +55982,7 @@
           "https://pbs.twimg.com/profile_images/2022890661759062020/OwSmsAtH_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:49"
+      "last_updated": "2026-09-29T08:36:19"
     },
     "20260911020203_twitter_com_JamFarewellSong_status_2098230562196713629.json": {
       "status": "unknown",
@@ -55994,7 +55996,7 @@
           "https://pbs.twimg.com/profile_images/2005233648988303360/Y2SDBKng_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:49"
+      "last_updated": "2026-09-29T08:36:19"
     },
     "20260911020453_twitter_com_JamFarewellSong_status_2098231272770584723.json": {
       "status": "done",
@@ -56030,7 +56032,7 @@
           "https://pbs.twimg.com/profile_images/2082655270610907136/JBqLeqy8_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:49"
+      "last_updated": "2026-09-29T08:36:19"
     },
     "20260911061859_twitter_com_JamFarewellSong_status_2098295219351613910.json": {
       "status": "unknown",
@@ -56042,7 +56044,7 @@
           "https://pbs.twimg.com/profile_images/2082655270610907136/JBqLeqy8_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:49"
+      "last_updated": "2026-09-29T08:36:19"
     },
     "20260911062059_twitter_com_JamFarewellSong_status_2098295723397898293.json": {
       "status": "done",
@@ -56084,7 +56086,7 @@
           "https://pbs.twimg.com/profile_images/2097271361064579072/xiCtnL85_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:51"
+      "last_updated": "2026-09-29T08:36:19"
     },
     "20260913011635_twitter_com_JamFarewellSong_status_2098943894146969915.json": {
       "status": "unknown",
@@ -56096,7 +56098,7 @@
           "https://pbs.twimg.com/profile_images/2001229435710951424/PNJO_XDB_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:49"
+      "last_updated": "2026-09-29T08:36:19"
     },
     "20260913011638_twitter_com_JamFarewellSong_status_2098943908436910122.json": {
       "status": "unknown",
@@ -56108,7 +56110,7 @@
           "https://pbs.twimg.com/profile_images/2001229435710951424/PNJO_XDB_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:49"
+      "last_updated": "2026-09-29T08:36:19"
     },
     "20260913011640_twitter_com_JamFarewellSong_status_2098943913071693971.json": {
       "status": "unknown",
@@ -56120,7 +56122,7 @@
           "https://pbs.twimg.com/profile_images/2001229435710951424/PNJO_XDB_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:49"
+      "last_updated": "2026-09-29T08:36:19"
     },
     "20260913030832_twitter_com_JamFarewellSong_status_2098972068339728670.json": {
       "status": "unknown",
@@ -56132,7 +56134,7 @@
           "https://pbs.twimg.com/profile_images/2096173219044896768/yaMgdXAb_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:49"
+      "last_updated": "2026-09-29T08:36:19"
     },
     "20260915005852_twitter_com_JamFarewellSong_status_2099664213325324299.json": {
       "status": "unknown",
@@ -56146,7 +56148,7 @@
           "https://pbs.twimg.com/profile_images/2096919871372369920/iFcW2t6E_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:49"
+      "last_updated": "2026-09-29T08:36:19"
     },
     "20260915010050_twitter_com_JamFarewellSong_status_2099664707116581158.json": {
       "status": "unknown",
@@ -56158,7 +56160,7 @@
           "https://pbs.twimg.com/profile_images/2084012084304752640/FzNM53lR_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:49"
+      "last_updated": "2026-09-29T08:36:19"
     },
     "20260915010100_twitter_com_JamFarewellSong_status_2099664748141040099.json": {
       "status": "unknown",
@@ -56170,7 +56172,7 @@
           "https://pbs.twimg.com/profile_images/2084012084304752640/FzNM53lR_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:49"
+      "last_updated": "2026-09-29T08:36:19"
     },
     "20260915010108_twitter_com_JamFarewellSong_status_2099664779610931479.json": {
       "status": "unknown",
@@ -56182,7 +56184,7 @@
           "https://pbs.twimg.com/profile_images/2084012084304752640/FzNM53lR_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:49"
+      "last_updated": "2026-09-29T08:36:19"
     },
     "20260915050704_twitter_com_JamFarewellSong_status_2099726672178422074.json": {
       "status": "done",
@@ -56211,7 +56213,7 @@
           "https://pbs.twimg.com/profile_images/2057058246888960000/PSLJHun5_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:50"
+      "last_updated": "2026-09-29T08:36:19"
     },
     "20260915052014_twitter_com_JamFarewellSong_status_2099729987347874149.json": {
       "status": "unknown",
@@ -56223,7 +56225,7 @@
           "https://pbs.twimg.com/profile_images/2073338424229240833/qrruTRLC_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:49"
+      "last_updated": "2026-09-29T08:36:19"
     },
     "20260917065427_twitter_com_JamFarewellSong_status_2100478470556143761.json": {
       "status": "unknown",
@@ -56235,7 +56237,7 @@
           "https://pbs.twimg.com/profile_images/1949888048663310336/lvO3q9ls_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:49"
+      "last_updated": "2026-09-29T08:36:19"
     },
     "20260919113513_twitter_com_JamFarewellSong_status_2101273905835254178.json": {
       "status": "unknown",
@@ -56247,7 +56249,7 @@
           "https://pbs.twimg.com/profile_images/2097848768402219009/Ll-1OGSW_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:49"
+      "last_updated": "2026-09-29T08:36:19"
     },
     "20260920062816_twitter_com_JamFarewellSong_status_2101559044905504788.json": {
       "status": "unknown",
@@ -56264,7 +56266,7 @@
           "https://pbs.twimg.com/profile_images/2022890661759062020/OwSmsAtH_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:29:00"
+      "last_updated": "2026-09-29T08:36:19"
     },
     "20260920063013_twitter_com_JamFarewellSong_status_2101559537178423803.json": {
       "status": "unknown",
@@ -56276,7 +56278,7 @@
           "https://pbs.twimg.com/profile_images/2022890661759062020/OwSmsAtH_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:49"
+      "last_updated": "2026-09-29T08:36:19"
     },
     "20260921045448_twitter_com_JamFarewellSong_status_2101897911512764904.json": {
       "status": "unknown",
@@ -56291,7 +56293,7 @@
           "https://pbs.twimg.com/profile_images/2098019603024879616/YSh0F7nA_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:50"
+      "last_updated": "2026-09-29T08:36:19"
     },
     "20260921045522_twitter_com_JamFarewellSong_status_2101898055171866996.json": {
       "status": "unknown",
@@ -56304,7 +56306,7 @@
           "https://pbs.twimg.com/profile_images/2098019603024879616/YSh0F7nA_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:49"
+      "last_updated": "2026-09-29T08:36:19"
     },
     "20260921050247_twitter_com_JamFarewellSong_status_2101899920475377918.json": {
       "status": "unknown",
@@ -56318,7 +56320,7 @@
           "https://pbs.twimg.com/profile_images/2099082717539561472/oOw4NO0Z_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:50"
+      "last_updated": "2026-09-29T08:36:19"
     },
     "20260921183336_twitter_com_JamFarewellSong_status_2102103970458337694.json": {
       "status": "unknown",
@@ -56333,7 +56335,7 @@
           "https://pbs.twimg.com/profile_images/2051718115445354496/zw7XNEkf_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:55"
+      "last_updated": "2026-09-29T08:36:19"
     },
     "20260921183834_twitter_com_JamFarewellSong_status_2102105218892890478.json": {
       "status": "unknown",
@@ -56348,7 +56350,7 @@
           "https://pbs.twimg.com/profile_images/2051718115445354496/zw7XNEkf_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:55"
+      "last_updated": "2026-09-29T08:36:19"
     },
     "20260921183839_twitter_com_JamFarewellSong_status_2102105240816517446.json": {
       "status": "unknown",
@@ -56360,7 +56362,7 @@
           "https://pbs.twimg.com/profile_images/2051718115445354496/zw7XNEkf_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:50"
+      "last_updated": "2026-09-29T08:36:19"
     },
     "20260921184157_twitter_com_JamFarewellSong_status_2102106072257601960.json": {
       "status": "unknown",
@@ -56373,7 +56375,7 @@
           "https://pbs.twimg.com/profile_images/2078815008948113408/9KYSFgtF_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:50"
+      "last_updated": "2026-09-29T08:36:19"
     },
     "20260921185209_twitter_com_JamFarewellSong_status_2102108637724586334.json": {
       "status": "unknown",
@@ -56386,7 +56388,7 @@
           "https://pbs.twimg.com/profile_images/2078815008948113408/9KYSFgtF_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:50"
+      "last_updated": "2026-09-29T08:36:19"
     },
     "20260921185213_twitter_com_JamFarewellSong_status_2102108655709786383.json": {
       "status": "unknown",
@@ -56399,7 +56401,7 @@
           "https://pbs.twimg.com/profile_images/2078815008948113408/9KYSFgtF_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:50"
+      "last_updated": "2026-09-29T08:36:19"
     },
     "20260921194731_twitter_com_JamFarewellSong_status_2102122573555478868.json": {
       "status": "unknown",
@@ -56413,7 +56415,7 @@
           "https://pbs.twimg.com/profile_images/2059978102059696128/DD34Uxdu_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:52"
+      "last_updated": "2026-09-29T08:36:19"
     },
     "20260921195002_twitter_com_JamFarewellSong_status_2102123205414748662.json": {
       "status": "done",
@@ -56439,7 +56441,7 @@
           "https://pbs.twimg.com/profile_images/2059978102059696128/DD34Uxdu_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:52"
+      "last_updated": "2026-09-29T08:36:19"
     },
     "20260921195330_twitter_com_JamFarewellSong_status_2102124076471099633.json": {
       "status": "done",
@@ -56465,7 +56467,7 @@
           "https://pbs.twimg.com/profile_images/2053029804849709056/E1bIU81S_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:50"
+      "last_updated": "2026-09-29T08:36:19"
     },
     "20260921195925_twitter_com_JamFarewellSong_status_2102125565432217600.json": {
       "status": "unknown",
@@ -56479,7 +56481,7 @@
           "https://pbs.twimg.com/profile_images/2053029804849709056/E1bIU81S_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:50"
+      "last_updated": "2026-09-29T08:36:19"
     },
     "20260921195929_twitter_com_JamFarewellSong_status_2102125583992045878.json": {
       "status": "unknown",
@@ -56491,7 +56493,7 @@
           "https://pbs.twimg.com/profile_images/2053029804849709056/E1bIU81S_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:50"
+      "last_updated": "2026-09-29T08:36:19"
     },
     "20260921200247_twitter_com_JamFarewellSong_status_2102126414162165878.json": {
       "status": "unknown",
@@ -56504,7 +56506,7 @@
           "https://pbs.twimg.com/profile_images/2053029804849709056/E1bIU81S_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:50"
+      "last_updated": "2026-09-29T08:36:19"
     },
     "20260921200605_twitter_com_JamFarewellSong_status_2102127245603262663.json": {
       "status": "unknown",
@@ -56517,7 +56519,7 @@
           "https://pbs.twimg.com/profile_images/2053029804849709056/E1bIU81S_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:50"
+      "last_updated": "2026-09-29T08:36:19"
     },
     "20260921201255_twitter_com_JamFarewellSong_status_2102128964420743641.json": {
       "status": "unknown",
@@ -56530,7 +56532,7 @@
           "https://pbs.twimg.com/profile_images/2053029804849709056/E1bIU81S_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:50"
+      "last_updated": "2026-09-29T08:36:19"
     },
     "20260921201300_twitter_com_JamFarewellSong_status_2102128985299939472.json": {
       "status": "unknown",
@@ -56543,7 +56545,7 @@
           "https://pbs.twimg.com/profile_images/2053029804849709056/E1bIU81S_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:50"
+      "last_updated": "2026-09-29T08:36:19"
     },
     "20260921201347_twitter_com_JamFarewellSong_status_2102129182675448082.json": {
       "status": "unknown",
@@ -56557,7 +56559,7 @@
           "https://pbs.twimg.com/profile_images/2073216279763144704/r-0gGbZC_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:50"
+      "last_updated": "2026-09-29T08:36:19"
     },
     "20260921201451_twitter_com_JamFarewellSong_status_2102129451102523576.json": {
       "status": "done",
@@ -56584,7 +56586,7 @@
           "https://pbs.twimg.com/profile_images/2101391930638942209/5VZ4C__l_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:51"
+      "last_updated": "2026-09-29T08:36:19"
     },
     "20260921201815_twitter_com_JamFarewellSong_status_2102130305708802083.json": {
       "status": "unknown",
@@ -56597,7 +56599,7 @@
           "https://pbs.twimg.com/profile_images/2079781229529022464/zTPOeSt6_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:50"
+      "last_updated": "2026-09-29T08:36:19"
     },
     "20260921202148_twitter_com_JamFarewellSong_status_2102131201377222953.json": {
       "status": "unknown",
@@ -56609,7 +56611,7 @@
           "https://pbs.twimg.com/profile_images/2083293219786559488/D_PmG2-k_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:50"
+      "last_updated": "2026-09-29T08:36:19"
     },
     "20260921202457_twitter_com_JamFarewellSong_status_2102131991651184876.json": {
       "status": "unknown",
@@ -56624,7 +56626,7 @@
           "https://pbs.twimg.com/profile_images/2092834520789860352/hr9YENoq_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:51"
+      "last_updated": "2026-09-29T08:36:19"
     },
     "20260921202613_twitter_com_JamFarewellSong_status_2102132310716072341.json": {
       "status": "done",
@@ -56688,7 +56690,7 @@
           "https://pbs.twimg.com/profile_images/2053029804849709056/E1bIU81S_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:50"
+      "last_updated": "2026-09-29T08:36:19"
     },
     "20260921203357_twitter_com_JamFarewellSong_status_2102134258580263382.json": {
       "status": "unknown",
@@ -56701,7 +56703,7 @@
           "https://pbs.twimg.com/profile_images/2053029804849709056/E1bIU81S_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:50"
+      "last_updated": "2026-09-29T08:36:19"
     },
     "20260921203402_twitter_com_JamFarewellSong_status_2102134277299397082.json": {
       "status": "unknown",
@@ -56714,7 +56716,7 @@
           "https://pbs.twimg.com/profile_images/2053029804849709056/E1bIU81S_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:50"
+      "last_updated": "2026-09-29T08:36:19"
     },
     "20260921203615_twitter_com_JamFarewellSong_status_2102134835120861326.json": {
       "status": "unknown",
@@ -56727,7 +56729,7 @@
           "https://pbs.twimg.com/profile_images/2053029804849709056/E1bIU81S_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:50"
+      "last_updated": "2026-09-29T08:36:19"
     },
     "20260921203619_twitter_com_JamFarewellSong_status_2102134851457765735.json": {
       "status": "unknown",
@@ -56740,7 +56742,7 @@
           "https://pbs.twimg.com/profile_images/2053029804849709056/E1bIU81S_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:50"
+      "last_updated": "2026-09-29T08:36:19"
     },
     "20260921221741_twitter_com_JamFarewellSong_status_2102160363232137298.json": {
       "status": "unknown",
@@ -56752,7 +56754,7 @@
           "https://pbs.twimg.com/profile_images/2079816271148023808/1pDQllIf_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:50"
+      "last_updated": "2026-09-29T08:36:19"
     },
     "20260922103310_twitter_com_JamFarewellSong_status_2102345455141359862.json": {
       "status": "unknown",
@@ -56766,7 +56768,7 @@
           "https://pbs.twimg.com/profile_images/2059978102059696128/DD34Uxdu_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:53"
+      "last_updated": "2026-09-29T08:36:19"
     },
     "20260922103930_twitter_com_JamFarewellSong_status_2102347047114576022.json": {
       "status": "unknown",
@@ -56778,7 +56780,7 @@
           "https://pbs.twimg.com/profile_images/2096301120717000706/WTDahM4M_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:50"
+      "last_updated": "2026-09-29T08:36:19"
     },
     "20260922104627_twitter_com_JamFarewellSong_status_2102348794507776081.json": {
       "status": "done",
@@ -56802,7 +56804,7 @@
           "https://pbs.twimg.com/profile_images/2101524369638068224/vqhh_Ypw_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:50"
+      "last_updated": "2026-09-29T08:36:19"
     },
     "20260922105446_twitter_com_JamFarewellSong_status_2102350889004732488.json": {
       "status": "unknown",
@@ -56816,7 +56818,7 @@
           "https://pbs.twimg.com/profile_images/2077639275487825920/qeeWt0vC_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:51"
+      "last_updated": "2026-09-29T08:36:19"
     },
     "20260922105512_twitter_com_JamFarewellSong_status_2102350998748770467.json": {
       "status": "unknown",
@@ -56830,7 +56832,7 @@
           "https://pbs.twimg.com/profile_images/2096301120717000706/WTDahM4M_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:51"
+      "last_updated": "2026-09-29T08:36:19"
     },
     "20260922110006_twitter_com_JamFarewellSong_status_2102352231609864561.json": {
       "status": "done",
@@ -56856,7 +56858,7 @@
           "https://pbs.twimg.com/profile_images/2096301120717000706/WTDahM4M_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:51"
+      "last_updated": "2026-09-29T08:36:19"
     },
     "20260922110444_twitter_com_JamFarewellSong_status_2102353397978697922.json": {
       "status": "unknown",
@@ -56868,7 +56870,7 @@
           "https://pbs.twimg.com/profile_images/2096301120717000706/WTDahM4M_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:50"
+      "last_updated": "2026-09-29T08:36:19"
     },
     "20260922173717_twitter_com_JamFarewellSong_status_2102452186039160874.json": {
       "status": "done",
@@ -56897,7 +56899,7 @@
           "https://pbs.twimg.com/profile_images/2059480731588628481/CjqGUzj9_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:51"
+      "last_updated": "2026-09-29T08:36:19"
     },
     "20260922174327_twitter_com_JamFarewellSong_status_2102453736304206094.json": {
       "status": "unknown",
@@ -56911,7 +56913,7 @@
           "https://pbs.twimg.com/profile_images/2059480731588628481/CjqGUzj9_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:51"
+      "last_updated": "2026-09-29T08:36:19"
     },
     "20260922174708_twitter_com_JamFarewellSong_status_2102454665891967154.json": {
       "status": "unknown",
@@ -56925,7 +56927,7 @@
           "https://pbs.twimg.com/profile_images/2078900955052216321/TAw4grkQ_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:51"
+      "last_updated": "2026-09-29T08:36:19"
     },
     "20260922174947_twitter_com_JamFarewellSong_status_2102455330370380273.json": {
       "status": "unknown",
@@ -56939,7 +56941,7 @@
           "https://pbs.twimg.com/profile_images/2096301120717000706/WTDahM4M_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:51"
+      "last_updated": "2026-09-29T08:36:19"
     },
     "20260922175640_twitter_com_JamFarewellSong_status_2102457062571807093.json": {
       "status": "unknown",
@@ -56953,7 +56955,7 @@
           "https://pbs.twimg.com/profile_images/1303630233573240833/XKvBMU_Y_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:51"
+      "last_updated": "2026-09-29T08:36:19"
     },
     "20260922175703_twitter_com_JamFarewellSong_status_2102457160483721388.json": {
       "status": "done",
@@ -56980,7 +56982,7 @@
           "https://pbs.twimg.com/profile_images/2096301120717000706/WTDahM4M_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:52"
+      "last_updated": "2026-09-29T08:36:19"
     },
     "20260922180315_twitter_com_JamFarewellSong_status_2102458719196033144.json": {
       "status": "unknown",
@@ -56997,7 +56999,7 @@
           "https://pbs.twimg.com/profile_images/2096301120717000706/WTDahM4M_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:53"
+      "last_updated": "2026-09-29T08:36:19"
     },
     "20260922180456_twitter_com_JamFarewellSong_status_2102459142749528281.json": {
       "status": "unknown",
@@ -57009,7 +57011,7 @@
           "https://pbs.twimg.com/profile_images/2100991910529957888/W-7BtsKD_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:51"
+      "last_updated": "2026-09-29T08:36:19"
     },
     "20260922180523_twitter_com_JamFarewellSong_status_2102459257291681926.json": {
       "status": "unknown",
@@ -57021,7 +57023,7 @@
           "https://pbs.twimg.com/profile_images/2100991910529957888/W-7BtsKD_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:51"
+      "last_updated": "2026-09-29T08:36:19"
     },
     "20260922180807_twitter_com_JamFarewellSong_status_2102459944520061231.json": {
       "status": "unknown",
@@ -57037,7 +57039,7 @@
           "https://pbs.twimg.com/profile_images/2100991910529957888/W-7BtsKD_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:53"
+      "last_updated": "2026-09-29T08:36:19"
     },
     "20260922182858_twitter_com_JamFarewellSong_status_2102465191015493707.json": {
       "status": "unknown",
@@ -57052,7 +57054,7 @@
           "https://pbs.twimg.com/profile_images/2096301120717000706/WTDahM4M_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:52"
+      "last_updated": "2026-09-29T08:36:19"
     },
     "20260922183414_twitter_com_JamFarewellSong_status_2102466518005252445.json": {
       "status": "unknown",
@@ -57070,7 +57072,7 @@
           "https://pbs.twimg.com/profile_images/2072843452417806336/QEJaYVTe_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:53"
+      "last_updated": "2026-09-29T08:36:19"
     },
     "20260922183533_twitter_com_JamFarewellSong_status_2102466849602732177.json": {
       "status": "unknown",
@@ -57085,7 +57087,7 @@
           "https://pbs.twimg.com/profile_images/2100998841822519296/aCCCUq1C_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:52"
+      "last_updated": "2026-09-29T08:36:19"
     },
     "20260922183801_twitter_com_JamFarewellSong_status_2102467470384931138.json": {
       "status": "done",
@@ -57111,7 +57113,7 @@
           "https://pbs.twimg.com/profile_images/2096301120717000706/WTDahM4M_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:51"
+      "last_updated": "2026-09-29T08:36:19"
     },
     "20260923025650_twitter_com_JamFarewellSong_status_2102593000690081802.json": {
       "status": "done",
@@ -57135,7 +57137,7 @@
           "https://pbs.twimg.com/profile_images/2059978102059696128/DD34Uxdu_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:51"
+      "last_updated": "2026-09-29T08:36:19"
     },
     "20260924142559_twitter_com_JamFarewellSong_status_2103128821386162608.json": {
       "status": "unknown",
@@ -57149,7 +57151,7 @@
           "https://pbs.twimg.com/profile_images/2086854676012736512/2qkHWubI_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:51"
+      "last_updated": "2026-09-29T08:36:20"
     },
     "20260925140138_twitter_com_JamFarewellSong_status_2103485077946851582.json": {
       "status": "unknown",
@@ -57161,7 +57163,7 @@
           "https://pbs.twimg.com/profile_images/2101145511868940288/cHbXqr64_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:51"
+      "last_updated": "2026-09-29T08:36:19"
     },
     "20260926104753_twitter_com_JamFarewellSong_status_2103798707930153387.json": {
       "status": "unknown",
@@ -57173,7 +57175,7 @@
           "https://pbs.twimg.com/profile_images/2101524369638068224/vqhh_Ypw_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:51"
+      "last_updated": "2026-09-29T08:36:19"
     },
     "20260926104900_twitter_com_JamFarewellSong_status_2103798991410626659.json": {
       "status": "unknown",
@@ -57189,7 +57191,7 @@
           "https://pbs.twimg.com/profile_images/2090310882178011137/i-SL7hJ-_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:52"
+      "last_updated": "2026-09-29T08:36:19"
     },
     "20260926104935_twitter_com_JamFarewellSong_status_2103799135476633681.json": {
       "status": "done",
@@ -57229,7 +57231,7 @@
           "https://pbs.twimg.com/profile_images/2043493826246082560/syYxrkxW_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:52"
+      "last_updated": "2026-09-29T08:36:19"
     },
     "20260926110216_twitter_com_JamFarewellSong_status_2103802329279631528.json": {
       "status": "unknown",
@@ -57242,7 +57244,7 @@
           "https://pbs.twimg.com/profile_images/2047667665544810497/lvqSkxXf_normal.png"
         ]
       },
-      "last_updated": "2026-09-29T08:28:51"
+      "last_updated": "2026-09-29T08:36:19"
     },
     "20260926110549_twitter_com_JamFarewellSong_status_2103803220053327981.json": {
       "status": "done",
@@ -57297,7 +57299,7 @@
           "https://pbs.twimg.com/profile_images/1996278844685189120/thxU_0Rz_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:53"
+      "last_updated": "2026-09-29T08:36:19"
     },
     "20260927164457_twitter_com_JamFarewellSong_status_2104250954489213426.json": {
       "status": "unknown",
@@ -57310,7 +57312,7 @@
           "https://pbs.twimg.com/profile_images/1996278844685189120/thxU_0Rz_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:52"
+      "last_updated": "2026-09-29T08:36:19"
     },
     "20260927164645_twitter_com_JamFarewellSong_status_2104251407213945147.json": {
       "status": "unknown",
@@ -57323,7 +57325,7 @@
           "https://pbs.twimg.com/profile_images/2090310882178011137/i-SL7hJ-_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:52"
+      "last_updated": "2026-09-29T08:36:19"
     },
     "20260927164705_twitter_com_JamFarewellSong_status_2104251491876048970.json": {
       "status": "done",
@@ -57400,7 +57402,7 @@
           "https://pbs.twimg.com/profile_images/2096601089483440128/gm0U353F_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:52"
+      "last_updated": "2026-09-29T08:36:19"
     },
     "20260927174502_twitter_com_JamFarewellSong_status_2104266075114524979.json": {
       "status": "unknown",
@@ -57412,7 +57414,7 @@
           "https://pbs.twimg.com/profile_images/2100666182621974528/bXg5Y5P8_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:52"
+      "last_updated": "2026-09-29T08:36:19"
     },
     "20260927174606_twitter_com_JamFarewellSong_status_2104266344418193671.json": {
       "status": "unknown",
@@ -57425,7 +57427,7 @@
           "https://pbs.twimg.com/profile_images/2090314456777551872/r8mWK2Wn_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:52"
+      "last_updated": "2026-09-29T08:36:19"
     },
     "20260928024651_twitter_com_JamFarewellSong_status_2104402428590522679.json": {
       "status": "done",
@@ -57465,7 +57467,7 @@
           "https://pbs.twimg.com/profile_images/2096919871372369920/iFcW2t6E_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-29T08:28:52"
+      "last_updated": "2026-09-29T08:36:19"
     }
   }
 }
