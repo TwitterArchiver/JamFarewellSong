@@ -1,0 +1,432 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2103006981632204800",
+        "3_2103007011797630977",
+        "3_2103007035793256449"
+      ],
+      "media_source_tweet_id": [
+        "2103007103149330621",
+        "2103007103149330621",
+        "2103007103149330621"
+      ]
+    },
+    "author_id": "1907414826101669888",
+    "conversation_id": "2104250683239325844",
+    "created_at": "2026-09-27T16:43:52.000Z",
+    "display_text_range": [
+      0,
+      69
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T17:43:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104250683239325844"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1244202723924295681",
+          "start": 3,
+          "username": "j_scj_"
+        },
+        {
+          "end": 21,
+          "id": "1768566389374435328",
+          "start": 12,
+          "username": "ghydkknd"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KxPDr9jHc3",
+          "end": 69,
+          "expanded_url": "https://x.com/j_scj_/status/2103007103149330621/photo/1",
+          "media_key": "3_2103006981632204800",
+          "start": 46,
+          "url": "https://t.co/KxPDr9jHc3"
+        },
+        {
+          "display_url": "pic.x.com/KxPDr9jHc3",
+          "end": 69,
+          "expanded_url": "https://x.com/j_scj_/status/2103007103149330621/photo/1",
+          "media_key": "3_2103007011797630977",
+          "start": 46,
+          "url": "https://t.co/KxPDr9jHc3"
+        },
+        {
+          "display_url": "pic.x.com/KxPDr9jHc3",
+          "end": 69,
+          "expanded_url": "https://x.com/j_scj_/status/2103007103149330621/photo/1",
+          "media_key": "3_2103007035793256449",
+          "start": 46,
+          "url": "https://t.co/KxPDr9jHc3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104250683239325844",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2103006981632204800"
+      },
+      {
+        "media_key": "3_2103007011797630977"
+      },
+      {
+        "media_key": "3_2103007035793256449"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103007103149330621",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @j_scj_: @ghydkknd 嘻嘻，为了让更多逻辑混乱的人哑口，再附上几张图 https://t.co/KxPDr9jHc3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 722,
+        "media_key": "3_2103006981632204800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS9htSRaoAALwe0.jpg",
+        "width": 886
+      },
+      {
+        "height": 444,
+        "media_key": "3_2103007011797630977",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS9hvCpagAE06K-.jpg",
+        "width": 898
+      },
+      {
+        "height": 640,
+        "media_key": "3_2103007035793256449",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS9hwcCasAEATR0.jpg",
+        "width": 894
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103006981632204800",
+            "3_2103007011797630977",
+            "3_2103007035793256449"
+          ],
+          "media_source_tweet_id": [
+            "2103007103149330621",
+            "2103007103149330621",
+            "2103007103149330621"
+          ]
+        },
+        "author_id": "1907414826101669888",
+        "conversation_id": "2104250683239325844",
+        "created_at": "2026-09-27T16:43:52.000Z",
+        "display_text_range": [
+          0,
+          69
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T17:43:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104250683239325844"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1244202723924295681",
+              "start": 3,
+              "username": "j_scj_"
+            },
+            {
+              "end": 21,
+              "id": "1768566389374435328",
+              "start": 12,
+              "username": "ghydkknd"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KxPDr9jHc3",
+              "end": 69,
+              "expanded_url": "https://x.com/j_scj_/status/2103007103149330621/photo/1",
+              "media_key": "3_2103006981632204800",
+              "start": 46,
+              "url": "https://t.co/KxPDr9jHc3"
+            },
+            {
+              "display_url": "pic.x.com/KxPDr9jHc3",
+              "end": 69,
+              "expanded_url": "https://x.com/j_scj_/status/2103007103149330621/photo/1",
+              "media_key": "3_2103007011797630977",
+              "start": 46,
+              "url": "https://t.co/KxPDr9jHc3"
+            },
+            {
+              "display_url": "pic.x.com/KxPDr9jHc3",
+              "end": 69,
+              "expanded_url": "https://x.com/j_scj_/status/2103007103149330621/photo/1",
+              "media_key": "3_2103007035793256449",
+              "start": 46,
+              "url": "https://t.co/KxPDr9jHc3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104250683239325844",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2103006981632204800"
+          },
+          {
+            "media_key": "3_2103007011797630977"
+          },
+          {
+            "media_key": "3_2103007035793256449"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103007103149330621",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @j_scj_: @ghydkknd 嘻嘻，为了让更多逻辑混乱的人哑口，再附上几张图 https://t.co/KxPDr9jHc3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103006981632204800",
+            "3_2103007011797630977",
+            "3_2103007035793256449"
+          ]
+        },
+        "author_id": "1244202723924295681",
+        "conversation_id": "2102790049494688241",
+        "created_at": "2026-09-24T06:22:20.000Z",
+        "display_text_range": [
+          10,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T07:22:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103007103149330621"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1768566389374435328",
+              "start": 0,
+              "username": "ghydkknd"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KxPDr9jHc3",
+              "end": 57,
+              "expanded_url": "https://x.com/j_scj_/status/2103007103149330621/photo/1",
+              "media_key": "3_2103006981632204800",
+              "start": 34,
+              "url": "https://t.co/KxPDr9jHc3"
+            },
+            {
+              "display_url": "pic.x.com/KxPDr9jHc3",
+              "end": 57,
+              "expanded_url": "https://x.com/j_scj_/status/2103007103149330621/photo/1",
+              "media_key": "3_2103007011797630977",
+              "start": 34,
+              "url": "https://t.co/KxPDr9jHc3"
+            },
+            {
+              "display_url": "pic.x.com/KxPDr9jHc3",
+              "end": 57,
+              "expanded_url": "https://x.com/j_scj_/status/2103007103149330621/photo/1",
+              "media_key": "3_2103007035793256449",
+              "start": 34,
+              "url": "https://t.co/KxPDr9jHc3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103007103149330621",
+        "in_reply_to_user_id": "1244202723924295681",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2103006981632204800"
+          },
+          {
+            "media_key": "3_2103007011797630977"
+          },
+          {
+            "media_key": "3_2103007035793256449"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 54,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102869837362221352",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ghydkknd 嘻嘻，为了让更多逻辑混乱的人哑口，再附上几张图 https://t.co/KxPDr9jHc3"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX（断糖中）&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od&自伤新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104250683239325844",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1907414826101669888/1775085260",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 613,
+          "following_count": 1808,
+          "like_count": 7428,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 1912
+        },
+        "url": "",
+        "username": "JamFarewellSong",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-03-29T10:00:32.000Z",
+        "description": "夺回粑粑的控制权💩",
+        "id": "1244202723924295681",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104222117315367019",
+        "name": "J.",
+        "pinned_tweet_id": "1275463897604952064",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949754001698037761/ZPa13DD0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 71,
+          "like_count": 415,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 487
+        },
+        "url": "",
+        "username": "j_scj_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-03-15T09:14:33.000Z",
+        "description": "morphine | 自说自话 📪https://t.co/mtYIAzGZ0z",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/feraline2",
+                "end": 40,
+                "expanded_url": "https://ngl.link/feraline2",
+                "start": 17,
+                "url": "https://t.co/mtYIAzGZ0z"
+              }
+            ]
+          }
+        },
+        "id": "1768566389374435328",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104210364334522532",
+        "name": "Feraline",
+        "pinned_tweet_id": "1931550163069222916",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1768566389374435328/1765049819",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996278844685189120/thxU_0Rz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 553,
+          "following_count": 560,
+          "like_count": 115152,
+          "listed_count": 4,
+          "media_count": 175,
+          "tweet_count": 6416
+        },
+        "url": "",
+        "username": "ghydkknd",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

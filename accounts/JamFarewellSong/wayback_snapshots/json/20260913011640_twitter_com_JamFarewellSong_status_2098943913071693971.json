@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2098943913071693971",
+    "created_at": "2026-09-13T01:16:40.000Z",
+    "display_text_range": [
+      0,
+      36
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T02:16:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098943913071693971"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1907414826101669888",
+          "start": 3,
+          "username": "JamFarewellSong"
+        },
+        {
+          "end": 31,
+          "id": "1686428350657740801",
+          "start": 21,
+          "username": "cpshgsdfg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098943913071693971",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098943894146969915",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JamFarewellSong: @cpshgsdfg 晚安😇…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2098943913071693971",
+        "created_at": "2026-09-13T01:16:40.000Z",
+        "display_text_range": [
+          0,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T02:16:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098943913071693971"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1907414826101669888",
+              "start": 3,
+              "username": "JamFarewellSong"
+            },
+            {
+              "end": 31,
+              "id": "1686428350657740801",
+              "start": 21,
+              "username": "cpshgsdfg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098943913071693971",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098943894146969915",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @JamFarewellSong: @cpshgsdfg 晚安😇…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2098610550779371554",
+        "created_at": "2026-09-13T01:16:35.000Z",
+        "display_text_range": [
+          11,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T02:16:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098943894146969915"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1686428350657740801",
+              "start": 0,
+              "username": "cpshgsdfg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098943894146969915",
+        "in_reply_to_user_id": "1686428350657740801",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098610550779371554",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cpshgsdfg 晚安😇…"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX（断糖中）&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od&自伤新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098943913071693971",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1907414826101669888/1775085260",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 598,
+          "following_count": 1774,
+          "like_count": 7249,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 1834
+        },
+        "url": "",
+        "username": "JamFarewellSong",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-08-01T17:27:14.000Z",
+        "description": "这里是罗夏，神秘日常男。每周一，周四十二点分享健身日常，不要问为什么是这个时间，因为那两天刚好练胸练腹。私信都会看，发屌的不回。有门槛🚪（互关免门），但是大家有什么想找我的可以给我发私信。\n最近状态很差暂时停更",
+        "id": "1686428350657740801",
+        "is_identity_verified": false,
+        "location": "🚪52/88/188/520/1888",
+        "most_recent_tweet_id": "2098610550779371554",
+        "name": "ozymandias",
+        "pinned_tweet_id": "2055329252506243491",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1686428350657740801/1767783059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001229435710951424/PNJO_XDB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4843,
+          "following_count": 273,
+          "like_count": 705,
+          "listed_count": 2,
+          "media_count": 21,
+          "tweet_count": 1526
+        },
+        "url": "",
+        "username": "cpshgsdfg",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

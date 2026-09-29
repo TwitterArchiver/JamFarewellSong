@@ -1,0 +1,396 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096871348035633152",
+        "3_2096871360912056320",
+        "3_2096871370579963904"
+      ],
+      "media_source_tweet_id": [
+        "2096871379643818202",
+        "2096871379643818202",
+        "2096871379643818202"
+      ]
+    },
+    "author_id": "1907414826101669888",
+    "conversation_id": "2097375475324826102",
+    "created_at": "2026-09-08T17:24:15.000Z",
+    "display_text_range": [
+      0,
+      59
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T18:24:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097375475324826102"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2048045804959436800",
+          "start": 3,
+          "username": "shifengshua0717"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ArrEaKTY6O",
+          "end": 59,
+          "expanded_url": "https://x.com/shifengshua0717/status/2096871379643818202/photo/1",
+          "media_key": "3_2096871348035633152",
+          "start": 36,
+          "url": "https://t.co/ArrEaKTY6O"
+        },
+        {
+          "display_url": "pic.x.com/ArrEaKTY6O",
+          "end": 59,
+          "expanded_url": "https://x.com/shifengshua0717/status/2096871379643818202/photo/1",
+          "media_key": "3_2096871360912056320",
+          "start": 36,
+          "url": "https://t.co/ArrEaKTY6O"
+        },
+        {
+          "display_url": "pic.x.com/ArrEaKTY6O",
+          "end": 59,
+          "expanded_url": "https://x.com/shifengshua0717/status/2096871379643818202/photo/1",
+          "media_key": "3_2096871370579963904",
+          "start": 36,
+          "url": "https://t.co/ArrEaKTY6O"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097375475324826102",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2096871348035633152"
+      },
+      {
+        "media_key": "3_2096871360912056320"
+      },
+      {
+        "media_key": "3_2096871370579963904"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 109
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096871379643818202",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shifengshua0717: 戒网瘾学校我会一直曝光下去的 https://t.co/ArrEaKTY6O"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2096871348035633152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRmVYZ9bwAAI5J4.jpg",
+        "width": 3072
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2096871360912056320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRmVZJ7aYAAgRCt.jpg",
+        "width": 1080
+      },
+      {
+        "height": 977,
+        "media_key": "3_2096871370579963904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRmVZt8a8AA83Ji.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096871348035633152",
+            "3_2096871360912056320",
+            "3_2096871370579963904"
+          ],
+          "media_source_tweet_id": [
+            "2096871379643818202",
+            "2096871379643818202",
+            "2096871379643818202"
+          ]
+        },
+        "author_id": "1907414826101669888",
+        "conversation_id": "2097375475324826102",
+        "created_at": "2026-09-08T17:24:15.000Z",
+        "display_text_range": [
+          0,
+          59
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T18:24:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097375475324826102"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2048045804959436800",
+              "start": 3,
+              "username": "shifengshua0717"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ArrEaKTY6O",
+              "end": 59,
+              "expanded_url": "https://x.com/shifengshua0717/status/2096871379643818202/photo/1",
+              "media_key": "3_2096871348035633152",
+              "start": 36,
+              "url": "https://t.co/ArrEaKTY6O"
+            },
+            {
+              "display_url": "pic.x.com/ArrEaKTY6O",
+              "end": 59,
+              "expanded_url": "https://x.com/shifengshua0717/status/2096871379643818202/photo/1",
+              "media_key": "3_2096871360912056320",
+              "start": 36,
+              "url": "https://t.co/ArrEaKTY6O"
+            },
+            {
+              "display_url": "pic.x.com/ArrEaKTY6O",
+              "end": 59,
+              "expanded_url": "https://x.com/shifengshua0717/status/2096871379643818202/photo/1",
+              "media_key": "3_2096871370579963904",
+              "start": 36,
+              "url": "https://t.co/ArrEaKTY6O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097375475324826102",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096871348035633152"
+          },
+          {
+            "media_key": "3_2096871360912056320"
+          },
+          {
+            "media_key": "3_2096871370579963904"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 109
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096871379643818202",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shifengshua0717: 戒网瘾学校我会一直曝光下去的 https://t.co/ArrEaKTY6O"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096871348035633152",
+            "3_2096871360912056320",
+            "3_2096871370579963904"
+          ]
+        },
+        "author_id": "2048045804959436800",
+        "conversation_id": "2096871379643818202",
+        "created_at": "2026-09-07T08:01:09.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T09:01:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096871379643818202"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ArrEaKTY6O",
+              "end": 38,
+              "expanded_url": "https://x.com/shifengshua0717/status/2096871379643818202/photo/1",
+              "media_key": "3_2096871348035633152",
+              "start": 15,
+              "url": "https://t.co/ArrEaKTY6O"
+            },
+            {
+              "display_url": "pic.x.com/ArrEaKTY6O",
+              "end": 38,
+              "expanded_url": "https://x.com/shifengshua0717/status/2096871379643818202/photo/1",
+              "media_key": "3_2096871360912056320",
+              "start": 15,
+              "url": "https://t.co/ArrEaKTY6O"
+            },
+            {
+              "display_url": "pic.x.com/ArrEaKTY6O",
+              "end": 38,
+              "expanded_url": "https://x.com/shifengshua0717/status/2096871379643818202/photo/1",
+              "media_key": "3_2096871370579963904",
+              "start": 15,
+              "url": "https://t.co/ArrEaKTY6O"
+            },
+            {
+              "display_url": "x.com/shifengshua071…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/shifengshua0717/status/2065304301543805178",
+              "start": 39,
+              "url": "https://t.co/wRLNLVzUog"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096871379643818202",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096871348035633152"
+          },
+          {
+            "media_key": "3_2096871360912056320"
+          },
+          {
+            "media_key": "3_2096871370579963904"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 108,
+          "impression_count": 123082,
+          "like_count": 2168,
+          "quote_count": 7,
+          "reply_count": 241,
+          "retweet_count": 109
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065304301543805178",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "戒网瘾学校我会一直曝光下去的 https://t.co/ArrEaKTY6O https://t.co/wRLNLVzUog"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX（断糖中）&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od&自伤新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097375475324826102",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1907414826101669888/1775085260",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 589,
+          "following_count": 1768,
+          "like_count": 7220,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 1809
+        },
+        "url": "",
+        "username": "JamFarewellSong",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2026-04-25T14:26:01.000Z",
+        "description": "视频创作者 | 致力于曝光戒网瘾学校和扭转机构等黑心教育机构 | 至今已参与8起曝光兼舆论救援案件 | 咕咕嘎嘎！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "sfsa.mrgzs.top",
+                "end": 23,
+                "expanded_url": "https://sfsa.mrgzs.top",
+                "start": 0,
+                "url": "https://t.co/TkxUTTp1Rs"
+              }
+            ]
+          }
+        },
+        "id": "2048045804959436800",
+        "is_identity_verified": false,
+        "location": "Hong Kong",
+        "most_recent_tweet_id": "2096871379643818202",
+        "name": "枫书",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2048045804959436800/1788791328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059337950232825856/-b-SRyMD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 401,
+          "following_count": 29,
+          "like_count": 1989,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 30
+        },
+        "url": "https://t.co/TkxUTTp1Rs",
+        "username": "shifengshua0717",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

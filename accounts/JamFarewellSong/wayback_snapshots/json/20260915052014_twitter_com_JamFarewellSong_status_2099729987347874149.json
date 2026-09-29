@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2099661622763720755",
+    "created_at": "2026-09-15T05:20:14.000Z",
+    "display_text_range": [
+      12,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T06:20:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099729987347874149"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2072208739281866752",
+          "start": 0,
+          "username": "jingzi6666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099729987347874149",
+    "in_reply_to_user_id": "2072208739281866752",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099661622763720755",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jingzi6666 好诶，姐姐看私信喵😇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2099661622763720755",
+        "created_at": "2026-09-15T05:20:14.000Z",
+        "display_text_range": [
+          12,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T06:20:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099729987347874149"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2072208739281866752",
+              "start": 0,
+              "username": "jingzi6666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099729987347874149",
+        "in_reply_to_user_id": "2072208739281866752",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099661622763720755",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jingzi6666 好诶，姐姐看私信喵😇"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2072208739281866752",
+        "conversation_id": "2099661622763720755",
+        "created_at": "2026-09-15T00:48:35.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T01:48:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099661622763720755"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yueyechunxue/s…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/yueyechunxue/status/2099159091868541019",
+              "start": 11,
+              "url": "https://t.co/vQ76yBYkJ1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099661622763720755",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099159091868541019",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "找京子来一单吧呜呜呜 https://t.co/vQ76yBYkJ1"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX（断糖中）&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od&自伤新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099729987347874149",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1907414826101669888/1775085260",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 601,
+          "following_count": 1780,
+          "like_count": 7254,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 1842
+        },
+        "url": "",
+        "username": "JamFarewellSong",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-01T06:42:47.000Z",
+        "description": "176/60，胸88/腰69/臀89，在减了🙂找金主😫\n90后江苏农村贫苦mtf🥲qq：2075589861\n靠打零工，做脱毛，赛博要饭，泰国旅游变性，\n卖雌二醇，泌乳药，减肥产品等维持生活😮‍💨\n我还要再存5万才够srs🙂‍↕️",
+        "id": "2072208739281866752",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099662928739958941",
+        "name": "京子🍥（糖商）",
+        "pinned_tweet_id": "2073341408740884941",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2072208739281866752/1783156555",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073338424229240833/qrruTRLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 748,
+          "following_count": 1787,
+          "like_count": 44,
+          "listed_count": 4,
+          "media_count": 38,
+          "tweet_count": 263
+        },
+        "url": "",
+        "username": "jingzi6666",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

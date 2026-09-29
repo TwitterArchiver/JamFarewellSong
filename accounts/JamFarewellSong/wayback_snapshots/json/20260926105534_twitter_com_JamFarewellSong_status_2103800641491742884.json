@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2103800641491742884",
+    "created_at": "2026-09-26T10:55:34.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T11:55:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103800641491742884"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1796937387899064320",
+          "start": 3,
+          "username": "CleverFf050755"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103800641491742884",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993542620900188502",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CleverFf050755: 我才不怕od，一听od我就高兴，cn算什麽od？无非愈美片，掺点让人恶心的愈创木酚甘油迷。美国才算od，有lsd有冰，听说还有芬太尼。我以后要建立一个消防斧国家然后我们国家的人都不吃愈美片的，我们直接吸右美沙芬原剂，我们批量种罂粟，我们也…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1242,
+        "media_key": "3_1993542618261917696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6p8cvYakAA9s6h.jpg",
+        "width": 1178
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2103800641491742884",
+        "created_at": "2026-09-26T10:55:34.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T11:55:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103800641491742884"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1796937387899064320",
+              "start": 3,
+              "username": "CleverFf050755"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103800641491742884",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993542620900188502",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CleverFf050755: 我才不怕od，一听od我就高兴，cn算什麽od？无非愈美片，掺点让人恶心的愈创木酚甘油迷。美国才算od，有lsd有冰，听说还有芬太尼。我以后要建立一个消防斧国家然后我们国家的人都不吃愈美片的，我们直接吸右美沙芬原剂，我们批量种罂粟，我们也…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993542618261917696"
+          ]
+        },
+        "author_id": "1796937387899064320",
+        "conversation_id": "1993542620900188502",
+        "created_at": "2025-11-26T04:49:33.000Z",
+        "display_text_range": [
+          0,
+          139
+        ],
+        "edit_controls": {
+          "editable_until": "2025-11-26T05:49:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993542620900188502"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1rGWk0BniB",
+              "end": 163,
+              "expanded_url": "https://x.com/CleverFf050755/status/1993542620900188502/photo/1",
+              "media_key": "3_1993542618261917696",
+              "start": 140,
+              "url": "https://t.co/1rGWk0BniB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993542620900188502",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_1993542618261917696"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 6279,
+          "like_count": 23,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "我才不怕od，一听od我就高兴，cn算什麽od？无非愈美片，掺点让人恶心的愈创木酚甘油迷。美国才算od，有lsd有冰，听说还有芬太尼。我以后要建立一个消防斧国家然后我们国家的人都不吃愈美片的，我们直接吸右美沙芬原剂，我们批量种罂粟，我们也不用担心家暴了，因为麻醉以后就没有痛觉。 https://t.co/1rGWk0BniB"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX（断糖中）&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od&自伤新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103800641491742884",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1907414826101669888/1775085260",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 614,
+          "following_count": 1808,
+          "like_count": 7393,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 1905
+        },
+        "url": "",
+        "username": "JamFarewellSong",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-06-01T16:11:39.000Z",
+        "description": "完全理解一个人是异常困难的，你所能做的只能是理解，再理解。妈妈@Akinoyo_desu  \n我厌恶强权",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 31,
+                "username": "Akinoyo_desu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/T0F6hSuwLZ"
+              }
+            ]
+          }
+        },
+        "id": "1796937387899064320",
+        "is_identity_verified": false,
+        "location": "普瑞巴林生产制造区A3车间",
+        "most_recent_tweet_id": "2029902730861629922",
+        "name": "Texas#缄默",
+        "pinned_tweet_id": "2025105252224274724",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1796937387899064320/1761989816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009457486680760321/2cLUiZf9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 727,
+          "following_count": 249,
+          "like_count": 219,
+          "listed_count": 2,
+          "media_count": 237,
+          "tweet_count": 2447
+        },
+        "url": "https://t.co/T0F6hSuwLZ",
+        "username": "CleverFf050755",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

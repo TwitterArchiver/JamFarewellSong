@@ -1,0 +1,321 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2102011213769326592",
+        "3_2102011219565858816"
+      ],
+      "media_source_tweet_id": [
+        "2102011229136949646",
+        "2102011229136949646"
+      ]
+    },
+    "author_id": "1907414826101669888",
+    "conversation_id": "2102131991651184876",
+    "created_at": "2026-09-21T20:24:57.000Z",
+    "display_text_range": [
+      0,
+      101
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T21:24:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102131991651184876"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1072534840312913920",
+          "start": 3,
+          "username": "mizuame_t2"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Xilpxlpgij",
+          "end": 101,
+          "expanded_url": "https://x.com/mizuame_t2/status/2102011229136949646/photo/1",
+          "media_key": "3_2102011213769326592",
+          "start": 78,
+          "url": "https://t.co/Xilpxlpgij"
+        },
+        {
+          "display_url": "pic.x.com/Xilpxlpgij",
+          "end": 101,
+          "expanded_url": "https://x.com/mizuame_t2/status/2102011229136949646/photo/1",
+          "media_key": "3_2102011219565858816",
+          "start": 78,
+          "url": "https://t.co/Xilpxlpgij"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102131991651184876",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2102011213769326592"
+      },
+      {
+        "media_key": "3_2102011219565858816"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102011229136949646",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mizuame_t2: 在南京明基医院做嗓音训练，感觉还是很友跨的，医生主动问我性别应该写什么，我说不确定于是写了个TG（transgender） https://t.co/Xilpxlpgij"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 317,
+        "media_key": "3_2102011213769326592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSvYD96bwAALZcT.jpg",
+        "width": 423
+      },
+      {
+        "height": 2681,
+        "media_key": "3_2102011219565858816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSvYETgb0AApqEw.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102011213769326592",
+            "3_2102011219565858816"
+          ],
+          "media_source_tweet_id": [
+            "2102011229136949646",
+            "2102011229136949646"
+          ]
+        },
+        "author_id": "1907414826101669888",
+        "conversation_id": "2102131991651184876",
+        "created_at": "2026-09-21T20:24:57.000Z",
+        "display_text_range": [
+          0,
+          101
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T21:24:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102131991651184876"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1072534840312913920",
+              "start": 3,
+              "username": "mizuame_t2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Xilpxlpgij",
+              "end": 101,
+              "expanded_url": "https://x.com/mizuame_t2/status/2102011229136949646/photo/1",
+              "media_key": "3_2102011213769326592",
+              "start": 78,
+              "url": "https://t.co/Xilpxlpgij"
+            },
+            {
+              "display_url": "pic.x.com/Xilpxlpgij",
+              "end": 101,
+              "expanded_url": "https://x.com/mizuame_t2/status/2102011229136949646/photo/1",
+              "media_key": "3_2102011219565858816",
+              "start": 78,
+              "url": "https://t.co/Xilpxlpgij"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102131991651184876",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2102011213769326592"
+          },
+          {
+            "media_key": "3_2102011219565858816"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102011229136949646",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mizuame_t2: 在南京明基医院做嗓音训练，感觉还是很友跨的，医生主动问我性别应该写什么，我说不确定于是写了个TG（transgender） https://t.co/Xilpxlpgij"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102011213769326592",
+            "3_2102011219565858816"
+          ]
+        },
+        "author_id": "1072534840312913920",
+        "conversation_id": "2102011229136949646",
+        "created_at": "2026-09-21T12:25:05.000Z",
+        "display_text_range": [
+          0,
+          61
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T13:25:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102011229136949646"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Xilpxlpgij",
+              "end": 85,
+              "expanded_url": "https://x.com/mizuame_t2/status/2102011229136949646/photo/1",
+              "media_key": "3_2102011213769326592",
+              "start": 62,
+              "url": "https://t.co/Xilpxlpgij"
+            },
+            {
+              "display_url": "pic.x.com/Xilpxlpgij",
+              "end": 85,
+              "expanded_url": "https://x.com/mizuame_t2/status/2102011229136949646/photo/1",
+              "media_key": "3_2102011219565858816",
+              "start": 62,
+              "url": "https://t.co/Xilpxlpgij"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102011229136949646",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2102011213769326592"
+          },
+          {
+            "media_key": "3_2102011219565858816"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 7777,
+          "like_count": 81,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "在南京明基医院做嗓音训练，感觉还是很友跨的，医生主动问我性别应该写什么，我说不确定于是写了个TG（transgender） https://t.co/Xilpxlpgij"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX（断糖中）&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od&自伤新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102131991651184876",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1907414826101669888/1775085260",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 604,
+          "following_count": 1791,
+          "like_count": 7287,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 1866
+        },
+        "url": "",
+        "username": "JamFarewellSong",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-12-11T16:53:27.000Z",
+        "description": "大龄天残？党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、爱抓小孩症.jpg，同类欢迎互fo🥺\n马斯克你再封我号试试呢😡",
+        "id": "1072534840312913920",
+        "is_identity_verified": false,
+        "location": "β Cygni",
+        "most_recent_tweet_id": "2102049640267026776",
+        "name": "水母雨🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1072534840312913920/1787807333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092834520789860352/hr9YENoq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 232,
+          "following_count": 197,
+          "like_count": 1144,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 242
+        },
+        "url": "",
+        "username": "mizuame_t2",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

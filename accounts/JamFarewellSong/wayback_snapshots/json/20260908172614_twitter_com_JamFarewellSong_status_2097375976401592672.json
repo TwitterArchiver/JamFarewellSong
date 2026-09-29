@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2097375976401592672",
+    "created_at": "2026-09-08T17:26:14.000Z",
+    "display_text_range": [
+      0,
+      91
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T18:26:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097375976401592672"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1472419244126388226",
+          "start": 3,
+          "username": "Fubuki_027"
+        },
+        {
+          "end": 40,
+          "id": "1933166589144395776",
+          "start": 24,
+          "username": "HyacinthWithYou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097375976401592672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096947821211787383",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Fubuki_027: 讣告：\n米莉亚（@HyacinthWithYou），已于2026年9月7日13:01由其母亲确认离世，死因是意外死亡，享年20岁。\n晚安，米莉亚。🕯️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2097375976401592672",
+        "created_at": "2026-09-08T17:26:14.000Z",
+        "display_text_range": [
+          0,
+          91
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T18:26:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097375976401592672"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1472419244126388226",
+              "start": 3,
+              "username": "Fubuki_027"
+            },
+            {
+              "end": 40,
+              "id": "1933166589144395776",
+              "start": 24,
+              "username": "HyacinthWithYou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097375976401592672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096947821211787383",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Fubuki_027: 讣告：\n米莉亚（@HyacinthWithYou），已于2026年9月7日13:01由其母亲确认离世，死因是意外死亡，享年20岁。\n晚安，米莉亚。🕯️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1472419244126388226",
+        "conversation_id": "2096947821211787383",
+        "created_at": "2026-09-07T13:04:54.000Z",
+        "display_text_range": [
+          0,
+          75
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T14:04:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096947821211787383"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 24,
+              "id": "1933166589144395776",
+              "start": 8,
+              "username": "HyacinthWithYou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096947821211787383",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 26840,
+          "like_count": 229,
+          "quote_count": 5,
+          "reply_count": 161,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "讣告：\n米莉亚（@HyacinthWithYou），已于2026年9月7日13:01由其母亲确认离世，死因是意外死亡，享年20岁。\n晚安，米莉亚。🕯️"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX（断糖中）&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od&自伤新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097375976401592672",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1907414826101669888/1775085260",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 589,
+          "following_count": 1768,
+          "like_count": 7224,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 1811
+        },
+        "url": "",
+        "username": "JamFarewellSong",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-12-19T04:11:30.000Z",
+        "description": "🩵🩷我喜欢你🩷🩵\n是狐狸！| INFP | MtX | 无证深柜中 | 想割手爱od | 重生日2026.5.8🍥 | 小号 @Rinfen_027 | 随缘回fo请多指教🥺\n永远的米莉亚 @HyacinthWithYou",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 63,
+                "username": "Rinfen_027"
+              },
+              {
+                "end": 111,
+                "start": 95,
+                "username": "HyacinthWithYou"
+              }
+            ]
+          }
+        },
+        "id": "1472419244126388226",
+        "is_identity_verified": false,
+        "location": "山东济南/青岛",
+        "most_recent_tweet_id": "2096947821211787383",
+        "name": "Rinfen27.🍥",
+        "pinned_tweet_id": "2096836970152706358",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1472419244126388226/1780457083",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066320077000228864/GiHJ7Exj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 937,
+          "following_count": 2375,
+          "like_count": 8659,
+          "listed_count": 3,
+          "media_count": 62,
+          "tweet_count": 3059
+        },
+        "url": "",
+        "username": "Fubuki_027",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-12T14:17:07.000Z",
+        "description": "MtX 边缘型人格 | 06 | 🍰永远的啡咖 @ffeedayo 最喜欢的主人 @Coccus_Swamer 178/64kg ｜hrt start 09/01/2022 | 活跃在江苏 ｜脑梗患者",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 24,
+                "username": "ffeedayo"
+              },
+              {
+                "end": 55,
+                "start": 41,
+                "username": "Coccus_Swamer"
+              }
+            ]
+          }
+        },
+        "id": "1933166589144395776",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095793278948180261",
+        "name": "✝︎米莉亚☨",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1933166589144395776/1784138459",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075209933931638784/2JKouS7F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 181,
+          "following_count": 150,
+          "like_count": 199,
+          "listed_count": 2,
+          "media_count": 27,
+          "tweet_count": 78
+        },
+        "url": "",
+        "username": "HyacinthWithYou",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2102457062571807093",
+    "created_at": "2026-09-22T17:56:40.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-22T18:56:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102457062571807093"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 21,
+          "start": 15,
+          "tag": "Chine"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "46090688",
+          "start": 3,
+          "username": "RSF_inter"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102457062571807093",
+    "lang": "fr",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 23
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102024880325812365",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RSF_inter: #Chine : RSF publie son nouveau rapport Propaganda Monitor qui révèle comment le régime 🇨🇳 cherche à imposer sa propagande d…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 650,
+        "media_key": "3_2102024806967508993",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSvkbMhbgAEVwT-.jpg",
+        "width": 1625
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2102457062571807093",
+        "created_at": "2026-09-22T17:56:40.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T18:56:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102457062571807093"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 15,
+              "tag": "Chine"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "46090688",
+              "start": 3,
+              "username": "RSF_inter"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102457062571807093",
+        "lang": "fr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 23
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102024880325812365",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RSF_inter: #Chine : RSF publie son nouveau rapport Propaganda Monitor qui révèle comment le régime 🇨🇳 cherche à imposer sa propagande d…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102024806967508993"
+          ]
+        },
+        "author_id": "46090688",
+        "conversation_id": "2102024880325812365",
+        "created_at": "2026-09-21T13:19:19.000Z",
+        "display_text_range": [
+          0,
+          279
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T14:19:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102024880325812365"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "Chine"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EyPjS9O39E",
+              "end": 303,
+              "expanded_url": "https://x.com/RSF_inter/status/2102024880325812365/photo/1",
+              "media_key": "3_2102024806967508993",
+              "start": 280,
+              "url": "https://t.co/EyPjS9O39E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102024880325812365",
+        "lang": "fr",
+        "media_metadata": [
+          {
+            "media_key": "3_2102024806967508993"
+          }
+        ],
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 6,
+                "start": 0,
+                "tag": "Chine"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "rsf.org/fr/propaganda-…",
+                "end": 344,
+                "expanded_url": "https://rsf.org/fr/propaganda-monitor-rsf-exposes-china-s-global-campaign-distort-journalism-worldwide",
+                "start": 321,
+                "url": "https://t.co/UwFmijNmTP"
+              }
+            ]
+          },
+          "text": "#Chine : RSF publie son nouveau rapport Propaganda Monitor qui révèle comment le régime 🇨🇳 cherche à imposer sa propagande dans l’espace médiatique mondial.\n\nLe constat est implacable : aucun pays n’est à l’abri. Les tactiques de Pékin menacent le journalisme indépendant partout dans le monde.\n\n👉 Découvrez le rapport : https://t.co/UwFmijNmTP"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 84317,
+          "like_count": 20,
+          "quote_count": 6,
+          "reply_count": 2,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "#Chine : RSF publie son nouveau rapport Propaganda Monitor qui révèle comment le régime 🇨🇳 cherche à imposer sa propagande dans l’espace médiatique mondial.\n\nLe constat est implacable : aucun pays n’est à l’abri. Les tactiques de Pékin menacent le journalisme indépendant partout https://t.co/EyPjS9O39E"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX（断糖中）&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od&自伤新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102457062571807093",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1907414826101669888/1775085260",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 613,
+          "following_count": 1804,
+          "like_count": 7352,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 1891
+        },
+        "url": "",
+        "username": "JamFarewellSong",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2009-06-10T11:31:42.000Z",
+        "description": "Reporters sans frontières - Reporters Without Borders (RSF). We fight for #PressFreedom all over the world.",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 87,
+                "start": 74,
+                "tag": "PressFreedom"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "rsf.org",
+                "end": 23,
+                "expanded_url": "http://www.rsf.org",
+                "start": 0,
+                "url": "https://t.co/KrPGi8zjRm"
+              }
+            ]
+          }
+        },
+        "id": "46090688",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102417871611527293",
+        "name": "RSF",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/46090688/1777522030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1303630233573240833/XKvBMU_Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 225788,
+          "following_count": 1677,
+          "like_count": 4280,
+          "listed_count": 3432,
+          "media_count": 13284,
+          "tweet_count": 38283
+        },
+        "url": "https://t.co/KrPGi8zjRm",
+        "username": "RSF_inter",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

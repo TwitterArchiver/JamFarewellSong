@@ -1,0 +1,427 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2098637389245956096",
+        "3_2098637707920691200"
+      ],
+      "media_source_tweet_id": [
+        "2098637713662517476",
+        "2098637713662517476"
+      ]
+    },
+    "author_id": "1907414826101669888",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "2102465191015493707",
+    "created_at": "2026-09-22T18:28:58.000Z",
+    "display_text_range": [
+      0,
+      67
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-22T19:28:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102465191015493707"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2035882965671215104",
+          "start": 3,
+          "username": "amber_medusozoa"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VUwmGsxvJe",
+          "end": 67,
+          "expanded_url": "https://x.com/amber_medusozoa/status/2098637713662517476/photo/1",
+          "media_key": "3_2098637389245956096",
+          "start": 44,
+          "url": "https://t.co/VUwmGsxvJe"
+        },
+        {
+          "display_url": "pic.x.com/VUwmGsxvJe",
+          "end": 67,
+          "expanded_url": "https://x.com/amber_medusozoa/status/2098637713662517476/photo/1",
+          "media_key": "3_2098637707920691200",
+          "start": 44,
+          "url": "https://t.co/VUwmGsxvJe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102465191015493707",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2098637389245956096"
+      },
+      {
+        "media_key": "3_2098637707920691200"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 23
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098637713662517476",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @amber_medusozoa: 此事件就是对 trans misogyny… https://t.co/VUwmGsxvJe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1671,
+        "media_key": "3_2098637389245956096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR_bliJbwAA9pXh.jpg",
+        "width": 1206
+      },
+      {
+        "height": 1639,
+        "media_key": "3_2098637707920691200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR_b4FTaUAA-URC.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098637389245956096",
+            "3_2098637707920691200"
+          ],
+          "media_source_tweet_id": [
+            "2098637713662517476",
+            "2098637713662517476"
+          ]
+        },
+        "author_id": "1907414826101669888",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2102465191015493707",
+        "created_at": "2026-09-22T18:28:58.000Z",
+        "display_text_range": [
+          0,
+          67
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T19:28:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102465191015493707"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2035882965671215104",
+              "start": 3,
+              "username": "amber_medusozoa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VUwmGsxvJe",
+              "end": 67,
+              "expanded_url": "https://x.com/amber_medusozoa/status/2098637713662517476/photo/1",
+              "media_key": "3_2098637389245956096",
+              "start": 44,
+              "url": "https://t.co/VUwmGsxvJe"
+            },
+            {
+              "display_url": "pic.x.com/VUwmGsxvJe",
+              "end": 67,
+              "expanded_url": "https://x.com/amber_medusozoa/status/2098637713662517476/photo/1",
+              "media_key": "3_2098637707920691200",
+              "start": 44,
+              "url": "https://t.co/VUwmGsxvJe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102465191015493707",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098637389245956096"
+          },
+          {
+            "media_key": "3_2098637707920691200"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 23
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098637713662517476",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @amber_medusozoa: 此事件就是对 trans misogyny… https://t.co/VUwmGsxvJe"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098637389245956096",
+            "3_2098637707920691200"
+          ]
+        },
+        "author_id": "2035882965671215104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2098637713662517476",
+        "created_at": "2026-09-12T04:59:56.000Z",
+        "display_text_range": [
+          0,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T05:58:40.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098637394199142402",
+          "2098637713662517476"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VUwmGsxvJe",
+              "end": 45,
+              "expanded_url": "https://x.com/amber_medusozoa/status/2098637713662517476/photo/1",
+              "media_key": "3_2098637389245956096",
+              "start": 22,
+              "url": "https://t.co/VUwmGsxvJe"
+            },
+            {
+              "display_url": "pic.x.com/VUwmGsxvJe",
+              "end": 45,
+              "expanded_url": "https://x.com/amber_medusozoa/status/2098637713662517476/photo/1",
+              "media_key": "3_2098637707920691200",
+              "start": 22,
+              "url": "https://t.co/VUwmGsxvJe"
+            },
+            {
+              "display_url": "x.com/_forab/status/…",
+              "end": 69,
+              "expanded_url": "https://twitter.com/_forab/status/2098410134246654200",
+              "start": 46,
+              "url": "https://t.co/5kaGhxh0Zz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098637713662517476",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098637389245956096"
+          },
+          {
+            "media_key": "3_2098637707920691200"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "此事件就是对 trans misogyny 一个很好的说明。「家长能从当地警方处获取自己目前所在地理位置」跨女社群里稍微有点逃跑/救助经验的人都知道的常识性信息，此前也已经有无数跨女因此遭受过家庭暴力，但相关信息从未得到传播，因为人们认为跨女遭受此类暴力是咎由自取。正因相关信息得不到曝光，我们社群在对抗家长/警察监禁的经验，也无法传授给同样有高概率遭受此类暴力的顺女和其他性少数群体，且对于跨性别的污名化更能为加固家长权力提供理由，从而使其影响再次外溢到其她弱势群体身上"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 7906,
+          "like_count": 160,
+          "quote_count": 3,
+          "reply_count": 12,
+          "retweet_count": 23
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098410134246654200",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "此事件就是对 trans misogyny https://t.co/VUwmGsxvJe https://t.co/5kaGhxh0Zz"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX（断糖中）&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od&自伤新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102465191015493707",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1907414826101669888/1775085260",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 613,
+          "following_count": 1808,
+          "like_count": 7371,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 1898
+        },
+        "url": "",
+        "username": "JamFarewellSong",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❦ @noaayoyaoaya ✦ @amber_toffee\n✮ @transinacademia ❀ https://t.co/2xzS4y8edG\n✑ https://t.co/vNxQSjRxUG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 31,
+                "start": 18,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 50,
+                "start": 34,
+                "username": "transinacademia"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/jellyfishamber",
+                "end": 76,
+                "expanded_url": "http://ngl.link/jellyfishamber",
+                "start": 53,
+                "url": "https://t.co/2xzS4y8edG"
+              },
+              {
+                "display_url": "amberjellyfish.substack.com",
+                "end": 102,
+                "expanded_url": "http://amberjellyfish.substack.com",
+                "start": 79,
+                "url": "https://t.co/vNxQSjRxUG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/lvpg0lo74G"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "is_identity_verified": false,
+        "location": "🏳️‍⚧️☭ / 🇨🇦 ᴛʀᴛ",
+        "most_recent_tweet_id": "2102457054363549815",
+        "name": "amber水母🍥",
+        "pinned_tweet_id": "2097782883188424922",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2035882965671215104/1779509843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096301120717000706/WTDahM4M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11423,
+          "following_count": 1376,
+          "like_count": 10821,
+          "listed_count": 18,
+          "media_count": 516,
+          "tweet_count": 6646
+        },
+        "url": "https://t.co/lvpg0lo74G",
+        "username": "amber_medusozoa",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

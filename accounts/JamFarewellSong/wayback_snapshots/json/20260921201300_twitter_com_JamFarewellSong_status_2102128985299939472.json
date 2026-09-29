@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2102128985299939472",
+    "created_at": "2026-09-21T20:13:00.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T21:13:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102128985299939472"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1907414826101669888",
+          "start": 3,
+          "username": "JamFarewellSong"
+        },
+        {
+          "end": 33,
+          "id": "357539288",
+          "start": 21,
+          "username": "rin917_8964"
+        },
+        {
+          "end": 49,
+          "id": "1489332581615095810",
+          "start": 34,
+          "username": "xiaciyiding520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102128985299939472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102128964420743641",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JamFarewellSong: @rin917_8964 @xiaciyiding520 R.I.P😭😭😭一开始还没意识到是谁，看到糖水铺三个字就了然了，这名字还是和ta讨论后起的…\n刻意紫砂了许多次都没死，可却死在无意之中，猫的九条命终究耗完了吗？\n雨木木辛苦了，节…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2102128985299939472",
+        "created_at": "2026-09-21T20:13:00.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T21:13:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102128985299939472"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1907414826101669888",
+              "start": 3,
+              "username": "JamFarewellSong"
+            },
+            {
+              "end": 33,
+              "id": "357539288",
+              "start": 21,
+              "username": "rin917_8964"
+            },
+            {
+              "end": 49,
+              "id": "1489332581615095810",
+              "start": 34,
+              "username": "xiaciyiding520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102128985299939472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102128964420743641",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @JamFarewellSong: @rin917_8964 @xiaciyiding520 R.I.P😭😭😭一开始还没意识到是谁，看到糖水铺三个字就了然了，这名字还是和ta讨论后起的…\n刻意紫砂了许多次都没死，可却死在无意之中，猫的九条命终究耗完了吗？\n雨木木辛苦了，节…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2102056193909047357",
+        "created_at": "2026-09-21T20:12:55.000Z",
+        "display_text_range": [
+          29,
+          123
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T21:12:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102128964420743641"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "357539288",
+              "start": 0,
+              "username": "rin917_8964"
+            },
+            {
+              "end": 28,
+              "id": "1489332581615095810",
+              "start": 13,
+              "username": "xiaciyiding520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102128964420743641",
+        "in_reply_to_user_id": "357539288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102056193909047357",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rin917_8964 @xiaciyiding520 R.I.P😭😭😭一开始还没意识到是谁，看到糖水铺三个字就了然了，这名字还是和ta讨论后起的…\n刻意紫砂了许多次都没死，可却死在无意之中，猫的九条命终究耗完了吗？\n雨木木辛苦了，节哀，保重…"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX（断糖中）&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od&自伤新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102128985299939472",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1907414826101669888/1775085260",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 603,
+          "following_count": 1786,
+          "like_count": 7275,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 1860
+        },
+        "url": "",
+        "username": "JamFarewellSong",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2011-08-18T14:39:37.000Z",
+        "description": "我恨msk，拿了我的钱还这样我他妈的\n同类互fo🤤\n🚪52开放朋友圈不线下\n爱大家喵\n被爆大号@IiRin_00917_QwQ\n里号@yumumu_msknb\n姐姐大人@neko0202002 \n😹🫶@woaiuai0721",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 47,
+                "username": "IiRin_00917_QwQ"
+              },
+              {
+                "end": 79,
+                "start": 66,
+                "username": "yumumu_msknb"
+              },
+              {
+                "end": 96,
+                "start": 84,
+                "username": "neko0202002"
+              },
+              {
+                "end": 112,
+                "start": 100,
+                "username": "woaiuai0721"
+              }
+            ]
+          }
+        },
+        "id": "357539288",
+        "is_identity_verified": false,
+        "location": "msk身后",
+        "most_recent_tweet_id": "2102065594761941462",
+        "name": "传奇病娇18.霖",
+        "pinned_tweet_id": "2097332760834875902",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/357539288/1789783693",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079816271148023808/1pDQllIf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 736,
+          "following_count": 438,
+          "like_count": 2851,
+          "listed_count": 1,
+          "media_count": 169,
+          "tweet_count": 1739
+        },
+        "url": "",
+        "username": "rin917_8964",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-02-03T20:19:08.000Z",
+        "description": "可以叫我猫/大猫一代目被ban了\n一个传奇耐药王@NhpxY43417 这是二代目",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 24,
+                "username": "NhpxY43417"
+              }
+            ]
+          }
+        },
+        "id": "1489332581615095810",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101796266929992113",
+        "name": "猫",
+        "pinned_tweet_id": "2053147074556985847",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1489332581615095810/1714419148",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053029804849709056/E1bIU81S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 197,
+          "following_count": 137,
+          "like_count": 51,
+          "listed_count": 6,
+          "media_count": 39,
+          "tweet_count": 379
+        },
+        "url": "",
+        "username": "xiaciyiding520",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

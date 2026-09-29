@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2102020662122647552"
+      ],
+      "media_source_tweet_id": [
+        "2102021195025772720"
+      ]
+    },
+    "author_id": "1907414826101669888",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2102454665891967154",
+    "created_at": "2026-09-22T17:47:08.000Z",
+    "display_text_range": [
+      0,
+      90
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-22T18:47:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102454665891967154"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "829974198021877761",
+          "start": 3,
+          "username": "WSGM233"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gPuzLQw7ei",
+          "end": 90,
+          "expanded_url": "https://x.com/WSGM233/status/2102021195025772720/photo/1",
+          "media_key": "3_2102020662122647552",
+          "start": 67,
+          "url": "https://t.co/gPuzLQw7ei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102454665891967154",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2102020662122647552"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102021195025772720",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @WSGM233: 看了一遍夏活的剧情\n从头哭到尾 把垃圾桶都装满了\n还好我也有好多朋友\n能带着我从讨厌的生活里逃掉\n谢谢你们 https://t.co/gPuzLQw7ei"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1201,
+        "media_key": "3_2102020662122647552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSvgp7xaEAA1DwT.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102020662122647552"
+          ],
+          "media_source_tweet_id": [
+            "2102021195025772720"
+          ]
+        },
+        "author_id": "1907414826101669888",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2102454665891967154",
+        "created_at": "2026-09-22T17:47:08.000Z",
+        "display_text_range": [
+          0,
+          90
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T18:47:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102454665891967154"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "829974198021877761",
+              "start": 3,
+              "username": "WSGM233"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gPuzLQw7ei",
+              "end": 90,
+              "expanded_url": "https://x.com/WSGM233/status/2102021195025772720/photo/1",
+              "media_key": "3_2102020662122647552",
+              "start": 67,
+              "url": "https://t.co/gPuzLQw7ei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102454665891967154",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2102020662122647552"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102021195025772720",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @WSGM233: 看了一遍夏活的剧情\n从头哭到尾 把垃圾桶都装满了\n还好我也有好多朋友\n能带着我从讨厌的生活里逃掉\n谢谢你们 https://t.co/gPuzLQw7ei"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102020662122647552"
+          ]
+        },
+        "author_id": "829974198021877761",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2102021195025772720",
+        "created_at": "2026-09-21T13:04:41.000Z",
+        "display_text_range": [
+          0,
+          53
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T14:04:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102021195025772720"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gPuzLQw7ei",
+              "end": 77,
+              "expanded_url": "https://x.com/WSGM233/status/2102021195025772720/photo/1",
+              "media_key": "3_2102020662122647552",
+              "start": 54,
+              "url": "https://t.co/gPuzLQw7ei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102021195025772720",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2102020662122647552"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 194,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看了一遍夏活的剧情\n从头哭到尾 把垃圾桶都装满了\n还好我也有好多朋友\n能带着我从讨厌的生活里逃掉\n谢谢你们 https://t.co/gPuzLQw7ei"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX（断糖中）&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od&自伤新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102454665891967154",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1907414826101669888/1775085260",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 613,
+          "following_count": 1802,
+          "like_count": 7345,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 1889
+        },
+        "url": "",
+        "username": "JamFarewellSong",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-02-10T08:44:03.000Z",
+        "description": "💕：@MinusZeroQwQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "MinusZeroQwQ"
+              }
+            ]
+          }
+        },
+        "id": "829974198021877761",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102448503473778690",
+        "name": "一团墨",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078900955052216321/TAw4grkQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 1384,
+          "like_count": 2135,
+          "listed_count": 1,
+          "media_count": 498,
+          "tweet_count": 1108
+        },
+        "url": "",
+        "username": "WSGM233",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2102349432813752730",
+    "created_at": "2026-09-22T10:48:59.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-22T11:48:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102349432813752730"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1748763011140169729",
+          "start": 3,
+          "username": "lovelyshuimao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102349432813752730",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 24
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101991713950797860",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lovelyshuimao: 昨天我带了6个人进诊室看吕钦谕\n医生：你是不是要做变性手术？\n猫：不需要啊\n医生：那你打算干什么\n猫：更改一些法律上的信息\n医生：法律你了解吗\n猫：我知道\n医生：所以还是要用激素和做变性手术的吗\n猫：不是，只是满足更改信息的法律条件\n医生：…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2102349432813752730",
+        "created_at": "2026-09-22T10:48:59.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T11:48:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102349432813752730"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1748763011140169729",
+              "start": 3,
+              "username": "lovelyshuimao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102349432813752730",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 24
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101991713950797860",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lovelyshuimao: 昨天我带了6个人进诊室看吕钦谕\n医生：你是不是要做变性手术？\n猫：不需要啊\n医生：那你打算干什么\n猫：更改一些法律上的信息\n医生：法律你了解吗\n猫：我知道\n医生：所以还是要用激素和做变性手术的吗\n猫：不是，只是满足更改信息的法律条件\n医生：…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2101991713950797860",
+        "created_at": "2026-09-21T11:07:32.000Z",
+        "display_text_range": [
+          0,
+          136
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T11:13:10.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101978033171423304",
+          "2101979589635678558",
+          "2101991713950797860"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2101991713950797860",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "昨天我带了6个人进诊室看吕钦谕\n医生：你是不是要做变性手术？\n猫：不需要啊\n医生：那你打算干什么\n猫：更改一些法律上的信息\n医生：法律你了解吗\n猫：我知道\n医生：所以还是要用激素和做变性手术的吗\n猫：不是，只是满足更改信息的法律条件\n医生：你平时也像今天一样穿裙子还是男装\n猫：女的穿什么都是女装\n医生：那对变性怎么看待？\n猫：辩证的看\n医生：你几岁有这个想法？\n猫：0岁\n医生：那你从小就有刻意模仿女生吗？\n猫：女生为什么要刻意模仿女生\n医生：你是不是对医生有敌意？\n猫：我没有敌意，我实事求是的回答\n医生：你知道激素是有危害的吗？\n猫：你每天在分泌有危害的激素吗？\n医生：（气笑了）那好吧那你来干嘛\n猫：能下诊断是最好的\n医生：那好吧给你了"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 93,
+          "impression_count": 40484,
+          "like_count": 563,
+          "quote_count": 7,
+          "reply_count": 9,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "昨天我带了6个人进诊室看吕钦谕\n医生：你是不是要做变性手术？\n猫：不需要啊\n医生：那你打算干什么\n猫：更改一些法律上的信息\n医生：法律你了解吗\n猫：我知道\n医生：所以还是要用激素和做变性手术的吗\n猫：不是，只是满足更改信息的法律条件\n医生：你平时也像今天一样穿裙子还是男装"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX（断糖中）&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od&自伤新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102349432813752730",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1907414826101669888/1775085260",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 611,
+          "following_count": 1798,
+          "like_count": 7319,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 1879
+        },
+        "url": "",
+        "username": "JamFarewellSong",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "🐱神仙水水猫\n👩🏻‍💻INTJ ♀14 \n🙋🏻‍♀️提問box——————↓\n✍🏻想成為作家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGspkq"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "is_identity_verified": true,
+        "location": "距离你 4.3km",
+        "most_recent_tweet_id": "2102340914089984194",
+        "name": "lovely水",
+        "pinned_tweet_id": "2092334568057762260",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1748763011140169729/1775028370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101524369638068224/vqhh_Ypw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5970,
+          "following_count": 1006,
+          "like_count": 274,
+          "listed_count": 26,
+          "media_count": 3713,
+          "tweet_count": 16878
+        },
+        "url": "https://t.co/EZhyEGspkq",
+        "username": "lovelyshuimao",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

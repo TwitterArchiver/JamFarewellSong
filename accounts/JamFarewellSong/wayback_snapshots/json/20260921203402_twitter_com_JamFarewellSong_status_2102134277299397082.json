@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2102134277299397082",
+    "created_at": "2026-09-21T20:34:02.000Z",
+    "display_text_range": [
+      0,
+      72
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T21:34:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102134277299397082"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1907414826101669888",
+          "start": 3,
+          "username": "JamFarewellSong"
+        },
+        {
+          "end": 37,
+          "id": "1684269091849404416",
+          "start": 21,
+          "username": "1212s1212bs1242"
+        },
+        {
+          "end": 53,
+          "id": "1489332581615095810",
+          "start": 38,
+          "username": "xiaciyiding520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102134277299397082",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102134258580263382",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JamFarewellSong: @1212s1212bs1242 @xiaciyiding520 啊😇ta还是紫砂成功了…猫，一路走好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2102134277299397082",
+        "created_at": "2026-09-21T20:34:02.000Z",
+        "display_text_range": [
+          0,
+          72
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T21:34:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102134277299397082"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1907414826101669888",
+              "start": 3,
+              "username": "JamFarewellSong"
+            },
+            {
+              "end": 37,
+              "id": "1684269091849404416",
+              "start": 21,
+              "username": "1212s1212bs1242"
+            },
+            {
+              "end": 53,
+              "id": "1489332581615095810",
+              "start": 38,
+              "username": "xiaciyiding520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102134277299397082",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102134258580263382",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @JamFarewellSong: @1212s1212bs1242 @xiaciyiding520 啊😇ta还是紫砂成功了…猫，一路走好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2102053915047182677",
+        "created_at": "2026-09-21T20:33:57.000Z",
+        "display_text_range": [
+          33,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T21:33:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102134258580263382"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1684269091849404416",
+              "start": 0,
+              "username": "1212s1212bs1242"
+            },
+            {
+              "end": 32,
+              "id": "1489332581615095810",
+              "start": 17,
+              "username": "xiaciyiding520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102134258580263382",
+        "in_reply_to_user_id": "1684269091849404416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102053915047182677",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1212s1212bs1242 @xiaciyiding520 啊😇ta还是紫砂成功了…猫，一路走好"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX（断糖中）&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od&自伤新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102134277299397082",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1907414826101669888/1775085260",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 604,
+          "following_count": 1791,
+          "like_count": 7299,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 1873
+        },
+        "url": "",
+        "username": "JamFarewellSong",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-07-26T18:27:14.000Z",
+        "description": "4I/烟代",
+        "id": "1684269091849404416",
+        "is_identity_verified": false,
+        "location": "我爱你",
+        "most_recent_tweet_id": "2102093959447359582",
+        "name": "12",
+        "pinned_tweet_id": "2101701179524976916",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684269091849404416/1775462503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098702769708503040/JYBMlxoD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 869,
+          "following_count": 900,
+          "like_count": 17018,
+          "listed_count": 0,
+          "media_count": 1139,
+          "tweet_count": 10486
+        },
+        "url": "",
+        "username": "1212s1212bs1242",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-02-03T20:19:08.000Z",
+        "description": "可以叫我猫/大猫一代目被ban了\n一个传奇耐药王@NhpxY43417 这是二代目",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 24,
+                "username": "NhpxY43417"
+              }
+            ]
+          }
+        },
+        "id": "1489332581615095810",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101796266929992113",
+        "name": "猫",
+        "pinned_tweet_id": "2053147074556985847",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1489332581615095810/1714419148",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053029804849709056/E1bIU81S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 198,
+          "following_count": 137,
+          "like_count": 51,
+          "listed_count": 6,
+          "media_count": 39,
+          "tweet_count": 379
+        },
+        "url": "",
+        "username": "xiaciyiding520",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

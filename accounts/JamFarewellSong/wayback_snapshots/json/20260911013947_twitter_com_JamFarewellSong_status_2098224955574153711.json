@@ -1,0 +1,478 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2097677823762894848",
+        "3_2097677823788138497",
+        "3_2097677823809118208",
+        "3_2097677823796563968"
+      ],
+      "media_source_tweet_id": [
+        "2097677828737335547",
+        "2097677828737335547",
+        "2097677828737335547",
+        "2097677828737335547"
+      ]
+    },
+    "author_id": "1907414826101669888",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2098224955574153711",
+    "created_at": "2026-09-11T01:39:47.000Z",
+    "display_text_range": [
+      0,
+      61
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T02:39:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098224955574153711"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1980576533183139840",
+          "start": 3,
+          "username": "douk1_1kigire"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MfU6wK4YgG",
+          "end": 61,
+          "expanded_url": "https://x.com/douk1_1kigire/status/2097677828737335547/photo/1",
+          "media_key": "3_2097677823762894848",
+          "start": 38,
+          "url": "https://t.co/MfU6wK4YgG"
+        },
+        {
+          "display_url": "pic.x.com/MfU6wK4YgG",
+          "end": 61,
+          "expanded_url": "https://x.com/douk1_1kigire/status/2097677828737335547/photo/1",
+          "media_key": "3_2097677823788138497",
+          "start": 38,
+          "url": "https://t.co/MfU6wK4YgG"
+        },
+        {
+          "display_url": "pic.x.com/MfU6wK4YgG",
+          "end": 61,
+          "expanded_url": "https://x.com/douk1_1kigire/status/2097677828737335547/photo/1",
+          "media_key": "3_2097677823809118208",
+          "start": 38,
+          "url": "https://t.co/MfU6wK4YgG"
+        },
+        {
+          "display_url": "pic.x.com/MfU6wK4YgG",
+          "end": 61,
+          "expanded_url": "https://x.com/douk1_1kigire/status/2097677828737335547/photo/1",
+          "media_key": "3_2097677823796563968",
+          "start": 38,
+          "url": "https://t.co/MfU6wK4YgG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098224955574153711",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2097677823762894848"
+      },
+      {
+        "media_key": "3_2097677823788138497"
+      },
+      {
+        "media_key": "3_2097677823809118208"
+      },
+      {
+        "media_key": "3_2097677823796563968"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2410
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097677828737335547",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @douk1_1kigire: お気にの絵たち　(4枚目🐛注意かも) https://t.co/MfU6wK4YgG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2097677823762894848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRxy3eKaEAAJ0XU.jpg",
+        "width": 1546
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2097677823788138497",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRxy3eQbQAEt_uj.jpg",
+        "width": 1420
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2097677823809118208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRxy3eVbYAAKDTn.jpg",
+        "width": 1516
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2097677823796563968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRxy3eSb0AA-GHo.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097677823762894848",
+            "3_2097677823788138497",
+            "3_2097677823809118208",
+            "3_2097677823796563968"
+          ],
+          "media_source_tweet_id": [
+            "2097677828737335547",
+            "2097677828737335547",
+            "2097677828737335547",
+            "2097677828737335547"
+          ]
+        },
+        "author_id": "1907414826101669888",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2098224955574153711",
+        "created_at": "2026-09-11T01:39:47.000Z",
+        "display_text_range": [
+          0,
+          61
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T02:39:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098224955574153711"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1980576533183139840",
+              "start": 3,
+              "username": "douk1_1kigire"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MfU6wK4YgG",
+              "end": 61,
+              "expanded_url": "https://x.com/douk1_1kigire/status/2097677828737335547/photo/1",
+              "media_key": "3_2097677823762894848",
+              "start": 38,
+              "url": "https://t.co/MfU6wK4YgG"
+            },
+            {
+              "display_url": "pic.x.com/MfU6wK4YgG",
+              "end": 61,
+              "expanded_url": "https://x.com/douk1_1kigire/status/2097677828737335547/photo/1",
+              "media_key": "3_2097677823788138497",
+              "start": 38,
+              "url": "https://t.co/MfU6wK4YgG"
+            },
+            {
+              "display_url": "pic.x.com/MfU6wK4YgG",
+              "end": 61,
+              "expanded_url": "https://x.com/douk1_1kigire/status/2097677828737335547/photo/1",
+              "media_key": "3_2097677823809118208",
+              "start": 38,
+              "url": "https://t.co/MfU6wK4YgG"
+            },
+            {
+              "display_url": "pic.x.com/MfU6wK4YgG",
+              "end": 61,
+              "expanded_url": "https://x.com/douk1_1kigire/status/2097677828737335547/photo/1",
+              "media_key": "3_2097677823796563968",
+              "start": 38,
+              "url": "https://t.co/MfU6wK4YgG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098224955574153711",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2097677823762894848"
+          },
+          {
+            "media_key": "3_2097677823788138497"
+          },
+          {
+            "media_key": "3_2097677823809118208"
+          },
+          {
+            "media_key": "3_2097677823796563968"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2410
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097677828737335547",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @douk1_1kigire: お気にの絵たち　(4枚目🐛注意かも) https://t.co/MfU6wK4YgG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097677823762894848",
+            "3_2097677823788138497",
+            "3_2097677823809118208",
+            "3_2097677823796563968"
+          ]
+        },
+        "author_id": "1980576533183139840",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2097677828737335547",
+        "created_at": "2026-09-09T13:25:41.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T14:25:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097677828737335547"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MfU6wK4YgG",
+              "end": 42,
+              "expanded_url": "https://x.com/douk1_1kigire/status/2097677828737335547/photo/1",
+              "media_key": "3_2097677823762894848",
+              "start": 19,
+              "url": "https://t.co/MfU6wK4YgG"
+            },
+            {
+              "display_url": "pic.x.com/MfU6wK4YgG",
+              "end": 42,
+              "expanded_url": "https://x.com/douk1_1kigire/status/2097677828737335547/photo/1",
+              "media_key": "3_2097677823788138497",
+              "start": 19,
+              "url": "https://t.co/MfU6wK4YgG"
+            },
+            {
+              "display_url": "pic.x.com/MfU6wK4YgG",
+              "end": 42,
+              "expanded_url": "https://x.com/douk1_1kigire/status/2097677828737335547/photo/1",
+              "media_key": "3_2097677823809118208",
+              "start": 19,
+              "url": "https://t.co/MfU6wK4YgG"
+            },
+            {
+              "display_url": "pic.x.com/MfU6wK4YgG",
+              "end": 42,
+              "expanded_url": "https://x.com/douk1_1kigire/status/2097677828737335547/photo/1",
+              "media_key": "3_2097677823796563968",
+              "start": 19,
+              "url": "https://t.co/MfU6wK4YgG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097677828737335547",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2097677823762894848"
+          },
+          {
+            "media_key": "3_2097677823788138497"
+          },
+          {
+            "media_key": "3_2097677823809118208"
+          },
+          {
+            "media_key": "3_2097677823796563968"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4213,
+          "impression_count": 381570,
+          "like_count": 33258,
+          "quote_count": 25,
+          "reply_count": 15,
+          "retweet_count": 2410
+        },
+        "reply_settings": "everyone",
+        "text": "お気にの絵たち　(4枚目🐛注意かも) https://t.co/MfU6wK4YgG"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX（断糖中）&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od&自伤新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098224955574153711",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1907414826101669888/1775085260",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 589,
+          "following_count": 1765,
+          "like_count": 7224,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 1814
+        },
+        "url": "",
+        "username": "JamFarewellSong",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-21T10:07:21.000Z",
+        "description": "にこやかな危険生物が好き！\nskeb▶︎https://t.co/mLjBWRRayC\nご依頼はDMまたはdouki.ikigire337@gmail.comまで\n無断転載使用禁止・AI学習禁止",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@douk1_1kigire",
+                "end": 43,
+                "expanded_url": "http://skeb.jp/@douk1_1kigire",
+                "start": 20,
+                "url": "https://t.co/mLjBWRRayC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/douk1_1kigire",
+                "end": 23,
+                "expanded_url": "https://lit.link/douk1_1kigire",
+                "start": 0,
+                "url": "https://t.co/3BEUWFOkdd"
+              }
+            ]
+          }
+        },
+        "id": "1980576533183139840",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097677828737335547",
+        "name": "あまだれ",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1980576533183139840/1767408041",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004331795907858435/5VhSsPmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12266,
+          "following_count": 70,
+          "like_count": 3272,
+          "listed_count": 29,
+          "media_count": 88,
+          "tweet_count": 575
+        },
+        "url": "https://t.co/3BEUWFOkdd",
+        "username": "douk1_1kigire",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

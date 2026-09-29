@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2098295219351613910",
+    "created_at": "2026-09-11T06:18:59.000Z",
+    "display_text_range": [
+      0,
+      46
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T07:18:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098295219351613910"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2076292469667532800",
+          "start": 3,
+          "username": "SankakuFuu3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098295219351613910",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098015678540447792",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SankakuFuu3: 间或吃一点毒药，这制造了安逸的梦。但毒药过多又造成安逸的死"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2098295219351613910",
+        "created_at": "2026-09-11T06:18:59.000Z",
+        "display_text_range": [
+          0,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T07:18:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098295219351613910"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2076292469667532800",
+              "start": 3,
+              "username": "SankakuFuu3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098295219351613910",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098015678540447792",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SankakuFuu3: 间或吃一点毒药，这制造了安逸的梦。但毒药过多又造成安逸的死"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076292469667532800",
+        "conversation_id": "2098015678540447792",
+        "created_at": "2026-09-10T11:48:11.000Z",
+        "display_text_range": [
+          0,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T12:48:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098015678540447792"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2098015678540447792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 226,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "间或吃一点毒药，这制造了安逸的梦。但毒药过多又造成安逸的死"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX（断糖中）&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od&自伤新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098295219351613910",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1907414826101669888/1775085260",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 590,
+          "following_count": 1770,
+          "like_count": 7248,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 1828
+        },
+        "url": "",
+        "username": "JamFarewellSong",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-12T13:13:09.000Z",
+        "description": "",
+        "id": "2076292469667532800",
+        "is_identity_verified": false,
+        "location": "守恒与虚无之地",
+        "most_recent_tweet_id": "2098266560121196986",
+        "name": "三角　楓🍥#参宿七",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076292469667532800/1783870999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082655270610907136/JBqLeqy8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 299,
+          "following_count": 196,
+          "like_count": 477,
+          "listed_count": 2,
+          "media_count": 14,
+          "tweet_count": 157
+        },
+        "url": "",
+        "username": "SankakuFuu3",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

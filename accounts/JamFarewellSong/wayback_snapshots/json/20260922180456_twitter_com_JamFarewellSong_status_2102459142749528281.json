@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2102459142749528281",
+    "created_at": "2026-09-22T18:04:56.000Z",
+    "display_text_range": [
+      0,
+      139
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-22T19:04:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102459142749528281"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1380730000337436672",
+          "start": 3,
+          "username": "Wirtz1021"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102459142749528281",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100952220409983033",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Wirtz1021: 我失去过一座又一座城，最后发现自己就是那片被反复烧焦、又反复长出新草的野地。\n经历了重大失败，命运没收了我所有，却忘了拿走我还能发出声音的喉咙、发出声音的双手。从那以后，我什么都不怕了。我把仅剩的痛、仅剩的力气、仅剩的渴望，全部灌进将来的EP里。…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2102459142749528281",
+        "created_at": "2026-09-22T18:04:56.000Z",
+        "display_text_range": [
+          0,
+          139
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T19:04:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102459142749528281"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1380730000337436672",
+              "start": 3,
+              "username": "Wirtz1021"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102459142749528281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100952220409983033",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Wirtz1021: 我失去过一座又一座城，最后发现自己就是那片被反复烧焦、又反复长出新草的野地。\n经历了重大失败，命运没收了我所有，却忘了拿走我还能发出声音的喉咙、发出声音的双手。从那以后，我什么都不怕了。我把仅剩的痛、仅剩的力气、仅剩的渴望，全部灌进将来的EP里。…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1380730000337436672",
+        "conversation_id": "2100952220409983033",
+        "created_at": "2026-09-18T14:16:57.000Z",
+        "display_text_range": [
+          0,
+          147
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T15:16:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100952220409983033"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "歌曲名《聪明》，由 莉莉周她说 Lily Chou-Chou Lied 演唱，收录于《致走到这里的》专辑中，《聪明》下载，《聪明》在线试听，更多聪明相关歌曲推荐，尽在网易云音乐",
+              "display_url": "y.music.163.com/m/song?id=3433…",
+              "end": 147,
+              "expanded_url": "https://y.music.163.com/m/song?id=3433349094&userid=1858179640&dlt=0846",
+              "start": 124,
+              "status": 200,
+              "title": "聪明 - 莉莉周她说 Lily Chou-Chou Lied - 单曲 - 网易云音乐",
+              "unwound_url": "https://y.music.163.com/m/song?id=3433349094&userid=1858179640&dlt=0846",
+              "url": "https://t.co/iFVGtaeWZS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100952220409983033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 255,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我失去过一座又一座城，最后发现自己就是那片被反复烧焦、又反复长出新草的野地。\n经历了重大失败，命运没收了我所有，却忘了拿走我还能发出声音的喉咙、发出声音的双手。从那以后，我什么都不怕了。我把仅剩的痛、仅剩的力气、仅剩的渴望，全部灌进将来的EP里。\nhttps://t.co/iFVGtaeWZS"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX（断糖中）&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od&自伤新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102459142749528281",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1907414826101669888/1775085260",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 613,
+          "following_count": 1806,
+          "like_count": 7360,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 1895
+        },
+        "url": "",
+        "username": "JamFarewellSong",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-04-10T03:51:06.000Z",
+        "description": "音乐编外文化生 文青病重症\n窗外的雨又落回眼睛里\n❤️@Asutaka258",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 27,
+                "username": "Asutaka258"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/ci520love",
+                "end": 23,
+                "expanded_url": "https://t.me/ci520love",
+                "start": 0,
+                "url": "https://t.co/VkRPjN5RcC"
+              }
+            ]
+          }
+        },
+        "id": "1380730000337436672",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101686403012886879",
+        "name": "橘橘瓷她说 Juju Ci-Ci Lied 🍥",
+        "pinned_tweet_id": "2100952220409983033",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1380730000337436672/1789270563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100991910529957888/W-7BtsKD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 79,
+          "like_count": 497,
+          "listed_count": 1,
+          "media_count": 18,
+          "tweet_count": 96
+        },
+        "url": "https://t.co/VkRPjN5RcC",
+        "username": "Wirtz1021",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
