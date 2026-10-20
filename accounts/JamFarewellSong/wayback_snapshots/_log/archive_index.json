@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-10-20T18:39:04",
+  "last_updated": "2026-10-20T18:42:45",
   "html": {
     "https://web.archive.org/web/20251022170627if_/https://twitter.com/JamFarewellSong/status/1981044493173608808": {
       "status": "done",
@@ -18120,18 +18120,18 @@
       "referenced_by": [
         "20260202203705_twitter_com_JamFarewellSong_status_2018423448255750359.json"
       ],
-      "last_updated": "2026-09-29T08:37:21",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260202203705if_/https://pbs.twimg.com/profile_images/2012460809369145344/kPPllsS5_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f593b927560>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 38
+      "last_updated": "2026-10-20T18:39:50",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260202203705if_/https://pbs.twimg.com/profile_images/2012460809369145344/kPPllsS5_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f97e97491c0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 40
     },
     "https://pbs.twimg.com/profile_images/2009203275032350726/PGYv_RPG_normal.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260202203705_twitter_com_JamFarewellSong_status_2018423448255750359.json"
       ],
-      "last_updated": "2026-09-29T08:37:23",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260202203705if_/https://pbs.twimg.com/profile_images/2009203275032350726/PGYv_RPG_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f593b9a4b00>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 38
+      "last_updated": "2026-10-20T18:39:52",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260202203705if_/https://pbs.twimg.com/profile_images/2009203275032350726/PGYv_RPG_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f97e974a630>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 40
     },
     "https://pbs.twimg.com/profile_images/2015596343691972609/3AX9GPcF_normal.jpg": {
       "status": "done",
@@ -18146,9 +18146,9 @@
       "referenced_by": [
         "20260203000500_twitter_com_JamFarewellSong_status_2018475772743450768.json"
       ],
-      "last_updated": "2026-09-29T08:37:26",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260203000500if_/https://pbs.twimg.com/profile_images/2017618397626871808/E9Ovv9d7_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f593b926b40>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 38
+      "last_updated": "2026-10-20T18:39:55",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260203000500if_/https://pbs.twimg.com/profile_images/2017618397626871808/E9Ovv9d7_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f97e974a6f0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 40
     },
     "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg": {
       "status": "done",
@@ -18245,9 +18245,9 @@
       "referenced_by": [
         "20260329202544_twitter_com_JamFarewellSong_status_2038351923687063752.json"
       ],
-      "last_updated": "2026-09-29T08:37:28",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260329202544if_/https://pbs.twimg.com/profile_images/2010705759475208194/F3qst3e9_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f593b925f10>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 38
+      "last_updated": "2026-10-20T18:39:58",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260329202544if_/https://pbs.twimg.com/profile_images/2010705759475208194/F3qst3e9_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f97e9749b20>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 40
     },
     "https://pbs.twimg.com/profile_images/2029202626315993095/w12DBvYF_normal.jpg": {
       "status": "done",
@@ -18278,9 +18278,9 @@
       "referenced_by": [
         "20260329204207_twitter_com_JamFarewellSong_status_2038356048973861270.json"
       ],
-      "last_updated": "2026-09-29T08:37:30",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260329204207if_/https://pbs.twimg.com/profile_images/2037697121529524224/0xq_PmNd_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f593b9a5430>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 38
+      "last_updated": "2026-10-20T18:40:00",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260329204207if_/https://pbs.twimg.com/profile_images/2037697121529524224/0xq_PmNd_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f97e9793140>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 40
     },
     "https://pbs.twimg.com/profile_images/2008042942641172480/4QjR52Lf_normal.jpg": {
       "status": "done",
@@ -18352,9 +18352,9 @@
       "referenced_by": [
         "20260329211401_twitter_com_JamFarewellSong_status_2038364077769298058.json"
       ],
-      "last_updated": "2026-09-29T08:37:32",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260329211401if_/https://pbs.twimg.com/profile_images/2035777803279601664/2rbjzqQe_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f593b926e10>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 38
+      "last_updated": "2026-10-20T18:40:03",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260329211401if_/https://pbs.twimg.com/profile_images/2035777803279601664/2rbjzqQe_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f97e9748230>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 40
     },
     "https://pbs.twimg.com/profile_images/2011497532711714818/f-A8QXeK_normal.jpg": {
       "status": "failed_all",
@@ -18388,9 +18388,9 @@
       "referenced_by": [
         "20260331185417_twitter_com_JamFarewellSong_status_2039053688006922455.json"
       ],
-      "last_updated": "2026-09-29T08:37:35",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260331185417if_/https://pbs.twimg.com/profile_images/2038287122256302080/T-kolqI2_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f593b9c7380>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 38
+      "last_updated": "2026-10-20T18:40:06",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260331185417if_/https://pbs.twimg.com/profile_images/2038287122256302080/T-kolqI2_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f97e97df680>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 40
     },
     "https://pbs.twimg.com/profile_images/1530385867826556928/p_rx1WWI_normal.jpg": {
       "status": "done",
@@ -18481,9 +18481,9 @@
       "referenced_by": [
         "20260401213152_twitter_com_JamFarewellSong_status_2039455733373411776.json"
       ],
-      "last_updated": "2026-09-29T08:37:37",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260401213152if_/https://pbs.twimg.com/profile_images/2032645675612254208/588yugtP_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f593b9c7f20>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 38
+      "last_updated": "2026-10-20T18:40:08",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260401213152if_/https://pbs.twimg.com/profile_images/2032645675612254208/588yugtP_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f97e9600c50>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 40
     },
     "https://pbs.twimg.com/profile_images/1979282587441823744/rJVAp01e_normal.jpg": {
       "status": "done",
@@ -20572,9 +20572,9 @@
       "referenced_by": [
         "20260401233942_twitter_com_JamFarewellSong_status_2039487901743079529.json"
       ],
-      "last_updated": "2026-09-29T08:37:40",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260401233942if_/https://pbs.twimg.com/profile_images/2018364510457749504/B0j0ySjd_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f593b9a54f0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 38
+      "last_updated": "2026-10-20T18:40:11",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260401233942if_/https://pbs.twimg.com/profile_images/2018364510457749504/B0j0ySjd_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f97e96001a0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 40
     },
     "https://pbs.twimg.com/profile_images/1999012450235199488/oiXZrvSO_normal.jpg": {
       "status": "done",
@@ -20618,9 +20618,9 @@
       "referenced_by": [
         "20260402160256_twitter_com_JamFarewellSong_status_2039735339821224045.json"
       ],
-      "last_updated": "2026-09-29T08:37:42",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260402160256if_/https://pbs.twimg.com/profile_images/2039264349282603008/_wWEfmzr_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f593b926480>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 38
+      "last_updated": "2026-10-20T18:40:13",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260402160256if_/https://pbs.twimg.com/profile_images/2039264349282603008/_wWEfmzr_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f97e9793c80>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 40
     },
     "https://pbs.twimg.com/profile_images/2035670602305122304/zXiLibal_normal.jpg": {
       "status": "done",
@@ -20664,9 +20664,9 @@
       "referenced_by": [
         "20260402161912_twitter_com_JamFarewellSong_status_2039739434078441667.json"
       ],
-      "last_updated": "2026-09-29T08:37:44",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260402161912if_/https://pbs.twimg.com/profile_images/2010937703144230912/txSDt6ky_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f593b9c5160>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 38
+      "last_updated": "2026-10-20T18:40:16",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260402161912if_/https://pbs.twimg.com/profile_images/2010937703144230912/txSDt6ky_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f97e97df3e0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 40
     },
     "https://pbs.twimg.com/profile_images/2029989134065094657/h1uFKinL_normal.jpg": {
       "status": "done",
@@ -20806,9 +20806,9 @@
       "referenced_by": [
         "20260405190643_twitter_com_JamFarewellSong_status_2040868757640458638.json"
       ],
-      "last_updated": "2026-09-29T08:37:46",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260405190643if_/https://pbs.twimg.com/profile_images/1991011105947492353/uNVdJm95_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f593b9c4a40>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 38
+      "last_updated": "2026-10-20T18:40:18",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260405190643if_/https://pbs.twimg.com/profile_images/1991011105947492353/uNVdJm95_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f97e97dc380>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 40
     },
     "https://pbs.twimg.com/profile_images/2016575350965510144/2XNPGmpU_normal.jpg": {
       "status": "done",
@@ -20829,18 +20829,18 @@
       "referenced_by": [
         "20260405192438_twitter_com_JamFarewellSong_status_2040873265951097229.json"
       ],
-      "last_updated": "2026-09-29T08:37:48",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260405192438if_/https://pbs.twimg.com/profile_images/2038939171126177792/8QoQIgca_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f593d489af0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 38
+      "last_updated": "2026-10-20T18:40:21",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260405192438if_/https://pbs.twimg.com/profile_images/2038939171126177792/8QoQIgca_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f97e97df650>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 40
     },
     "https://pbs.twimg.com/profile_images/2040630513514549248/XfKNnj1m_normal.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260405192438_twitter_com_JamFarewellSong_status_2040873265951097229.json"
       ],
-      "last_updated": "2026-09-29T08:37:51",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260405192438if_/https://pbs.twimg.com/profile_images/2040630513514549248/XfKNnj1m_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f593b9a4fe0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 38
+      "last_updated": "2026-10-20T18:40:23",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260405192438if_/https://pbs.twimg.com/profile_images/2040630513514549248/XfKNnj1m_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f97e97491c0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 40
     },
     "https://pbs.twimg.com/profile_images/1973792191043809284/lzew5Epz_normal.jpg": {
       "status": "done",
@@ -20856,9 +20856,9 @@
       "referenced_by": [
         "20260405202303_twitter_com_JamFarewellSong_status_2040887963769541096.json"
       ],
-      "last_updated": "2026-09-29T08:37:53",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260405202303if_/https://pbs.twimg.com/profile_images/2037757966074757120/78Tp4amm_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f593b9c4380>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 38
+      "last_updated": "2026-10-20T18:40:26",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260405202303if_/https://pbs.twimg.com/profile_images/2037757966074757120/78Tp4amm_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f97e97de480>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 40
     },
     "https://pbs.twimg.com/profile_images/2039023815087566850/NH31PKtP_normal.jpg": {
       "status": "done",
@@ -20925,9 +20925,9 @@
       "referenced_by": [
         "20260405210406_twitter_com_JamFarewellSong_status_2040898295040786679.json"
       ],
-      "last_updated": "2026-09-29T08:37:55",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260405210406if_/https://pbs.twimg.com/profile_images/2040872378071465984/qFyYn5RC_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f593b9c6fc0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 38
+      "last_updated": "2026-10-20T18:40:28",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260405210406if_/https://pbs.twimg.com/profile_images/2040872378071465984/qFyYn5RC_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f97e97dd430>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 40
     },
     "https://pbs.twimg.com/profile_images/2021791717650010112/9BvDRLle_normal.jpg": {
       "status": "done",
@@ -21000,9 +21000,9 @@
       "referenced_by": [
         "20260405231955_twitter_com_JamFarewellSong_status_2040932476466655417.json"
       ],
-      "last_updated": "2026-09-29T08:37:57",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260405231955if_/https://pbs.twimg.com/profile_images/1908782550824476675/HMvPdSuq_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f593b9a5d00>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 38
+      "last_updated": "2026-10-20T18:40:31",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260405231955if_/https://pbs.twimg.com/profile_images/1908782550824476675/HMvPdSuq_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f97e9793f80>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 40
     },
     "https://pbs.twimg.com/profile_images/1867229055067783168/PQRw8gfy_normal.jpg": {
       "status": "done",
@@ -21082,9 +21082,9 @@
       "referenced_by": [
         "20260406064902_twitter_com_JamFarewellSong_status_2041045501081207058.json"
       ],
-      "last_updated": "2026-09-29T08:38:00",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260406064902if_/https://pbs.twimg.com/profile_images/2033135194635706368/h5mbGu8C_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f593b9c6630>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 38
+      "last_updated": "2026-10-20T18:40:34",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260406064902if_/https://pbs.twimg.com/profile_images/2033135194635706368/h5mbGu8C_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f97e97dddc0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 40
     },
     "https://pbs.twimg.com/profile_images/1678973215383879680/TJCnWz_6_normal.jpg": {
       "status": "done",
@@ -21100,9 +21100,9 @@
       "referenced_by": [
         "20260406075655_twitter_com_JamFarewellSong_status_2041062581847368084.json"
       ],
-      "last_updated": "2026-09-29T08:38:02",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260406075655if_/https://pbs.twimg.com/profile_images/2040049209597153280/GDAWZlX4_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f593b926180>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 38
+      "last_updated": "2026-10-20T18:40:36",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260406075655if_/https://pbs.twimg.com/profile_images/2040049209597153280/GDAWZlX4_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f97e96020c0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 40
     },
     "https://pbs.twimg.com/profile_images/2020476650681675776/N8B9tua-_normal.jpg": {
       "status": "done",
@@ -21145,9 +21145,9 @@
       "referenced_by": [
         "20260406083154_twitter_com_JamFarewellSong_status_2041071384814850530.json"
       ],
-      "last_updated": "2026-09-29T08:38:04",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260406083154if_/https://pbs.twimg.com/profile_images/1946206971041816576/6XWCoBQO_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f593b924a10>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 38
+      "last_updated": "2026-10-20T18:40:39",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260406083154if_/https://pbs.twimg.com/profile_images/1946206971041816576/6XWCoBQO_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f97e9601f40>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 40
     },
     "https://pbs.twimg.com/profile_images/2033978135059062784/y7sj8Gmi_normal.jpg": {
       "status": "done",
@@ -21207,9 +21207,9 @@
       "referenced_by": [
         "20260406092008_twitter_com_JamFarewellSong_status_2041083525366239553.json"
       ],
-      "last_updated": "2026-09-29T08:38:06",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260406092008if_/https://pbs.twimg.com/profile_images/2031760424920883200/DV4uG4Xo_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f593b927d40>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 38
+      "last_updated": "2026-10-20T18:40:41",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260406092008if_/https://pbs.twimg.com/profile_images/2031760424920883200/DV4uG4Xo_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f97e97dfd70>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 40
     },
     "https://pbs.twimg.com/profile_images/2008776444445626368/iHOJfO5R_normal.jpg": {
       "status": "done",
@@ -21318,9 +21318,9 @@
       "referenced_by": [
         "20260406110636_twitter_com_JamFarewellSong_status_2041110318655660459.json"
       ],
-      "last_updated": "2026-09-29T08:38:09",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260406110636if_/https://pbs.twimg.com/profile_images/2040562202382618624/-GjJAhPc_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f593b925430>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 38
+      "last_updated": "2026-10-20T18:40:44",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260406110636if_/https://pbs.twimg.com/profile_images/2040562202382618624/-GjJAhPc_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f97e97dd700>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 40
     },
     "https://pbs.twimg.com/profile_images/2024462875855900673/BMWGdQhI_normal.jpg": {
       "status": "done",
@@ -21404,9 +21404,9 @@
       "referenced_by": [
         "20260406175929_twitter_com_JamFarewellSong_status_2041214223687258145.json"
       ],
-      "last_updated": "2026-09-29T08:38:11",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260406175929if_/https://pbs.twimg.com/profile_images/2039052513966800896/uHTGw-bW_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f593b9a7aa0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 38
+      "last_updated": "2026-10-20T18:40:47",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260406175929if_/https://pbs.twimg.com/profile_images/2039052513966800896/uHTGw-bW_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f97e974bf20>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 40
     },
     "https://pbs.twimg.com/profile_images/1975150471385075713/oVgW1gWH_normal.jpg": {
       "status": "done",
@@ -21425,9 +21425,9 @@
       "referenced_by": [
         "20260406181351_twitter_com_JamFarewellSong_status_2041217838212685967.json"
       ],
-      "last_updated": "2026-09-29T08:38:13",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260406181351if_/https://pbs.twimg.com/profile_images/2041043241274155008/mBZU1_7T_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f593b9e8cb0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 38
+      "last_updated": "2026-10-20T18:40:49",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260406181351if_/https://pbs.twimg.com/profile_images/2041043241274155008/mBZU1_7T_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f97e9792ea0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 40
     },
     "https://pbs.twimg.com/profile_images/1831679763368353792/JCLSUlMG_normal.jpg": {
       "status": "done",
@@ -21517,18 +21517,18 @@
       "referenced_by": [
         "20260406195224_twitter_com_JamFarewellSong_status_2041242641174864359.json"
       ],
-      "last_updated": "2026-09-29T08:38:15",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260406195224if_/https://pbs.twimg.com/profile_images/2041129916411101184/L2KSZRQK_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f593b9eb500>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 38
+      "last_updated": "2026-10-20T18:40:51",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260406195224if_/https://pbs.twimg.com/profile_images/2041129916411101184/L2KSZRQK_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f97e9626300>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 40
     },
     "https://pbs.twimg.com/profile_images/2039688223329566720/RJXo5Ejr_normal.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260406195406_twitter_com_JamFarewellSong_status_2041243068381516006.json"
       ],
-      "last_updated": "2026-09-29T08:38:18",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260406195406if_/https://pbs.twimg.com/profile_images/2039688223329566720/RJXo5Ejr_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f593b9278c0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 38
+      "last_updated": "2026-10-20T18:40:54",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260406195406if_/https://pbs.twimg.com/profile_images/2039688223329566720/RJXo5Ejr_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f97e9791c70>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 40
     },
     "https://pbs.twimg.com/profile_images/1920311707546644480/0Ve3MZpc_normal.jpg": {
       "status": "done",
@@ -21542,9 +21542,9 @@
       "referenced_by": [
         "20260406202115_twitter_com_JamFarewellSong_status_2041249899493425155.json"
       ],
-      "last_updated": "2026-09-29T08:38:20",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260406202115if_/https://pbs.twimg.com/profile_images/2003799709836791810/xaTc0zVP_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f593b925070>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 38
+      "last_updated": "2026-10-20T18:40:57",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260406202115if_/https://pbs.twimg.com/profile_images/2003799709836791810/xaTc0zVP_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f97e90bf170>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 40
     },
     "https://pbs.twimg.com/profile_images/2036538174407602176/f3gEBOjw_normal.jpg": {
       "status": "done",
@@ -21576,9 +21576,9 @@
       "referenced_by": [
         "20260406204155_twitter_com_JamFarewellSong_status_2041255100405154010.json"
       ],
-      "last_updated": "2026-09-29T08:38:22",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260406204155if_/https://pbs.twimg.com/profile_images/2040152875402448896/Y4juXxgn_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f593b9e94c0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 38
+      "last_updated": "2026-10-20T18:41:00",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260406204155if_/https://pbs.twimg.com/profile_images/2040152875402448896/Y4juXxgn_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f97e9603a70>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 40
     },
     "https://pbs.twimg.com/profile_images/2040069727905841152/yJuCt1k5_normal.jpg": {
       "status": "done",
@@ -21798,9 +21798,9 @@
         "20260407203752_twitter_com_JamFarewellSong_status_2041616468056666393.json",
         "20260407203800_twitter_com_JamFarewellSong_status_2041616503997673769.json"
       ],
-      "last_updated": "2026-09-29T08:38:24",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260407203800if_/https://pbs.twimg.com/profile_images/2040630561983930368/WWbg05MA_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f593b9245f0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 38
+      "last_updated": "2026-10-20T18:41:02",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260407203800if_/https://pbs.twimg.com/profile_images/2040630561983930368/WWbg05MA_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f97e9791ca0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 40
     },
     "https://pbs.twimg.com/profile_images/2008943119623188480/vmd2MtXn_normal.jpg": {
       "status": "failed_all",
@@ -21868,9 +21868,9 @@
       "referenced_by": [
         "20260407212834_twitter_com_JamFarewellSong_status_2041629230556119236.json"
       ],
-      "last_updated": "2026-09-29T08:38:27",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260407212834if_/https://pbs.twimg.com/profile_images/2029253064029564928/WYyvRS9d_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f593b9c4ef0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 38
+      "last_updated": "2026-10-20T18:41:05",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260407212834if_/https://pbs.twimg.com/profile_images/2029253064029564928/WYyvRS9d_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f97e97489b0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 40
     },
     "https://pbs.twimg.com/profile_images/2037149597009928198/mPcUl3UR_normal.jpg": {
       "status": "done",
@@ -22034,9 +22034,9 @@
       "referenced_by": [
         "20260408124816_twitter_com_JamFarewellSong_status_2041860677300863009.json"
       ],
-      "last_updated": "2026-09-29T08:38:29",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260408124816if_/https://pbs.twimg.com/profile_images/2041245441946513408/rP371w0K_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f593b9c4950>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 38
+      "last_updated": "2026-10-20T18:41:07",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260408124816if_/https://pbs.twimg.com/profile_images/2041245441946513408/rP371w0K_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f97e9748590>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 40
     },
     "https://pbs.twimg.com/profile_images/2040816556092125184/flGyywBU_normal.jpg": {
       "status": "done",
@@ -22299,9 +22299,9 @@
       "referenced_by": [
         "20260410054858_twitter_com_JamFarewellSong_status_2042479935336694114.json"
       ],
-      "last_updated": "2026-09-29T08:38:31",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260410054858if_/https://pbs.twimg.com/profile_images/2009266813008531462/vUT2WQ8H_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f593b9e9790>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 38
+      "last_updated": "2026-10-20T18:41:10",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260410054858if_/https://pbs.twimg.com/profile_images/2009266813008531462/vUT2WQ8H_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f97e9602ba0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 40
     },
     "https://pbs.twimg.com/profile_images/2028447229040812032/QJB4InPH_normal.jpg": {
       "status": "done",
@@ -22347,9 +22347,9 @@
       "referenced_by": [
         "20260410072756_twitter_com_JamFarewellSong_status_2042504841113874656.json"
       ],
-      "last_updated": "2026-09-29T08:38:33",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260410072756if_/https://pbs.twimg.com/profile_images/2041751501471961088/9Z6qcf2Q_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f593b9ea3c0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 38
+      "last_updated": "2026-10-20T18:41:12",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260410072756if_/https://pbs.twimg.com/profile_images/2041751501471961088/9Z6qcf2Q_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f97e9603860>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 40
     },
     "https://pbs.twimg.com/profile_images/2038850222680633345/r8zG5Gc1_normal.jpg": {
       "status": "done",
@@ -22518,9 +22518,9 @@
       "referenced_by": [
         "20260410081603_twitter_com_JamFarewellSong_status_2042516947959714145.json"
       ],
-      "last_updated": "2026-09-29T08:38:35",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260410081603if_/https://pbs.twimg.com/profile_images/2040377325158801408/BOYfFeq2_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f593b926540>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 38
+      "last_updated": "2026-10-20T18:41:15",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260410081603if_/https://pbs.twimg.com/profile_images/2040377325158801408/BOYfFeq2_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f97e97926f0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 40
     },
     "https://pbs.twimg.com/profile_images/2041391782861434882/pkljq0Fd_normal.jpg": {
       "status": "failed",
@@ -22529,9 +22529,9 @@
         "20260411174046_twitter_com_JamFarewellSong_status_2043021452027531530.json",
         "20260411174102_twitter_com_JamFarewellSong_status_2043021521590063111.json"
       ],
-      "last_updated": "2026-09-29T08:38:38",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260411174102if_/https://pbs.twimg.com/profile_images/2041391782861434882/pkljq0Fd_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f593bc68f20>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 38
+      "last_updated": "2026-10-20T18:41:17",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260411174102if_/https://pbs.twimg.com/profile_images/2041391782861434882/pkljq0Fd_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f97e97dd3a0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 40
     },
     "https://pbs.twimg.com/profile_images/2042294772828946433/gGNwxFyK_normal.jpg": {
       "status": "done",
@@ -22603,9 +22603,9 @@
         "20260411174946_twitter_com_JamFarewellSong_status_2043023716607758635.json",
         "20260411175154_twitter_com_JamFarewellSong_status_2043024253117960547.json"
       ],
-      "last_updated": "2026-09-29T08:38:40",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260411175154if_/https://pbs.twimg.com/profile_images/2035449774409961472/2LF4vjk__normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f593b9a4da0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 38
+      "last_updated": "2026-10-20T18:41:20",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260411175154if_/https://pbs.twimg.com/profile_images/2035449774409961472/2LF4vjk__normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f97e96243b0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 40
     },
     "https://pbs.twimg.com/profile_images/1985567912334409731/Hx4R_X4Z_normal.jpg": {
       "status": "done",
@@ -22874,18 +22874,18 @@
         "20260416112923_twitter_com_JamFarewellSong_status_2044739931634082065.json",
         "20260421173802_twitter_com_JamFarewellSong_status_2046644641739702541.json"
       ],
-      "last_updated": "2026-09-29T08:38:42",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260421173802if_/https://pbs.twimg.com/profile_images/2040321451027468288/A1-8QvCF_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f593b9a71d0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 38
+      "last_updated": "2026-10-20T18:41:22",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260421173802if_/https://pbs.twimg.com/profile_images/2040321451027468288/A1-8QvCF_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f97e9624350>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 40
     },
     "https://pbs.twimg.com/profile_images/2032774748237869062/3VRs-T0m_normal.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260414142545_twitter_com_JamFarewellSong_status_2044059537356009881.json"
       ],
-      "last_updated": "2026-09-29T08:38:44",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260414142545if_/https://pbs.twimg.com/profile_images/2032774748237869062/3VRs-T0m_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f593b9c7a40>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 38
+      "last_updated": "2026-10-20T18:41:25",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260414142545if_/https://pbs.twimg.com/profile_images/2032774748237869062/3VRs-T0m_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f97e9625d00>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 40
     },
     "https://pbs.twimg.com/profile_images/1824649573098459136/GkqxuO5F_normal.jpg": {
       "status": "done",
@@ -22921,18 +22921,18 @@
       "referenced_by": [
         "20260414190654_twitter_com_JamFarewellSong_status_2044130292584329270.json"
       ],
-      "last_updated": "2026-09-29T08:38:46",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260414190654if_/https://pbs.twimg.com/profile_images/2043360211638104064/3rfknD6o_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f593b9c7020>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 38
+      "last_updated": "2026-10-20T18:41:27",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260414190654if_/https://pbs.twimg.com/profile_images/2043360211638104064/3rfknD6o_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f97e9626690>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 40
     },
     "https://pbs.twimg.com/profile_images/2039184890097467392/dbO1I6P9_normal.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260414190828_twitter_com_JamFarewellSong_status_2044130686483968413.json"
       ],
-      "last_updated": "2026-09-29T08:38:49",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260414190828if_/https://pbs.twimg.com/profile_images/2039184890097467392/dbO1I6P9_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f593b9a78c0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 38
+      "last_updated": "2026-10-20T18:41:30",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260414190828if_/https://pbs.twimg.com/profile_images/2039184890097467392/dbO1I6P9_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f97e9626540>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 40
     },
     "https://pbs.twimg.com/profile_images/2042515696677195776/vLiJvmh8_normal.jpg": {
       "status": "done",
@@ -22996,9 +22996,9 @@
         "20260416010119_twitter_com_JamFarewellSong_status_2044581871628271981.json",
         "20260416141531_twitter_com_JamFarewellSong_status_2044781737226690641.json"
       ],
-      "last_updated": "2026-09-29T08:38:51",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260416141531if_/https://pbs.twimg.com/profile_images/1992931054592897024/ljyA04jN_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f593b9c63f0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 38
+      "last_updated": "2026-10-20T18:41:32",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260416141531if_/https://pbs.twimg.com/profile_images/1992931054592897024/ljyA04jN_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f97e9748c20>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 40
     },
     "https://pbs.twimg.com/profile_images/2041239223823695872/oskidzdg_normal.jpg": {
       "status": "done",
@@ -23114,9 +23114,9 @@
       "referenced_by": [
         "20260416113838_twitter_com_JamFarewellSong_status_2044742257644060685.json"
       ],
-      "last_updated": "2026-09-29T08:38:53",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260416113838if_/https://pbs.twimg.com/profile_images/2041811823687823360/QQkkR0z6_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f593b9c7170>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 38
+      "last_updated": "2026-10-20T18:41:35",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260416113838if_/https://pbs.twimg.com/profile_images/2041811823687823360/QQkkR0z6_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f97e9748c80>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 40
     },
     "https://pbs.twimg.com/profile_images/1937052623523168256/NWtxx8z__normal.jpg": {
       "status": "done",
@@ -23148,9 +23148,9 @@
       "referenced_by": [
         "20260416183231_twitter_com_JamFarewellSong_status_2044846413545402790.json"
       ],
-      "last_updated": "2026-09-29T08:38:55",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260416183231if_/https://pbs.twimg.com/profile_images/2014974017019535361/pXcdgBH7_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f593b9a6660>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 38
+      "last_updated": "2026-10-20T18:41:37",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260416183231if_/https://pbs.twimg.com/profile_images/2014974017019535361/pXcdgBH7_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f97e9624350>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 40
     },
     "https://pbs.twimg.com/profile_images/2032117812551159808/-D5q3EOm_normal.jpg": {
       "status": "done",
@@ -23164,27 +23164,27 @@
       "referenced_by": [
         "20260417032459_twitter_com_JamFarewellSong_status_2044980415807844812.json"
       ],
-      "last_updated": "2026-09-29T08:38:58",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260417032459if_/https://pbs.twimg.com/profile_images/1850538881437040640/2bT56gc9_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f593b9c4470>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 38
+      "last_updated": "2026-10-20T18:41:39",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260417032459if_/https://pbs.twimg.com/profile_images/1850538881437040640/2bT56gc9_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f97e96258b0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 40
     },
     "https://pbs.twimg.com/profile_images/2022153470095302657/6fWkX3GZ_normal.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260418034710_twitter_com_JamFarewellSong_status_2045348385922933137.json"
       ],
-      "last_updated": "2026-09-29T08:39:00",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260418034710if_/https://pbs.twimg.com/profile_images/2022153470095302657/6fWkX3GZ_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f593b9a46b0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 38
+      "last_updated": "2026-10-20T18:41:42",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260418034710if_/https://pbs.twimg.com/profile_images/2022153470095302657/6fWkX3GZ_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f97e974b200>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 40
     },
     "https://pbs.twimg.com/profile_images/2036500012721643521/0552Jvmy_normal.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260419133637_twitter_com_JamFarewellSong_status_2045859113679327354.json"
       ],
-      "last_updated": "2026-09-29T08:39:02",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260419133637if_/https://pbs.twimg.com/profile_images/2036500012721643521/0552Jvmy_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f593bc697f0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 38
+      "last_updated": "2026-10-20T18:41:45",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260419133637if_/https://pbs.twimg.com/profile_images/2036500012721643521/0552Jvmy_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f97e9602c60>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 40
     },
     "https://pbs.twimg.com/profile_images/2045718502472822784/LbasGIQH_normal.jpg": {
       "status": "done",
@@ -23247,9 +23247,9 @@
       "referenced_by": [
         "20260419143616_twitter_com_JamFarewellSong_status_2045874126267752775.json"
       ],
-      "last_updated": "2026-09-29T08:39:05",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260419143616if_/https://pbs.twimg.com/profile_images/2040513387734712320/nXeN_voK_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f593b9e8aa0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 38
+      "last_updated": "2026-10-20T18:41:47",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260419143616if_/https://pbs.twimg.com/profile_images/2040513387734712320/nXeN_voK_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f97e9791eb0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 40
     },
     "https://pbs.twimg.com/profile_images/1662692455043694592/PqualeMd_normal.jpg": {
       "status": "done",
@@ -23321,9 +23321,9 @@
       "referenced_by": [
         "20260419214538_twitter_com_JamFarewellSong_status_2045982180145614945.json"
       ],
-      "last_updated": "2026-09-29T08:39:07",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260419214538if_/https://pbs.twimg.com/profile_images/1948958533245927424/MTLhcmzd_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f593b9c4d40>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 38
+      "last_updated": "2026-10-20T18:41:49",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260419214538if_/https://pbs.twimg.com/profile_images/1948958533245927424/MTLhcmzd_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f97e9791e20>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 40
     },
     "https://pbs.twimg.com/profile_images/2004767849303232513/-EovBf2p_normal.jpg": {
       "status": "done",
@@ -23345,18 +23345,18 @@
         "20260420072945_twitter_com_JamFarewellSong_status_2046129176164639119.json",
         "20260420073006_twitter_com_JamFarewellSong_status_2046129262198182290.json"
       ],
-      "last_updated": "2026-09-29T08:39:09",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260420073006if_/https://pbs.twimg.com/profile_images/2043341760320139265/yVb3k51a_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f593b9a7680>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 38
+      "last_updated": "2026-10-20T18:41:52",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260420073006if_/https://pbs.twimg.com/profile_images/2043341760320139265/yVb3k51a_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f97e96262d0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 40
     },
     "https://pbs.twimg.com/profile_images/2044960713345818624/eNV6jb0O_normal.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260420073356_twitter_com_JamFarewellSong_status_2046130230084166050.json"
       ],
-      "last_updated": "2026-09-29T08:39:12",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260420073356if_/https://pbs.twimg.com/profile_images/2044960713345818624/eNV6jb0O_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f593b9eab10>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 38
+      "last_updated": "2026-10-20T18:41:57",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260420073356im_/https://pbs.twimg.com/profile_images/2044960713345818624/eNV6jb0O_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f97e9749130>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 40
     },
     "https://pbs.twimg.com/profile_images/1378912446782394368/icyGMaK5_normal.jpg": {
       "status": "done",
@@ -23488,9 +23488,9 @@
         "20260421185618_twitter_com_JamFarewellSong_status_2046664341295083706.json",
         "20260422043059_twitter_com_JamFarewellSong_status_2046808964315382156.json"
       ],
-      "last_updated": "2026-09-29T08:39:14",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260422043059if_/https://pbs.twimg.com/profile_images/2020935964366077953/cAB_m43L_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f593b9a7530>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 38
+      "last_updated": "2026-10-20T18:41:59",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260422043059if_/https://pbs.twimg.com/profile_images/2020935964366077953/cAB_m43L_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f97e97dc770>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 40
     },
     "https://pbs.twimg.com/profile_images/1942231036634820608/-gLnzGqY_normal.jpg": {
       "status": "done",
@@ -23528,9 +23528,9 @@
       "referenced_by": [
         "20260421193625_twitter_com_JamFarewellSong_status_2046674434992521721.json"
       ],
-      "last_updated": "2026-09-29T08:39:16",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260421193625if_/https://pbs.twimg.com/profile_images/2040986255287328768/brQseJMP_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f593b925f70>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 38
+      "last_updated": "2026-10-20T18:42:02",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260421193625if_/https://pbs.twimg.com/profile_images/2040986255287328768/brQseJMP_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f97e97de120>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 40
     },
     "https://pbs.twimg.com/profile_images/1762302331314667520/gTSuaeNo_normal.jpg": {
       "status": "done",
@@ -23545,9 +23545,9 @@
         "20260422071243_twitter_com_JamFarewellSong_status_2046849667095507052.json",
         "20260422074535_twitter_com_JamFarewellSong_status_2046857935519941071.json"
       ],
-      "last_updated": "2026-09-29T08:39:18",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260422074535if_/https://pbs.twimg.com/profile_images/2044807398196690944/WJaDIheb_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f593b926c90>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 38
+      "last_updated": "2026-10-20T18:42:07",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260422074535if_/https://pbs.twimg.com/profile_images/2044807398196690944/WJaDIheb_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f97e9627b60>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 40
     },
     "https://pbs.twimg.com/profile_images/2046789084790890496/tu0DxovY_normal.jpg": {
       "status": "done",
@@ -23572,9 +23572,9 @@
       "referenced_by": [
         "20260422072653_twitter_com_JamFarewellSong_status_2046853232425849273.json"
       ],
-      "last_updated": "2026-09-29T08:39:21",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260422072653if_/https://pbs.twimg.com/profile_images/1995015582014738436/pqwajC9S_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f593b926150>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 38
+      "last_updated": "2026-10-20T18:42:09",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260422072653if_/https://pbs.twimg.com/profile_images/1995015582014738436/pqwajC9S_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f97e97920c0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 40
     },
     "https://pbs.twimg.com/profile_images/2042291013981782019/DCmVaNLl_normal.jpg": {
       "status": "done",
@@ -23694,9 +23694,9 @@
       "referenced_by": [
         "20260422184620_twitter_com_JamFarewellSong_status_2047024220723699985.json"
       ],
-      "last_updated": "2026-09-29T08:39:25",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260422184620if_/https://pbs.twimg.com/profile_images/2045361501431885824/EeWkmGro_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f593b926930>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 38
+      "last_updated": "2026-10-20T18:42:12",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260422184620if_/https://pbs.twimg.com/profile_images/2045361501431885824/EeWkmGro_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f97e97dcef0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 40
     },
     "https://pbs.twimg.com/profile_images/2033812687277461507/y7sGn9v7_normal.jpg": {
       "status": "done",
@@ -23717,9 +23717,9 @@
       "referenced_by": [
         "20260423191352_twitter_com_JamFarewellSong_status_2047393538519044483.json"
       ],
-      "last_updated": "2026-09-29T08:39:27",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260423191352if_/https://pbs.twimg.com/profile_images/2028890906003386369/wL8jZ7_r_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f593bc68c80>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 38
+      "last_updated": "2026-10-20T18:42:14",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260423191352if_/https://pbs.twimg.com/profile_images/2028890906003386369/wL8jZ7_r_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f97e97937a0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 40
     },
     "https://pbs.twimg.com/profile_images/1240651592560513027/6fstVHAy_normal.jpg": {
       "status": "done",
@@ -23813,9 +23813,9 @@
       "referenced_by": [
         "20260424063923_twitter_com_JamFarewellSong_status_2047566051903459726.json"
       ],
-      "last_updated": "2026-09-29T08:39:31",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260424063923im_/https://pbs.twimg.com/profile_images/2045004879303958528/xNxtLn0S_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f593b9a6210>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 38
+      "last_updated": "2026-10-20T18:42:20",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260424063923if_/https://pbs.twimg.com/profile_images/2045004879303958528/xNxtLn0S_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f97e97dc0b0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 40
     },
     "https://pbs.twimg.com/profile_images/1938519215071481856/RGyMr1ce_normal.jpg": {
       "status": "done",
@@ -23846,9 +23846,9 @@
       "referenced_by": [
         "20260426112258_twitter_com_JamFarewellSong_status_2048362196292481364.json"
       ],
-      "last_updated": "2026-09-29T08:39:33",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260426112258if_/https://pbs.twimg.com/profile_images/2048356974254071809/sJTTXsVq_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f593b9266c0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 38
+      "last_updated": "2026-10-20T18:42:22",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260426112258if_/https://pbs.twimg.com/profile_images/2048356974254071809/sJTTXsVq_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f97e9602ea0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 40
     },
     "https://pbs.twimg.com/profile_images/1759984206468222976/03bgRFtY_normal.jpg": {
       "status": "done",
@@ -23890,9 +23890,9 @@
       "referenced_by": [
         "20260426113307_twitter_com_JamFarewellSong_status_2048364749751197771.json"
       ],
-      "last_updated": "2026-09-29T08:39:36",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260426113307im_/https://pbs.twimg.com/profile_images/2042581281222070273/eop2xwyz_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f593b9a6480>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 38
+      "last_updated": "2026-10-20T18:42:25",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260426113307if_/https://pbs.twimg.com/profile_images/2042581281222070273/eop2xwyz_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f97e97df710>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 40
     },
     "https://pbs.twimg.com/profile_images/2002781704680030208/O0cqzBz3_normal.jpg": {
       "status": "done",
@@ -24767,9 +24767,9 @@
       "referenced_by": [
         "20260512120754_twitter_com_JamFarewellSong_status_2054171708488294478.json"
       ],
-      "last_updated": "2026-09-29T08:39:39",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260512120754if_/https://pbs.twimg.com/profile_images/2050651147199975424/Q4r3IJl6_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f593b9279b0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 38
+      "last_updated": "2026-10-20T18:42:30",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260512120754if_/https://pbs.twimg.com/profile_images/2050651147199975424/Q4r3IJl6_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f97e9791a30>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 40
     },
     "https://pbs.twimg.com/profile_images/2033453812279918592/7rVzzZ4f_normal.jpg": {
       "status": "done",
@@ -24942,9 +24942,9 @@
       "referenced_by": [
         "20260516010331_twitter_com_JamFarewellSong_status_2055454061722546266.json"
       ],
-      "last_updated": "2026-09-29T08:39:43",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260516010331im_/https://pbs.twimg.com/profile_images/2054258840385015808/jgmLq34C_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f593b317aa0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 38
+      "last_updated": "2026-10-20T18:42:32",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260516010331if_/https://pbs.twimg.com/profile_images/2054258840385015808/jgmLq34C_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f97e9602a80>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 40
     },
     "https://pbs.twimg.com/profile_images/2055181144560443392/SysacanM_normal.jpg": {
       "status": "done",
@@ -26097,9 +26097,9 @@
       "referenced_by": [
         "20260610153731_twitter_com_JamFarewellSong_status_2064733706879926762.json"
       ],
-      "last_updated": "2026-09-29T08:39:45",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260610153731if_/https://pbs.twimg.com/profile_images/2062166605665062913/oGIOHGYN_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f593b9a44a0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 24
+      "last_updated": "2026-10-20T18:42:35",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260610153731if_/https://pbs.twimg.com/profile_images/2062166605665062913/oGIOHGYN_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f97e9627590>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 26
     },
     "https://pbs.twimg.com/profile_images/2057004089637208065/acX35vio_normal.jpg": {
       "status": "done",
@@ -27431,9 +27431,9 @@
         "20260723090723_twitter_com_JamFarewellSong_status_2080218204891451397.json",
         "20260723090735_twitter_com_JamFarewellSong_status_2080218257160798655.json"
       ],
-      "last_updated": "2026-09-29T08:39:49",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260723090735im_/https://pbs.twimg.com/profile_images/2079432554034364416/afG-l4mp_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f593b9e9ee0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 6
+      "last_updated": "2026-10-20T18:42:37",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260723090735if_/https://pbs.twimg.com/profile_images/2079432554034364416/afG-l4mp_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f97e9aed550>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 8
     },
     "https://pbs.twimg.com/profile_images/2079623941732331520/W9QuYVqi_normal.jpg": {
       "status": "done",
@@ -27748,13 +27748,13 @@
       "last_updated": "2026-08-14T04:27:30"
     },
     "https://pbs.twimg.com/profile_images/2081521936870395904/STEnmTXX_normal.jpg": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20260727172526_twitter_com_JamFarewellSong_status_2081793097625915422.json"
       ],
-      "last_updated": "2026-09-29T08:39:51",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260727172526if_/https://pbs.twimg.com/profile_images/2081521936870395904/STEnmTXX_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f593b927da0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 6
+      "last_updated": "2026-10-20T18:42:40",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260727172526if_/https://pbs.twimg.com/profile_images/2081521936870395904/STEnmTXX_normal.jpg",
+      "miss_count": 8
     },
     "https://pbs.twimg.com/profile_images/2061401510009782273/--KhfucD_normal.jpg": {
       "status": "done",
@@ -28492,13 +28492,13 @@
       "last_updated": "2026-08-14T04:27:32"
     },
     "https://pbs.twimg.com/profile_images/2083527632868847616/e0U4WGJR_normal.jpg": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20260802135957_twitter_com_JamFarewellSong_status_2083915711177736547.json"
       ],
-      "last_updated": "2026-09-29T08:39:54",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260802135957im_/https://pbs.twimg.com/profile_images/2083527632868847616/e0U4WGJR_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f593b9c66c0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 6
+      "last_updated": "2026-10-20T18:42:42",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260802135957if_/https://pbs.twimg.com/profile_images/2083527632868847616/e0U4WGJR_normal.jpg",
+      "miss_count": 8
     },
     "https://pbs.twimg.com/profile_images/2066775745784090624/pkNSZG9b_normal.jpg": {
       "status": "done",
@@ -29430,15 +29430,15 @@
       "last_updated": "2026-09-29T08:37:15"
     },
     "https://pbs.twimg.com/profile_images/2100991910529957888/W-7BtsKD_normal.jpg": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20260922180456_twitter_com_JamFarewellSong_status_2102459142749528281.json",
         "20260922180523_twitter_com_JamFarewellSong_status_2102459257291681926.json",
         "20260922180807_twitter_com_JamFarewellSong_status_2102459944520061231.json"
       ],
-      "last_updated": "2026-09-29T08:39:57",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260922180807if_/https://pbs.twimg.com/profile_images/2100991910529957888/W-7BtsKD_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f593b9a43e0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 2
+      "last_updated": "2026-10-20T18:42:45",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260922180807if_/https://pbs.twimg.com/profile_images/2100991910529957888/W-7BtsKD_normal.jpg",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/profile_images/2035652260517355520/RaWAf0Z0_normal.jpg": {
       "status": "done",
@@ -29562,87 +29562,102 @@
       "last_updated": "2026-09-29T08:37:16"
     },
     "https://pbs.twimg.com/profile_images/1907031660929118208/sNlrsVC3_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260927164025_twitter_com_JamFarewellSong_status_2104249816348057881.json"
-      ]
+      ],
+      "last_updated": "2026-10-20T18:39:44"
     },
     "https://pbs.twimg.com/profile_images/2090427395165835264/-VKua02s_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260928024927_twitter_com_JamFarewellSong_status_2104403082105004128.json"
-      ]
+      ],
+      "last_updated": "2026-10-20T18:39:44"
     },
     "https://pbs.twimg.com/profile_images/1934604096973271040/LyHoR0xg_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260928025142_twitter_com_JamFarewellSong_status_2104403649980219788.json"
-      ]
+      ],
+      "last_updated": "2026-10-20T18:39:44"
     },
     "https://pbs.twimg.com/profile_images/2057073865785024512/NxsIMJal_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260928025142_twitter_com_JamFarewellSong_status_2104403649980219788.json"
-      ]
+      ],
+      "last_updated": "2026-10-20T18:39:44"
     },
     "https://pbs.twimg.com/profile_images/1984682878085840897/6gda--vn_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260928025326_twitter_com_JamFarewellSong_status_2104404086338834446.json"
-      ]
+      ],
+      "last_updated": "2026-10-20T18:39:44"
     },
     "https://pbs.twimg.com/profile_images/2101000510815809536/qvbYDRiP_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260928121131_twitter_com_JamFarewellSong_status_2104544532373319736.json"
-      ]
+      ],
+      "last_updated": "2026-10-20T18:42:45",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260928121131if_/https://pbs.twimg.com/profile_images/2101000510815809536/qvbYDRiP_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fbce855ede0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 1
     },
     "https://pbs.twimg.com/profile_images/2028157723045666816/XZRVS4jH_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20261003071133_twitter_com_JamFarewellSong_status_2106280979828793407.json",
         "20261003071204_twitter_com_JamFarewellSong_status_2106281113656406355.json"
-      ]
+      ],
+      "last_updated": "2026-10-20T18:39:44"
     },
     "https://pbs.twimg.com/profile_images/2100997993721946112/I4NOJe4C_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20261003071331_twitter_com_JamFarewellSong_status_2106281477747228674.json",
         "20261003071409_twitter_com_JamFarewellSong_status_2106281636602282292.json"
-      ]
+      ],
+      "last_updated": "2026-10-20T18:39:44"
     },
     "https://pbs.twimg.com/profile_images/1459190082980638728/8WjeYDRu_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20261003071446_twitter_com_JamFarewellSong_status_2106281793276301350.json"
-      ]
+      ],
+      "last_updated": "2026-10-20T18:39:44"
     },
     "https://pbs.twimg.com/profile_images/1490013695295905795/uk1Weyy1_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20261003071618_twitter_com_JamFarewellSong_status_2106282176245612796.json"
-      ]
+      ],
+      "last_updated": "2026-10-20T18:39:44"
     },
     "https://pbs.twimg.com/profile_images/2081195740932825088/jl5H_BPX_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20261003072102_twitter_com_JamFarewellSong_status_2106283369478971878.json",
         "20261003072108_twitter_com_JamFarewellSong_status_2106283394867110087.json"
-      ]
+      ],
+      "last_updated": "2026-10-20T18:39:44"
     },
     "https://pbs.twimg.com/profile_images/2106254888477048833/K6ZigiuU_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20261005044023_twitter_com_JamFarewellSong_status_2106967714673963423.json",
         "20261005044031_twitter_com_JamFarewellSong_status_2106967748970688576.json"
-      ]
+      ],
+      "last_updated": "2026-10-20T18:39:44"
     },
     "https://pbs.twimg.com/profile_images/2051644719114113024/K1IF1YEd_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20261005081506_twitter_com_JamFarewellSong_status_2107021748873171158.json",
         "20261005081548_twitter_com_JamFarewellSong_status_2107021924652167371.json"
-      ]
+      ],
+      "last_updated": "2026-10-20T18:39:44"
     }
   },
   "media": {
@@ -51106,7 +51121,7 @@
       "last_updated": "2026-08-14T04:27:29"
     },
     "20260727172526_twitter_com_JamFarewellSong_status_2081793097625915422.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HOIO4FoWAAAhqvu.jpg"
@@ -51117,7 +51132,7 @@
           "https://pbs.twimg.com/profile_images/2081521936870395904/STEnmTXX_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-20T18:39:04",
+      "last_updated": "2026-10-20T18:42:40",
       "miss_count": 6
     },
     "20260727172547_twitter_com_JamFarewellSong_status_2081793182543843451.json": {
@@ -54015,7 +54030,7 @@
       "last_updated": "2026-08-14T04:27:32"
     },
     "20260802135957_twitter_com_JamFarewellSong_status_2083915711177736547.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -54025,7 +54040,7 @@
           "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-20T18:39:04",
+      "last_updated": "2026-10-20T18:42:42",
       "miss_count": 6
     },
     "20260802144731_twitter_com_JamFarewellSong_status_2083927683529081309.json": {
@@ -57478,7 +57493,7 @@
       "last_updated": "2026-09-29T08:37:15"
     },
     "20260922180456_twitter_com_JamFarewellSong_status_2102459142749528281.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -57487,11 +57502,11 @@
           "https://pbs.twimg.com/profile_images/2100991910529957888/W-7BtsKD_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-20T18:39:04",
+      "last_updated": "2026-10-20T18:42:45",
       "miss_count": 2
     },
     "20260922180523_twitter_com_JamFarewellSong_status_2102459257291681926.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -57500,11 +57515,11 @@
           "https://pbs.twimg.com/profile_images/2100991910529957888/W-7BtsKD_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-20T18:39:04",
+      "last_updated": "2026-10-20T18:42:45",
       "miss_count": 2
     },
     "20260922180807_twitter_com_JamFarewellSong_status_2102459944520061231.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HSRDFF7aoAAkg9Q.jpg",
@@ -57517,7 +57532,7 @@
           "https://pbs.twimg.com/profile_images/2100991910529957888/W-7BtsKD_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-20T18:39:04",
+      "last_updated": "2026-10-20T18:42:45",
       "miss_count": 2
     },
     "20260922182858_twitter_com_JamFarewellSong_status_2102465191015493707.json": {
@@ -58030,7 +58045,7 @@
       "last_updated": "2026-10-20T18:30:33"
     },
     "20260927164025_twitter_com_JamFarewellSong_status_2104249816348057881.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -58039,10 +58054,10 @@
           "https://pbs.twimg.com/profile_images/1907031660929118208/sNlrsVC3_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-20T18:39:04"
+      "last_updated": "2026-10-20T18:39:44"
     },
     "20260928024927_twitter_com_JamFarewellSong_status_2104403082105004128.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HExeM-zacAAk7rd.jpg",
@@ -58056,10 +58071,10 @@
           "https://pbs.twimg.com/profile_images/2090427395165835264/-VKua02s_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-20T18:39:04"
+      "last_updated": "2026-10-20T18:39:44"
     },
     "20260928025142_twitter_com_JamFarewellSong_status_2104403649980219788.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -58069,10 +58084,10 @@
           "https://pbs.twimg.com/profile_images/2057073865785024512/NxsIMJal_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-20T18:39:04"
+      "last_updated": "2026-10-20T18:39:44"
     },
     "20260928025326_twitter_com_JamFarewellSong_status_2104404086338834446.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HELczxmaIAAiA9P.jpg"
@@ -58083,7 +58098,7 @@
           "https://pbs.twimg.com/profile_images/1984682878085840897/6gda--vn_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-20T18:39:04"
+      "last_updated": "2026-10-20T18:39:44"
     },
     "20260928025551_twitter_com_JamFarewellSong_status_2104404694378676590.json": {
       "status": "done",
@@ -58110,7 +58125,7 @@
       "last_updated": "2026-10-20T18:30:32"
     },
     "20260928121131_twitter_com_JamFarewellSong_status_2104544532373319736.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [
@@ -58121,7 +58136,7 @@
           "https://pbs.twimg.com/profile_images/2101000510815809536/qvbYDRiP_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-20T18:39:04"
+      "last_updated": "2026-10-20T18:42:45"
     },
     "20260928124951_twitter_com_JamFarewellSong_status_2104554178635014386.json": {
       "status": "done",
@@ -58160,7 +58175,7 @@
       "last_updated": "2026-10-20T18:30:32"
     },
     "20261003071133_twitter_com_JamFarewellSong_status_2106280979828793407.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HCjntouawAEjcSx.jpg",
@@ -58174,10 +58189,10 @@
           "https://pbs.twimg.com/profile_images/2028157723045666816/XZRVS4jH_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-20T18:39:04"
+      "last_updated": "2026-10-20T18:39:44"
     },
     "20261003071204_twitter_com_JamFarewellSong_status_2106281113656406355.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -58186,10 +58201,10 @@
           "https://pbs.twimg.com/profile_images/2028157723045666816/XZRVS4jH_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-20T18:39:04"
+      "last_updated": "2026-10-20T18:39:44"
     },
     "20261003071331_twitter_com_JamFarewellSong_status_2106281477747228674.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HTm93ZaakAAgysY.jpg"
@@ -58200,10 +58215,10 @@
           "https://pbs.twimg.com/profile_images/2100997993721946112/I4NOJe4C_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-20T18:39:04"
+      "last_updated": "2026-10-20T18:39:44"
     },
     "20261003071409_twitter_com_JamFarewellSong_status_2106281636602282292.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HTRb7iOb0AAtyxc.jpg"
@@ -58214,10 +58229,10 @@
           "https://pbs.twimg.com/profile_images/2100997993721946112/I4NOJe4C_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-20T18:39:04"
+      "last_updated": "2026-10-20T18:39:44"
     },
     "20261003071446_twitter_com_JamFarewellSong_status_2106281793276301350.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -58226,7 +58241,7 @@
           "https://pbs.twimg.com/profile_images/1459190082980638728/8WjeYDRu_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-20T18:39:04"
+      "last_updated": "2026-10-20T18:39:44"
     },
     "20261003071454_twitter_com_JamFarewellSong_status_2106281823856980047.json": {
       "status": "done",
@@ -58253,7 +58268,7 @@
       "last_updated": "2026-10-20T18:30:32"
     },
     "20261003071618_twitter_com_JamFarewellSong_status_2106282176245612796.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -58263,7 +58278,7 @@
           "https://pbs.twimg.com/profile_images/1490013695295905795/uk1Weyy1_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-20T18:39:04"
+      "last_updated": "2026-10-20T18:39:44"
     },
     "20261003071630_twitter_com_JamFarewellSong_status_2106282227034427429.json": {
       "status": "done",
@@ -58302,7 +58317,7 @@
       "last_updated": "2026-10-20T18:30:32"
     },
     "20261003072102_twitter_com_JamFarewellSong_status_2106283369478971878.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -58311,10 +58326,10 @@
           "https://pbs.twimg.com/profile_images/2081195740932825088/jl5H_BPX_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-20T18:39:04"
+      "last_updated": "2026-10-20T18:39:44"
     },
     "20261003072108_twitter_com_JamFarewellSong_status_2106283394867110087.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -58323,7 +58338,7 @@
           "https://pbs.twimg.com/profile_images/2081195740932825088/jl5H_BPX_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-20T18:39:04"
+      "last_updated": "2026-10-20T18:39:44"
     },
     "20261004182141_twitter_com_JamFarewellSong_status_2106812014442254544.json": {
       "status": "done",
@@ -58340,7 +58355,7 @@
       "last_updated": "2026-10-20T18:30:32"
     },
     "20261005044023_twitter_com_JamFarewellSong_status_2106967714673963423.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -58349,10 +58364,10 @@
           "https://pbs.twimg.com/profile_images/2106254888477048833/K6ZigiuU_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-20T18:39:04"
+      "last_updated": "2026-10-20T18:39:44"
     },
     "20261005044031_twitter_com_JamFarewellSong_status_2106967748970688576.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -58361,10 +58376,10 @@
           "https://pbs.twimg.com/profile_images/2106254888477048833/K6ZigiuU_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-20T18:39:04"
+      "last_updated": "2026-10-20T18:39:44"
     },
     "20261005081506_twitter_com_JamFarewellSong_status_2107021748873171158.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -58373,10 +58388,10 @@
           "https://pbs.twimg.com/profile_images/2051644719114113024/K1IF1YEd_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-20T18:39:04"
+      "last_updated": "2026-10-20T18:39:44"
     },
     "20261005081548_twitter_com_JamFarewellSong_status_2107021924652167371.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -58385,7 +58400,7 @@
           "https://pbs.twimg.com/profile_images/2051644719114113024/K1IF1YEd_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-20T18:39:04"
+      "last_updated": "2026-10-20T18:39:44"
     },
     "20261008172249_twitter_com_JamFarewellSong_status_2108246751610331633.json": {
       "status": "done",
