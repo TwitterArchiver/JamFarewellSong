@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2107021748873171158",
+    "created_at": "2026-10-05T08:15:06.000Z",
+    "display_text_range": [
+      0,
+      62
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-05T09:15:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107021748873171158"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1240807227604078592",
+          "start": 3,
+          "username": "KagurazakaKyu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107021748873171158",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106877421886865703",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KagurazakaKyu: 平常玩玩N55梗也就算了，现实里谁被叫小姑娘不会开心半天🥰不会说一句谢谢你叫我小姑娘😼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2107021748873171158",
+        "created_at": "2026-10-05T08:15:06.000Z",
+        "display_text_range": [
+          0,
+          62
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T09:15:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107021748873171158"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1240807227604078592",
+              "start": 3,
+              "username": "KagurazakaKyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107021748873171158",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106877421886865703",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KagurazakaKyu: 平常玩玩N55梗也就算了，现实里谁被叫小姑娘不会开心半天🥰不会说一句谢谢你叫我小姑娘😼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1240807227604078592",
+        "conversation_id": "2106877421886865703",
+        "created_at": "2026-10-04T22:41:35.000Z",
+        "display_text_range": [
+          0,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T23:41:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106877421886865703"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/asaltfishes/st…",
+              "end": 67,
+              "expanded_url": "https://twitter.com/asaltfishes/status/2106768553051607337",
+              "start": 44,
+              "url": "https://t.co/N0TWkXaSZd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106877421886865703",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106768553051607337",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "平常玩玩N55梗也就算了，现实里谁被叫小姑娘不会开心半天🥰不会说一句谢谢你叫我小姑娘😼 https://t.co/N0TWkXaSZd"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX（断糖中）&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od&自伤新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2107021748873171158",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1907414826101669888/1775085260",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 614,
+          "following_count": 1822,
+          "like_count": 7468,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 1946
+        },
+        "url": "",
+        "username": "JamFarewellSong",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-03-20T01:08:07.000Z",
+        "description": "¹04年 21周岁大四学生  实习中\n｜\n²25.04.22含糖\n｜\n³超级社恐儿 长得丑 外貌焦虑 入睡困难\n  喜欢二次元 爱看动漫 爱听术力口 偶尔玩二游\n｜\n⁴无经济 手术无望 \n｜\n⁵现居住地：大连",
+        "id": "1240807227604078592",
+        "is_identity_verified": false,
+        "location": "玖爱→⁠玖奈",
+        "most_recent_tweet_id": "2106996225497268473",
+        "name": "神乐坂 玖奈",
+        "pinned_tweet_id": "1839120633751548369",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1240807227604078592/1777985165",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051644719114113024/K1IF1YEd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 243,
+          "following_count": 989,
+          "like_count": 2571,
+          "listed_count": 1,
+          "media_count": 81,
+          "tweet_count": 270
+        },
+        "url": "",
+        "username": "KagurazakaKyu",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

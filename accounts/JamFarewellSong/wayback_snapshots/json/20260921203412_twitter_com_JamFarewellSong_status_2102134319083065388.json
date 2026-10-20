@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2102134319083065388",
+    "created_at": "2026-09-21T20:34:12.000Z",
+    "display_text_range": [
+      0,
+      37
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T21:34:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102134319083065388"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1684269091849404416",
+          "start": 3,
+          "username": "1212s1212bs1242"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102134319083065388",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102093959447359582",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @1212s1212bs1242: 那么 六年精神病给你带来了什么呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2102134319083065388",
+        "created_at": "2026-09-21T20:34:12.000Z",
+        "display_text_range": [
+          0,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T21:34:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102134319083065388"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1684269091849404416",
+              "start": 3,
+              "username": "1212s1212bs1242"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102134319083065388",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102093959447359582",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @1212s1212bs1242: 那么 六年精神病给你带来了什么呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684269091849404416",
+        "conversation_id": "2102093959447359582",
+        "created_at": "2026-09-21T17:53:49.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T18:53:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102093959447359582"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/1212s1212bs124…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/1212s1212bs1242/status/2102053915047182677",
+              "start": 17,
+              "url": "https://t.co/Sz4lqUsU8v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102093959447359582",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 307,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102053915047182677",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "那么 六年精神病给你带来了什么呢 https://t.co/Sz4lqUsU8v"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX（断糖中）&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od&自伤新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102134319083065388",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1907414826101669888/1775085260",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 604,
+          "following_count": 1791,
+          "like_count": 7300,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 1874
+        },
+        "url": "",
+        "username": "JamFarewellSong",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-07-26T18:27:14.000Z",
+        "description": "4I/烟代",
+        "id": "1684269091849404416",
+        "is_identity_verified": false,
+        "location": "我爱你",
+        "most_recent_tweet_id": "2102093959447359582",
+        "name": "12",
+        "pinned_tweet_id": "2101701179524976916",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684269091849404416/1775462503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098702769708503040/JYBMlxoD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 869,
+          "following_count": 900,
+          "like_count": 17018,
+          "listed_count": 0,
+          "media_count": 1139,
+          "tweet_count": 10486
+        },
+        "url": "",
+        "username": "1212s1212bs1242",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

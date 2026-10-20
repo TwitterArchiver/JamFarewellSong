@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2046740770120470775",
+    "created_at": "2026-09-28T02:55:51.000Z",
+    "display_text_range": [
+      11,
+      56
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T03:55:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104404694378676590"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1339446920511569920",
+          "start": 0,
+          "username": "shudesu00"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104404694378676590",
+    "in_reply_to_user_id": "1339446920511569920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046740770120470775",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shudesu00 晚安😇…\n真遗憾啊，他者的真心是什么样的，我们或许永远也无法得知，这便是一种长久的苦痛了…"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2046740770120470775].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2046740770120470775",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2046740770120470775"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2046740770120470775",
+        "created_at": "2026-09-28T02:55:51.000Z",
+        "display_text_range": [
+          11,
+          56
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T03:55:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104404694378676590"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1339446920511569920",
+              "start": 0,
+              "username": "shudesu00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104404694378676590",
+        "in_reply_to_user_id": "1339446920511569920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046740770120470775",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shudesu00 晚安😇…\n真遗憾啊，他者的真心是什么样的，我们或许永远也无法得知，这便是一种长久的苦痛了…"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX（断糖中）&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od&自伤新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104404694378676590",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1907414826101669888/1775085260",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 614,
+          "following_count": 1813,
+          "like_count": 7452,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 1928
+        },
+        "url": "",
+        "username": "JamFarewellSong",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-12-17T05:46:58.000Z",
+        "description": "ftx__They/He/it_习惯性点赞_双相 不卖烟了买烟的别找我了",
+        "id": "1339446920511569920",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2045352462186651742",
+        "name": "小树",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1339446920511569920/1693624613",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044553228495564800/GccKMUIJ_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 4399,
+          "following_count": 2176,
+          "like_count": 110728,
+          "listed_count": 10,
+          "media_count": 1927,
+          "tweet_count": 19458
+        },
+        "url": "",
+        "username": "shudesu00",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

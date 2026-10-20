@@ -1,0 +1,338 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2107983822520463360",
+        "3_2107983830334439424"
+      ],
+      "media_source_tweet_id": [
+        "2107983836286169095",
+        "2107983836286169095"
+      ]
+    },
+    "author_id": "1907414826101669888",
+    "conversation_id": "2108246803594506673",
+    "created_at": "2026-10-08T17:23:01.000Z",
+    "display_text_range": [
+      0,
+      105
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-08T18:23:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2108246803594506673"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1906595429162299392",
+          "start": 3,
+          "username": "Dream_Shards"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/z3WZ4PFyWH",
+          "end": 105,
+          "expanded_url": "https://x.com/Dream_Shards/status/2107983836286169095/photo/1",
+          "media_key": "3_2107983822520463360",
+          "start": 82,
+          "url": "https://t.co/z3WZ4PFyWH"
+        },
+        {
+          "display_url": "pic.x.com/z3WZ4PFyWH",
+          "end": 105,
+          "expanded_url": "https://x.com/Dream_Shards/status/2107983836286169095/photo/1",
+          "media_key": "3_2107983830334439424",
+          "start": 82,
+          "url": "https://t.co/z3WZ4PFyWH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108246803594506673",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2107983822520463360"
+      },
+      {
+        "media_key": "3_2107983830334439424"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107983836286169095",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Dream_Shards: 1kfo纪念！感谢大家的陪伴w，谢谢大家愿意看我碎碎念，同时宣一下咱的小群（如果没人来咱就把这个帖子删了👉🏻👈🏻）仅限跨和友跨 https://t.co/z3WZ4PFyWH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2376,
+        "media_key": "3_2107983822520463360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUEQHjWaMAA8k0e.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2055,
+        "media_key": "3_2107983830334439424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUEQIAdaAAA_mz_.jpg",
+        "width": 1156
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2107983822520463360",
+            "3_2107983830334439424"
+          ],
+          "media_source_tweet_id": [
+            "2107983836286169095",
+            "2107983836286169095"
+          ]
+        },
+        "author_id": "1907414826101669888",
+        "conversation_id": "2108246803594506673",
+        "created_at": "2026-10-08T17:23:01.000Z",
+        "display_text_range": [
+          0,
+          105
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-08T18:23:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108246803594506673"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1906595429162299392",
+              "start": 3,
+              "username": "Dream_Shards"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/z3WZ4PFyWH",
+              "end": 105,
+              "expanded_url": "https://x.com/Dream_Shards/status/2107983836286169095/photo/1",
+              "media_key": "3_2107983822520463360",
+              "start": 82,
+              "url": "https://t.co/z3WZ4PFyWH"
+            },
+            {
+              "display_url": "pic.x.com/z3WZ4PFyWH",
+              "end": 105,
+              "expanded_url": "https://x.com/Dream_Shards/status/2107983836286169095/photo/1",
+              "media_key": "3_2107983830334439424",
+              "start": 82,
+              "url": "https://t.co/z3WZ4PFyWH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108246803594506673",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2107983822520463360"
+          },
+          {
+            "media_key": "3_2107983830334439424"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107983836286169095",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Dream_Shards: 1kfo纪念！感谢大家的陪伴w，谢谢大家愿意看我碎碎念，同时宣一下咱的小群（如果没人来咱就把这个帖子删了👉🏻👈🏻）仅限跨和友跨 https://t.co/z3WZ4PFyWH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2107983822520463360",
+            "3_2107983830334439424"
+          ]
+        },
+        "author_id": "1906595429162299392",
+        "conversation_id": "2107983836286169095",
+        "created_at": "2026-10-07T23:58:05.000Z",
+        "display_text_range": [
+          0,
+          63
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-08T00:58:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107983836286169095"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/z3WZ4PFyWH",
+              "end": 87,
+              "expanded_url": "https://x.com/Dream_Shards/status/2107983836286169095/photo/1",
+              "media_key": "3_2107983822520463360",
+              "start": 64,
+              "url": "https://t.co/z3WZ4PFyWH"
+            },
+            {
+              "display_url": "pic.x.com/z3WZ4PFyWH",
+              "end": 87,
+              "expanded_url": "https://x.com/Dream_Shards/status/2107983836286169095/photo/1",
+              "media_key": "3_2107983830334439424",
+              "start": 64,
+              "url": "https://t.co/z3WZ4PFyWH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107983836286169095",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2107983822520463360"
+          },
+          {
+            "media_key": "3_2107983830334439424"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2225,
+          "like_count": 39,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "1kfo纪念！感谢大家的陪伴w，谢谢大家愿意看我碎碎念，同时宣一下咱的小群（如果没人来咱就把这个帖子删了👉🏻👈🏻）仅限跨和友跨 https://t.co/z3WZ4PFyWH"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX（断糖中）&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od&自伤新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2108246803594506673",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1907414826101669888/1775085260",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 617,
+          "following_count": 1822,
+          "like_count": 7460,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 1948
+        },
+        "url": "",
+        "username": "JamFarewellSong",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-03-31T06:32:41.000Z",
+        "description": "小证含糖hrt：26.2.18/家暴党/非资深oder\n想聊天倾诉想被抱抱都可以来找我喵♡\n努力和原生家庭断绝所有关系\n地雷系重力系警告\n爱人：@zhangxiaofu673\n最好的朋友：@XiaZeXR0430",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 72,
+                "username": "zhangxiaofu673"
+              },
+              {
+                "end": 106,
+                "start": 94,
+                "username": "XiaZeXR0430"
+              }
+            ]
+          }
+        },
+        "id": "1906595429162299392",
+        "is_identity_verified": false,
+        "location": "距离你3.2km",
+        "most_recent_tweet_id": "2108167765685321976",
+        "name": "碎梦🍥",
+        "pinned_tweet_id": "2086449038396891142",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1906595429162299392/1756599804",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076395214382751744/kfcEO0Lf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1023,
+          "following_count": 815,
+          "like_count": 2351,
+          "listed_count": 1,
+          "media_count": 65,
+          "tweet_count": 1269
+        },
+        "url": "",
+        "username": "Dream_Shards",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

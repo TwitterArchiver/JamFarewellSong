@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2106281113656406355",
+    "created_at": "2026-10-03T07:12:04.000Z",
+    "display_text_range": [
+      0,
+      121
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T08:12:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106281113656406355"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2025931057099649024",
+          "start": 3,
+          "username": "yuanyemian"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106281113656406355",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029047787497914459",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yuanyemian: 我当时哭到发懵，他说了什么都忘记了，可能是你想走你就走啊，我说我们留着好友好不好，他说都分开了为什么要留，我心如刀绞，哈哈，他不会理解我的，他可能恨我吗？我希望他忘了我，我死了可以为我掉一滴眼泪吗，就这样的感情"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2106281113656406355",
+        "created_at": "2026-10-03T07:12:04.000Z",
+        "display_text_range": [
+          0,
+          121
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T08:12:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106281113656406355"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2025931057099649024",
+              "start": 3,
+              "username": "yuanyemian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106281113656406355",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029047787497914459",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yuanyemian: 我当时哭到发懵，他说了什么都忘记了，可能是你想走你就走啊，我说我们留着好友好不好，他说都分开了为什么要留，我心如刀绞，哈哈，他不会理解我的，他可能恨我吗？我希望他忘了我，我死了可以为我掉一滴眼泪吗，就这样的感情"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025931057099649024",
+        "conversation_id": "2029047787497914459",
+        "created_at": "2026-03-04T04:14:25.000Z",
+        "display_text_range": [
+          0,
+          105
+        ],
+        "edit_controls": {
+          "editable_until": "2026-03-04T05:14:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029047787497914459"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2029047787497914459",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 9056,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 65,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我当时哭到发懵，他说了什么都忘记了，可能是你想走你就走啊，我说我们留着好友好不好，他说都分开了为什么要留，我心如刀绞，哈哈，他不会理解我的，他可能恨我吗？我希望他忘了我，我死了可以为我掉一滴眼泪吗，就这样的感情"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX（断糖中）&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od&自伤新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106281113656406355",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1907414826101669888/1775085260",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 616,
+          "following_count": 1820,
+          "like_count": 7460,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 1932
+        },
+        "url": "",
+        "username": "JamFarewellSong",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-23T13:49:44.000Z",
+        "description": "关注列表第一个是大号 这个号是 废片小号 我图太多了，",
+        "id": "2025931057099649024",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2029126436133716377",
+        "name": "hurt",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2025931057099649024/1771854816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028157723045666816/XZRVS4jH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1687,
+          "following_count": 3,
+          "like_count": 3,
+          "listed_count": 2,
+          "media_count": 35,
+          "tweet_count": 47
+        },
+        "url": "",
+        "username": "yuanyemian",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

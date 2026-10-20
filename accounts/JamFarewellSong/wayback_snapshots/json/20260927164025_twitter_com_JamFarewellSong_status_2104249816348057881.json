@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1907414826101669888",
+    "conversation_id": "2104249816348057881",
+    "created_at": "2026-09-27T16:40:25.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T17:40:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104249816348057881"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1907031442103943168",
+          "start": 3,
+          "username": "hoshinemu123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104249816348057881",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104115449793515733",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hoshinemu123: 伦理时候可能会有很尖锐甚至冒昧的问题。\n比如：既然你讨厌男性生殖器，为什么不直接切了，还要造个女性生殖器？\n伦理委员还会观察你的精神状态。\n你可以把这个想象成论文答辩，现场基本是一样的。\n其实在SRS伦理开始前，他们进行的就是研究项目的开题答…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907414826101669888",
+        "conversation_id": "2104249816348057881",
+        "created_at": "2026-09-27T16:40:25.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T17:40:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104249816348057881"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1907031442103943168",
+              "start": 3,
+              "username": "hoshinemu123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104249816348057881",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104115449793515733",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hoshinemu123: 伦理时候可能会有很尖锐甚至冒昧的问题。\n比如：既然你讨厌男性生殖器，为什么不直接切了，还要造个女性生殖器？\n伦理委员还会观察你的精神状态。\n你可以把这个想象成论文答辩，现场基本是一样的。\n其实在SRS伦理开始前，他们进行的就是研究项目的开题答…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907031442103943168",
+        "conversation_id": "2104115449793515733",
+        "created_at": "2026-09-27T07:46:30.000Z",
+        "display_text_range": [
+          0,
+          137
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T08:46:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104115449793515733"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hoshinemu123/s…",
+              "end": 161,
+              "expanded_url": "https://twitter.com/hoshinemu123/status/2104058582107111809",
+              "start": 138,
+              "url": "https://t.co/gsR1DmtaTc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104115449793515733",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "伦理时候可能会有很尖锐甚至冒昧的问题。\n比如：既然你讨厌男性生殖器，为什么不直接切了，还要造个女性生殖器？\n伦理委员还会观察你的精神状态。\n你可以把这个想象成论文答辩，现场基本是一样的。\n其实在SRS伦理开始前，他们进行的就是研究项目的开题答辩。全院项目+SRS是一起开的。\n（当初毕业论文答辩时候，有评委问我“怎么证明这东西是我自己做的”。）"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 17649,
+          "like_count": 122,
+          "quote_count": 4,
+          "reply_count": 29,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104058582107111809",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "伦理时候可能会有很尖锐甚至冒昧的问题。\n比如：既然你讨厌男性生殖器，为什么不直接切了，还要造个女性生殖器？\n伦理委员还会观察你的精神状态。\n你可以把这个想象成论文答辩，现场基本是一样的。\n其实在SRS伦理开始前，他们进行的就是研究项目的开题答辩。全院项目+SRS是一起开的。 https://t.co/gsR1DmtaTc"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX（断糖中）&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od&自伤新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104249816348057881",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1907414826101669888/1775085260",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 613,
+          "following_count": 1808,
+          "like_count": 7418,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 1910
+        },
+        "url": "",
+        "username": "JamFarewellSong",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-04-01T11:25:12.000Z",
+        "description": "梦想是成为女侠客。\n“我曾淋我来时雪，亦将长歌去时晖……”\n星眠的生活号，不定期推音乐＆美术作品。可以问我虚拟歌姬与音乐制作相关的事情，这方面我了解的比较多。古风狂热爱好者，音乐策划&末流词作，汉服袍子。隐居宣州，长三角随机出没。没更新推文是因为我现实里活得很好。\n头像画师：飞鸟壹号机；主页头图：Z6",
+        "id": "1907031442103943168",
+        "is_identity_verified": false,
+        "location": "修仙界",
+        "most_recent_tweet_id": "2104247159881335247",
+        "name": "星眠子",
+        "pinned_tweet_id": "2103698817036243164",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1907031442103943168/1744992762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907031660929118208/sNlrsVC3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4613,
+          "following_count": 3311,
+          "like_count": 4379,
+          "listed_count": 8,
+          "media_count": 1050,
+          "tweet_count": 11299
+        },
+        "url": "",
+        "username": "hoshinemu123",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
